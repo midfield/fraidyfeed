@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-siteTitle: "fraidyfeed"
+siteTitle: "fraidymid"
 cacheUrl: https://midfield.github.io/fraidyfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
