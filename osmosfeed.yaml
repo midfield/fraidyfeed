@@ -69,7 +69,7 @@ sources:
   - href: http://distill.pub/rss.xml
   - href: http://zettelkasten.de/feed.atom
   - href: https://writingcooperative.com/feed
-  - href: https://www.lesswrong.com/feed.xml
+#  - href: https://www.lesswrong.com/feed.xml   # this demands a user-agent
   - href: https://darrenjw.wordpress.com/feed/
   - href: https://nitter.net/andrewgwils/rss
 #  - href: https://www.reddit.com/r/MealPrepSunday/
