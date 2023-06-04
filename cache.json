@@ -50,16 +50,6 @@
           "wordCount": 3875,
           "title": "Brief Update on Texan Tenure",
           "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=7278",
-          "author": "Scott",
-          "description": "The major developments in human history are always steeped in dark ironies. Yes, that’s my Law of Dark Irony, the whole thing. I don’t know why it’s true, but it certainly seems to be. Taking WWII as the archetypal example, let’s enumerate just the more obvious ones: When I think about the scenarios where superintelligent […]",
-          "link": "https://scottaaronson.blog/?p=7278",
-          "publishedOn": "2023-05-05T02:27:52.000Z",
-          "wordCount": 12305,
-          "title": "AI and Aaronson’s Law of Dark Irony",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
         }
       ]
     },
@@ -97,16 +87,6 @@
           "wordCount": 3946,
           "title": "Symmetric Spaces and the Tenfold Way",
           "imageUrl": null
-        },
-        {
-          "id": "https://golem.ph.utexas.edu/category/2023/05/categories_for_epidemiology.html",
-          "author": null,
-          "description": "Software for modeling the spread of disease... with the help of category theory!",
-          "link": "https://golem.ph.utexas.edu/category/2023/05/categories_for_epidemiology.html",
-          "publishedOn": "2023-05-05T10:55:34.000Z",
-          "wordCount": 1484,
-          "title": "Categories for Epidemiology",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +122,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48567",
+          "author": "Andrew",
+          "description": "Russ Lyons points us to this disturbing article by Brett Murphy, “They Called 911 for Help. Police and Prosecutors Used a New Junk Science to Decide They Were Liars.” Here’s how the story goes: Tracy Harpster, a deputy police chief … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/03/junk-science-its-not-just-for-ted-talks-npr-features-and-airport-bestsellers-it-can-also-ruin-peoples-lives/",
+          "publishedOn": "2023-06-03T13:42:05.000Z",
+          "wordCount": 3139,
+          "title": "Junk science:  It’s not just for Ted talks, NPR features, and airport bestsellers.  It can also ruin people’s lives.",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=48570",
           "author": "Andrew",
@@ -510,26 +500,6 @@
           "publishedOn": "2023-05-05T13:25:09.000Z",
           "wordCount": 6618,
           "title": "These corruption statistics are literally incredible!  (Every political science student should read this article.)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49062",
-          "author": "Jessica Hullman",
-          "description": "This is Jessica. I previously blogged about conformal prediction, an approach to getting prediction sets that are guaranteed on average to achieve at least some user-defined coverage level (e.g., 95%). If it’s a classification problem, the prediction sets are comprised … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/",
-          "publishedOn": "2023-05-04T16:54:44.000Z",
-          "wordCount": 4398,
-          "title": "Using predictions from arbitrary models to get tighter confidence intervals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49060",
-          "author": "Andrew",
-          "description": "In our discussion of the statistician Carl Morris, Phil pointed to an interview of Morris by Jim Albert from 2014 which contained this passage: In the spring of 1970, some years after our Stanford graduations, we talked one evening outside … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/04/when-did-the-use-of-stylized-data-examples-become-standard-practice-in-statistical-research-and-teaching/",
-          "publishedOn": "2023-05-04T13:16:18.000Z",
-          "wordCount": 5957,
-          "title": "When did the use of stylized data examples become standard practice in statistical research and teaching?",
           "imageUrl": null
         }
       ]
@@ -1631,16 +1601,6 @@
           "publishedOn": "2023-05-05T18:00:51.000Z",
           "wordCount": 576,
           "title": "Bank Stocks Look Worse Than Banks Do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bloomberg.com/opinion/articles/2023-05-04/nobody-trusts-the-banks-now",
-          "author": "Matt Levine",
-          "description": "The Fed’s SVB report, Goldman’s SVB dealings, PacWest, Western Alliance, First Horizon and stock buyback rules.",
-          "link": "https://www.bloomberg.com/opinion/articles/2023-05-04/nobody-trusts-the-banks-now",
-          "publishedOn": "2023-05-04T17:24:32.000Z",
-          "wordCount": 576,
-          "title": "Nobody Trusts the Banks Now",
           "imageUrl": null
         }
       ]
@@ -3535,6 +3495,17 @@
       "feedUrl": "http://rss.sciam.com/ScientificAmerican-Global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "03BBA9B4-7CED-4BC1-83C6989CEE14BEF7",
+          "author": "Allison Parshall",
+          "description": "Chernobyl’s adaptable canines, sewage sea spray in the U.S., hibernating germs on Everest, and much more in this month’s Quick Hits",
+          "link": "https://www.scientificamerican.com/article/science-news-briefs-from-around-the-world-june-2023/",
+          "publishedOn": "2023-06-03T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Science News Briefs from around the World: June 2023",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "2FDB4B38-6373-4BE3-8107F186E2266C88",
           "author": "Emily Waltz, Nature magazine",
@@ -5693,18 +5664,7 @@
       "title": "MADE IN AMERICA",
       "feedUrl": "https://madeinamericathebook.wordpress.com/feed/",
       "siteUrl": "https://madeinamericathebook.wordpress.com",
-      "articles": [
-        {
-          "id": "http://madeinamericathebook.wordpress.com/?p=7795",
-          "author": "Claude Fischer",
-          "description": "Close reading of K-12 history textbooks has suddenly become popular among adults (not so much among students). This is surprising given how bored most American adults were in their history classes and given Americans’ focus on the immediate present. (“The only history that is worth a tinker’s damn is the history we make today,” said […]",
-          "link": "https://madeinamericathebook.wordpress.com/2023/05/04/how-we-know-that-slavery-caused-the-civil-war-and-race-didnt/",
-          "publishedOn": "2023-05-04T13:13:57.000Z",
-          "wordCount": 5041,
-          "title": "How We Know that Slavery Caused the Civil War (and Race Didn’t)",
-          "imageUrl": "https://madeinamericathebook.files.wordpress.com/2023/05/slave-pen.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "BLS-Labor Statistics / @BLS_gov",
@@ -6806,18 +6766,7 @@
       "title": "Biased and Inefficient",
       "feedUrl": "https://notstatschat.rbind.io/index.xml",
       "siteUrl": "http://notstatschat.netlify.com/",
-      "articles": [
-        {
-          "id": "http://notstatschat.netlify.com/2023/05/05/pairwise-likelihood-and-cluster-sizes/",
-          "author": null,
-          "description": "So, I’m working on svylme again, for linear mixed models under complex sampling. It uses pairwise likelihood, following the basic idea from the Canadians, but extending it to settings where the design structure and model structure are different.\nIt’s always hard finding examples to check against when you’re doing something new. After getting quite reasonable results from simulations, I tried an example from the lme4qtl package, which is a subset of a dataset on milk production by dairy cows.",
-          "link": "http://notstatschat.netlify.com/2023/05/05/pairwise-likelihood-and-cluster-sizes/",
-          "publishedOn": "2023-05-05T00:00:00.000Z",
-          "wordCount": 1156,
-          "title": "Pairwise likelihood and cluster sizes",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Stats Chat",
@@ -7064,6 +7013,36 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/dd88f9f3672b",
+          "author": "Kimberly Shyu",
+          "description": "Prepare for the exciting world of pitching agents, where you’ll boost your adrenaline and get real-time feedback (unlike querying).\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/how-to-pitch-a-literary-agent-dd88f9f3672b?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-03T21:01:42.000Z",
+          "wordCount": 4870,
+          "title": "How to Pitch a Literary Agent",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*SdspDT52Ikj7aGAh"
+        },
+        {
+          "id": "https://medium.com/p/9f0830f30dd",
+          "author": "Cole Haddon",
+          "description": "The writer-director with a journalist’s heart discusses telling true stories and Hollywood’s power to change the world\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/q-a-with-billy-ray-the-oscar-nominated-filmmaker-on-how-donald-trump-changed-how-he-makes-art-9f0830f30dd?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-03T17:01:45.000Z",
+          "wordCount": 7429,
+          "title": "Q&A with Billy Ray: The Oscar-Nominated Filmmaker on How Donald Trump Changed How He Makes Art",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1086/0*6OWQSxhPdFJjvoSN.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/2af3f6bae6d1",
+          "author": "Maclean Tamanda Mbepula",
+          "description": "Maybe your story is just ahead of its time.\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/maybe-your-story-isnt-crap-2af3f6bae6d1?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-03T13:01:47.000Z",
+          "wordCount": 3430,
+          "title": "Maybe Your Story isn’t Crap?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZlBsVd7P6NcZCsgn4ul3pA.jpeg"
+        },
         {
           "id": "https://medium.com/p/6ff36faa4c7b",
           "author": "Steven Toews, JD, MBA",
@@ -7481,6 +7460,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53153",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/06/04/the-beacon-jatp/",
+          "publishedOn": "2023-06-03T22:23:04.000Z",
+          "wordCount": 1706,
+          "title": "The Beacon [jatp]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/kaust.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53169",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -7656,16 +7645,6 @@
           "wordCount": 2050,
           "title": "Cold-Resistant Trees",
           "imageUrl": "http://math.ucr.edu/home/baez/ecological/appalachian_map.png"
-        },
-        {
-          "id": "http://johncarlosbaez.wordpress.com/?p=34652",
-          "author": "John Baez",
-          "description": "Xiaoyan Li, Sophie Libkind, Nathaniel D. Osgood, Eric Redekopp and I have been creating software for modeling the spread of disease… with the help of category theory! Lots of epidemiologists use “stock-flow diagrams” to describe ordinary differential equation (ODE) models of disease dynamics. We’ve created two tools to help them. The first, called StockFlow.jl, is […]",
-          "link": "https://johncarlosbaez.wordpress.com/2023/05/04/compositional-epidemiology/",
-          "publishedOn": "2023-05-04T23:29:23.000Z",
-          "wordCount": 3098,
-          "title": "Categories for Epidemiology",
-          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2023/05/stock-flow_diagram_without_caption.jpg"
         }
       ]
     },
@@ -7692,6 +7671,22 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "https://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/p/gender-and-status",
+          "author": "Robin Hanson",
+          "description": "Louise Perry, author of “The Case Against the Sexual Revolution”, responds to Bryan Caplan’s book “Don’t be a feminist”. Perry summarizes Caplan well here I think: Caplan offers an elegant alternative, one that he believes actually describes the meat of what twenty-first century Western feminism is all about: “the view that society generally treats men more fairly than women.” It’s a good definition in the sense that it identifies a point of disagreement between (at least some) feminists and (at least some) non-feminists. …",
+          "link": "https://www.overcomingbias.com/p/gender-and-status",
+          "publishedOn": "2023-06-03T21:13:32.000Z",
+          "wordCount": null,
+          "title": "Gender And Status",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/514f2d44-6000-4c05-a770-3554b6811580_233x423.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/514f2d44-6000-4c05-a770-3554b6811580_233x423.jpeg"
+        },
         {
           "id": "https://www.overcomingbias.com/p/is-discrimination-about-inequality",
           "author": "Robin Hanson",
@@ -9872,51 +9867,6 @@
             "url": "https://www.seriouseats.com/thmb/2SgvD4y2FJOpa2GqJ_0tOwOYg-c=/4000x2667/oonivoltwinnerbadge-4f333177fb494e099ed3b40e98b903e8.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/2SgvD4y2FJOpa2GqJ_0tOwOYg-c=/4000x2667/oonivoltwinnerbadge-4f333177fb494e099ed3b40e98b903e8.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-stainless-steel-cookware-sets-7483329",
-          "author": "Taylor Murray",
-          "description": "We tested 18 (mostly) stainless steel cookware sets to discover which were worth the splurge.",
-          "link": "https://www.seriouseats.com/best-stainless-steel-cookware-sets-7483329",
-          "publishedOn": "2023-05-04T20:04:34.000Z",
-          "wordCount": null,
-          "title": "We Tested 18 Cookware Sets–Here Are 3 We Think Are Actually Worth Buying",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/RSLG1gmqJLtPKSrI93MdnoUy5-8=/5000x3333/sea-primary-stainless-cookware-sets-rkilgore-01-3cce6c1b6acc44dca80702978513ca8e.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/RSLG1gmqJLtPKSrI93MdnoUy5-8=/5000x3333/sea-primary-stainless-cookware-sets-rkilgore-01-3cce6c1b6acc44dca80702978513ca8e.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-portable-charcoal-grills-7486577",
-          "author": "Summer Rylander",
-          "description": "We tested portable charcoal grills, evaluating how easy each was to assemble and how well they cooked.",
-          "link": "https://www.seriouseats.com/best-portable-charcoal-grills-7486577",
-          "publishedOn": "2023-05-04T16:46:50.000Z",
-          "wordCount": null,
-          "title": "The Best Portable Charcoal Grills for Every Budget, According to Our Tests",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/TmQtleGbHWE2ysHg0nWRgCLeLOE=/4000x2668/Web_4000-sea-primary-portable-charcoal-grills-nsimpson-2227-ee31f312c5514ee39e1428a740d7466a.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/TmQtleGbHWE2ysHg0nWRgCLeLOE=/4000x2668/Web_4000-sea-primary-portable-charcoal-grills-nsimpson-2227-ee31f312c5514ee39e1428a740d7466a.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/why-we-love-the-solo-stove-bonfire-7485850",
-          "author": "Jesse Raub",
-          "description": "Paired with the grill top and hub, you can use a Solo Stove to grill and sear, or you can just use it to keep guests warm while they wait for dinner.",
-          "link": "https://www.seriouseats.com/why-we-love-the-solo-stove-bonfire-7485850",
-          "publishedOn": "2023-05-04T13:22:32.000Z",
-          "wordCount": null,
-          "title": "We Loved Live-Fire Cooking on the Solo Stove Bonfire—and Now It's 35% Off",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/qkHPxWZNy86xQtPLpzwyjVfTb2s=/4592x3448/closeupofsausagesonionsandpeppers-919a096bb40541dfa47fb679d0087bd2.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/qkHPxWZNy86xQtPLpzwyjVfTb2s=/4592x3448/closeupofsausagesonionsandpeppers-919a096bb40541dfa47fb679d0087bd2.jpg"
         }
       ]
     },
@@ -10519,6 +10469,16 @@
       "siteUrl": "https://retractionwatch.com",
       "articles": [
         {
+          "id": "https://retractionwatch.com/?p=127232",
+          "author": "Ivan Oransky",
+          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to more than 300. There are now 40,000 retractions in our database — which powers retraction alerts in EndNote, LibKey, Papers, and Zotero. The Retraction Watch Hijacked Journal Checker now contains 200 titles. And have you … Continue reading Weekend reads: How university rankings lead to bad science; how to report research misconduct; the impact of Retraction Watch reporting",
+          "link": "https://retractionwatch.com/2023/06/03/weekend-reads-how-university-rankings-lead-to-bad-science-how-to-report-research-misconduct-the-impact-of-retraction-watch-reporting/",
+          "publishedOn": "2023-06-03T11:00:00.000Z",
+          "wordCount": 2187,
+          "title": "Weekend reads: How university rankings lead to bad science; how to report research misconduct; the impact of Retraction Watch reporting",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2021/07/rw.jpeg"
+        },
+        {
           "id": "https://retractionwatch.com/?p=127224",
           "author": "Frederik Joelving",
           "description": "Two orthopedic surgeons in Turkey will not attain tenured professorships following alleged research misconduct that, so far, has also cost them a pair of publications, Retraction Watch has learned.  Mehmet Faruk Çatma and Serhan Ünlü are among the authors of a paper about hip-replacement surgery that was published in 2016 in International Orthopedics and retracted … Continue reading Exclusive: Alleged research misconduct cost Turkish surgeons tenure",
@@ -10655,6 +10615,46 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86040",
+          "author": "Tyler Cowen",
+          "description": "But Ben Southwood has convinced me that France is rich because it gets the big things basically right. Housing supply there is freer: the overall geographic extent of Paris’s metropolitan area roughly tripled between 1945 and today, whereas London’s has grown only a few percent. Infrastructure is better: 29 French cities have trams, versus 11 […]\n\r\nThe post Sam Bowman on French success appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nYou can sum up the difference between France and Britain much ... by Casey\nIn reply to dan1111.   London’s housing affordability is ... by Ben\nIn reply to rayward.   Spending 20% of our GDP on healthcare vs ... by Fazal Majid\nIn reply to Rami.   That’s just because the definition of ... by Fazal Majid\nIn reply to Slocum.   Slocum wrote:   >”Fair enough — a ... by vmsmith\nPlus 10 more...\n\nRelated Stories\n\nOrwell Against Progress\nOrwell’s Falsified Prediction on Empire\nAcemoglu on the Turkish polity and economy",
+          "link": "https://feeds.feedblitz.com/~/744129842/0/marginalrevolution~Sam-Bowman-on-French-success.html",
+          "publishedOn": "2023-06-03T18:42:55.000Z",
+          "wordCount": 1909,
+          "title": "Sam Bowman on French success",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86028",
+          "author": "Tyler Cowen",
+          "description": "1. Johnny Cash and Josef Stalin. 2. Noah Smith’s current take on libertarianism. 3. New Larry Summers talk on fiscal policy. 4. The business of giving private concerts to rich people (New Yorker). 5. Amitai Etzioni, RIP (NYT). 6. Japan patent fact of the day.  Yikes. 7. Kaija Saariaho, RIP (NYT). 8. Legal bank stablecoins […]\n\r\nThe post Saturday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Dismalist.   I don’t know about policy influence, ... by gVOR08\nIn reply to Dismalist.   Bush famously attempted to privatize ... by Sure\nIn reply to Michael Thomas.   When an upper age limit is put on ... by The world will have gotten serious about aging\nIn reply to MikeP.   On March 5th, 1953, while on duty, Staff ... by RAD\nstill underrated   cornpoops biden running for re-election is ... by community notes\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/744118526/0/marginalrevolution~Saturday-assorted-links.html",
+          "publishedOn": "2023-06-03T16:52:24.000Z",
+          "wordCount": 1811,
+          "title": "Saturday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86012",
+          "author": "Tyler Cowen",
+          "description": "Goods producers increase their capital expenditure and employment in response to a cut in marginal corporate income tax rates or an increase in investment tax credits. In contrast, companies in the service sector mostly use any tax windfall to increase dividend payouts. We base our conclusions on a novel measure of U.S. firm-specific tax shocks […]\n\r\nThe post Who gains from corporate tax cuts? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Alamo.   If the choice were to eliminate corporate ... by Vulcidian\nIn reply to Vulcidian.   Dubious claims – the corporate tax ... by Alamo\nIn reply to Dorey.   Because there are better – more ... by Alamo\nIn reply to Rich Berger.   I think this is misleading.   A big ... by aaron\nIn reply to Rich Berger.   One wonders whether CBO models ... by guizot\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/744065837/0/marginalrevolution~Who-gains-from-corporate-tax-cuts.html",
+          "publishedOn": "2023-06-03T08:21:13.000Z",
+          "wordCount": 1851,
+          "title": "Who gains from corporate tax cuts?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86036",
+          "author": "Tyler Cowen",
+          "description": "I agree that miracles may well be possible for disabled individuals, but I am less certain about their more general applicability.  Here is one excerpt from my latest Bloomberg column: Another vision for this technology is that the owners of computers will want to “rent out” the powers of human brains, much the way companies […]\n\r\nThe post Why I am not entirely bullish on brain-computer interface appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nJeeze, this is off the mark. When we have stable, safe Brain ... by Reason\nIn reply to M. ... by M\nIn reply to Dino the Isaurian.   Unionisation, unfortunately. by M\nIn reply to M.   I’d have more faith in the viability of ... by Dino the Isaurian\nIn reply to M.   Sisyphus the autonomous car builder. That's ... by rayward\nPlus 10 more...\n\nRelated Stories\n\nTwo Podcasts\nSam Bowman on French success\nThe international competition heats up",
+          "link": "https://feeds.feedblitz.com/~/744050675/0/marginalrevolution~Why-I-am-not-entirely-bullish-on-braincomputer-interface.html",
+          "publishedOn": "2023-06-03T04:58:57.000Z",
+          "wordCount": 2104,
+          "title": "Why I am not entirely bullish on brain-computer interface",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86025",
           "author": "Tyler Cowen",
@@ -10979,6 +10979,16 @@
       "feedUrl": "https://golem.ph.utexas.edu/~distler/planet/atom.xml",
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
+        {
+          "id": "https://www.science20.com/tommaso_dorigo/a_w_a_z_and_a_top_quark-256648",
+          "author": null,
+          "description": "<div type=\"xhtml\"><div xmlns=\"http://www.w3.org/1999/xhtml\">The world of elementary particles has something in common with our own: there are large inequalities in the properties of particles, as in the properties of human beings. The heaviest particle, the top quark, with its estimated mass of 172 GeV is five orders of magnitude heavier than the most common matter constituents, the up and down quarks and the electron. Along with the top quark there are three other heavyweight particles that we currently call elementary -perhaps only a label we have to use because we haven't been able to split them further into smaller bits: the Higgs boson (125 GeV), the Z boson (91 GeV), and the W boson (80 GeV).<p><a href=\"https://www.science20.com/tommaso_dorigo/a_w_a_z_and_a_top_quark-256648\" target=\"_blank\">read more</a></p></div></div>",
+          "link": "https://www.science20.com/tommaso_dorigo/a_w_a_z_and_a_top_quark-256648",
+          "publishedOn": "2023-06-03T06:58:57.000Z",
+          "wordCount": 1546,
+          "title": "A W, A Z, And A Top Quark",
+          "imageUrl": null
+        },
         {
           "id": "https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/",
           "author": null,
@@ -11338,36 +11348,6 @@
           "wordCount": 3116,
           "title": "Bottlenecks, Known and Unknown",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://golem.ph.utexas.edu/category/2023/05/categories_for_epidemiology.html",
-          "author": null,
-          "description": "Software for modeling the spread of disease... with the help of category theory!",
-          "link": "https://golem.ph.utexas.edu/category/2023/05/categories_for_epidemiology.html",
-          "publishedOn": "2023-05-05T10:55:34.000Z",
-          "wordCount": 1484,
-          "title": "Categories for Epidemiology",
-          "imageUrl": null
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=7278",
-          "author": null,
-          "description": "The major developments in human history are always steeped in dark ironies. Yes, that’s my Law of Dark Irony, the whole thing. I don’t know why it’s true, but it certainly seems to be. Taking WWII as the archetypal example, let’s enumerate just the more obvious ones: When I think about the scenarios where superintelligent […]",
-          "link": "https://scottaaronson.blog/?p=7278",
-          "publishedOn": "2023-05-05T02:27:52.000Z",
-          "wordCount": 12305,
-          "title": "AI and Aaronson’s Law of Dark Irony",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        },
-        {
-          "id": "https://johncarlosbaez.wordpress.com/2023/05/04/compositional-epidemiology/",
-          "author": null,
-          "description": "Xiaoyan Li, Sophie Libkind, Nathaniel D. Osgood, Eric Redekopp and I have been creating software for modeling the spread of disease… with the help of category theory! Lots of epidemiologists use “stock-flow diagrams” to describe ordinary differential equation (ODE) models of disease dynamics. We’ve created two tools to help them. The first, called StockFlow.jl, is […]",
-          "link": "https://johncarlosbaez.wordpress.com/2023/05/04/compositional-epidemiology/",
-          "publishedOn": "2023-05-04T23:29:23.000Z",
-          "wordCount": 3098,
-          "title": "Categories for Epidemiology",
-          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2023/05/stock-flow_diagram_without_caption.jpg"
         }
       ]
     },
@@ -12698,6 +12678,36 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58921",
+          "author": "Victor Mair",
+          "description": "New old news: \"Dev Shah wins 2023 Scripps National Spelling Bee by correctly spelling 'psammophile'\"Chris BumbacaUSA TODAY (6/1/23) Another year, same story: The 2023 Scripps National Spelling Bee ended the old-fashioned way. Two competitors left on the stage. No spell-off required. Dev Shah, an eighth-grader from Largo, Florida, spelled \"psammophile\" correctly to win the 95th […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58921&utm_source=rss&utm_medium=rss&utm_campaign=dog-bites-man-indian-wins-spelling-bee",
+          "publishedOn": "2023-06-03T20:25:55.000Z",
+          "wordCount": 2800,
+          "title": "Dog bites man:  Indian wins spelling bee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58876",
+          "author": "Mark Liberman",
+          "description": "The question of how to pronounce Ron DeSantis' last name — and the observation that the candidate, his wife, and his campaign have made different choices at different times — is among the more trivial bits of political flotsam recently washing up on the shores of social and political media. In fact the issue has […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58876&utm_source=rss&utm_medium=rss&utm_campaign=pronouncing-desantis",
+          "publishedOn": "2023-06-03T14:21:21.000Z",
+          "wordCount": 4170,
+          "title": "Pronouncing \"DeSantis\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58874",
+          "author": "Victor Mair",
+          "description": "I recently received this book: Sūn Sīmiǎo, Sabine Wilms.  Healing Virtue-Power: Medical Ethics and the Doctor's Dao.  Whidbey Island WA:  Happy Goat Productions, 2022. ISBN:  978-1-7321571-9-4 website As soon as I started to leaf through the volume, I was struck by its unusual format and usages:  every Chinese character is accompanied by Hanyu Pinyin phonetic […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58874&utm_source=rss&utm_medium=rss&utm_campaign=sinological-formatting",
+          "publishedOn": "2023-06-03T12:02:31.000Z",
+          "wordCount": 3188,
+          "title": "Sinological formatting",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58869",
           "author": "Victor Mair",
           "description": "I listened to this Harry Styles song dozens of times on the radio, and every time I heard him sing \"You know it's just the same as it was\" over and over: It was only after watching the video and reading the subtitles that I realized he was saying \"You know it's not the same […]",
@@ -13427,6 +13437,26 @@
       "feedUrl": "https://gregorygundersen.com/feed.xml",
       "siteUrl": "http://gregorygundersen.com/",
       "articles": [
+        {
+          "id": "http://gregorygundersen.com/blog/2023/06/03/hsia-proof-black-scholes/",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "http://gregorygundersen.com/blog/2023/06/03/hsia-proof-black-scholes/",
+          "publishedOn": "2023-06-03T04:00:00.000Z",
+          "wordCount": 2292,
+          "title": "Proof the Binomial Model Converges to Black–Scholes",
+          "imageUrl": null
+        },
+        {
+          "id": "http://gregorygundersen.com/blog/2023/06/03/binomial-options-pricing-model/",
+          "author": null,
+          "description": "The goal of this post is to present a simple formula for fairly pricing options, called the binomial options pricing model (Cox et al., 1979; Rendleman, 1979). This is sometimes called the Cox-Ross-Rubinstein model (CRR) after the authors’ surnames in (Cox et al., 1979). I like this model because it is a simple, discrete-time model that captures much of the intuition behind how to price options, while avoiding much of the mathematical machinery needed for a continuous-time treatment or Black–Scholes (Black &amp; Scholes, 1973). Learning the binomial model is like climbing a smaller, easier mountain that gives views that are almost as good as its larger, more intimidating neighbor. As we will see, despite its simplicity this model introduces many important concepts from the options-pricing literature such as the no-arbitrage condition, pricing via replication, and the risk-neutral measure. And it does so without any advanced mathematics.",
+          "link": "http://gregorygundersen.com/blog/2023/06/03/binomial-options-pricing-model/",
+          "publishedOn": "2023-06-03T04:00:00.000Z",
+          "wordCount": 9044,
+          "title": "Binomial Options-Pricing Model",
+          "imageUrl": null
+        },
         {
           "id": "http://gregorygundersen.com/blog/2023/05/13/fortunai/",
           "author": null,
