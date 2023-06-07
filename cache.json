@@ -40,16 +40,6 @@
           "wordCount": 23067,
           "title": "Robin Hanson and I discuss the AI future",
           "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=7287",
-          "author": "Scott",
-          "description": "Update (May 8): Some tentative good news! It looks like there’s now a compromise bill in the House that would preserve tenure, insisting only on the sort of post-tenure review that UT (like most universities) already has. Update (May 9): Alas, it looks like the revised bill is not much better. See this thread from […]",
-          "link": "https://scottaaronson.blog/?p=7287",
-          "publishedOn": "2023-05-07T23:39:34.000Z",
-          "wordCount": 3875,
-          "title": "Brief Update on Texan Tenure",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
         }
       ]
     },
@@ -58,6 +48,16 @@
       "feedUrl": "https://golem.ph.utexas.edu/category/atom10.xml",
       "siteUrl": "https://golem.ph.utexas.edu/category/",
       "articles": [
+        {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/commutative_separable_algebras_2.html",
+          "author": null,
+          "description": "What commutative separable monoids have to do with Galois theory.",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/commutative_separable_algebras_2.html",
+          "publishedOn": "2023-06-06T22:15:03.000Z",
+          "wordCount": 1460,
+          "title": "Commutative Separable Algebras III",
+          "imageUrl": null
+        },
         {
           "id": "https://golem.ph.utexas.edu/category/2023/06/seminar_on_applied_category_th.html",
           "author": null,
@@ -132,6 +132,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48606",
+          "author": "Andrew",
+          "description": "Kaiser has the story: The recent study tying lack of vaccinations to traffic accidents illustrates everything that is wrong with the state of our peer-reviewed scientific process. The study uses data that do not capture any of the important behavioral … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/06/the-traffic-accidents-study-exposes-the-lamentable-state-of-covid-19-science/",
+          "publishedOn": "2023-06-06T13:03:54.000Z",
+          "wordCount": 4117,
+          "title": "“The traffic accidents study exposes the lamentable state of Covid-19 science”",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=49157",
           "author": "Bob Carpenter",
@@ -511,26 +521,6 @@
           "wordCount": 3422,
           "title": "Two talks about robust objectives for visualization design and evaluation",
           "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49073",
-          "author": "Paul Buerkner",
-          "description": "Hi all, this is Paul. Andrew was so kind to allow me to post a job ad here on his blog. At the Technical University of Dortmund, Germany, I am currently looking for a PhD Student or PostDoc to work … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/08/phd-or-postdoc-position-on-simulation-based-inference-with-paul-brms-burkner/",
-          "publishedOn": "2023-05-08T08:26:39.000Z",
-          "wordCount": 3260,
-          "title": "PhD or PostDoc position on simulation-based inference with Paul “brms” Bürkner",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=48523",
-          "author": "Andrew",
-          "description": "Matthieu Authier writes: Here is a simulation study using regularized regression with post-stratification to estimate dolphin bycatch from non-representative samples. The Stan code is accessible here. We’ve used also RRP on a case study with samples from FR where we … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/07/bda-bayesian-dolphin-analysis/",
-          "publishedOn": "2023-05-07T13:03:29.000Z",
-          "wordCount": 3465,
-          "title": "BDA:  Bayesian Dolphin Analysis",
-          "imageUrl": null
         }
       ]
     },
@@ -545,6 +535,66 @@
       "feedUrl": "https://www.atlasobscura.com/feeds/latest",
       "siteUrl": "https://www.atlasobscura.com",
       "articles": [
+        {
+          "id": "https://www.atlasobscura.com/places/springfield-college-gymnasium",
+          "author": null,
+          "description": "Wait, basketball was invented at a McDonald's!? No, not at all. Well, sorta. I don't know, let me explain: In December of 1891, James Naismith was responsible for the physical education of a group of young men attending the School for Christian Workers in Springfield, Massachusetts. Decembers in Massachusetts are really cold. It was Naismith's job to keep these young men active and engaged within the confines of a modestly-sized gymnasium.\n\r\nAs destiny would have it, he would discover the solution in a pair of peach baskets. \n\r\nThe School for Christian Workers and the building it occupied would undergo several name changes over generations. The school itself would eventually go on to become Springfield College and move about a half mile down the road. The building, though, the geographical epicenter of the game of basketball, stood on the corner of State and Sherman. But in 1965, it was torn down to make way for a parking lot.\n\r\nThirty years later, in 1995, a McDonald's was built on the land. The McDonald's stands to this day at 782 State Street, Springfield, Massachusetts, marking the hallowed ground of the first buckets ever sunk in the history of the universe. In 2010, a monument was erected across the street at Mason Square, commemorating the invention of what is objectively the greatest game ever invented. The monument includes a sculpture depicting an adult passing a basketball to a child, surrounded by plexiglass displays illustrating the history of basketball. \n\r\nSo, if you happen to be rolling through Springfield, you can drop in and grab a Big-Mac and just consider that you are standing on the spot where James Naismith first unveiled the game that would go on to become one of the most widely appreciated sports on the planet.",
+          "link": "https://www.atlasobscura.com/places/springfield-college-gymnasium",
+          "publishedOn": "2023-06-06T15:00:00.000Z",
+          "wordCount": 3786,
+          "title": "Mason Park Basketball Monument in Springfield, Massachusetts",
+          "imageUrl": "https://img.atlasobscura.com/Mb6PZjEBmJJ6S4Ky83d5ItMyLTpeGIDi3pAScex4TlU/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOTJh/NTIzNy0yOTllLTQ4/YWEtYTUwZS1iNDlh/YjgzYWFkN2JjYjg0/Yjg0YjllNzAxMjdi/ZDBfNzA0MzUzMDM0/M183MmUyYTY2NTI0/X2suanBn.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/fairy-circles-australia-aboriginal-knowledge",
+          "author": "Line Sidonie Talla Mafotsing",
+          "description": "As far as the eye can see, across some parts of the scrubby desert of Western Australia, there are round, barren patches of land. They’re seen in Namibia and Angola, too: fairy circles. They got that name in 2000, in a paper published in Basic & Applied Ecology by Thorsten Becker and Stephan Getzin. The German scientists described them as “circular or sub-circular patches devoid of any vegetation,” but “fairy circles” carries a little more magic.\n\r\nTheir round shape, uniform size, and lack of obvious explanation have made them a longstanding mystery of the natural world. “One of the [other] key signatures of fairy circles is that they have a so-called spatially periodic pattern,” says Getzin, of the University of Göttingen. In other words, the circles are more or less evenly spaced out amo…",
+          "link": "https://www.atlasobscura.com/articles/fairy-circles-australia-aboriginal-knowledge",
+          "publishedOn": "2023-06-06T14:00:00.000Z",
+          "wordCount": 4999,
+          "title": "In Australia, Aboriginal Knowledge and the Mystery of Fairy Circles",
+          "imageUrl": "https://img.atlasobscura.com/ftmw519PhsFfNxZ80rFlSGqH3Y7FqLxts2qdfvYPMVc/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80YTQxMzE3NGVl/NTI4YmJjMDZfNTE0/Mzc3MjMyOTJfMzli/ZDRjODVkZF9vLmpw/Zw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/greisinger-museum",
+          "author": null,
+          "description": "Switzerland is known for several literary pilgrimage sites for fans of J. R. R. Tolkien's legendarium. He traveled here when he was 19 years old, and it is said that some of the Alpine villages he visited served as inspirations behind some of Middle-earth's iconic landscapes, such as Rivendell and the Misty Mountains. But the country has another can't-miss to offer to The Lord of the Rings enthusiasts, if not personally associated with Tolkien like the others.\n\r\nIn the winemaking village of Jenins stands a familiar-looking building, a leaf-covered cottage with a green round door. This is the Greisinger Museum, home to the largest Tolkien-related collection in the world.\n\r\nStarting off as the private collection of Bernd Greisinger, the construction of the museum took place between 2008 and 2013 when it opened to the public. All of its rooms are inspired by and themed after Middle-earth locations. For instance, one of them copies the interior design of Bag End, the iconic home of Bilbo Baggins.\n\r\nThe museum's collection consists of more than 25,000 items, including a myriad of movie memorabilia and hundreds of original paintings by such renowned artists as Alan Lee, Roger Garland, and Ted Nasmith. It is also home to a copy of every impression of the UK first editions of The Lord of the Rings, as well as that of The Hobbit from 1937 to 1999, some of them very rare and signed.",
+          "link": "https://www.atlasobscura.com/places/greisinger-museum",
+          "publishedOn": "2023-06-06T14:00:00.000Z",
+          "wordCount": 3742,
+          "title": "Greisinger Museum in Jenins, Switzerland",
+          "imageUrl": "https://img.atlasobscura.com/-cVogu1O9edCWkbXda47ER51YIfJOzV_-TJ2q87kHuI/rt:fit/w:600/c:2795:1863:nowe:21:69/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZjI4/Mjc4Yy1mMzkwLTQx/NWYtODY3Zi1kMmY2/NjdmM2Y0Y2M4OWU4/Y2Q3OWFiZDVkYzVk/M2JfR3JlaXNpbmdl/cl9NdXNldW1fRW50/cmFuY2VfQXV0dW1u/LmpwZWc.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/hemmed-in-hollow-falls",
+          "author": null,
+          "description": "Requiring a nearly six-mile hike in and out of a deep Ozark Mountain valley or float down the Buffalo River, a view of the falls is worth every drop of sweat. Wind in the valley swirls the water into thousands of droplets misting around the main plume.\n\r\nHemmed-In-Hollow Falls is a single-drop waterfall that pours over a massive bluff. The falls are most dramatic after rain, but dancing drops are visible most of the time. They are the biggest falls between the Appalachians and the Rocky Mountains.\n\r\nMany people have found their way to the falls, despite there being no roads in the protected Ponca Wilderness. William O'Neill built a retreat at the base of the falls in 1917. Today, only stone foundations can be seen.",
+          "link": "https://www.atlasobscura.com/places/hemmed-in-hollow-falls",
+          "publishedOn": "2023-06-06T13:30:00.000Z",
+          "wordCount": 3711,
+          "title": "Hemmed-In-Hollow Falls in Compton, Arkansas",
+          "imageUrl": "https://img.atlasobscura.com/y1IdWp-Iw1f707KPV1c0nOt8ed3QGQK0l7cgXOt0fUE/rt:fit/w:600/c:4086:2724:nowe:3:6/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zNGEz/YjY4Ny1iY2RkLTQ0/NDQtOWI3MC1kODk3/NDRkNGVhMTFjOTVj/M2Y4MzI3MTM5MjRm/NGFfSGVtbWVkX2lu/X0hvbGxvd19XYXRl/cmZhbGwuanBn.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/seabird-common-terns-maryland",
+          "author": "Ashley Stimpson",
+          "description": "OH1, a crow-sized seabird with tapered wings, a solid black cap, and beak the color of a traffic cone, touched down just off the Maryland coast on April 18, completing a 3,000-mile migration from Argentina. The common tern was the first summer resident to arrive at a seasonal colony, and the scientists monitoring the site celebrated. Soon, more terns joined OH1, and nesting season was officially underway.\n\r\nThen, within days, uninvited guests started showing up. Young gulls of different species began to loiter in the area, “just looking for a place to hang out,” says biologist Archer Larned, coastal bird habitat coordinator at the Maryland Coastal Bays Program (MCBP). Eventually, more than 100 of the noisy, pushy teenagers threatened to transform the terns’ breeding colony into their own s…",
+          "link": "https://www.atlasobscura.com/articles/seabird-common-terns-maryland",
+          "publishedOn": "2023-06-06T13:00:00.000Z",
+          "wordCount": 5748,
+          "title": "Maryland's Rare Seabirds Get a Life Raft and Babysitters",
+          "imageUrl": "https://img.atlasobscura.com/XAHdmHfn1-CXvbToY0YBoKoJXGz1sdzR6Ds3ImTWJ8I/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iYjU3Y2JlNzVm/NTczMmE2N2ZfOFA0/QTg2MjEgY3JvcC5q/cGVn.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/podcast-temple-of-pythons",
+          "author": "The Podcast Team",
+          "description": "Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.\n\r\n\r\n\r\nIn this episode of The Atlas Obscura Podcast, we visit southern Benin to hear the story of the Temple of Pythons and clear up some misconceptions about one of the world's most misunderstood spiritual systems.\n\r\nOur podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinating people and hear their stories. Join us daily, Monday through Thursday, to explore a new wonder with cofounder Dylan Thuras and a neighborhood of Atlas Obscura reporters.",
+          "link": "https://www.atlasobscura.com/articles/podcast-temple-of-pythons",
+          "publishedOn": "2023-06-06T12:00:00.000Z",
+          "wordCount": 3889,
+          "title": "Podcast: Temple of Pythons",
+          "imageUrl": "https://img.atlasobscura.com/pACDfxkft5KNnhAu7dlULCVhuNSfWYKmi-npwc2qxqQ/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84Y2JmODdkYi01/YzdiLTQ0N2UtOTYy/ZC0yYmE2OTQzYWZj/NGNlMzliNjM5ZjYx/ZGE2ZjlmYjBfUHl0/aG9uX3JveWFsLmpw/Zw.jpg"
+        },
         {
           "id": "https://www.atlasobscura.com/places/hadler-shoe-tree-missouri",
           "author": null,
@@ -654,6 +704,16 @@
           "wordCount": 4549,
           "title": "Podcast: Fairy Castle",
           "imageUrl": "https://img.atlasobscura.com/gPzUEHDh9PFnRHEfBclATr61KIsZleLb7Hlw7NqJy3k/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kYjgzNTJkYi0x/ODdkLTRkZTEtOWZl/OS01NTkyYTQ2MDZl/ZWYxYWI1NjVkZjVj/MmI2YjkyODFfRmFp/cnlDYXN0bGVfZnJv/bnQuanBn.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/puzzle-how-swede-it-is-crossword",
+          "author": "AO Puzzles",
+          "description": "Atlas Obscura's fortnightly crossword comes to us from creator Stella Zawistowski and editor Laura Braunstein, members of Inkubator, which publishes crossword puzzles by women and nonbinary constructors. You can see more puzzles in their book, Inkubator Crosswords: 100 Audacious Puzzles from Women and Nonbinary Creators.\n\r\nYou can solve the puzzle below, or download it in .pdf or .puz. Note that the links in the clues will take you to Atlas Obscura pages that may contain the answer. Happy solving!",
+          "link": "https://www.atlasobscura.com/articles/puzzle-how-swede-it-is-crossword",
+          "publishedOn": "2023-06-05T09:00:00.000Z",
+          "wordCount": 2303,
+          "title": "Puzzle Monday: How Swede It Is! Crossword",
+          "imageUrl": "https://img.atlasobscura.com/ebny5p_unHxkAD6jfCAnwYoLr85T1rRRj0ERpAwNdn4/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kZDcxYTFjY2Rk/NzVjZjA5MTRfQ3Jv/c3N3b3JkIExlYWQu/anBn.jpg"
         },
         {
           "id": "https://www.atlasobscura.com/places/sarabhas-creamery-nashville",
@@ -1593,6 +1653,16 @@
       "feedUrl": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
       "siteUrl": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine",
       "articles": [
+        {
+          "id": "https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto",
+          "author": "Matt Levine",
+          "description": "Also Flo Rida at private equity parties.",
+          "link": "https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto",
+          "publishedOn": "2023-06-06T18:16:16.000Z",
+          "wordCount": 576,
+          "title": "The SEC Comes for Crypto",
+          "imageUrl": null
+        },
         {
           "id": "https://www.bloomberg.com/opinion/articles/2023-06-05/elon-musk-had-fun-with-dogecoin",
           "author": "Matt Levine",
@@ -3129,6 +3199,51 @@
       "siteUrl": "https://standardebooks.org",
       "articles": [
         {
+          "id": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
+          "author": null,
+          "description": "Two children go on a magical adventure in search of the Blue Bird.",
+          "link": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos",
+          "publishedOn": "2023-06-06T22:00:47.000Z",
+          "wordCount": 612,
+          "title": "The Blue Bird, by Maurice Maeterlinck and Georgette Leblanc",
+          "enclosure": {
+            "length": "745978",
+            "type": "application/epub+zip",
+            "url": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/maurice-maeterlinck_georgette-leblanc_the-blue-bird_alexander-teixeira-de-mattos.epub"
+          },
+          "imageUrl": "https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos/downloads/cover.jpg"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew",
+          "author": null,
+          "description": "A English millionaire with a seedy past in Africa discovers that his worst fears have come true.",
+          "link": "https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew",
+          "publishedOn": "2023-06-06T21:51:25.000Z",
+          "wordCount": 523,
+          "title": "The Man Who Knew, by Edgar Wallace",
+          "enclosure": {
+            "length": "913736",
+            "type": "application/epub+zip",
+            "url": "https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew/downloads/edgar-wallace_the-man-who-knew.epub"
+          },
+          "imageUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew/downloads/cover.jpg"
+        },
+        {
+          "id": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason",
+          "author": null,
+          "description": "A collection of twelfth-century medieval tales of chivalry and romance.",
+          "link": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason",
+          "publishedOn": "2023-06-06T21:01:34.000Z",
+          "wordCount": 575,
+          "title": "Lais, by Marie de France",
+          "enclosure": {
+            "length": "631684",
+            "type": "application/epub+zip",
+            "url": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason/downloads/marie-de-france_lais_eugene-mason.epub"
+          },
+          "imageUrl": "https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason/downloads/cover.jpg"
+        },
+        {
           "id": "https://standardebooks.org/ebooks/s-s-van-dine/the-benson-murder-case",
           "author": null,
           "description": "A Manhattanite art connoisseur becomes an amateur detective as he assists his good friend, the District Attorney, in solving an unusual murder case.",
@@ -3336,6 +3451,22 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-the-bc8",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-the-bc8",
+          "publishedOn": "2023-06-06T05:28:56.000Z",
+          "wordCount": null,
+          "title": "Highlights From The Comments On The Academic Job Market",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0ce0fa88-d5fc-4566-ab09-b8155a21a944_320x213.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0ce0fa88-d5fc-4566-ab09-b8155a21a944_320x213.webp"
+        },
         {
           "id": "https://astralcodexten.substack.com/p/open-thread-279",
           "author": "Scott Alexander",
@@ -3655,22 +3786,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/5b976fdc-48b5-4105-95de-490489e6fe15_275x183.jpeg"
-        },
-        {
-          "id": "https://astralcodexten.substack.com/p/open-thread-275",
-          "author": "Scott Alexander",
-          "description": "...",
-          "link": "https://astralcodexten.substack.com/p/open-thread-275",
-          "publishedOn": "2023-05-08T07:43:44.000Z",
-          "wordCount": null,
-          "title": "Open Thread 275",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b65b467e-ac69-4282-8f17-7b9fedac05af_255x255.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b65b467e-ac69-4282-8f17-7b9fedac05af_255x255.webp"
         }
       ]
     },
@@ -4127,6 +4242,105 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "B615145F-7BCB-438C-8931E78F78ED4876",
+          "author": "Lauren J. Young",
+          "description": "A cluster of U.S. residents who traveled for surgery have developed severe fungal infections in the spine and brain. Here’s what you need to know about the disease",
+          "link": "https://www.scientificamerican.com/article/how-fungal-meningitis-outbreaks-can-happen-after-cosmetic-procedures-and-other-surgeries/",
+          "publishedOn": "2023-06-06T19:30:00.000Z",
+          "wordCount": null,
+          "title": "How Fungal Meningitis Outbreaks Can Happen after Cosmetic Procedures and Other Surgeries",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9F5A93C0-0DD5-4F72-8F4F7898A15242FB",
+          "author": "Luke Taylor, Nature magazine",
+          "description": "The most comprehensive census yet of the hippos in Colombia that are descended from several imported by drug-cartel leader Pablo Escobar reveals that there could be twice as many of the invasive animals as previous estimates indicated",
+          "link": "https://www.scientificamerican.com/article/colombias-cocaine-hippo-population-is-even-bigger-than-scientists-thought/",
+          "publishedOn": "2023-06-06T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Colombia's 'Cocaine Hippo' Population Is Even Bigger Than Scientists Thought",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "7789F435-9754-4648-9B43B75A9121F4B8",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Researchers calculated that high-emitting countries, including the U.S., should pay $192 trillion in compensation to low-emitting nations",
+          "link": "https://www.scientificamerican.com/article/rich-nations-owe-192-trillion-for-causing-climate-change-new-analysis-finds/",
+          "publishedOn": "2023-06-06T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Rich Nations Owe $192 Trillion for Causing Climate Change, New Analysis Finds",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "3746B237-66C2-4851-9FFFE306E4A4FDC1",
+          "author": "Tim Vernimmen, Knowable Magazine",
+          "description": "The COVID pandemic put mRNA technology, long in development, to the test. Here’s a look at how it might fight cancer and when it might reach patients",
+          "link": "https://www.scientificamerican.com/article/after-covid-19-can-mrna-vaccines-help-with-cancer-as-well1/",
+          "publishedOn": "2023-06-06T15:00:00.000Z",
+          "wordCount": null,
+          "title": "After COVID-19, Can mRNA Vaccines Help with Cancer as Well?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "4FAA98FF-5315-4C3C-BA4623A07DED6DC9",
+          "author": "Diana Reiss",
+          "description": "Hvaldi, a juvenile beluga whale likely used as a Russian spy, has become so accustomed to human interaction that he’s putting himself in danger and urgently needs our help",
+          "link": "https://www.scientificamerican.com/article/former-russian-spy-whale-faces-his-greatest-danger/",
+          "publishedOn": "2023-06-06T14:15:00.000Z",
+          "wordCount": null,
+          "title": "Former Russian 'Spy Whale' Faces His Greatest Danger",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9AFE62DF-1E34-42D2-9087BF5EA35BFFB0",
+          "author": "Manon Bischoff",
+          "description": "Perfectly wrapping spherical objects together seems trivial, but it’s a task that has stumped mathematicians for centuries",
+          "link": "https://www.scientificamerican.com/article/gift-wrapping-five-oranges-has-outwitted-the-best-minds-in-mathematics-for-generations/",
+          "publishedOn": "2023-06-06T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Gift Wrapping Five Oranges Has Outwitted the Best Minds in Mathematics for Generations",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "BBFD1B97-C265-4A02-864A4974A277883E",
+          "author": "Meghan Bartels",
+          "description": "The combination of a massive seaweed bloom, plastic in the ocean and climate change is increasing the risk of dangerous infections",
+          "link": "https://www.scientificamerican.com/article/giant-seaweed-blob-could-carry-dangerous-bacteria1/",
+          "publishedOn": "2023-06-06T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Giant Seaweed 'Blob' Could Carry Dangerous Bacteria",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9582A208-B45D-45D5-9D50CAE63A391469",
+          "author": "Saima May Sidik",
+          "description": "Researchers hope their work on racial health disparities will be a “call to action”",
+          "link": "https://www.scientificamerican.com/article/death-rates-among-black-people-in-the-u-s-are-rising-after-falling/",
+          "publishedOn": "2023-06-06T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Death Rates among Black People in the U.S. Are Rising after Falling",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "92410100-3EDC-4F4A-B845C55E61143A1A",
+          "author": "Meghan Bartels",
+          "description": "Scientists are using satellite observations of a massive volcanic eruption’s impact to better understand Earth’s atmosphere",
+          "link": "https://www.scientificamerican.com/article/tonga-eruption-triggered-massive-equatorial-plasma-bubble/",
+          "publishedOn": "2023-06-06T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Tonga Eruption Triggered Massive 'Equatorial Plasma Bubble'",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "2D678194-0729-42B8-93B347524F39E674",
           "author": "Kate Wong",
           "description": "Extraordinary claims about the small-brained human relative Homo naledi challenge prevailing view of cognitive evolution",
@@ -4212,6 +4426,24 @@
           "wordCount": null,
           "title": "Ultrasound Puts Animals into a Curious Hibernation-Like State",
           "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "67489DB1-2444-4FFF-8D1D45A39EB8080A",
+          "author": "Flora Lichtman",
+          "description": "Officially, these prehistoric birds are the dromornithids, but everyone who studies them calls them thunderbirds—and for good reason.",
+          "link": "https://www.scientificamerican.com/podcast/episode/this-thunderous-goose-relative-was-built-like-a-tank-with-the-wings-of-a-songbird1/",
+          "publishedOn": "2023-06-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "This Thunderous Goose Relative Was Built like a Tank with the Wings of a Songbird",
+          "itunes": {
+            "duration": "08:48"
+          },
+          "enclosure": {
+            "length": "12742379",
+            "type": "audio/mpeg",
+            "url": "http://flex2.acast.com/s/60secondscience/u/www.scientificamerican.com/podcast/podcast.mp3?fileId=1EA19C2A-0A5E-423D-80A6574F38B73FED"
+          },
           "imageUrl": null
         },
         {
@@ -7147,6 +7379,16 @@
       "siteUrl": "https://justthesocialfacts.blogspot.com/",
       "articles": [
         {
+          "id": "https://justthesocialfacts.blogspot.com/2023/06/punditry.html",
+          "author": null,
+          "description": "The New York Times has had roundtable discussions of presidential candidates as they enter the race, and had one on Tim Scott a couple of weeks ago.  It wasn't until the eighth comment that someone noted that  \"Republican primary voters have been eager to consider Black candidates in recent cycles: Herman Cain in 2012, Ben Carson in 2016.\"  Neither one had any of the conventional qualifications to be president, neither one was especially well known, and Carson put very little effort into his campaign, so their performance suggests that many Republicans want to support a black candidate.  The participant who made this point was Daniel McCarthy, the most conservative of the group.  I don't think that's a coincidence:  most progressives see the story of the last decade or so as one of backlas…",
+          "link": "https://justthesocialfacts.blogspot.com/2023/06/punditry.html",
+          "publishedOn": "2023-06-06T18:26:00.002Z",
+          "wordCount": 2800,
+          "title": "Punditry",
+          "imageUrl": null
+        },
+        {
           "id": "https://justthesocialfacts.blogspot.com/2023/05/why-long-face-part-2.html",
           "author": null,
           "description": "My last post said that the low ratings of current economic conditions weren't the result of increased partisanship--it's not just Republicans who rate them as poor, but people of all parties.  Of course, \"economic conditions\" can cover a lot of things, so let's look at some of the alternative measures.  Gallup has a question going back to 2001:  \"Thinking about the job situation in America today, would you say that it is now a good time or a bad time to find a quality job?\"  The last time it was asked (January 2023), 64% said it was a good time and 33% said it was a bad time.  That's good by historical standards--higher than it ever was before August 2017.  So people are quite positive about one important aspect of the economy.  Gallup also has this question:  \"Next, we are interested in h…",
@@ -7797,6 +8039,81 @@
       "siteUrl": "https://www.r-bloggers.com",
       "articles": [
         {
+          "id": "https://www.r-consortium.org/?p=5077",
+          "author": "R Consortium",
+          "description": "Francisco Rodríguez Sánchez shared with the R Consortium how the R language has changed and improved his work as a computational ecologist, leading him to become a passionate advocate, professional,...\n\n\nContinue reading: Bridging Ecology, Statistics, and Data Science with R for Biodiversity and Climate Change Research",
+          "link": "https://www.r-bloggers.com/2023/06/bridging-ecology-statistics-and-data-science-with-r-for-biodiversity-and-climate-change-research/",
+          "publishedOn": "2023-06-06T16:20:59.000Z",
+          "wordCount": 6460,
+          "title": "Bridging Ecology, Statistics, and Data Science with R for Biodiversity and Climate Change Research",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-consortium.org/wp-content/uploads/sites/13/2023/06/Francisco-Rodriguez-Sanchez.jpeg"
+        },
+        {
+          "id": "https://pacha.dev/blog/2023/06/06/bookdown-to-quarto/index.html",
+          "author": "pacha.dev/blog",
+          "description": "R and Shiny Training: If you find this blog to be interesting, please note that I offer personalized and group-based training sessions that may be reserved through Buy me a Coffee. Additionally, I provide training services in the Spanish language ...\nContinue reading: Moving from bookdown to Quarto (and the corresponding GitHub Actions changes)",
+          "link": "https://www.r-bloggers.com/2023/06/moving-from-bookdown-to-quarto-and-the-corresponding-github-actions-changes/",
+          "publishedOn": "2023-06-06T04:00:00.000Z",
+          "wordCount": 3521,
+          "title": "Moving from bookdown to Quarto (and the corresponding GitHub Actions changes)",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "https://www.spsanderson.com/steveondata/posts/2023-06-06/index.html",
+          "author": "Steven P. Sanderson II, MPH",
+          "description": "Introduction\nContinue reading: Simplifying Data Transformation with pivot_longer() in R’s tidyr Library",
+          "link": "https://www.r-bloggers.com/2023/06/simplifying-data-transformation-with-pivot_longer-in-rs-tidyr-library/",
+          "publishedOn": "2023-06-06T04:00:00.000Z",
+          "wordCount": 3403,
+          "title": "Simplifying Data Transformation with pivot_longer() in R’s tidyr Library",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "https://ropensci.org/blog/2023/06/06/r-universe-stars-4-en/",
+          "author": "rOpenSci - open tools for open science",
+          "description": "A new post of our interview series “Meeting the stars of the R-universe”. We aim to introduce the teams and people behind the development of software and packages many of us use and which are available through the R-Universe. We want to highlight and ...\nContinue reading: Meeting the Stars of the R-Universe: PEcAn, an Open Source Project to Take Care of the Planet",
+          "link": "https://www.r-bloggers.com/2023/06/meeting-the-stars-of-the-r-universe-pecan-an-open-source-project-to-take-care-of-the-planet/",
+          "publishedOn": "2023-06-06T00:00:00.000Z",
+          "wordCount": 3892,
+          "title": "Meeting the Stars of the R-Universe: PEcAn, an Open Source Project to Take Care of the Planet",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "https://masalmon.eu/2023/06/06/basic-patterns/",
+          "author": "Maëlle&#039;s R blog on Maëlle Salmon&#039;s personal website",
+          "description": "I’m happy to report that I thought “oh but I know a better way to write that code!” a few times lately when reading old scripts of mine, or scripts by others. It’s a good feeling because it shows progress! I’ve tooted abou...\nContinue reading: Three useful (to me) R patterns",
+          "link": "https://www.r-bloggers.com/2023/06/three-useful-to-me-r-patterns/",
+          "publishedOn": "2023-06-06T00:00:00.000Z",
+          "wordCount": 3025,
+          "title": "Three useful (to me) R patterns",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
           "id": "https://statmodeling.stat.columbia.edu/?p=49159",
           "author": "Jonah Gabry",
           "description": "I (Jonah) am excited to be teaching a 2-day Stan workshop preceding the NYR Conference in July. The workshop will be July 11-12 and the conference July 13-14.  The focus of the workshop will be to introduce the basics of … Continue reading →\nContinue reading: Stan class at NYR Conference in July (in person and virtual)",
@@ -7812,6 +8129,21 @@
           "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
         },
         {
+          "id": "https://www.business-science.io/code-tools/2023/06/05/storytelling-funkyheatmaps",
+          "author": "Business Science",
+          "description": "Your success as a Data Scientist isn’t because of your coding skills. Your success is determined by how well you can persuade decision-makers to take action. And that’s a powerful skill that I’m going to help you with today: It’s called Storytelling.\n...\n\n\n\nContinue reading: How to improve your storytelling with R",
+          "link": "https://www.r-bloggers.com/2023/06/how-to-improve-your-storytelling-with-r/",
+          "publishedOn": "2023-06-05T16:00:00.000Z",
+          "wordCount": 4583,
+          "title": "How to improve your storytelling with R",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.business-science.io/assets/062_funkyheatmap_thumb.jpg"
+        },
+        {
           "id": "https://rtask.thinkr.fr/?p=3414",
           "author": "Rtask",
           "description": "You can read the original post in its original format on Rtask website by ThinkR here: Mastering file download in shiny\nContinue reading: Mastering file download in shiny",
@@ -7825,6 +8157,51 @@
             "type": ""
           },
           "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "http://gigadom.in/?p=10909",
+          "author": "Tinniam V Ganesh",
+          "description": "“The unexamined life is not worth living.” – Socrates “There is no easy way from the earth to the stars.” – Seneca “If you want to go fast, go alone. If you want to go far, go together.” – African Proverb 1. Introduction In this post, I put my R package cricketr to analyze ...\n\n\nContinue reading: Cricketr analyzes Ind-Aus faceoff in WTC 2023!!",
+          "link": "https://www.r-bloggers.com/2023/06/cricketr-analyzes-ind-aus-faceoff-in-wtc-2023/",
+          "publishedOn": "2023-06-05T06:09:30.000Z",
+          "wordCount": 17767,
+          "title": "Cricketr analyzes Ind-Aus faceoff in WTC 2023!!",
+          "enclosure": {
+            "url": "https://1.gravatar.com/avatar/7fd1fdf048e8bfdb937035af5e8e6ce8d9c6b065ea267d40fca07a205ca7b6c6?s=96&d=identicon&r=G",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://gigadom.files.wordpress.com/2023/06/basic-1.png?w=1024"
+        },
+        {
+          "id": "https://pacha.dev/blog/2023/06/05/cpp11-omp/index.html",
+          "author": "pacha.dev/blog",
+          "description": "R and Shiny Training: If you find this blog to be interesting, please note that I offer personalized and group-based training sessions that may be reserved through Buy me a Coffee. Additionally, I provide training services in the Spanish language ...\nContinue reading: Debunking the idea that cpp11 does not offer OpenMP support",
+          "link": "https://www.r-bloggers.com/2023/06/debunking-the-idea-that-cpp11-does-not-offer-openmp-support/",
+          "publishedOn": "2023-06-05T04:00:00.000Z",
+          "wordCount": 3414,
+          "title": "Debunking the idea that cpp11 does not offer OpenMP support",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "https://pacha.dev/blog/2023/06/05/freedom-index/index.html",
+          "author": "pacha.dev/blog",
+          "description": "R and Shiny Training: If you find this blog to be interesting, please note that I offer personalized and group-based training sessions that may be reserved through Buy me a Coffee. Additionally, I provide training services in the Spanish language ...\n\n\n\nContinue reading: Tidying the Freedom Index",
+          "link": "https://www.r-bloggers.com/2023/06/tidying-the-freedom-index/",
+          "publishedOn": "2023-06-05T04:00:00.000Z",
+          "wordCount": 7614,
+          "title": "Tidying the Freedom Index",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://pacha.dev/blog/2023/06/05/freedom-index/index_files/figure-html/tidy22-1.png"
         },
         {
           "id": "https://geocompx.org/post/2023/rgdal-retirement/index.html",
@@ -8822,6 +9199,46 @@
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
         {
+          "id": "https://medium.com/p/5b0cf87a1460",
+          "author": "Smillew Rahcuef",
+          "description": "The sad truth about online freelancing\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/you-made-1-online-now-what-5b0cf87a1460?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-06T21:01:43.000Z",
+          "wordCount": 2233,
+          "title": "You Made $1 Online — Now What?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1160/1*Av5dTpiqHeGwhXgk5Oyamg.png"
+        },
+        {
+          "id": "https://medium.com/p/ca00da7ba7a8",
+          "author": "Cal Axe",
+          "description": "Two simple stories that will get you up and writing more\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/the-one-mindset-shift-that-will-get-you-to-write-more-original-content-ca00da7ba7a8?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-06T17:01:44.000Z",
+          "wordCount": 2365,
+          "title": "The One Mindset Shift That Will Get You to Write More Original Content",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xqHxMouuYemwD480Wi5ppg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/54ccf78486bd",
+          "author": "Philip S. Naudus",
+          "description": "Sudden breakthroughs are exciting, but slow and steady always wins\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/the-tortoise-method-to-innovation-54ccf78486bd?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-06T15:01:50.000Z",
+          "wordCount": 2602,
+          "title": "The “Tortoise” Method to Innovation",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*r_RkagOHozSHxyQP4SqCrg.png"
+        },
+        {
+          "id": "https://medium.com/p/ddfdfe49714a",
+          "author": "Justin Cox",
+          "description": "Continue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/how-do-you-end-things-well-ddfdfe49714a?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-06T11:03:15.000Z",
+          "wordCount": 3296,
+          "title": "How Do You End Things Well",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*yyfRkJycv_CRC2Da1boPuw.jpeg"
+        },
+        {
           "id": "https://medium.com/p/5855780f4b28",
           "author": "Susie Kearley",
           "description": "It creates a regular income from affiliate links\nContinue reading on The Writing Cooperative »",
@@ -9408,6 +9825,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53202",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/06/07/stack-overflow-on-strike/",
+          "publishedOn": "2023-06-06T22:23:40.000Z",
+          "wordCount": 1705,
+          "title": "stack overflow on strike",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/temp-1.png"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53194",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -9649,6 +10076,22 @@
       "feedUrl": "http://www.overcomingbias.com/feed",
       "siteUrl": "https://www.overcomingbias.com",
       "articles": [
+        {
+          "id": "https://www.overcomingbias.com/p/ufos-what-the-further-hell",
+          "author": "Robin Hanson",
+          "description": "A year ago I tried to come up with the most plausible story I could for why some UFOs might be aliens. In that story, life started long ago on some planet Eden, which then via panspermia seeded life onto thousands of planets in Earth’s stellar nursery. One of those other planets reached our current advanced level probably at least a hundred of million years ago, after which it enforced a policy preventing any part of it from expanding to colonize the universe. (Maybe for eco, governance, or stopping-change reasons.)",
+          "link": "https://www.overcomingbias.com/p/ufos-what-the-further-hell",
+          "publishedOn": "2023-06-06T14:28:28.000Z",
+          "wordCount": null,
+          "title": "UFOs: What the *Further* Hell?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/dd288003-ff3d-43c8-8e2f-4c49217666be_1588x1269.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/dd288003-ff3d-43c8-8e2f-4c49217666be_1588x1269.webp"
+        },
         {
           "id": "https://www.overcomingbias.com/p/gender-and-status",
           "author": "Robin Hanson",
@@ -10459,6 +10902,86 @@
       "siteUrl": "https://www.minnpost.com",
       "articles": [
         {
+          "id": "https://www.minnpost.com/?p=2117474",
+          "author": "Jazzmine Jackson",
+          "description": "Plus: Former Vikings part-owner sentenced to prison; South Dakota governor accuses Target of trying to get rid of Mount Rushmore; 3M nears settlement in \"forever chemicals\" case; sinkholes could be the new norm; and more.",
+          "link": "https://www.minnpost.com/glean/2023/06/ag-ellison-suing-largest-landowner-in-downtown-st-paul-over-wage-theft-retaliation/",
+          "publishedOn": "2023-06-06T18:47:12.000Z",
+          "wordCount": 2495,
+          "title": "AG Ellison suing largest landowner in downtown St. Paul over wage theft, retaliation",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2020/07/KeithEllison060320_640.jpg"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117466",
+          "author": "Alberto Gomez",
+          "description": "No. The North Star Promise program enacted last month applies to all eligible Minnesotans — not just undocumented immigrants.",
+          "link": "https://www.minnpost.com/fact-briefs/2023/06/does-a-new-minnesota-program-fund-free-college-tuition-only-for-undocumented-immigrants/",
+          "publishedOn": "2023-06-06T16:10:44.000Z",
+          "wordCount": 2075,
+          "title": "Does a new Minnesota program fund free college tuition only for undocumented immigrants?",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/05/FactBrief740.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117429",
+          "author": "Walker Orenstein",
+          "description": "The governor and other supporters argue that incentives for a burgeoning industry can slash emissions, create jobs and provide a future for Minnesota’s large biofuels industry as electric vehicles become a larger share of ground transportation.",
+          "link": "https://www.minnpost.com/greater-minnesota/2023/06/corn-powered-planes-why-delta-and-minnesota-gov-tim-walz-lobbied-for-new-biofuel-tax-credit/",
+          "publishedOn": "2023-06-06T15:53:39.000Z",
+          "wordCount": 8272,
+          "title": "Corn-powered planes? Why Delta — and Minnesota Gov. Tim Walz — lobbied for new biofuel tax credit",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2019/01/DeltaTakeOffMSP640.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117447",
+          "author": "By Eric Molho",
+          "description": "\"I am so desperate to have a positive vision for the future. I want some hope for our next chapter, which no one can seem to articulate.\"",
+          "link": "https://www.minnpost.com/community-voices/2023/06/reflecting-on-one-minneapolis-two-realities-as-a-friend-plans-a-move-outside-the-city/",
+          "publishedOn": "2023-06-06T15:26:00.000Z",
+          "wordCount": 5257,
+          "title": "Reflecting on one Minneapolis, two realities as a friend plans a move outside the city",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/LoringPark740.jpg"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117427",
+          "author": "Sheila Regan",
+          "description": "Deeply engaged in social justice issues and advocating for the Latinx community, she often brings a political bent to her work— at times bringing elements of iconography and symbolism to her multidisciplinary practice.",
+          "link": "https://www.minnpost.com/artscape/2023/06/minneapolis-artist-tina-tavera-is-one-of-15-national-recipients-of-2023-latinx-artist-fellowship/",
+          "publishedOn": "2023-06-06T15:19:48.000Z",
+          "wordCount": 3790,
+          "title": "Minneapolis artist Tina Tavera is one of 15 national recipients of 2023 Latinx Artist Fellowship",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/TinaTavera740.jpg"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117431",
+          "author": "Peter Callaghan",
+          "description": "Something that will help makers of hemp-derived beverages is clarification that edibles and THC beverages can be sold in bars and liquor stores starting immediately.",
+          "link": "https://www.minnpost.com/state-government/2023/06/most-hemp-edibles-beverages-still-legal-under-minnesota-marijuana-law-but-with-higher-taxes-and-new-testing/",
+          "publishedOn": "2023-06-06T14:58:34.000Z",
+          "wordCount": 7125,
+          "title": "Most hemp edibles, beverages still legal under Minnesota marijuana law, but with higher taxes and new testing",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/THCSeltzers740.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117430",
+          "author": "By Jill Barshay, The Hechinger Report",
+          "description": "A study finds significantly higher college going rates for students who cultivated mentors in high school.",
+          "link": "https://www.minnpost.com/other-nonprofit-media/2023/06/how-important-was-your-favorite-teacher-to-your-success-researchers-have-done-the-math/",
+          "publishedOn": "2023-06-06T14:28:08.000Z",
+          "wordCount": 5434,
+          "title": "How important was your favorite teacher to your success? Researchers have done the math",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2019/04/TeacherDesk640.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2117420",
+          "author": "Jazzmine Jackson",
+          "description": "Plus: Norovirus could be cause of Schulze Lake illnesses; Rochester transit system reaches tentative deal with union; praise continues for Minnesota's legislative session; and more.",
+          "link": "https://www.minnpost.com/glean/2023/06/police-pursuit-of-robbery-suspects-ends-in-north-minneapolis-crash-5-injuries/",
+          "publishedOn": "2023-06-06T11:05:45.000Z",
+          "wordCount": 2337,
+          "title": "Police pursuit of robbery suspects ends in north Minneapolis crash, 5 injuries",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/01/PoliceCarLights740.jpg"
+        },
+        {
           "id": "https://www.minnpost.com/?p=2117410",
           "author": "Jazzmine Jackson",
           "description": "Plus: Teenager arrested for Maple Grove Middle School bomb threat; exit signs on Highway 100; Mayo Clinic redeveloping downtown Rochester; and more.",
@@ -10934,16 +11457,6 @@
           "wordCount": 2742,
           "title": "Planning Your 12-page Comic Book",
           "imageUrl": "https://thepatronsaintofsuperheroes.files.wordpress.com/2023/05/mock-up-2.png"
-        },
-        {
-          "id": "http://thepatronsaintofsuperheroes.wordpress.com/?p=12496",
-          "author": "Chris Gavaler",
-          "description": "It’s strange teaching a class from your own textbook. Leigh Ann and I are co-teaching the fourth iteration of our ENGL-ARTS 215 right now. The first year we divided the course into creative halves, with students writing scripts first and then executing them second. Second year we reconceived an image-first approach (draw first, letting characters […]",
-          "link": "https://thepatronsaintofsuperheroes.wordpress.com/2023/05/08/creating-comics-spring-term-2023/",
-          "publishedOn": "2023-05-08T10:31:54.000Z",
-          "wordCount": 2273,
-          "title": "Creating Comics (Spring Term 2023)",
-          "imageUrl": "https://thepatronsaintofsuperheroes.files.wordpress.com/2023/05/img_2328.jpg?w=900"
         }
       ]
     },
@@ -11510,6 +12023,36 @@
       "feedUrl": "http://feeds.feedburner.com/seriouseatsfeaturesvideos",
       "siteUrl": "https://www.seriouseats.com",
       "articles": [
+        {
+          "id": "https://www.seriouseats.com/pickleback-7508644",
+          "author": "Jacob Dean",
+          "description": "A staple of dive bars around the world, the pickleback is a simple shot combo that sees whiskey (these days typically Jameson) followed immediately by pickle brine. It's a salty, vinegary, palate cleansing combo invented at the Bushwick Country Club and we spoke with the folks who were there when it was invented.",
+          "link": "https://www.seriouseats.com/pickleback-7508644",
+          "publishedOn": "2023-06-06T20:35:37.000Z",
+          "wordCount": 4574,
+          "title": "The Origin of the Pickleback (And How to Make It)",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://www.seriouseats.com/thmb/XBeySTdwMVErh0skj11QpfPkDaM=/800x600/SEA-PickleBack-AmandaSuarez-hero1-47d8ad36bd7e46fb80eb316c0416afbd.gif"
+          },
+          "imageUrl": "https://www.seriouseats.com/thmb/XBeySTdwMVErh0skj11QpfPkDaM=/800x600/SEA-PickleBack-AmandaSuarez-hero1-47d8ad36bd7e46fb80eb316c0416afbd.gif"
+        },
+        {
+          "id": "https://www.seriouseats.com/best-pressure-canning-gear-7506154",
+          "author": "Donna Currie",
+          "description": "Canning can be a great way to preserve seasonal vegetables and fruits, but you got to have the right gear (such as our tested-and-recommended pressure canner).",
+          "link": "https://www.seriouseats.com/best-pressure-canning-gear-7506154",
+          "publishedOn": "2023-06-06T12:37:40.000Z",
+          "wordCount": 7389,
+          "title": "Pressure Canning Gear 101: All of the Can-Do Gear You Need",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://www.seriouseats.com/thmb/zxlHZzeJC0LKVTXp9ZXBW5Lt9Tw=/6240x4160/sea-product-canning-101-donna-currie-01.jpg-e8ce98b040bc4c1692abf4f771eb359f.jpg"
+          },
+          "imageUrl": "https://www.seriouseats.com/thmb/zxlHZzeJC0LKVTXp9ZXBW5Lt9Tw=/6240x4160/sea-product-canning-101-donna-currie-01.jpg-e8ce98b040bc4c1692abf4f771eb359f.jpg"
+        },
         {
           "id": "https://www.seriouseats.com/best-cutting-boards-7496186",
           "author": "Rochelle Bilow",
@@ -12334,6 +12877,16 @@
       "siteUrl": "https://www.math.columbia.edu/~woit/wordpress",
       "articles": [
         {
+          "id": "https://www.math.columbia.edu/~woit/wordpress/?p=13525",
+          "author": "woit",
+          "description": "The establishment of a new university in Japan has been announced, to be called ZEN University. One component of the new university will be the Inter Universal Geometry Center, with Fumiharu Kato as director, Ivan Fesenko as deputy director. The … Continue reading →",
+          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=13525",
+          "publishedOn": "2023-06-06T18:40:28.000Z",
+          "wordCount": 1878,
+          "title": "Zen University",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.math.columbia.edu/~woit/wordpress/?p=13521",
           "author": "woit",
           "description": "This past semester I taught our graduate class on Lie groups and representations, and spent part of the course on the Heisenberg group and the oscillator representation. Since the end of the semester I’ve been trying to clean up and … Continue reading →",
@@ -12360,6 +12913,16 @@
       "feedUrl": "https://undark.org/feed/",
       "siteUrl": "https://undark.org/",
       "articles": [
+        {
+          "id": "https://undark.org/?p=77534",
+          "author": "Monique Brouillette",
+          "description": "Past conservation efforts, led by the federal and state governments, have locked Native Alaskans out of their traditional hunting grounds. Many tribes are now pushing for more say in environmental management — and evidence suggests a shift to Indigenous leadership may lead to better outcomes.",
+          "link": "https://undark.org/2023/06/06/in-alaska-tribal-governments-push-for-larger-conservation-role/",
+          "publishedOn": "2023-06-06T07:47:23.000Z",
+          "wordCount": 6474,
+          "title": "In Alaska, Tribal Governments Push for Larger Conservation Role",
+          "imageUrl": "https://undark.org/wp-content/uploads/2023/06/51512452733_dc8f731bf1_o_crop.jpg"
+        },
         {
           "id": "https://undark.org/?p=78256",
           "author": "Sam Ogozalek, Tampa Bay Times",
@@ -13128,6 +13691,56 @@
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
         {
+          "id": "https://marginalrevolution.com/?p=86061",
+          "author": "Tyler Cowen",
+          "description": "So far I have explained why four of the five most often proposed risks of AI are not actually real – AI will not come to life and kill us, AI will not ruin our society, AI will not cause mass unemployment, and AI will not cause an ruinous increase in inequality. But now let’s […]\n\r\nThe post Marc Andreessen on AI safety and AI for the world appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Greg.   I'm not as convinced. Assuming each ... by OldCurmudgeon\nIn reply to Zote.   “Yes, because buggymakers became car ... by Dismalist\nThis is such a bad essay. There is loads of irrelevant stuff ... by Dan Dennis\nIn reply to Yes, what happens if something that's very, very ... by ged\nIn reply to MikeP.   Having conceded (5) AI enables bad people ... by Dzhaughn\nPlus 10 more...\n\nRelated Stories\n\nApple Vision Pro is receiving strong reviews\nEvidence from Italy’s ChatGPT Ban\nApple Vision Pro",
+          "link": "https://feeds.feedblitz.com/~/744615929/0/marginalrevolution~Marc-Andreessen-on-AI-safety-and-AI-for-the-world.html",
+          "publishedOn": "2023-06-06T22:12:57.000Z",
+          "wordCount": 1992,
+          "title": "Marc Andreessen on AI safety and AI for the world",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86047",
+          "author": "Tyler Cowen",
+          "description": "1. Is that what French YIMBY looks like?  Does building needs its own ideology?  Is Brutalism OK after all? 2. Looking back at some key AGI predictions, the core lesson being not to weigh non-proven methods of abstract reasoning too heavily.  EY vs. Hanson is the organizing theme.  You can talk yourself into a lot […]\n\r\nThe post Tuesday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Bill.   Fake Bill at 12:15:37. Cookie crumbs say it ... by Bill\nIn reply to Some Toronto guy.   Hey, nobody's stopping you from ... by Steve Griffin\nIn reply to JWatts.   You are a Coward by Anonymous\nIn reply to JonFraz.   Theoretically, copays should reduce the ... by EdR\nIn reply to Hieronymous.   I'm in Florida. There are lots of ... by Anti-Gnostic\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/744550184/0/marginalrevolution~Tuesday-assorted-links.html",
+          "publishedOn": "2023-06-06T15:47:22.000Z",
+          "wordCount": 1860,
+          "title": "Tuesday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86058",
+          "author": "Tyler Cowen",
+          "description": "But none of them had the advantages that Apple brings to the table with Apple Vision Pro. Namely, 5,000 patents filed over the past few years and an enormous base of talent and capital to work with. Every bit of this thing shows Apple-level ambition. I don’t know whether it will be the “next computing mode,” but […]\n\r\nThe post Apple Vision Pro is receiving strong reviews appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Anonymous.   I really don't think that headset ... by Dave\nThere is one thing that could have been in the WWDC video, that ... by dick King\nIn reply to zztop.   Unlike XeroxParc, Oculus didn't pioneer ... by Joe Bush\nIn reply to S. Byerley.   This isn't a product aimed at “the ... by Joe Bush\nIn reply to JWatts.   Thanks. I ma extremely farsighted. ... by steve\nPlus 10 more...\n\nRelated Stories\n\nMarc Andreessen on AI safety and AI for the world\nEvidence from Italy’s ChatGPT Ban\nApple Vision Pro",
+          "link": "https://feeds.feedblitz.com/~/744474080/0/marginalrevolution~Apple-Vision-Pro-is-receiving-strong-reviews.html",
+          "publishedOn": "2023-06-06T08:39:50.000Z",
+          "wordCount": 2067,
+          "title": "Apple Vision Pro is receiving strong reviews",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86056",
+          "author": "Tyler Cowen",
+          "description": "This was one of those “within the first fifteen seconds you know it is going to be great” experiences.  Yes the movie is too long at 2 hours, 20 minutes, but what part would you want cut?  Every scene and indeed every frame jumps to life immediately and is a joy to watch and behold.  […]\n\r\nThe post *Spider-Man: Across the Spider-Verse* appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to M.   I would personally think so. This is like ... by Tom\nI really like Tyler and his musings, but I refuse to believe ... by Tom\nIn reply to M.   “Perhaps this is how he's evolved over ... by Dinwar\nIn reply to M.   Yes, this. DC put all the loserdom of Marvel ... by Wondering\nIn reply to dearieme.   As I said in an earlier topic, “cocky ... by Mother of three\nPlus 10 more...\n\nRelated Stories\n\nTwo movies I forgot to tell you about",
+          "link": "https://feeds.feedblitz.com/~/744464915/0/marginalrevolution~SpiderMan-Across-the-SpiderVerse.html",
+          "publishedOn": "2023-06-06T07:03:44.000Z",
+          "wordCount": 1922,
+          "title": "*Spider-Man: Across the Spider-Verse*",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86053",
+          "author": "Tyler Cowen",
+          "description": "We analyse the effects of the ban of ChatGPT, a generative pre-trained transformer chatbot, on individual productivity. We first compile data on the hourly coding output of over 8,000 professional GitHub users in Italy and other European countries to analyse the impact of the ban on individual productivity. Combining the high-frequency data with the sudden […]\n\r\nThe post Evidence from Italy’s ChatGPT Ban appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to TMC.   That would be huge news if true, but all ... by James\nA 50% drop in productivity means ChatGPT makes coders 2x more ... by James\nIn reply to Rock solid.   50% (across all Github Italian ... by Raimondo Vine\nIn reply to M.   Copying code: free   Knowing what code to ... by anon\nIn reply to JMc.   That they figured out how to measure ... by TMC\nPlus 10 more...\n\nRelated Stories\n\nApple Vision Pro\nPaul Krugman on AI\nHow the Russian Revolution boosted Marx’s influence",
+          "link": "https://feeds.feedblitz.com/~/744453725/0/marginalrevolution~Evidence-from-Italy%e2%80%99s-ChatGPT-Ban.html",
+          "publishedOn": "2023-06-06T04:56:57.000Z",
+          "wordCount": 1914,
+          "title": "Evidence from Italy’s ChatGPT Ban",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
           "id": "https://marginalrevolution.com/?p=86055",
           "author": "Tyler Cowen",
           "description": "What do you all think?\n\r\nThe post Apple Vision Pro appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nMost AR headsets get played with a lot, then collect dust on ... by Michael Thomas\nI’m not sold on this – strikes me as a gimmick. Maybe ... by anonprof\nIs it good/bad for your eyes? by peri\nFrom the early days of the Oculus through the intro today, I ... by Eddie\nThe catch is in the “Pro.”   Watching movies, moments of ... by Dzhaughn\nPlus 10 more...\n\nRelated Stories\n\nPaul Krugman on AI\nWhere the AI extinction warning goes wrong\nWhy I am not entirely bullish on brain-computer interface",
@@ -13592,6 +14205,26 @@
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/commutative_separable_algebras_2.html",
+          "author": null,
+          "description": "What commutative separable monoids have to do with Galois theory.",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/commutative_separable_algebras_2.html",
+          "publishedOn": "2023-06-06T22:15:03.000Z",
+          "wordCount": 1460,
+          "title": "Commutative Separable Algebras III",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.science20.com/tommaso_dorigo/ai_and_existential_risks-256652",
+          "author": null,
+          "description": "<div type=\"xhtml\"><div xmlns=\"http://www.w3.org/1999/xhtml\">With the development of the new generation of large language models (ChatGPT, Bard, etcetera) we are seeing the first hints of an accelerating pace in the progress of artificial intelligence. These innovations may turn out to be good for humanity (with all problems we have already identified, bias, misinformation, work displacement, etc.), but their possibly exponential (and more-than-exponential) rate of change is something we cannot fathom, and is in and of itself the source of large risks.<p><a href=\"https://www.science20.com/tommaso_dorigo/ai_and_existential_risks-256652\" target=\"_blank\">read more</a></p></div></div>",
+          "link": "https://www.science20.com/tommaso_dorigo/ai_and_existential_risks-256652",
+          "publishedOn": "2023-06-06T08:17:13.000Z",
+          "wordCount": 1420,
+          "title": "AI And Existential Risks",
+          "imageUrl": null
+        },
+        {
           "id": "https://johncarlosbaez.wordpress.com/2023/06/05/seminar-on-applied-category-theory/",
           "author": null,
           "description": "David Corfield is running a one-day Seminar on Applied Category Theory tomorrow, Tuesday June 6, 2023. I’ll give a gentle introduction to applied category theory – more about the history of the subject, what people are trying to do, and my own personal involvement than any actual math. It’s hybrid – you can attend using […]",
@@ -13950,16 +14583,6 @@
           "wordCount": 1691,
           "title": "Science Without Borders - A Message From The USERN President",
           "imageUrl": null
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=7287",
-          "author": null,
-          "description": "Update (May 8): Some tentative good news! It looks like there’s now a compromise bill in the House that would preserve tenure, insisting only on the sort of post-tenure review that UT (like most universities) already has. Update (May 9): Alas, it looks like the revised bill is not much better. See this thread from […]",
-          "link": "https://scottaaronson.blog/?p=7287",
-          "publishedOn": "2023-05-07T23:39:34.000Z",
-          "wordCount": 3875,
-          "title": "Brief Update on Texan Tenure",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
         }
       ]
     },
@@ -13980,6 +14603,16 @@
       "feedUrl": "https://pointers.dailywebthing.com/feed/",
       "siteUrl": "https://iwebthings.joejenett.com/",
       "articles": [
+        {
+          "id": "https://iwebthings.joejenett.com/recently-noticed-06-06-23/",
+          "author": null,
+          "description": "GitHub - pedrozath/coltrane: 🎹🎸A music theory library with a command-line interface 📌\nText to diagram 📌\n“Compare the syntax and renders of various languages that produce diagrams from text.”\nInfinite Mac📌\n“...a collection of classic Macintosh system releases and software, all easily accessible from the comfort of a (modern) web browser.”\nPiPHero (macOS)📌\n“The macOS menu bar app to picture-in-picture any window”\nAccessibility Personas \n“Experience the web as personas with access needs” (more info)",
+          "link": "https://iwebthings.joejenett.com/recently-noticed-06-06-23/",
+          "publishedOn": "2023-06-06T19:20:30.000Z",
+          "wordCount": 449,
+          "title": "recently noticed 06-06-23",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
         {
           "id": "https://iwebthings.joejenett.com/linkylove-06-04-23/",
           "author": null,
@@ -15870,6 +16503,46 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58949",
+          "author": "Victor Mair",
+          "description": "Listen to Malaysian comedian Nigel Ng (aka \"Uncle Roger\"), who has had his Weibo and bilibili social media accounts banned due to \"violation of relevant regulations\": The ban comes one day after Ng uploaded this clip to various social media platforms. pic.twitter.com/8Wwf2aTrfZ — Aaron Busch (@tripperhead) May 19, 2023 Under the subject line \"Uncle Roger […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58949&utm_source=rss&utm_medium=rss&utm_campaign=sinitic-exclamations-in-english-speech",
+          "publishedOn": "2023-06-06T17:45:45.000Z",
+          "wordCount": 2205,
+          "title": "Sinitic exclamations in English speech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58977",
+          "author": "Mark Liberman",
+          "description": "I've recently seen many articles like this one, \"You probably don't need to learn to code anymore\" (Medium 6/5/2023), arguing that Large Language Models will make human programming (and human programmers) unnecessary. These arguments puzzle me, because my experience with LLMs suggests that they can't be relied on even for very simple programming tasks. After […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58977&utm_source=rss&utm_medium=rss&utm_campaign=llms-as-coders",
+          "publishedOn": "2023-06-06T12:19:14.000Z",
+          "wordCount": 5271,
+          "title": "LLMs as coders?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58917",
+          "author": "Victor Mair",
+          "description": "From a story on CNN on \"begpackers\" in Asia: The photo is captioned, \"Professor Stephen Pratt posed as a begpacker to do fieldwork in Hong Kong.\" The sign says: qǐng bāngzhù wǒ zài quán shìjiè lǚxíng 請幫助我在全世界旅行 \"Please help me travel around the world\" Despite the fractured grammar (the zài 在* is especially egregious), all the […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58917&utm_source=rss&utm_medium=rss&utm_campaign=sinitic-semiliteracy",
+          "publishedOn": "2023-06-06T04:43:50.000Z",
+          "wordCount": 2214,
+          "title": "Sinitic semiliteracy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58888",
+          "author": "Victor Mair",
+          "description": "Shop sign in Budapest: Don't be cowed by the quixotic orthography.  The noodles are delicious, and you can get them right here in Philadelphia, and many other cities around the world. Selected readings \"Biangbiang: authentic Xi'an grub in the heart of Philadelphia's University City\" (6/9/22) \"A Chinese character that is harder to write than 'biang'\" […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58888&utm_source=rss&utm_medium=rss&utm_campaign=annals-of-biang",
+          "publishedOn": "2023-06-06T04:34:16.000Z",
+          "wordCount": 2123,
+          "title": "Annals of biang",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=58960",
           "author": "Mark Liberman",
           "description": "…in New Zealand. Phil Pennington, \"Analysis: National opposed bilingual road signs, so what does the evidence say?\", RNZ 62/2023: Analysis – Bilingual road signs send a signal – that the country values te reo Māori. But going bilingual was confusing and National would not support it, National's Simeon Brown told voters in blue-ribbon Tauranga recently. […]",
@@ -17155,6 +17828,16 @@
       "feedUrl": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
       "siteUrl": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
       "articles": [
+        {
+          "id": "https://news.mit.edu/2023/gabriela-sa-pessoa-brazilian-politics-human-rights-amazon-ai-0606",
+          "author": "Sabina Van Mell | MIT Center for International Studies",
+          "description": "The Brazilian social justice reporter is a fellow at the MIT Center for International Studies.",
+          "link": "https://news.mit.edu/2023/gabriela-sa-pessoa-brazilian-politics-human-rights-amazon-ai-0606",
+          "publishedOn": "2023-06-06T20:55:00.000Z",
+          "wordCount": 3156,
+          "title": "Q&A: Gabriela Sá Pessoa on Brazilian politics, human rights in the Amazon, and AI",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202305/NeufferFellow-GabrielaSaPessoa.jpg"
+        },
         {
           "id": "https://news.mit.edu/2023/scaling-audio-visual-learning-without-labels-0605",
           "author": "Lauren Hinkel | MIT-IBM Watson AI Lab",
