@@ -113,6 +113,16 @@
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
         {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48621",
+          "author": "Andrew",
+          "description": "I got an email from one of our regular commenters, a nice guy who contributes to our blog discussions when not busy at his day job. He wrote a comment that did not show up on the blog, and emailed … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/10/evil-spammers-waste-our-time/",
+          "publishedOn": "2023-06-10T13:24:50.000Z",
+          "wordCount": 3468,
+          "title": "Evil spammers waste our time.",
+          "imageUrl": null
+        },
+        {
           "id": "https://statmodeling.stat.columbia.edu/?p=49163",
           "author": "Bob Carpenter",
           "description": "Thomas Lumley just dropped a blog post, Blank cheque inheritance and statistical objects, which begins as follows. One of the problems with object-oriented programming for statistical methods is that inheritance is backwards. Everything is fine for data structures, and Bioconductor … Continue reading →",
@@ -491,16 +501,6 @@
           "wordCount": 9602,
           "title": "Lots of confusion around probability.  It’s a jungle out there.",
           "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49088",
-          "author": "Andrew",
-          "description": "From Civiqs: A majority of Americans continue to support legal abortion in all or most cases. Civiqs has been conducting daily tracking polls on abortion since 2016, and has found consistent support for legal abortion throughout that time. This support … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/11/the-political-pendulum-abortion-edition/",
-          "publishedOn": "2023-05-11T13:20:12.000Z",
-          "wordCount": 5170,
-          "title": "The political pendulum (abortion edition)",
-          "imageUrl": null
         }
       ]
     },
@@ -515,6 +515,16 @@
       "feedUrl": "https://www.atlasobscura.com/feeds/latest",
       "siteUrl": "https://www.atlasobscura.com",
       "articles": [
+        {
+          "id": "https://www.atlasobscura.com/places/ex-cine-garza-former-garza-cinema",
+          "author": null,
+          "description": "The Garza (Crane) surname is one of the most representatives of the Northern Mexican city of Monterrey and its metropolitan area, the country's second most-populated. This can be seen in the municipalities of San Nicolás de los Garza and San Pedro Garza García.\n\r\nMany families originating in Monterrey, therefore, share the Garza name, and it was one of these that established Xicotepec's first permanent cinema, the Cine Garza. Monterrey is the capital of the state of Nuevo León, so the seal of this state was prominently added to the facade of the theater. The cinema started its operations in the 1950s, while three decades later, in 1986, a restaurant called La Choza (The Hut) also opened in the town.\n\r\nIn the mid-2000s, after the Cine Garza lay abandoned for a few years, La Choza occupied the building, where it is still located as of early 2023. The cinema's lobby is now the restaurant's waiting area, all seating was removed to make way for the tables and chairs, leaving the stage where the screen was located as the main architectural heritage is still present in the restaurant.\n\r\nThe stage is still used for the occasional show as well as events such as book presentations. For the most part, however, it is merely a decorated feature that diners can enjoy while tasting some of the local Xicotepense delicacies served here.",
+          "link": "https://www.atlasobscura.com/places/ex-cine-garza-former-garza-cinema",
+          "publishedOn": "2023-06-10T14:00:00.000Z",
+          "wordCount": 3857,
+          "title": "Ex Cine Garza (Former Garza Cinema) in Xicotepec de Juárez, Mexico",
+          "imageUrl": "https://img.atlasobscura.com/izb9hVFc_exe4el2rhoNgKgqvNCV6lhfxdiM0KW8id0/rt:fit/w:600/c:2741:1827:nowe:0:240/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wY2Fh/N2E1OC1iMWIyLTQ0/MDAtOWJkNC04ODZl/MGVjOTA0MmFhODJj/ZGQ0OTZkMmRjYWVi/YWFfZ2FyeiAoMSku/anBn.jpg"
+        },
         {
           "id": "https://www.atlasobscura.com/places/morris-co-stained-glass-window-adelaide-australia",
           "author": null,
@@ -2091,16 +2101,6 @@
           "publishedOn": "2023-05-15T18:33:01.000Z",
           "wordCount": 576,
           "title": "Crypto Had Its Bank Runs Too",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bloomberg.com/opinion/articles/2023-05-11/blackstone-can-be-the-bank",
-          "author": "Matt Levine",
-          "description": "Also BlackRock and utilities, short-sale bans, the writers’ strike as securities fraud and oil-well plugging liability.",
-          "link": "https://www.bloomberg.com/opinion/articles/2023-05-11/blackstone-can-be-the-bank",
-          "publishedOn": "2023-05-11T18:20:29.000Z",
-          "wordCount": 576,
-          "title": "Blackstone Can Be the Bank",
           "imageUrl": null
         }
       ]
@@ -5292,6 +5292,28 @@
       "feedUrl": "http://rss.sciam.com/ScientificAmerican-Global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "E4BB7E63-6A2B-4C67-8E7ACD103428CF82",
+          "author": "Laura Reece Hogan",
+          "description": "Science in meter and verse",
+          "link": "https://www.scientificamerican.com/article/poem-lyrebird/",
+          "publishedOn": "2023-06-10T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Poem: 'Lyrebird'",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "CF899B90-566E-44DD-9C6B866C960E8D6E",
+          "author": "Jenny Morber, Starre Vartan",
+          "description": "How academic institutions can prevent sexual harassment and protect scientists",
+          "link": "https://www.scientificamerican.com/article/sexual-harassment-still-pervades-science/",
+          "publishedOn": "2023-06-10T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Sexual Harassment Still Pervades Science",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "B19C9FF5-0882-4021-9FECCFD47616EB1A",
           "author": "Devin Farmiloe",
@@ -12069,16 +12091,6 @@
           "wordCount": 1389,
           "title": "Regression Modeling Strategies Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://fharrell.com/course/prerms/index.html",
-          "author": null,
-          "description": "One-day virtual course 2023-05-12",
-          "link": "https://fharrell.com/course/prerms/index.html",
-          "publishedOn": "2023-05-12T05:00:00.000Z",
-          "wordCount": 1454,
-          "title": "Regression Modeling Strategies Pre-Course",
-          "imageUrl": null
         }
       ]
     },
@@ -12104,6 +12116,16 @@
       "feedUrl": "https://www.statschat.org.nz/feed/",
       "siteUrl": "https://www.statschat.org.nz",
       "articles": [
+        {
+          "id": "https://www.statschat.org.nz/?p=19598",
+          "author": "Thomas Lumley",
+          "description": "Q: Did you see that chocolate and wine really are good for the brain? A: Not convinced Q: A randomised trial, though. 16% improvement in memory! A: A randomised trial, but not 16% improvement in memory Q: It’s what the Herald says A: Well, more precisely, it’s what the Daily Telegraph says Q: What does […]\nChocolate for the brain? first appeared on Stats Chat.",
+          "link": "https://www.statschat.org.nz/2023/06/10/chocolate-for-the-brain/?utm_source=rss&utm_medium=rss&utm_campaign=chocolate-for-the-brain",
+          "publishedOn": "2023-06-10T00:12:42.000Z",
+          "wordCount": 1588,
+          "title": "Chocolate for the brain?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.statschat.org.nz/?p=19594",
           "author": "Thomas Lumley",
@@ -12363,6 +12385,36 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3a7ee3a34f28",
+          "author": "Kalpana Khattri",
+          "description": "Touch the souls with stunning verses",
+          "link": "https://writingcooperative.com/how-to-craft-beautiful-poems-put-your-emotions-into-pages-3a7ee3a34f28?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-10T21:01:45.000Z",
+          "wordCount": 3884,
+          "title": "How to Craft Beautiful Poems: Put Your Emotions into Pages",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4kVwjeb_8307IU2H"
+        },
+        {
+          "id": "https://medium.com/p/ab94941a72ab",
+          "author": "Wahyuni Sapri",
+          "description": "Break free and write better\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/how-stepping-away-from-writing-level-up-your-writing-capability-ab94941a72ab?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-10T17:02:23.000Z",
+          "wordCount": 3978,
+          "title": "How Stepping Away from Writing Level up Your Writing Capability",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*R9FTS2JxiWxBbV_nsmsgAg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/6e81caa47e2",
+          "author": "Cameron Thomson",
+          "description": "Treating your setting like a character is at the heart of making an immersive world\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/the-elements-of-storytelling-how-to-write-an-immersive-setting-6e81caa47e2?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-10T13:01:49.000Z",
+          "wordCount": 5431,
+          "title": "The Elements of Storytelling: How To Write an Immersive Setting",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uuOYjD8iL2cRaquwCp7JEg.png"
+        },
         {
           "id": "https://medium.com/p/cf55553f4c8d",
           "author": "Ronni Souers",
@@ -13426,22 +13478,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/885749b8-7478-4af9-be58-441357f25679_600x600.png"
-        },
-        {
-          "id": "https://www.overcomingbias.com/p/ai-risk-convo-synthesis",
-          "author": "Robin Hanson",
-          "description": "YouGov America released a survey of 20,810 American adults. … 46% say that they are \"very concerned\" or \"somewhat concerned\" about the possibility that AI will cause the end of the human race on Earth … There do not seem to be meaningful differences by region, gender, or political party. Younger people seem more concerned than older people.… Furthermore, 69% of Americans appear to support a six-month pause in \"some kinds of AI development\". (",
-          "link": "https://www.overcomingbias.com/p/ai-risk-convo-synthesis",
-          "publishedOn": "2023-05-11T21:43:49.000Z",
-          "wordCount": null,
-          "title": "AI Risk Convo Synthesis",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/528fed63-8f13-479c-835e-1a6d6e0d2d58_716x352.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/528fed63-8f13-479c-835e-1a6d6e0d2d58_716x352.png"
         }
       ]
     },
@@ -14086,16 +14122,6 @@
           "wordCount": 2388,
           "title": "All 5 Ben Affleck Directed Movies Ranked From Worst To Best",
           "imageUrl": "http://www.tasteofcinema.com/wp-content/uploads/2023/05/Ben-Affleck-movies.jpg"
-        },
-        {
-          "id": "http://www.tasteofcinema.com/?p=66507",
-          "author": "Mike Gray",
-          "description": "With so many films released every decade and every passing year burying the previous ones further down, it’s not surprising there are literally hundreds of worthwhile films that have become forgotten as time passes. But new is not necessarily better, and as films are tied closely to the current culture of any given year, many […]",
-          "link": "http://www.tasteofcinema.com/2023/the-10-most-underrated-action-movies-of-the-2000s/",
-          "publishedOn": "2023-05-11T15:32:43.000Z",
-          "wordCount": 2605,
-          "title": "The 10 Most Underrated Action Movies of The 2000s",
-          "imageUrl": "http://www.tasteofcinema.com/wp-content/uploads/2023/05/2000s-action-movies.jpg"
         }
       ]
     },
@@ -16512,36 +16538,6 @@
             "url": "https://www.seriouseats.com/thmb/Qe8t0mvQEpbpYKO0aURk_NOpyq0=/4000x2668/Web_4000-Testing-ThermoWorks_Thermapen_3-RussellKilgore-0814-a03dacc7d514437c9c1cdaba552c7bc5.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/Qe8t0mvQEpbpYKO0aURk_NOpyq0=/4000x2668/Web_4000-Testing-ThermoWorks_Thermapen_3-RussellKilgore-0814-a03dacc7d514437c9c1cdaba552c7bc5.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-stand-mixers-7377555",
-          "author": "Irvin Lin",
-          "description": "We tested 10 popular stand mixers to find out which ones performed the best and were the easiest to use.",
-          "link": "https://www.seriouseats.com/best-stand-mixers-7377555",
-          "publishedOn": "2023-05-11T20:31:02.000Z",
-          "wordCount": null,
-          "title": "We Tested 10 Stand Mixers—Four Stood Out Above the Rest",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/Oxui5nGM_6_2oAc1g-Zr5JzD4bM=/1500x1000/Web_4000-SEA-GroupShot-RussellKilgore-1247-5be0dde992544cee91303b40ec0bb97e.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/Oxui5nGM_6_2oAc1g-Zr5JzD4bM=/1500x1000/Web_4000-SEA-GroupShot-RussellKilgore-1247-5be0dde992544cee91303b40ec0bb97e.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/pan-chicken-recipe-7496775",
-          "author": "Michelle and Suzanne Rousseau",
-          "description": "Marinated with fragrant island spices like Scotch bonnet pepper, scallion, and thyme, pan chicken is hot, smoky, and tender—the ultimate Jamaican fast food.",
-          "link": "https://www.seriouseats.com/pan-chicken-recipe-7496775",
-          "publishedOn": "2023-05-11T20:21:29.000Z",
-          "wordCount": null,
-          "title": "Jamaican Pan Chicken",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/2vQBK_7Efy_PnmAagNZpBPVHogI=/4000x3000/20230511-SEA-PanChicken-KarinaMatalon-hero-840f61c426c6444a8fdb3b80d67b577f.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/2vQBK_7Efy_PnmAagNZpBPVHogI=/4000x3000/20230511-SEA-PanChicken-KarinaMatalon-hero-840f61c426c6444a8fdb3b80d67b577f.jpg"
         }
       ]
     },
@@ -17404,6 +17400,16 @@
       "siteUrl": "https://retractionwatch.com",
       "articles": [
         {
+          "id": "https://retractionwatch.com/?p=127280",
+          "author": "Ivan Oransky",
+          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to more than 300. There are now 40,000 retractions in our database — which powers retraction alerts in EndNote, LibKey, Papers, and Zotero. The Retraction Watch Hijacked Journal Checker now contains 200 titles. And have you … Continue reading Weekend reads: How a rejected study led to a $3.8 million grant; a ‘nasty’ publishing scheme; the ‘darker side of science’",
+          "link": "https://retractionwatch.com/2023/06/10/weekend-reads-how-a-rejected-study-led-to-a-3-8-million-grant-a-nasty-publishing-scheme/",
+          "publishedOn": "2023-06-10T13:04:48.000Z",
+          "wordCount": 2219,
+          "title": "Weekend reads: How a rejected study led to a $3.8 million grant; a ‘nasty’ publishing scheme; the ‘darker side of science’",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2021/07/rw.jpeg"
+        },
+        {
           "id": "https://retractionwatch.com/?p=127269",
           "author": "Ellie Kincaid",
           "description": "The scientific paper inspired international headlines with its bold claim that the combination of brain scans and machine learning algorithms could identify people at risk for suicide with 91% accuracy. The promise of the work garnered lead author Marcel Adam Just of Carnegie Mellon University in Pittsburgh and co-author David Brent of the University of Pittsburgh a five-year, $3.8 million grant from the National Institute of … Continue reading How a now-retracted study got published in the first place, leading to a $3.8 million NIH grant",
@@ -17590,6 +17596,56 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86081",
+          "author": "Tyler Cowen",
+          "description": "We study whether tweets about racial justice predict the offline behaviors of nearly 20,000 US academics. In an audit study, academics that tweet about racial justice discriminate more in favor of minority students than academics that do not tweet about racial justice. Racial justice tweets are more predictive of race-related political tweets than political contributions, […]\n\r\nThe post Virtue signaling on Twitter appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Paul Wall.   My grammarian side likes the correct ... by Moral Panic\nIn reply to Cancelled for wongthink.   BLM = Buying Large ... by DeQuan\nIn reply to Jack QR.   The paper, itself, is a form of virtue ... by hank\nthe woke & pear-shaped at youtube canned jordan peterson for ... by community notes\nIn reply to Dorey.   There should be some metrics to support ... by steve\nPlus 10 more...\n\nRelated Stories\n\nKenya facts of the day\nEconomics, Hayek, and Large Language Models\nEmergent Ventures winners, 26th cohort",
+          "link": "https://feeds.feedblitz.com/~/745327298/0/marginalrevolution~Virtue-signaling-on-Twitter.html",
+          "publishedOn": "2023-06-10T19:00:19.000Z",
+          "wordCount": 1863,
+          "title": "Virtue signaling on Twitter",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86080",
+          "author": "Tyler Cowen",
+          "description": "1. Negative real wage growth accounts for negative macroeconomic perceptions. 2. Those new (Chinese) service sector jobs. 3. Octopuses redesign their own brains when they get cold. 4. “It irritates lots of folks to note this, but US trade with the Indo Pacific actually picked up after Trump said no to TPP” 5. Tharman is […]\n\r\nThe post Saturday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to skyzyks.   I suppose a human generated the ... by Moral Panic\nOf course hes funny, remember ChatGPT 4 was trained for years ... by Antony T\nIn reply to mkt42.   Whoops, this was meant to be a reply to ... by mkt42\nRight, this recent result fits with other research that ... by mkt42\nIn reply to Keith.   One might think it's obvious that, of ... by BC\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/745308407/0/marginalrevolution~Saturday-assorted-links.html",
+          "publishedOn": "2023-06-10T16:15:25.000Z",
+          "wordCount": 1817,
+          "title": "Saturday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86084",
+          "author": "Alex Tabarrok",
+          "description": "Many years ago I was incredulous when my wife told me she had to format a paper to meet a journal’s guidelines before it was accepted! Who could favor such a dumb policy? In economics, the rule is you make your paper look good but you don’t have to fulfill all the journal’s guidelines until after […]\n\r\nThe post Free Formatting For All on First Submission! appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nI'm a serious LLM skeptic, but reformatting documents to meet ... by Kaleberg\nIn reply to dan1111.   If journal shopping were the issue, only ... by Alex Tabarrok\nIn reply to dan1111.   I knew without even looking that this ... by Asher\nIn reply to Moses Taylor.   No, they restricted it to ... by Humphrey Konishi\nSeems like this might function as a signal of ... by Michael Wulfsohn\nPlus 10 more...\n\nRelated Stories\n\nEmergent Ventures winners, 26th cohort\nAir Pollution Redux\nThe Poop Detective",
+          "link": "https://feeds.feedblitz.com/~/745260608/0/marginalrevolution~Free-Formatting-For-All-on-First-Submission.html",
+          "publishedOn": "2023-06-10T11:21:49.000Z",
+          "wordCount": 2075,
+          "title": "Free Formatting For All on First Submission!",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86073",
+          "author": "Tyler Cowen",
+          "description": "The total fertility rate for 2019 was 3.4 births which marks a drop of about one birth from 4.8 births in 2009. But here is the more interesting part: The gap between the highest and lowest TFR continues to increase – which is lowest at 2.5 children in Nairobi and 8 children per woman in […]\n\r\nThe post Kenya facts of the day appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nMandera county isn't “forgotten.” It's heavily subject to ... by Tom T.\nIn reply to sxb.   And on Tyler's latest conversation with ... by Moral Panic\nThat maternal mortality rate is incredibly high but the women ... by steve\nIn reply to Magus.   Well it appears dysgenic for distance ... by Formerly K\nIn reply to Magus.   Cremieux found a dysgenic trend of 1.5 IQ ... by Facixe\nPlus 9 more...\n\nRelated Stories\n\nThe Poop Detective\nEvidence from Italy’s ChatGPT Ban\nHow the Russian Revolution boosted Marx’s influence",
+          "link": "https://feeds.feedblitz.com/~/745237724/0/marginalrevolution~Kenya-facts-of-the-day.html",
+          "publishedOn": "2023-06-10T08:11:25.000Z",
+          "wordCount": 1848,
+          "title": "Kenya facts of the day",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86069",
+          "author": "Tyler Cowen",
+          "description": "That is the topic of my latest Blooomberg column.  This exercise is speculative, but here is my tentative resolution: Workers have been undergoing a serious crisis of morale since the pandemic — and they really are doing less. So businesses, in turn, have to hire more of them just to keep pace. Does this hypothesis […]\n\r\nThe post Why mediocre gdp growth and a strong labor market? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Ringo.   How productive was Charlie Parker, stoned ... by rsm\n《Why mediocre gdp growth and a strong labor market?》   Are ... by rsm\nIn reply to Matt2.   The way one of my bosses described this is ... by (Not That) Bill O'Reilly\nIn reply to Mike in Va.   If your supervisors have noticed ... by BC\nActually Tyler is 100% backward in his explanation. ... by Clint\nPlus 10 more...\n\nRelated Stories\n\nFree Formatting For All on First Submission!\nEconomics, Hayek, and Large Language Models\nAir Pollution Redux",
+          "link": "https://feeds.feedblitz.com/~/745214756/0/marginalrevolution~Why-mediocre-gdp-growth-and-a-strong-labor-market.html",
+          "publishedOn": "2023-06-10T05:00:31.000Z",
+          "wordCount": 2197,
+          "title": "Why mediocre gdp growth and a strong labor market?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86082",
           "author": "Tyler Cowen",
@@ -18633,6 +18689,16 @@
       "feedUrl": "https://pointers.dailywebthing.com/feed/",
       "siteUrl": "https://iwebthings.joejenett.com/",
       "articles": [
+        {
+          "id": "https://iwebthings.joejenett.com/linkylove-06-10-23/",
+          "author": null,
+          "description": "32-Bit Cafe \n⬌ the museum of alexandra\nTimeGuessr \nitzrex\n💜 Non-profit bloggers\nOpen Indie",
+          "link": "https://iwebthings.joejenett.com/linkylove-06-10-23/",
+          "publishedOn": "2023-06-10T14:41:32.000Z",
+          "wordCount": 389,
+          "title": "linkylove 06-10-23",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
         {
           "id": "https://iwebthings.joejenett.com/private-secure-superfast/",
           "author": null,
@@ -21143,6 +21209,46 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59077",
+          "author": "Victor Mair",
+          "description": "Enlightening article by Peter Backhaus in The Japan Times (6/9/23): \"Za grammar notes: How to properly handle the 'the' in Japanese\" Japanese seems to be able to assimilate any English word, including the ubiquitous definite article \"the\", which is unlike anything in Japanese itself. If there’s something like a Murphy’s Law for syntax, the name […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59077&utm_source=rss&utm_medium=rss&utm_campaign=steak-the-first",
+          "publishedOn": "2023-06-10T21:32:29.000Z",
+          "wordCount": 3182,
+          "title": "\"Steak the First\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59074",
+          "author": "Mark Liberman",
+          "description": "The most recent Trump indictment reproduces this exchange of text messages (p. 11) : Trump Employee 2: We can definitely make it work if we move his papers into the lake room? Trump Employee 1: There is still a little room in the shower where his other stuff is. Is it only his papers he […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59074&utm_source=rss&utm_medium=rss&utm_campaign=the-beautiful-mind-paper-boxes",
+          "publishedOn": "2023-06-10T12:51:43.000Z",
+          "wordCount": 2782,
+          "title": "\"The beautiful mind paper boxes\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59071",
+          "author": "Victor Mair",
+          "description": "As I am about to deliver a keynote address to an international conference on Chinese language pedagogy, I receive news of this new LLM that knocks my socks off: InternLM is a multilingual large language model jointly developed by Shanghai AI Lab and SenseTime (with equal contribution), in collaboration with the Chinese University of Hong […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59071&utm_source=rss&utm_medium=rss&utm_campaign=internlm",
+          "publishedOn": "2023-06-10T11:46:43.000Z",
+          "wordCount": 2712,
+          "title": "InternLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59030",
+          "author": "Victor Mair",
+          "description": "From Scott D. Seligman via Facebook:   ChatGPT is really creeping me out. I asked it for a recipe for Pad Thai in the form of an Emily Dickinson poem. I'm no poetry maven, but the damned thing seems to have the ability to turn a phrase, at least some of the time. Below is […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59030&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-does-emily-dickinson-writing-a-recipe-for-pad-thai-and-haiku-too",
+          "publishedOn": "2023-06-10T03:02:36.000Z",
+          "wordCount": 3278,
+          "title": "ChatGPT does Emily Dickinson writing a recipe for Pad Thai (and haiku too)",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59056",
           "author": "Mark Liberman",
           "description": "Email from Florent Moncomble [links added]: A few months ago, the distinguished member of the Académie française Alain Finkielkraut was featured in a video where he deplored the loss of “a word which used to exist in the [French] language and disappeared from it”, ie. “compersion”. Apparently, little does he know that “compersion” was actually coined […]",
@@ -22636,6 +22742,16 @@
       "siteUrl": "https://berthub.eu/articles/",
       "articles": [
         {
+          "id": "https://berthub.eu/articles/posts/waarheen-met-energie/",
+          "author": null,
+          "description": "\"Best een goede samenvatting eigenlijk\" — een daadwerkelijke energie-expert\nOp 10 juni 2023 is dit artikel uit 2022 ge-update met een extra stukje over waterstof en waar het niet voor geschikt is, plus wat meer over kernenergie, en over minder energie verbruiken.\nSinds een tijdje maak ik grafiekjes van hoe Nederland aan z’n elektriciteit komt. En soms ben ik daar dan enthousiast over, zeker als de wind waait en de zon goed schijnt.",
+          "link": "https://berthub.eu/articles/posts/waarheen-met-energie/",
+          "publishedOn": "2023-06-10T08:37:59.000Z",
+          "wordCount": 3290,
+          "title": "Waarheen met energie: wat is het plan?",
+          "imageUrl": "https://berthub.eu/articles/energy_chemical_mix.png"
+        },
+        {
           "id": "https://berthub.eu/articles/posts/dutch-intel-law-about-intel/",
           "author": null,
           "description": "This is a mirror of the original about:intel post, since the about:intel server is sadly overloaded.\nThe Dutch government is proposing adding a lex specialis to its existing intelligence and security services act. This addition significantly changes the scope of many powers and also extends who they can be applied to.\nA draft of an English summary of this proposed law can be found here. A far longer summary in Dutch is here.",
@@ -22713,6 +22829,16 @@
       "feedUrl": "https://economicsfromthetopdown.com/feed/",
       "siteUrl": "https://economicsfromthetopdown.com/",
       "articles": [
+        {
+          "id": "https://economicsfromthetopdown.com/?p=6773",
+          "author": "Blair Fix",
+          "description": "I’m sick of the AI hype and scaremongering. The idea that AI could take over the world is laughable.\nThe post No, AI Does Not Pose an Existential Risk to Humanity appeared first on Economics from the Top Down.",
+          "link": "https://economicsfromthetopdown.com/2023/06/10/no-ai-does-not-pose-an-existential-risk-to-humanity/",
+          "publishedOn": "2023-06-10T11:43:49.000Z",
+          "wordCount": 4629,
+          "title": "No, AI Does Not Pose an Existential Risk to Humanity",
+          "imageUrl": "https://economicsfromthetopdown.com/wp-content/uploads/2023/06/robot_breakfast1.png"
+        },
         {
           "id": "https://economicsfromthetopdown.com/?p=6674",
           "author": "Blair Fix",
@@ -23102,16 +23228,6 @@
           "wordCount": 2680,
           "title": "Joining the battle against health care bias",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202304/Leo-Celi-MIT.jpg"
-        },
-        {
-          "id": "https://news.mit.edu/2023/3-questions-jacob-andreas-large-language-models-0511",
-          "author": "Rachel Gordon | MIT CSAIL",
-          "description": "The CSAIL scientist describes natural language processing research through state-of-the-art machine-learning models and investigation of how language can enhance other types of artificial intelligence.",
-          "link": "https://news.mit.edu/2023/3-questions-jacob-andreas-large-language-models-0511",
-          "publishedOn": "2023-05-11T17:00:00.000Z",
-          "wordCount": 2961,
-          "title": "3 Questions: Jacob Andreas on large language models",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202304/Jacob-LLM-transformed.jpg"
         }
       ]
     },
