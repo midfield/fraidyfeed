@@ -39,6 +39,16 @@
       "siteUrl": "https://golem.ph.utexas.edu/category/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/brauers_lemma.html",
+          "author": null,
+          "description": "\"Brauer's Lemma\" shows up in one proof of the Wedderburn--Artin Theorem.  But what does this lemma say, and why is it true?",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/brauers_lemma.html",
+          "publishedOn": "2023-06-11T21:47:51.000Z",
+          "wordCount": 2150,
+          "title": "Brauer's Lemma",
+          "imageUrl": null
+        },
+        {
           "id": "https://golem.ph.utexas.edu/category/2023/06/commutative_separable_algebras_2.html",
           "author": null,
           "description": "What commutative separable monoids have to do with Galois theory.",
@@ -112,6 +122,26 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=49171",
+          "author": "Lizzie",
+          "description": "This post is by Lizzie. I took the photo on Tuesday at a Sforza fortress in Bellinzona. The museum currently also has an installation by Zimoun, who also did `36 ventilators, 4.7m3 packing chips.’ I recently read Tree Story: The … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/11/the-loneliest-kind-of-lonely/",
+          "publishedOn": "2023-06-11T17:41:31.000Z",
+          "wordCount": 3457,
+          "title": "The loneliest kind of lonely",
+          "imageUrl": null
+        },
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48281",
+          "author": "Andrew",
+          "description": "We wrote about this last year in our post, PNAS GIGO QRP WTF: This meta-analysis of nudge experiments is approaching the platonic ideal of junk science and our followup PNAS article, No reason to expect large and consistent effects of … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/11/joe-simmons-leif-nelson-and-uri-simonsohn-agree-with-us-regarding-the-much-publicized-but-implausible-and-unsubstantiated-claims-of-huge-effects-from-nudge-interventions/",
+          "publishedOn": "2023-06-11T13:20:36.000Z",
+          "wordCount": 4100,
+          "title": "Joe Simmons, Leif Nelson, and Uri Simonsohn agree with us regarding the much publicized but implausible and unsubstantiated claims of huge effects from nudge interventions",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=48621",
           "author": "Andrew",
@@ -480,26 +510,6 @@
           "publishedOn": "2023-05-14T13:14:19.000Z",
           "wordCount": 4769,
           "title": "Some cool interactive covid infographics from the British Medical Journal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=48531",
-          "author": "Andrew",
-          "description": "Aleks pointed me to this article, which reports: Epidemiologic data consistently show strong protection for young children against severe COVID-19 illness. . . . We identified 3,126,427 adults (24% [N = 743,814] with children ≤18, and 8.8% [N = 274,316] … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/13/does-having-kids-really-protect-you-from-serious-covid%e2%80%9119-symptoms-2/",
-          "publishedOn": "2023-05-13T13:00:36.000Z",
-          "wordCount": 5223,
-          "title": "Does having kids really protect you from serious COVID‑19 symptoms?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=48528",
-          "author": "Andrew",
-          "description": "Emma Pierson sends along this statistics quiz (screen-shotted below—you can see the answers people gave to each question in the bar graphs): Pierson writes: In spite of the simplicity and ubiquity of the setup, people were very bad at this … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/12/lots-of-confusion-around-probability-its-a-jungle-out-there/",
-          "publishedOn": "2023-05-12T13:18:41.000Z",
-          "wordCount": 9602,
-          "title": "Lots of confusion around probability.  It’s a jungle out there.",
           "imageUrl": null
         }
       ]
@@ -2607,18 +2617,7 @@
       "title": "Machine Thoughts",
       "feedUrl": "https://machinethoughts.wordpress.com/feed/",
       "siteUrl": "https://machinethoughts.wordpress.com",
-      "articles": [
-        {
-          "id": "http://machinethoughts.wordpress.com/?p=3380",
-          "author": "McAllester",
-          "description": "Wittgentsein famously stated that “the meaning is the use”. Unfortunately no analytical explanation of this statement is provided in the posthumously published Philosophical Investigations. Wittgenstein’s point seems to be that language is not appropriately approached through logical or analytical means, … Continue reading →",
-          "link": "https://machinethoughts.wordpress.com/2023/05/12/the-meaning-is-the-use/",
-          "publishedOn": "2023-05-12T13:46:01.000Z",
-          "wordCount": 2736,
-          "title": "The Meaning is The Use.",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "David A. Hopkins / @DaveAHopkins",
@@ -4471,22 +4470,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/13da131f-7454-44da-a2a0-63d5812d2ff7_255x255.webp"
-        },
-        {
-          "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2755",
-          "author": "Scott Alexander",
-          "description": "...",
-          "link": "https://astralcodexten.substack.com/p/hidden-open-thread-2755",
-          "publishedOn": "2023-05-12T18:52:05.000Z",
-          "wordCount": null,
-          "title": "Hidden Open Thread 275.5",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e61b0ce2-0de7-40a5-8e47-6938ec819167_612x583.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e61b0ce2-0de7-40a5-8e47-6938ec819167_612x583.jpeg"
         }
       ]
     },
@@ -12117,6 +12100,16 @@
       "siteUrl": "https://www.statschat.org.nz",
       "articles": [
         {
+          "id": "https://www.statschat.org.nz/?p=19600",
+          "author": "Thomas Lumley",
+          "description": "Chris Luxon, via Q+A: “72% of all landlords are Mum & Dad investors… they are not evil property speculators” This is attracting a lot of comment, because it can be interpreted as two quite different claims: either that the landlord of a randomly chosen rental has a 72% chance of being a “Mum & Dad […]\n72% of landlords? first appeared on Stats Chat.",
+          "link": "https://www.statschat.org.nz/2023/06/11/72-of-landlords/?utm_source=rss&utm_medium=rss&utm_campaign=72-of-landlords",
+          "publishedOn": "2023-06-11T02:14:05.000Z",
+          "wordCount": 1717,
+          "title": "72% of landlords?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.statschat.org.nz/?p=19598",
           "author": "Thomas Lumley",
           "description": "Q: Did you see that chocolate and wine really are good for the brain? A: Not convinced Q: A randomised trial, though. 16% improvement in memory! A: A randomised trial, but not 16% improvement in memory Q: It’s what the Herald says A: Well, more precisely, it’s what the Daily Telegraph says Q: What does […]\nChocolate for the brain? first appeared on Stats Chat.",
@@ -12338,16 +12331,6 @@
           "wordCount": 2860,
           "title": "Parsons Student Projects",
           "imageUrl": "https://junkcharts.typepad.com/.a/6a00d8341e992c53ef02b751a54c26200c-600wi"
-        },
-        {
-          "id": "https://junkcharts.typepad.com/junk_charts/2023/05/graph-workflow-and-defaults-wreak-havoc.html",
-          "author": null,
-          "description": "Kaiser removes unhelpful default settings from a bar chart.",
-          "link": "https://junkcharts.typepad.com/junk_charts/2023/05/graph-workflow-and-defaults-wreak-havoc.html",
-          "publishedOn": "2023-05-12T13:17:00.000Z",
-          "wordCount": 2846,
-          "title": "Graph workflow and defaults wreak havoc",
-          "imageUrl": "https://junkcharts.typepad.com/.a/6a00d8341e992c53ef02b751802771200b-600wi"
         }
       ]
     },
@@ -12385,6 +12368,46 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/97cbfb383b67",
+          "author": "Steven Toews, JD, MBA",
+          "description": "How to take the sting out of constructive criticism\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/making-criticism-hurt-less-surviving-negative-feedback-from-writing-clients-97cbfb383b67?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-11T21:01:44.000Z",
+          "wordCount": 3049,
+          "title": "Making Criticism Hurt Less: Surviving Negative Feedback From Writing Clients",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*PtvG5-o5Okv17DWn"
+        },
+        {
+          "id": "https://medium.com/p/25140b1461f3",
+          "author": "Lauren Hall",
+          "description": "And the value of failing along the way\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/mistakes-i-would-avoid-if-i-could-start-my-writing-business-all-over-again-25140b1461f3?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-11T17:02:23.000Z",
+          "wordCount": 4419,
+          "title": "Mistakes I Would Avoid If I Could Start My Writing Business All Over Again",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2lFE4utsk1Q0Ty6o"
+        },
+        {
+          "id": "https://medium.com/p/c777e1eb0c31",
+          "author": "Karen DeGroot Carter",
+          "description": "Including when they really should be used in your writing\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/the-straight-skinny-on-semicolons-aka-supercommas-c777e1eb0c31?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-11T15:01:33.000Z",
+          "wordCount": 2178,
+          "title": "The Straight Skinny on Semicolons (aka “Supercommas”)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*GajAQ7rL_I1OC98jahclCg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c5a3cb2e6eed",
+          "author": "Zachary Walston, PT, DPT, OCS",
+          "description": "They apply to all areas of communication and content development\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/2-important-lessons-learned-from-3-years-of-writing-about-health-and-fitness-c5a3cb2e6eed?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-11T13:02:16.000Z",
+          "wordCount": 3070,
+          "title": "2 Important Lessons Learned From 3 Years of Writing About Health and Fitness",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*blDyWHPpAtvjUI4dfZqIUg.png"
+        },
         {
           "id": "https://medium.com/p/3a7ee3a34f28",
           "author": "Kalpana Khattri",
@@ -13111,6 +13134,26 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=53148",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/06/12/gamin-the-rankin/",
+          "publishedOn": "2023-06-11T22:23:08.000Z",
+          "wordCount": 1710,
+          "title": "gamin’ the rankin’",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/saudiuni.jpg"
+        },
+        {
+          "id": "http://xianblog.wordpress.com/?p=53198",
+          "author": "xi'an",
+          "description": "After procrastinating as much as feasible, I switched at last to (K)Ubuntu 22.04, Jammy Jellyfish, after security updates stopped for the 20.04 version. While this proceeded mostly without hiccups, the upgrade stalled when upgrading Firefox, which I had foolishly left open. When I turned it off and completed the upgrade, this erased all of my […]",
+          "link": "https://xianblog.wordpress.com/2023/06/11/technical-steps/",
+          "publishedOn": "2023-06-10T22:23:32.000Z",
+          "wordCount": 1840,
+          "title": "technical steps",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kubuntu_22.04_fr_001.png"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=53183",
           "author": "xi'an",
@@ -14003,6 +14046,16 @@
       "feedUrl": "http://www.tasteofcinema.com/feed/",
       "siteUrl": "http://www.tasteofcinema.com",
       "articles": [
+        {
+          "id": "http://www.tasteofcinema.com/?p=66624",
+          "author": "Mark Serravalle",
+          "description": "Movies like to play with genre in more ways than one. Whether it’s subverting the audience’s expectations about what kind of film they are about to see or combining multiple genres in order to create a unique and idealised experience, there are endless possibilities when it comes to how filmmakers present their take on convention. […]",
+          "link": "http://www.tasteofcinema.com/2023/the-10-best-genre-bending-movies-of-all-time/",
+          "publishedOn": "2023-06-11T15:32:54.000Z",
+          "wordCount": 2914,
+          "title": "The 10 Best Genre-Bending Movies Of All Time",
+          "imageUrl": "http://www.tasteofcinema.com/wp-content/uploads/2015/02/The_Assassination_of_Jesse_James_.jpg"
+        },
         {
           "id": "http://www.tasteofcinema.com/?p=66608",
           "author": "Guillermo de Querol",
@@ -15155,16 +15208,6 @@
           "wordCount": 2286,
           "title": "Take Five",
           "imageUrl": "https://blog.cbs.dk/inframethodology/wp-content/uploads/2021/03/Screenshot-2021-04-05-at-22.58.39-1.png"
-        },
-        {
-          "id": "https://blog.cbs.dk/inframethodology/?p=6341",
-          "author": "Thomas Basbøll",
-          "description": "My view is that if you know something “for academic purposes” then you are able to compose a coherent prose paragraph about it in half an hour. As an academic writing instructor, that is what I teach; my core “learning objective” is the ability to support, elaborate, or defend a clearly stated proposition using at … Continue reading Knowledge-able-(ism?) →",
-          "link": "https://blog.cbs.dk/inframethodology/?p=6341",
-          "publishedOn": "2023-05-13T11:27:56.000Z",
-          "wordCount": 3347,
-          "title": "Knowledge-able-(ism?)",
-          "imageUrl": "https://blog.cbs.dk/inframethodology/wp-content/uploads/2020/05/Screenshot-2021-04-12-at-10.13.43.png"
         }
       ]
     },
@@ -16493,51 +16536,6 @@
             "url": "https://www.seriouseats.com/thmb/dvviTkFrlsKfgaEYz0NuLZf2SZc=/1500x1125/WokTestingEggs2-c8452756dbc24e3792815c3b1bc0d991.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/dvviTkFrlsKfgaEYz0NuLZf2SZc=/1500x1125/WokTestingEggs2-c8452756dbc24e3792815c3b1bc0d991.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/kani-salad-japanese-imitation-crab-salad-recipe-7497740",
-          "author": "Elizabeth Mervosh",
-          "description": "Cool and refreshing, imitation crab salad—or kani salad, as it’s known in Japan—is perfect for hot summer days when all you want is to toss together an easy meal without turning the stove or oven on.",
-          "link": "https://www.seriouseats.com/kani-salad-japanese-imitation-crab-salad-recipe-7497740",
-          "publishedOn": "2023-05-12T20:27:49.000Z",
-          "wordCount": null,
-          "title": "Kani Salad (Japanese Imitation Crab Salad)",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/omBsYUUNJ0gWm5ROVabCfBeYBGU=/4000x3000/20230512-SEA-CrabSalad-RobbyLozano-07-143a1c5fb8af48908b897935adeff271.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/omBsYUUNJ0gWm5ROVabCfBeYBGU=/4000x3000/20230512-SEA-CrabSalad-RobbyLozano-07-143a1c5fb8af48908b897935adeff271.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/strawberry-pretzel-salad-recipe-7497086",
-          "author": "Genevieve Yam",
-          "description": "Delightfully salty-sweet, creamy, and crunchy, strawberry pretzel salad is a staple at picnics, potlucks, and holiday celebrations.",
-          "link": "https://www.seriouseats.com/strawberry-pretzel-salad-recipe-7497086",
-          "publishedOn": "2023-05-12T20:11:58.000Z",
-          "wordCount": null,
-          "title": "Strawberry Pretzel Salad",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/o2MTeQZ48ZGkJqfaYZ-KMXy4Q8Q=/4000x3000/20230512-SEA-StrawberryPretzelSalad-AmandaSuarez-hero-07f32e880e7e409db1a7b3ceaaa737c2.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/o2MTeQZ48ZGkJqfaYZ-KMXy4Q8Q=/4000x3000/20230512-SEA-StrawberryPretzelSalad-AmandaSuarez-hero-07f32e880e7e409db1a7b3ceaaa737c2.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-meat-thermometers-7483004",
-          "author": "Riddley Gemperlein-Schirm",
-          "description": "We rounded up our top picks for meat thermometers, including instant-read, probe, and grill thermometers—based on our equipment reviews.",
-          "link": "https://www.seriouseats.com/best-meat-thermometers-7483004",
-          "publishedOn": "2023-05-12T14:15:27.000Z",
-          "wordCount": null,
-          "title": "The Very Best Meat Thermometers, According to Our Tests",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/Qe8t0mvQEpbpYKO0aURk_NOpyq0=/4000x2668/Web_4000-Testing-ThermoWorks_Thermapen_3-RussellKilgore-0814-a03dacc7d514437c9c1cdaba552c7bc5.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/Qe8t0mvQEpbpYKO0aURk_NOpyq0=/4000x2668/Web_4000-Testing-ThermoWorks_Thermapen_3-RussellKilgore-0814-a03dacc7d514437c9c1cdaba552c7bc5.jpg"
         }
       ]
     },
@@ -16781,18 +16779,7 @@
       "title": "Mathematics without Apologies, by Michael Harris",
       "feedUrl": "https://mathematicswithoutapologies.wordpress.com/feed/",
       "siteUrl": "https://mathematicswithoutapologies.wordpress.com",
-      "articles": [
-        {
-          "id": "http://mathematicswithoutapologies.wordpress.com/?p=8195",
-          "author": "mathematicswithoutapologies",
-          "description": "This message, which arrived in my Inbox today, should be of interest to all colleagues who are concerned about the future of scientific publishing, including but not limited to those who signed the Cost of Knowledge statement over 10 years ago. More information can be found at the PLOS Union website. We’re reaching out to […]",
-          "link": "https://mathematicswithoutapologies.wordpress.com/2023/05/12/public-library-of-science-staff-union-statement/",
-          "publishedOn": "2023-05-12T18:21:55.000Z",
-          "wordCount": 3538,
-          "title": "Public Library of Science staff union statement",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Leslie Jones 🦋 / @Lesdoggg",
@@ -17597,6 +17584,46 @@
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
         {
+          "id": "https://marginalrevolution.com/?p=86089",
+          "author": "Tyler Cowen",
+          "description": "Taken from Twitter: What recession? The consensus view that recession was virtually a slam dunk looks increasingly off base. Yes, there will eventually be one, but odds that a downturn is dead ahead are receding. There are a bunch of reasons why the economy is hanging tough. Here are my top three… First, excess savings. […]\n\r\nThe post Mark Zandi on changing odds of recession appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nThis has not been an aggressive rate raising regime. We are ... by Yancey Ward\nIn reply to dearieme.   This is similar to the “Drill Baby ... by Cancelled for wongthink\nIn reply to steve.   Inflation in 2021 was transitory because ... by Cancelled for wongthink\nFor those of you who believe we have recently had a recession ... by dude\nIn reply to hendricks.   Ages ago I gave a talk to a bunch of ... by Dismalist\nPlus 10 more...\n\nRelated Stories\n\nFree Formatting For All on First Submission!\nWhy mediocre gdp growth and a strong labor market?\nThe nuclear polity that is Georgia",
+          "link": "https://feeds.feedblitz.com/~/745508663/0/marginalrevolution~Mark-Zandi-on-changing-odds-of-recession.html",
+          "publishedOn": "2023-06-11T19:22:15.000Z",
+          "wordCount": 1973,
+          "title": "Mark Zandi on changing odds of recession",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86086",
+          "author": "Tyler Cowen",
+          "description": "1. A look at IAEA for AI. 2. Price controls: too early for a victory lap. 3. David Pogue reviews Apple Vision Pro (WSJ).  And Raymond Wong on the same. 4. John Cochrane on discount rates. 5. Ross on whether the government wants you to believe in UFOs (NYT). 6. How does college alter political […]\n\r\nThe post Sunday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to PHinton.   Something else amazing: Gen-Z LGBT ... by PHinton\nIn reply to Dismalist.   Does 'greedinflation' explain why ... by Bazza\n4. Good post by Cochrane. I discussed discount rates with ... by ralph\nIn reply to Bob.   Nintendo has never emphasized cutting edge. ... by sxb\n#5   No matter how absurd or wasteful, no government program ... by Rebes\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/745487822/0/marginalrevolution~Sunday-assorted-links.html",
+          "publishedOn": "2023-06-11T16:03:57.000Z",
+          "wordCount": 1828,
+          "title": "Sunday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86083",
+          "author": "Tyler Cowen",
+          "description": "The author is Jacob Mikanowski and the subtitle is An Intimate History of a Divided Land.  Might this be the best overall book on how Eastern Europe ended up so different (but not entirely different) from Western Europe?  I’ll be doing a CWT with him later this fall (hold your suggestions for now, and I’ll […]\n\r\nThe post *Goodbye Eastern Europe* appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Maybe when speaking German?.   The term “Eastern ... by PK\nIn reply to Hoosier.   The Balkan were influenced much more ... by Valentin\nIn reply to Dino the Isaurian.   Some ppl argue Australia and ... by M\nIn reply to Marian Kechlibar.   The problem here is that just ... by Maybe when speaking German?\nIn reply to … Western Brand.   But that is present in most US ... by US Feudalism - A thing?\nPlus 10 more...\n\nRelated Stories\n\n*Medieval Horizons: Why the Middle Ages Matter*\nWhat should I ask Ada Palmer?\nMy excellent Conversation with Peter Singer",
+          "link": "https://feeds.feedblitz.com/~/745423637/0/marginalrevolution~Goodbye-Eastern-Europe.html",
+          "publishedOn": "2023-06-11T08:11:04.000Z",
+          "wordCount": 1833,
+          "title": "*Goodbye Eastern Europe*",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86079",
+          "author": "Tyler Cowen",
+          "description": "Ian Mortimer is the author of this excellent book, here was one of my favorite bits: It may seem preposterous today to describe a 5 mph increase in the maximum land speed as revolutionary.  It sounds like someone pointing to a hillock and calling it a mountain.  But it was revolutionary, for a number of […]\n\r\nThe post *Medieval Horizons: Why the Middle Ages Matter* appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to mkt42.   England was divided into multiple smaller ... by Jonfraz\nIn reply to Pavel.   Faster road travel would have simply ... by Bazza\nThe quote is a weirdly mixed bag. It starts by describing a ... by Worley\nIn reply to Eliot Johnson.   This remains a point of ... by mkt42\nIn reply to Not really, as cavalry is not the same as a single ... by Eliot Johnson\nPlus 10 more...\n\nRelated Stories\n\n*Goodbye Eastern Europe*\nWhat should I ask Ada Palmer?\nOrwell Against Progress",
+          "link": "https://feeds.feedblitz.com/~/745400339/0/marginalrevolution~Medieval-Horizons-Why-the-Middle-Ages-Matter.html",
+          "publishedOn": "2023-06-11T04:44:55.000Z",
+          "wordCount": 2276,
+          "title": "*Medieval Horizons: Why the Middle Ages Matter*",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
           "id": "https://marginalrevolution.com/?p=86081",
           "author": "Tyler Cowen",
           "description": "We study whether tweets about racial justice predict the offline behaviors of nearly 20,000 US academics. In an audit study, academics that tweet about racial justice discriminate more in favor of minority students than academics that do not tweet about racial justice. Racial justice tweets are more predictive of race-related political tweets than political contributions, […]\n\r\nThe post Virtue signaling on Twitter appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Paul Wall.   My grammarian side likes the correct ... by Moral Panic\nIn reply to Cancelled for wongthink.   BLM = Buying Large ... by DeQuan\nIn reply to Jack QR.   The paper, itself, is a form of virtue ... by hank\nthe woke & pear-shaped at youtube canned jordan peterson for ... by community notes\nIn reply to Dorey.   There should be some metrics to support ... by steve\nPlus 10 more...\n\nRelated Stories\n\nKenya facts of the day\nEconomics, Hayek, and Large Language Models\nEmergent Ventures winners, 26th cohort",
@@ -18301,6 +18328,26 @@
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
         {
+          "id": "https://quantumfrontiers.com/2023/06/11/let-the-great-world-spin/",
+          "author": null,
+          "description": "<div type=\"xhtml\" xml:lang=\"en\"><div xmlns=\"http://www.w3.org/1999/xhtml\">I first heard the song “Fireflies,” by Owl City, shortly after my junior year of college. During the refrain, singer Adam Young almost whispers, “I’d like to make myself believe / that planet Earth turns slowly.” Goosebumps prickled along my … <a href=\"https://quantumfrontiers.com/2023/06/11/let-the-great-world-spin/\">Continue reading <span class=\"meta-nav\">→</span></a></div></div>",
+          "link": "https://quantumfrontiers.com/2023/06/11/let-the-great-world-spin/",
+          "publishedOn": "2023-06-12T00:31:09.000Z",
+          "wordCount": 3968,
+          "title": "Let the great world spin",
+          "imageUrl": "https://quantumfrontiers.files.wordpress.com/2023/06/flying-machine.jpeg?w=1200"
+        },
+        {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/brauers_lemma.html",
+          "author": null,
+          "description": "\"Brauer's Lemma\" shows up in one proof of the Wedderburn--Artin Theorem.  But what does this lemma say, and why is it true?",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/brauers_lemma.html",
+          "publishedOn": "2023-06-11T21:47:51.000Z",
+          "wordCount": 2150,
+          "title": "Brauer's Lemma",
+          "imageUrl": null
+        },
+        {
           "id": "https://4gravitons.com/2023/06/09/reader-poll-considering-a-move-to-substack/",
           "author": null,
           "description": "This blog is currently hosted on a site called WordPress.com. When I started the blog, I picked WordPress mostly just because it was easy and free. (Since then I started paying them money, both to remove ads and to get a custom domain, 4gravitons.com.) Now, the blog is more popular, and you guys access it […]",
@@ -18659,16 +18706,6 @@
           "wordCount": 5575,
           "title": "PCAST Working Group on Generative AI Invites Public Input",
           "imageUrl": "https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=200&ts=1685509680"
-        },
-        {
-          "id": "https://4gravitons.com/2023/05/12/extrapolated-knowledge/",
-          "author": null,
-          "description": "Scientists have famously bad work-life balance. You’ve probably heard stories of scientists working long into the night, taking work with them on weekends or vacation, or falling behind during maternity or paternity leave. Some of this is culture. Certain fields have a very cutthroat attitude, with many groups competing to get ahead and careers on […]",
-          "link": "https://4gravitons.com/2023/05/12/extrapolated-knowledge/",
-          "publishedOn": "2023-05-12T16:14:45.000Z",
-          "wordCount": 3298,
-          "title": "Extrapolated Knowledge",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -21209,6 +21246,61 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59146",
+          "author": "Sally Thomason",
+          "description": "I just ran across a particularly impressive garden path sentence in Bernd Heinrich's book RAVENS IN WINTER (p. 268); it took me several tries to get this sentence to parse grammatically: \"Even the wolverine is said to do nothing to drive ravens off that land beside it and steal its food.\" (Of course parsing is […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59146&utm_source=rss&utm_medium=rss&utm_campaign=ravens-on-the-garden-path",
+          "publishedOn": "2023-06-11T20:38:33.000Z",
+          "wordCount": 2761,
+          "title": "Ravens on the garden path",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59101",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by Charles Belov] I pasted the following Thai, which I got from a YouTube channel, into Google translate. The results were mostly in English, but Google Translate injected some apparent Tamil as well and then just gives up and leaves some of the Thai untranslated. \"ตลอดระยะเวลาการทำงานในวงการบันเทิงมันทำให้เราได้เรียนรู้ว่าจริงๆ เเล้วความสุขอยู่รอบตัวเราไปหมด เเล้วความสุขมันง่ายมาก จริงๆ บางทีความสุขมันก็ไม่ต้องมีเงินเยอะมากมาย […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59101&utm_source=rss&utm_medium=rss&utm_campaign=thai-to-english-translation-gets-injected-with-tamil",
+          "publishedOn": "2023-06-11T19:39:16.000Z",
+          "wordCount": 2358,
+          "title": "Thai to English translation gets injected with Tamil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59108",
+          "author": "Mark Liberman",
+          "description": "From Daniel Deutsch: We had a long drive yesterday, so we listened to a “robot” reading the entire indictment. It certainly isn’t flawless, but I was surprised by how good it is, especially when it gets “excited” while enacting dialogue. Indeed, the text-to-speech quality is quite good — though unfortunately they don't tell us which […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59108&utm_source=rss&utm_medium=rss&utm_campaign=quirky-asr-weird-diarization",
+          "publishedOn": "2023-06-11T14:28:01.000Z",
+          "wordCount": 2515,
+          "title": "Quirky speech-to-text, weird diarization",
+          "enclosure": {
+            "url": "https://languagelog.ldc.upenn.edu/myl/SynthesizedIndictmentX0.wav",
+            "length": "1325860",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59105",
+          "author": "Victor Mair",
+          "description": "The most famous instance of the use of an apostrophe in Hanyu Pinyin romanization is in the place name \"Xi'an\", the capital of Shaanxi (the doubled \"a\" is another story) Province. Xī'ān 西安 — two characters signifying \"Western Peace\" If you don't use an apostrophe to separate the syllables, you end up with the monosyllable […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59105&utm_source=rss&utm_medium=rss&utm_campaign=apostrophes-in-hanyu-pinyin",
+          "publishedOn": "2023-06-11T12:39:45.000Z",
+          "wordCount": 2564,
+          "title": "Apostrophes in Hanyu Pinyin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59096",
+          "author": "Victor Mair",
+          "description": "Benj Edwards has a mirthful article in Ars Technica (6/9/23) Researchers discover that ChatGPT prefers repeating 25 jokes over and over When tested, \"Over 90% of 1,008 generated jokes were the same 25 jokes.\" [includes an AI generated image of \"a laughing robot\"] On Wednesday, two German researchers, Sophie Jentzsch and Kristian Kersting, released a […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59096&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-has-a-sense-of-humor-sort-of",
+          "publishedOn": "2023-06-11T01:50:18.000Z",
+          "wordCount": 3406,
+          "title": "ChatGPT has a sense of humor (sort of)",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59077",
           "author": "Victor Mair",
           "description": "Enlightening article by Peter Backhaus in The Japan Times (6/9/23): \"Za grammar notes: How to properly handle the 'the' in Japanese\" Japanese seems to be able to assimilate any English word, including the ubiquitous definite article \"the\", which is unlike anything in Japanese itself. If there’s something like a Murphy’s Law for syntax, the name […]",
@@ -22787,16 +22879,6 @@
           "wordCount": 9044,
           "title": "Binomial Options-Pricing Model",
           "imageUrl": null
-        },
-        {
-          "id": "http://gregorygundersen.com/blog/2023/05/13/fortunai/",
-          "author": null,
-          "description": "I wanted to play around with OpenAI’s API for ChatGPT, and I thought it would be fun to write a program to do so using ChatGPT. So ChatGPT and I wrote a program that generates ChatGPT fortunes—an LLM analog to the Unix fortune command.",
-          "link": "http://gregorygundersen.com/blog/2023/05/13/fortunai/",
-          "publishedOn": "2023-05-13T04:00:00.000Z",
-          "wordCount": 663,
-          "title": "fortunai",
-          "imageUrl": null
         }
       ]
     },
@@ -22848,16 +22930,6 @@
           "wordCount": 5780,
           "title": "Masochistic Fun with Plutocratic Murder",
           "imageUrl": "https://economicsfromthetopdown.com/wp-content/uploads/2023/05/murder_montage.png"
-        },
-        {
-          "id": "https://economicsfromthetopdown.com/?p=6642",
-          "author": "Blair Fix",
-          "description": "How do you tell the story of plutocratic crime? If you're Cory Doctorow, you write a detective novel about a forensic accountant. It's a must-read book that sheds light on the often-ignored world of elite finance.\nThe post Red Team Blues: Cory Doctorow’s Anti-Finance Thriller appeared first on Economics from the Top Down.",
-          "link": "https://economicsfromthetopdown.com/2023/05/13/red-team-blues-cory-doctorows-anti-finance-thriller/",
-          "publishedOn": "2023-05-13T11:08:04.000Z",
-          "wordCount": 3747,
-          "title": "Red Team Blues: Cory Doctorow’s Anti-Finance Thriller",
-          "imageUrl": "https://economicsfromthetopdown.com/wp-content/uploads/2023/05/red-team-blues.jpg"
         }
       ]
     },
