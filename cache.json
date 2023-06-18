@@ -10,18 +10,7 @@
       "title": "Shtetl-Optimized",
       "feedUrl": "https://www.scottaaronson.com/blog/?feed=rss2",
       "siteUrl": "https://scottaaronson.blog",
-      "articles": [
-        {
-          "id": "https://scottaaronson.blog/?p=7321",
-          "author": "Scott",
-          "description": "When I was a teenager, I enjoyed reading Hyperspace, an early popularization of string theory by the theoretical physicist Michio Kaku. I’m sure I’d have plenty of criticisms if I reread it today, but at the time, I liked it a lot. In the decades since, Kaku has widened his ambit to, well, pretty much […]",
-          "link": "https://scottaaronson.blog/?p=7321",
-          "publishedOn": "2023-05-19T10:15:56.000Z",
-          "wordCount": 15437,
-          "title": "Book Review: “Quantum Supremacy” by Michio Kaku (tl;dr DO NOT BUY)",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The n-Category Café",
@@ -122,6 +111,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48627",
+          "author": "Andrew",
+          "description": "Alec Karakatsanis writes: This is a long and upsetting post about the ethical conduct of two Harvard professors—Christopher Lewis and Adaner Usmani—who are seeding a media campaign to support their proposal of adding 500,000 more armed police officers. . . … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/17/its-harvard-time-baby-that-thing-where-well-connected-policy-advocates-cant-handle-criticism-and-call-it-stasi-or-censorship/",
+          "publishedOn": "2023-06-17T13:41:38.000Z",
+          "wordCount": 5461,
+          "title": "It’s Harvard time, baby:  That thing where well-connected policy advocates can’t handle criticism and call it “Stasi” or “censorship”",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=49173",
           "author": "Andrew",
@@ -530,16 +529,6 @@
           "publishedOn": "2023-05-19T13:08:58.000Z",
           "wordCount": 5001,
           "title": "What happened in the 2022 elections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49104",
-          "author": "Andrew",
-          "description": "The ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT) conference will be held this year in Chicago from 12-15 June. And at 7pm on Wed 13 June there will be a staged reading of Recursion, a play that Jessica … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/18/if-youre-coming-to-facct-2023-dont-miss-the-world-premiere-performance-of-recursion/",
-          "publishedOn": "2023-05-18T13:28:23.000Z",
-          "wordCount": 3536,
-          "title": "If you’re coming to FAccT 2023, don’t miss the world premiere performance of Recursion.",
           "imageUrl": null
         }
       ]
@@ -2751,16 +2740,6 @@
           "publishedOn": "2023-05-22T18:25:16.000Z",
           "wordCount": 576,
           "title": "Banks Got Rising Rates Wrong",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bloomberg.com/opinion/articles/2023-05-18/tether-bought-some-bitcoin",
-          "author": "Matt Levine",
-          "description": "Also predatory blitzscaling, FDIC financial engineering, Credit Suisse CDS, fraud intent and fraud for fun.",
-          "link": "https://www.bloomberg.com/opinion/articles/2023-05-18/tether-bought-some-bitcoin",
-          "publishedOn": "2023-05-18T17:50:41.000Z",
-          "wordCount": 576,
-          "title": "Tether Bought Some Bitcoin",
           "imageUrl": null
         }
       ]
@@ -5332,22 +5311,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3fea9911-ece0-4cf0-8d03-b3a473d70fef_432x288.jpeg"
-        },
-        {
-          "id": "https://astralcodexten.substack.com/p/peer-review-hypergamy-much-more-than",
-          "author": "Scott Alexander",
-          "description": "...",
-          "link": "https://astralcodexten.substack.com/p/peer-review-hypergamy-much-more-than",
-          "publishedOn": "2023-05-18T20:43:50.000Z",
-          "wordCount": null,
-          "title": "Peer Review: Hypergamy - Much More Than You Wanted To Know",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e7c4a16c-9fc2-49a9-878d-60f2a6df89cd_470x390.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e7c4a16c-9fc2-49a9-878d-60f2a6df89cd_470x390.png"
         }
       ]
     },
@@ -6463,6 +6426,39 @@
       "feedUrl": "http://rss.sciam.com/ScientificAmerican-Global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "F5AC1DB9-236D-44D3-8AEBC35AEA21B528",
+          "author": "Clara Moskowitz",
+          "description": "The OSIRIS-REx mission will return samples from the asteroid Bennu that could rewrite our solar system’s history",
+          "link": "https://www.scientificamerican.com/article/pebbles-from-an-asteroid-are-about-to-be-delivered-to-earth-and-its-totally-awesome/",
+          "publishedOn": "2023-06-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Pebbles from an Asteroid Are about to Be Delivered to Earth, and It's Totally Awesome",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "D569046F-261E-46A0-8AF15CC8C91C7117",
+          "author": "Amy Brady",
+          "description": "It takes a lot of water and energy to make negronis, manhattans and margaritas. Could we do with less ice?",
+          "link": "https://www.scientificamerican.com/article/climate-friendly-cocktail-recipes-go-light-on-ice/",
+          "publishedOn": "2023-06-17T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Climate-Friendly Cocktail Recipes Go Light on Ice",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "F8958A05-217A-4EA7-8054903211E21351",
+          "author": "Rob L. Evans",
+          "description": "Researchers are discovering freshwater reservoirs below the coastal seafloor that might someday save dry regions from drought",
+          "link": "https://www.scientificamerican.com/article/found-giant-freshwater-deposits-hiding-under-the-sea/",
+          "publishedOn": "2023-06-17T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Found: Giant Freshwater Deposits Hiding under the Sea",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "C3D86ED8-5771-414D-A60A38F572CF5C26",
           "author": "Lydia Denworth",
@@ -13474,6 +13470,16 @@
       "siteUrl": "https://justthesocialfacts.blogspot.com/",
       "articles": [
         {
+          "id": "https://justthesocialfacts.blogspot.com/2023/06/a-change-was-gonna-come.html",
+          "author": null,
+          "description": "Americans have become less committed to organized religion in the past few decades.  But does that mean that we are becoming more secular or that religion is becoming more individualized--ie, religious feelings are less connected to organized religion?  In 1962, the Gallup Poll asked \"Would you say that you have ever had a religious or mystical experience--that is, a moment of sudden religious insight or awakening?\"  20% said yes, 73% no, and 7% were listed as \"no code or no data.\"  If the last group was \"don't know\" I'd count it as \"no,\" but since that's not clear I'll treat it as missing.  Gallup asked the question again in 1976, and other organizations asked in 1994, 2006, and 2009.  The results:\n\n1962     22%    78%\n1976     31%    69%\n1994     34%    66%\n2006     48%    52%\n2009     5…",
+          "link": "https://justthesocialfacts.blogspot.com/2023/06/a-change-was-gonna-come.html",
+          "publishedOn": "2023-06-17T17:12:00.000Z",
+          "wordCount": 2616,
+          "title": "A change was gonna come",
+          "imageUrl": null
+        },
+        {
           "id": "https://justthesocialfacts.blogspot.com/2023/06/punditry.html",
           "author": null,
           "description": "The New York Times has had roundtable discussions of presidential candidates as they enter the race, and had one on Tim Scott a couple of weeks ago.  It wasn't until the eighth comment that someone noted that  \"Republican primary voters have been eager to consider Black candidates in recent cycles: Herman Cain in 2012, Ben Carson in 2016.\"  Neither one had any of the conventional qualifications to be president, neither one was especially well known, and Carson put very little effort into his campaign, so their performance suggests that many Republicans want to support a black candidate.  The participant who made this point was Daniel McCarthy, the most conservative of the group.  I don't think that's a coincidence:  most progressives see the story of the last decade or so as one of backlas…",
@@ -14214,6 +14220,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53243",
+          "author": "xi'an",
+          "description": "Today, I attended (most of) and briefly took part in the discussion webinar run by Bayesian Analysis (the journal) and featuring the paper Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score by David Stephens, Widemberg Nobre, Erica Moodie, and Alexandra M. Schmidt, for which Pierre Jacob and I contributed a written discussion. I […]",
+          "link": "https://xianblog.wordpress.com/2023/06/18/webscussion-on-bayesian-causality/",
+          "publishedOn": "2023-06-17T22:23:11.000Z",
+          "wordCount": 1793,
+          "title": "webscussion on Bayesian causality",
+          "imageUrl": "http://img.youtube.com/vi/pOJFTMRxDl8/0.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53100",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -14423,6 +14439,21 @@
       "feedUrl": "https://feeds.feedburner.com/RBloggers",
       "siteUrl": "https://www.r-bloggers.com",
       "articles": [
+        {
+          "id": "http://freerangestats.info/blog/2023/06/17/pacific-map-in-package",
+          "author": "free range statistics - R",
+          "description": "Simple use of the draw_pac_map() function\nLast year I blogged about making a choropleth map of the Pacific, dealing with a few technical details like getting the map centred on the Pacific, using exclusive economic zones (EEZs) to colour things in for...\nContinue reading: Simpler drawing of Pacific choropleth maps by @ellis2013nz",
+          "link": "https://www.r-bloggers.com/2023/06/simpler-drawing-of-pacific-choropleth-maps-by-ellis2013nz/",
+          "publishedOn": "2023-06-16T14:00:00.000Z",
+          "wordCount": 4324,
+          "title": "Simpler drawing of Pacific choropleth maps by @ellis2013nz",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://freerangestats.info/img/0249-blank-map.png"
+        },
         {
           "id": "https://mirai-solutions.ch/news/2023/06/16/announce-shiny4-ws/",
           "author": "Mirai Solutions",
@@ -16158,6 +16189,36 @@
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
         {
+          "id": "https://medium.com/p/c692afd7a70c",
+          "author": "Bernard",
+          "description": "Give yourself permission to free-flow a bit, it might be great!\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/puke-publish-c692afd7a70c?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-17T21:01:50.000Z",
+          "wordCount": 2623,
+          "title": "Puke & Publish",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ErHpAQhgZFkzIcy0jjxVoQ.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c100797c2916",
+          "author": "Nihan Kucukural",
+          "description": "Why is it so hard to get feedback on your story ideas from working screenwriters?\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/dont-tell-me-your-film-idea-c100797c2916?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-17T17:01:50.000Z",
+          "wordCount": 4487,
+          "title": "Don’t Tell Me Your Film Idea!",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1024/1*lgkU0M4tMqwbUPeOdPfUvw.png"
+        },
+        {
+          "id": "https://medium.com/p/ee61d8865e39",
+          "author": "Sude Hammal",
+          "description": "Join me for the summer of writing!\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/how-im-planning-on-revamping-my-writing-strategy-this-summer-ee61d8865e39?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-17T13:01:50.000Z",
+          "wordCount": 4778,
+          "title": "How I’m Planning on Revamping My Writing Strategy This Summer",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bbdx4_kum1T8-bXx"
+        },
+        {
           "id": "https://medium.com/p/92fc8930e43",
           "author": "Melissa Miles McCarter",
           "description": "Share your emotional truth.\nContinue reading on The Writing Cooperative »",
@@ -17153,6 +17214,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=53243",
+          "author": "xi'an",
+          "description": "Today, I attended (most of) and briefly took part in the discussion webinar run by Bayesian Analysis (the journal) and featuring the paper Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score by David Stephens, Widemberg Nobre, Erica Moodie, and Alexandra M. Schmidt, for which Pierre Jacob and I contributed a written discussion. I […]",
+          "link": "https://xianblog.wordpress.com/2023/06/18/webscussion-on-bayesian-causality/",
+          "publishedOn": "2023-06-17T22:23:11.000Z",
+          "wordCount": 1793,
+          "title": "webscussion on Bayesian causality",
+          "imageUrl": "http://img.youtube.com/vi/pOJFTMRxDl8/0.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=53289",
           "author": "xi'an",
@@ -21285,36 +21356,6 @@
             "url": "https://www.seriouseats.com/thmb/UIHjIWn_khkoOb0uVkjVDNYePOg=/4000x3000/20230519-SEA-ChampagneVinaigrette-Amanda-Suarez-hero-d4c8b0f872834d51a49ec33c19df5f2c.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/UIHjIWn_khkoOb0uVkjVDNYePOg=/4000x3000/20230519-SEA-ChampagneVinaigrette-Amanda-Suarez-hero-d4c8b0f872834d51a49ec33c19df5f2c.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-saute-pans-7484320",
-          "author": "Jesse Raub",
-          "description": "We tested nine stainless steel clad sauté pans to find out which ones seared, braised, and shallow-fried the best while being easy to use and clean.",
-          "link": "https://www.seriouseats.com/best-saute-pans-7484320",
-          "publishedOn": "2023-05-18T18:21:13.000Z",
-          "wordCount": null,
-          "title": "We Tested 9 Sauté Pans, and 3 (Shallow) Fried The Competition",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/TPKaTbRggkvI4vbqNuyO_3N71bw=/4000x3000/SautePanLeadImage-a14c61a85a7a4eb697779bbe599b85c3.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/TPKaTbRggkvI4vbqNuyO_3N71bw=/4000x3000/SautePanLeadImage-a14c61a85a7a4eb697779bbe599b85c3.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-memorial-day-sales-7498314",
-          "author": "Riddley Gemperlein-Schirm",
-          "description": "We rounded up our favorite kitchen-related Memorial Day sales (that you can still get), including products that have won our equipment reviews.",
-          "link": "https://www.seriouseats.com/best-memorial-day-sales-7498314",
-          "publishedOn": "2023-05-18T15:15:03.000Z",
-          "wordCount": null,
-          "title": "Our Favorite Kitchen-Related Memorial Day Sales You Can Still Get (Including Deals from Weber and ThermoWorks)",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/Dwfzc2gC9_c4xe7A7TsVNVIH-OE=/4000x2700/memdaysaleslead-ae1daf9dda1a4e809ffc79c755a00eae.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/Dwfzc2gC9_c4xe7A7TsVNVIH-OE=/4000x2700/memdaysaleslead-ae1daf9dda1a4e809ffc79c755a00eae.jpg"
         }
       ]
     },
@@ -22246,6 +22287,16 @@
       "siteUrl": "https://retractionwatch.com",
       "articles": [
         {
+          "id": "https://retractionwatch.com/?p=127319",
+          "author": "Ivan Oransky",
+          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to more than 300. There are now 40,000 retractions in our database — which powers retraction alerts in EndNote, LibKey, Papers, and Zotero. The Retraction Watch Hijacked Journal Checker now contains 200 titles. And have you … Continue reading Weekend reads: A weird scandal gets weirder; rapid onset gender dysphoria paper retracted; the effects of retractions on careers and collaborations",
+          "link": "https://retractionwatch.com/2023/06/17/weekend-reads-a-weird-scandal-gets-weirder-rapid-onset-gender-dysphoria-paper-retracted-the-effects-of-retractions-on-careers-and-collaborations/",
+          "publishedOn": "2023-06-17T11:00:00.000Z",
+          "wordCount": 2250,
+          "title": "Weekend reads: A weird scandal gets weirder; rapid onset gender dysphoria paper retracted; the effects of retractions on careers and collaborations",
+          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2021/07/rw.jpeg"
+        },
+        {
           "id": "https://retractionwatch.com/?p=127299",
           "author": "Frederik Joelving",
           "description": "Hundreds of conference papers published by the U.S.-based Institute of Electrical and Electronic Engineers (IEEE) show signs of plagiarism, citation fraud and other types of scientific misconduct, according to data sleuths. “I am concerned that the issue with these particular conferences is widespread enough such that it indicates systemic issues with their peer review systems,” … Continue reading Plague of anomalies in conference proceedings hint at ‘systemic issues’",
@@ -22434,16 +22485,6 @@
           "wordCount": 2422,
           "title": "Weekend reads: Study claiming masks harm is retracted; papers lead to high treason charges; paying to publish in fake journals",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2021/07/rw.jpeg"
-        },
-        {
-          "id": "https://retractionwatch.com/?p=127146",
-          "author": "Frederik Joelving",
-          "description": "Tokyo’s Waseda University is investigating alleged misconduct by an assistant professor at the institution, Retraction Watch has learned. The probe is focusing on at least three works by Woohyang Sim, of the Faculty of International Research and Education, including her 2020 doctoral dissertation, titled “What is Higher Education For? Educational Aspirations and Career Prospects of … Continue reading Exclusive: Top-tier university in Japan investigating prof’s alleged misconduct",
-          "link": "https://retractionwatch.com/2023/05/18/exclusive-top-tier-university-in-japan-investigating-profs-alleged-misconduct/",
-          "publishedOn": "2023-05-18T22:30:00.000Z",
-          "wordCount": 2246,
-          "title": "Exclusive: Top-tier university in Japan investigating prof’s alleged misconduct",
-          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2015/11/800px-Waseda_University_Logo.svg_.png"
         }
       ]
     },
@@ -22452,6 +22493,56 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86118",
+          "author": "Tyler Cowen",
+          "description": "Germany has six for every thousand people, Belgium has five, we have two. Here is an essay by Sam Freedman, “How Bad Does It Need to Get?”, via Nick Thornsby.\n\r\nThe post UK NHS fact of the day appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to ABC.   Diet by Ham\nIn reply to M.   Yeah, M. As a share of GDP Britain spends only ... by Dismalist\nIn reply to Bazza.   Looks to me like you could put it that ... by M\nIn reply to M.   So Opex is the elephant in the room? by Bazza\nIn reply to M.   There is a lot said about ... by Equestrian\nPlus 10 more...\n\nRelated Stories\n\nThe Road to Socialism and Back: An Economic History of Poland, 1939–2019\nWhat is the optimistic case for Kenya?\nNigeria floats its exchange rate",
+          "link": "https://feeds.feedblitz.com/~/746939414/0/marginalrevolution~UK-NHS-fact-of-the-day.html",
+          "publishedOn": "2023-06-17T18:44:36.000Z",
+          "wordCount": 1791,
+          "title": "UK NHS fact of the day",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86122",
+          "author": "Tyler Cowen",
+          "description": "1. The Mechanical Turk is increasingly mechanical in fact. 2. Participating in a climate prediction market increases concern about global warming. 3. “Growth in per pupil education spending in the United States was mostly flat until 1918, after which it increased by almost 100% in a brief six-year period.” 4. Taliban markets in everything, “Cash-strapped […]\n\r\nThe post Saturday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Anonymous.   he's just a sad and confused dude like ... by Richard Caines\nIn reply to M.   Thanks for the detailed response. All of your ... by Justin Chang\nIn reply to JWatts.   You can go fuck your crops, asshole. by Anonymous\nIn reply to Lee A. Arnold.   In the report it states: “There ... by Todd K\nIn reply to sxb.   #7? by Bazza\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/746926853/0/marginalrevolution~Saturday-assorted-links.html",
+          "publishedOn": "2023-06-17T16:08:39.000Z",
+          "wordCount": 1858,
+          "title": "Saturday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86125",
+          "author": "Alex Tabarrok",
+          "description": "From Jesús Fernández-Villaverde and Isaiah J. Hull a new paper: NBER 31326: We introduce a novel approach to solving dynamic programming problems, such as those in many economic models, on a quantum annealer, a specialized device that performs combinatorial optimization. Quantum annealers attempt to solve an NP-hard problem by starting in a quantum superposition of […]\n\r\nThe post Using a Quantum Annealer to Solve a Real Business Cycle Model appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Jonathan W Siegel.   I agree. Comment is well ... by Bazza\nIn reply to Rahul.   Scaling is important for the future, but ... by TartanBill\nIn reply to Bill.   Are these   Toy models? by Bill\nAs an old guy who is totally unqualified to comment ... by Jonathan W Siegel\n“the classical Ising model ”   An economist who learns ... by mkt42\nPlus 10 more...\n\nRelated Stories\n\nWhat is the optimistic case for Kenya?\nGame theory and the First World War\nGDP and temperature shocks",
+          "link": "https://feeds.feedblitz.com/~/746897621/0/marginalrevolution~Using-a-Quantum-Annealer-to-Solve-a-Real-Business-Cycle-Model.html",
+          "publishedOn": "2023-06-17T11:25:45.000Z",
+          "wordCount": 2085,
+          "title": "Using a Quantum Annealer to Solve a Real Business Cycle Model",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86108",
+          "author": "Tyler Cowen",
+          "description": "🤷🤷‍♀️New data: SHRUG 2 is out!! @devdatalab has been working on this for two years, a HUGE update to India’s coolest data platform:1. Maps of *every* 2011 town and village, with ids2. All data at every geography (villages, districts, ACs, etc)…https://t.co/tIWzPykzJQ 🧵1/N pic.twitter.com/VIibFmNIoa — Paul Novosad (@paulnovosad) June 1, 2023 Here is the home page.\n\r\nThe post SHRUG 2 for India is out appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Rahul.   You sound like my boss by Karl Pooper\nIn reply to Karl Pooper.   Who cares about the data so long as ... by Rahul\nIndia undercounted COVID deaths by 3 million but we expect this ... by Karl Pooper\nI am bracing myself for a flood of high impact journal articles ... by Rahul\n\nRelated Stories\n\nGDP and temperature shocks\nVirtue signaling on Twitter\nKenya facts of the day",
+          "link": "https://feeds.feedblitz.com/~/746865434/0/marginalrevolution~SHRUG-for-India-is-out.html",
+          "publishedOn": "2023-06-17T06:47:45.000Z",
+          "wordCount": 1815,
+          "title": "SHRUG 2 for India is out",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86026",
+          "author": "Tyler Cowen",
+          "description": "We estimate agglomeration externalities in Milan’s restaurant sector using the abolition of a unique regulation that restricted where restaurants could locate. In 2005, Milan abolished a minimum distance requirement that had kept the number of establishments artificially constant across neighborhoods. We find that after 2005, the geographical concentration of restaurants increased sharply and at an […]\n\r\nThe post Agglomeration externalities from restaurants appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to mkt42.   Our host has written lots on this, but my ... by CD\nThis seems roughly true from casual observation: better ... by CD\nIn reply to mkt42.   Can't remember the actual comments, but ... by M\n“I am myself repeatedly surprised how much the mere location ... by mkt42\nIn reply to Kevin.   The same for LA, although this may be tied ... by mkt42\nPlus 10 more...\n\nRelated Stories\n\nPristina notes\nMy excellent Conversation with Seth Godin\nPristina, Kosovo bleg",
+          "link": "https://feeds.feedblitz.com/~/746835737/0/marginalrevolution~Agglomeration-externalities-from-restaurants.html",
+          "publishedOn": "2023-06-17T04:23:55.000Z",
+          "wordCount": 1889,
+          "title": "Agglomeration externalities from restaurants",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86116",
           "author": "Tyler Cowen",
@@ -23825,16 +23916,6 @@
           "wordCount": 4093,
           "title": "calibrating Gaia",
           "imageUrl": null
-        },
-        {
-          "id": "https://scottaaronson.blog/?p=7321",
-          "author": null,
-          "description": "When I was a teenager, I enjoyed reading Hyperspace, an early popularization of string theory by the theoretical physicist Michio Kaku. I’m sure I’d have plenty of criticisms if I reread it today, but at the time, I liked it a lot. In the decades since, Kaku has widened his ambit to, well, pretty much […]",
-          "link": "https://scottaaronson.blog/?p=7321",
-          "publishedOn": "2023-05-19T10:15:56.000Z",
-          "wordCount": 15437,
-          "title": "Book Review: “Quantum Supremacy” by Michio Kaku (tl;dr DO NOT BUY)",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
         }
       ]
     },
@@ -27024,6 +27105,36 @@
       "feedUrl": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59266",
+          "author": "Victor Mair",
+          "description": "Article by Phillip M. Carter in The Conversation (6/12/23): \"Linguists have identified a new English dialect that’s emerging in South Florida\" Beginning sentences: “We got down from the car and went inside.” “I made the line to pay for groceries.” “He made a party to celebrate his son’s birthday.” These phrases might sound off to […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59266&utm_source=rss&utm_medium=rss&utm_campaign=throw-a-photo-in-south-florida-english",
+          "publishedOn": "2023-06-17T20:45:14.000Z",
+          "wordCount": 2955,
+          "title": "\"Throw a photo\" in South Florida English",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59277",
+          "author": "Mark Liberman",
+          "description": "The word eggcorn was originally proposed in a LLOG post almost 20 years ago — \"Egg corns: folk etymology, malapropism, mondegreen, ???\", 9/23/2003.  And the word is now recognized by most current English dictionaries and other relevant sources, which gloss it variously, e.g. — the  Oxford English Dictionary, (\"An alteration of a word or phrase […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59277&utm_source=rss&utm_medium=rss&utm_campaign=ancient-eggcorns",
+          "publishedOn": "2023-06-17T13:29:57.000Z",
+          "wordCount": 3373,
+          "title": "Ancient eggcorns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59272",
+          "author": "Mark Liberman",
+          "description": "An NFL policy prohibits players from endorsing alcoholic beverages. So Coors found a linguistic work-around: Last year's commercial promoted the Coors (Flash) Light: I have some inter-related contractual and cultural questions. Are these commercials really consistent, legally, with a contractual agreement not to promote alcoholic beverages? Is is crucial that there is actual merch you […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59272&utm_source=rss&utm_medium=rss&utm_campaign=coors-light-bear",
+          "publishedOn": "2023-06-17T09:28:04.000Z",
+          "wordCount": 2313,
+          "title": "Coors Light Bear",
+          "imageUrl": null
+        },
         {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59232",
           "author": "Victor Mair",
