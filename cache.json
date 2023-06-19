@@ -112,6 +112,16 @@
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
         {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48682",
+          "author": "Andrew",
+          "description": "Jason Collins discusses a paper by Milkman et al. that presented “a megastudy testing 54 interventions to increase the gym visits of 61,000 experimental participants.” Some colleagues and I discussed that paper awhile ago—I think we were planning to write … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/18/social-experiments-and-the-often-neglected-role-of-theory/",
+          "publishedOn": "2023-06-18T13:10:01.000Z",
+          "wordCount": 3760,
+          "title": "Social experiments and the often-neglected role of theory",
+          "imageUrl": null
+        },
+        {
           "id": "https://statmodeling.stat.columbia.edu/?p=48627",
           "author": "Andrew",
           "description": "Alec Karakatsanis writes: This is a long and upsetting post about the ethical conduct of two Harvard professors—Christopher Lewis and Adaner Usmani—who are seeding a media campaign to support their proposal of adding 500,000 more armed police officers. . . … Continue reading →",
@@ -519,16 +529,6 @@
           "publishedOn": "2023-05-20T13:23:32.000Z",
           "wordCount": 5670,
           "title": "“If you do not know what you would have done under all possible scenarios, then you cannot know the Type I error rate for your analysis.”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49108",
-          "author": "Andrew",
-          "description": "Yair writes: The 2022 election defied conventional wisdom and historical trends. In a typical midterm election year with one-party control of the presidency, House and Senate, the incumbent party would expect major losses. Instead, Democrats re-elected every incumbent senator and … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/19/what-happened-in-2022/",
-          "publishedOn": "2023-05-19T13:08:58.000Z",
-          "wordCount": 5001,
-          "title": "What happened in the 2022 elections",
           "imageUrl": null
         }
       ]
@@ -4677,6 +4677,21 @@
       "siteUrl": "https://standardebooks.org",
       "articles": [
         {
+          "id": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen",
+          "author": null,
+          "description": "A young noblewoman arrives at court and quickly gets embroiled in court politics and comes to the attention of the king.",
+          "link": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen",
+          "publishedOn": "2023-06-18T15:38:06.000Z",
+          "wordCount": 519,
+          "title": "The Fifth Queen, by Ford Madox Ford",
+          "enclosure": {
+            "length": "722440",
+            "type": "application/epub+zip",
+            "url": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen/downloads/ford-madox-ford_the-fifth-queen.epub"
+          },
+          "imageUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-fifth-queen/downloads/cover.jpg"
+        },
+        {
           "id": "https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-twisted-candle",
           "author": null,
           "description": "A successful writer is asked to help solve a locked-room murder mystery that has the authorities baffled.",
@@ -4960,6 +4975,22 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-281",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-281",
+          "publishedOn": "2023-06-18T17:27:25.000Z",
+          "wordCount": null,
+          "title": "Open Thread 281",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ab8a3272-8696-4f43-b6a8-be8af11e4a5a_496x341.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ab8a3272-8696-4f43-b6a8-be8af11e4a5a_496x341.png"
+        },
         {
           "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2805",
           "author": "Scott Alexander",
@@ -5295,22 +5326,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d6ddc021-2527-4daf-b29c-7406bd927c37_496x341.png"
-        },
-        {
-          "id": "https://astralcodexten.substack.com/p/your-book-review-cities-and-the-wealth",
-          "author": "Scott Alexander",
-          "description": "Finalist #1 in the Book Review Contest",
-          "link": "https://astralcodexten.substack.com/p/your-book-review-cities-and-the-wealth",
-          "publishedOn": "2023-05-19T23:16:35.000Z",
-          "wordCount": null,
-          "title": "Your Book Review: Cities And The Wealth Of Nations/The Question Of Separatism",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/3fea9911-ece0-4cf0-8d03-b3a473d70fef_432x288.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3fea9911-ece0-4cf0-8d03-b3a473d70fef_432x288.jpeg"
         }
       ]
     },
@@ -6426,6 +6441,50 @@
       "feedUrl": "http://rss.sciam.com/ScientificAmerican-Global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "74186B26-6028-4AFC-A6E1403FE73C1DFD",
+          "author": "Amy Brady",
+          "description": "A wildfire rages against the Alberta tar sands, aliens induce existential crises for people (and cats), the hype and potential of MDMA, and more books out now",
+          "link": "https://www.scientificamerican.com/article/when-a-wildfire-burns-a-city-built-for-extracting-oil/",
+          "publishedOn": "2023-06-18T16:00:00.000Z",
+          "wordCount": null,
+          "title": "When a Wildfire Burns a City Built for Extracting Oil",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "042C844D-0D4D-43D1-91CE3CC87D666FE0",
+          "author": "Charles D. Brown II",
+          "description": "Experiments that imitate solid materials with light waves reveal the quantum basis of exotic physical effects",
+          "link": "https://www.scientificamerican.com/article/physicists-make-matter-out-of-light-to-find-quantum-singularities/",
+          "publishedOn": "2023-06-18T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Physicists Make Matter out of Light to Find Quantum Singularities",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "AAF8E3A5-DF4F-416D-B3A696D67E3A49B0",
+          "author": "Bradley van Paridon",
+          "description": "The greyhound racing industry has been implicated in the rise of drug resistance in hookworms—which can infect dogs and humans",
+          "link": "https://www.scientificamerican.com/article/how-greyhound-racing-drove-the-evolution-of-a-superparasite/",
+          "publishedOn": "2023-06-18T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How Greyhound Racing Drove the Evolution of a Superparasite",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E0A3161D-02AC-41F6-9DA8946AEC936EE2",
+          "author": "Mary Steen, The Conversation US",
+          "description": "Fathers and nonbirthing parents benefit from skin-to-skin contact with their newborns",
+          "link": "https://www.scientificamerican.com/article/why-dads-and-their-babies-need-to-go-skin-to-skin1/",
+          "publishedOn": "2023-06-18T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Dads and Their Babies Need to Go Skin-to-Skin",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "F5AC1DB9-236D-44D3-8AEBC35AEA21B528",
           "author": "Clara Moskowitz",
@@ -15880,6 +15939,26 @@
       "siteUrl": "https://www.statschat.org.nz",
       "articles": [
         {
+          "id": "https://www.statschat.org.nz/?p=19617",
+          "author": "Thomas Lumley",
+          "description": "When I wrote about ChatGPT-detecting last time, I said that overall accuracy wasn’t enough; you’d need to know about the accuracy in relevant groups of people: In addition to knowing the overall false positive rate, we’d want to know the false positive rate for important groups of students.  Does using a translator app on text […]\nLooking for ChatGPT again first appeared on Stats Chat.",
+          "link": "https://www.statschat.org.nz/2023/06/18/looking-for-chatgpt-again/?utm_source=rss&utm_medium=rss&utm_campaign=looking-for-chatgpt-again",
+          "publishedOn": "2023-06-18T03:21:39.000Z",
+          "wordCount": 1579,
+          "title": "Looking for ChatGPT again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.statschat.org.nz/?p=19613",
+          "author": "Thomas Lumley",
+          "description": "At Ars Technica there’s an interesting story about a smartphone addon being developed to provide rapid, inexpensive blood pressure measurement.   Home blood pressure machines aren’t all that cheap and they’re a bit tricky to use reliably on your  own. Smartphones, obviously, are more expensive than the blood pressure machines, but people might already own them […]\nSmartphone blood pressure first appeared on Stats Chat.",
+          "link": "https://www.statschat.org.nz/2023/06/18/smartphone-blood-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=smartphone-blood-pressure",
+          "publishedOn": "2023-06-18T02:40:27.000Z",
+          "wordCount": 1608,
+          "title": "Smartphone blood pressure",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.statschat.org.nz/?p=19610",
           "author": "David Scott",
           "description": "Team Ratings for Round 16 The basic method is described on my Department home page. Here are the team ratings prior to this week’s games, along with the ratings at the start of the season. Current Rating Rating at Season Start Difference Panthers 13.20 12.99 0.20 Rabbitohs 8.13 9.35 -1.20 Storm 6.39 11.21 -4.80 Eels […]\nNRL Predictions for Round 16 first appeared on Stats Chat.",
@@ -16131,16 +16210,6 @@
           "wordCount": 2903,
           "title": "Visual story-telling: do you know or do you think?",
           "imageUrl": "https://junkcharts.typepad.com/.a/6a00d8341e992c53ef02b751a58f5f200c-600wi"
-        },
-        {
-          "id": "https://junkcharts.typepad.com/junk_charts/2023/05/parsons-student-projects.html",
-          "author": null,
-          "description": "Kaiser enjoys projects by Parsons students.",
-          "link": "https://junkcharts.typepad.com/junk_charts/2023/05/parsons-student-projects.html",
-          "publishedOn": "2023-05-19T13:41:00.000Z",
-          "wordCount": 2860,
-          "title": "Parsons Student Projects",
-          "imageUrl": "https://junkcharts.typepad.com/.a/6a00d8341e992c53ef02b751a54c26200c-600wi"
         }
       ]
     },
@@ -16188,6 +16257,46 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/dde5890dc45",
+          "author": "Carmen Amato",
+          "description": "7 ways to make your submission sing\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/what-judges-look-for-when-you-submit-to-a-fiction-contest-dde5890dc45?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-18T21:01:30.000Z",
+          "wordCount": 3164,
+          "title": "What Judges Look for When You Submit to a Fiction Contest",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iUcd0_LOLrzcElrXVAsGhA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e39391352e38",
+          "author": "Kimberly Carlson Aesara",
+          "description": "Traveling is essential to the creative lives of writers.\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/5-ways-to-improve-your-writing-while-traveling-e39391352e38?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-18T17:01:31.000Z",
+          "wordCount": 3481,
+          "title": "5 Ways To Improve Your Writing While Traveling",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*3OwOchxcp-8Luefk"
+        },
+        {
+          "id": "https://medium.com/p/20ba9cdd4150",
+          "author": "Cynthia Marinakos",
+          "description": "Stay ahead of the competition — and AI\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/want-more-writing-jobs-upskill-with-these-3-valuable-digital-skills-20ba9cdd4150?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-18T15:01:58.000Z",
+          "wordCount": 3527,
+          "title": "Want More Writing Jobs? Upskill With These 3 Valuable Digital Skills",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:800/1*UZtnTYXp6s8wxKQ5hZbMHA.png"
+        },
+        {
+          "id": "https://medium.com/p/ccd52caae91e",
+          "author": "Cole Haddon",
+          "description": "Top WGA members weigh in about the exploitation of feature screenwriters and how the union’s proposals will help them and the film industry\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/a-matter-of-survival-how-the-wga-is-trying-to-save-feature-screenwriters-ccd52caae91e?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-18T13:01:56.000Z",
+          "wordCount": 9181,
+          "title": "A Matter Of Survival: How The WGA Is Trying To Save Feature Screenwriters",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xUI46hcqOr30T3W5ICLlHg.jpeg"
+        },
         {
           "id": "https://medium.com/p/c692afd7a70c",
           "author": "Bernard",
@@ -17215,6 +17324,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53250",
+          "author": "xi'an",
+          "description": "Visit the post for more.",
+          "link": "https://xianblog.wordpress.com/2023/06/19/no-country-for-old-men-cormac-mccarthy/",
+          "publishedOn": "2023-06-18T22:23:10.000Z",
+          "wordCount": 1732,
+          "title": "no country for old men [Cormac McCarthy]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/nocolmen.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53243",
           "author": "xi'an",
           "description": "Today, I attended (most of) and briefly took part in the discussion webinar run by Bayesian Analysis (the journal) and featuring the paper Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score by David Stephens, Widemberg Nobre, Erica Moodie, and Alexandra M. Schmidt, for which Pierre Jacob and I contributed a written discussion. I […]",
@@ -17502,6 +17621,16 @@
       "siteUrl": "https://johncarlosbaez.wordpress.com",
       "articles": [
         {
+          "id": "http://johncarlosbaez.wordpress.com/?p=34806",
+          "author": "John Baez",
+          "description": "I want to tell you more about modes! I’ve been playing music and thinking about modes a lot, but now I have more to say. In Part 1, I described the 7 modes formed by starting the major scale at various points: I linked to videos where you could hear samples of music in each […]",
+          "link": "https://johncarlosbaez.wordpress.com/2023/06/18/modes-part-3/",
+          "publishedOn": "2023-06-18T06:08:20.000Z",
+          "wordCount": 2507,
+          "title": "Modes (Part 3)",
+          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2023/06/keyboard.png"
+        },
+        {
           "id": "http://johncarlosbaez.wordpress.com/?p=34793",
           "author": "John Baez",
           "description": "Beryllium is the fourth element in the periodic table, giving it many special properties. But it’s surprisingly rare, because stars almost always make beryllium-8, an extremely unstable form. And it hasn’t been studied as much as other light elements—because beryllium dust is so poisonous! It can cause fatal scarring of the lungs. Now a chemist […]",
@@ -17655,22 +17784,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0cf249ba-d918-4c6c-be65-cf626b9c8aa1_1749x1200.jpeg"
-        },
-        {
-          "id": "https://www.overcomingbias.com/p/which-of-your-origins-are-you",
-          "author": "Robin Hanson",
-          "description": "Most people assimilate the values of their local culture, some of which they can express abstractly, and mix that with their genetic personality, individual experiences, and maybe also some thoughts, to produce the values they use to make decisions over their lifetimes.",
-          "link": "https://www.overcomingbias.com/p/which-of-your-origins-are-you",
-          "publishedOn": "2023-05-19T17:59:25.000Z",
-          "wordCount": null,
-          "title": "Which Of Your Origins Are You?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/885749b8-7478-4af9-be58-441357f25679_600x600.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/885749b8-7478-4af9-be58-441357f25679_600x600.png"
         }
       ]
     },
@@ -18405,16 +18518,6 @@
           "wordCount": 2791,
           "title": "The 10 Most Underrated Crime Movies of the 1980s",
           "imageUrl": "http://www.tasteofcinema.com/wp-content/uploads/2023/05/Something-Wild-Liotta.jpg"
-        },
-        {
-          "id": "http://www.tasteofcinema.com/?p=66544",
-          "author": "Mark Serravalle",
-          "description": "If there was one sub-genre that is equal parts tantalizing and terrorizing it is that of French Extremism. Beginning in the late 1990’s and continuing to present day, French Extremism or “New Extremity” is a genre that pertains to films that contain intensely graphic sex and violence that test the audiences’ eyes as much as […]",
-          "link": "http://www.tasteofcinema.com/2023/the-10-best-french-extremism-films-of-all-time/",
-          "publishedOn": "2023-05-19T15:32:50.000Z",
-          "wordCount": 2797,
-          "title": "The 10 Best French Extremism Films of All Time",
-          "imageUrl": "http://www.tasteofcinema.com/wp-content/uploads/2014/09/irreversible_2002-1024x576.jpg"
         }
       ]
     },
@@ -20364,6 +20467,16 @@
       "siteUrl": "https://blog.tanyakhovanova.com",
       "articles": [
         {
+          "id": "https://blog.tanyakhovanova.com/?p=1912",
+          "author": "tanyakh",
+          "description": "* * * The teacher asks a student,“Johnny, how much will your mom pay at the market for three pounds of apples if one pound is three dollars?”“I do not know,” answers Johnny, “My mom loves bargaining, and she is good at it.” * * * The teacher asks a student,“Johnny, in a 5-story building, […]",
+          "link": "https://blog.tanyakhovanova.com/2023/06/the-teacher-asks/",
+          "publishedOn": "2023-06-18T17:49:15.000Z",
+          "wordCount": 1364,
+          "title": "The Teacher Asks…",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.tanyakhovanova.com/?p=1910",
           "author": "tanyakh",
           "description": "I am sure I was fooled many times on April Fool’s Days. But I do not remember any stories, except one. It was quite painful and had a lot of potential for humiliation. I was in high school, and our school didn’t have enough rooms for all the classes. So that particular semester, our classes […]",
@@ -20401,16 +20514,6 @@
           "publishedOn": "2023-05-21T18:06:27.000Z",
           "wordCount": 1556,
           "title": "The Vicious Dragon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.tanyakhovanova.com/?p=1902",
-          "author": "tanyakh",
-          "description": "Puzzle. Alice and Bob roll an unbiased 6-sided die until two consecutive rolls are the same. They add up the scores from all of the rolls. If the total is even, Alice wins; if it is odd, Bob wins. Who is more likely to win? Share:",
-          "link": "https://blog.tanyakhovanova.com/2023/05/a-puzzle-from-alex-ryba/",
-          "publishedOn": "2023-05-19T20:15:56.000Z",
-          "wordCount": 1462,
-          "title": "A Puzzle from Alex Ryba",
           "imageUrl": null
         }
       ]
@@ -21281,81 +21384,6 @@
             "url": "https://www.seriouseats.com/thmb/0VKXr4p4jmKrZwr2bp9xBZjnlxM=/1500x1125/20210726-french-press-review-FellowClara-Clara-MainShot-ashely-rodriguez-add9278c0bbf431ca6524d576ade90bf.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/0VKXr4p4jmKrZwr2bp9xBZjnlxM=/1500x1125/20210726-french-press-review-FellowClara-Clara-MainShot-ashely-rodriguez-add9278c0bbf431ca6524d576ade90bf.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-cheddar-cheese-for-cheeseburgers-taste-test-7500466",
-          "author": "Tess Koman",
-          "description": "The SE team pulled together eight brands of cheddar cheese slices you're likely to find in your local supermarket and methodically, empirically, scientifically! tasted its way through them all in a quest to identify the very best one to put atop all your forthcoming cheeseburgers.",
-          "link": "https://www.seriouseats.com/best-cheddar-cheese-for-cheeseburgers-taste-test-7500466",
-          "publishedOn": "2023-05-19T20:03:51.000Z",
-          "wordCount": null,
-          "title": "We Taste-Tested 8 Cheddar Cheeses on Cheeseburgers—Here Are Our Favorites",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/-S24l7IEZb7rQOCx84naILYc4wQ=/4000x3000/SEA-CheddarCheese-2-046d5389ff0d426780be57113aa5c911.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/-S24l7IEZb7rQOCx84naILYc4wQ=/4000x3000/SEA-CheddarCheese-2-046d5389ff0d426780be57113aa5c911.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/cast-iron-vs-enameled-cast-iron-skillets-7496188",
-          "author": "Rochelle Bilow",
-          "description": "Although both types of pans are high performers, you should consider price, longevity, and versatility when deciding which one to buy.",
-          "link": "https://www.seriouseats.com/cast-iron-vs-enameled-cast-iron-skillets-7496188",
-          "publishedOn": "2023-05-19T17:34:39.000Z",
-          "wordCount": null,
-          "title": "Should You Buy a Cast Iron or an Enameled Cast Iron Skillet? Here’s a Comparison",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/ouJ5rUfMJqur7fVV3tpEXeDbEeU=/5000x3333/sea-product-group-shot-rkilgore-8f4252f7f8494b22b68d8844c850cd6a.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/ouJ5rUfMJqur7fVV3tpEXeDbEeU=/5000x3333/sea-product-group-shot-rkilgore-8f4252f7f8494b22b68d8844c850cd6a.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/how-to-make-butter-7496926",
-          "author": "Daniel Gritzer",
-          "description": "Making butter from scratch starts with heavy cream, and is as easy as whipping it until it breaks and the butterfat collects; then all you you have to do is wash it, dry it, season it with salt (only if you want!), and roll it up tightly.",
-          "link": "https://www.seriouseats.com/how-to-make-butter-7496926",
-          "publishedOn": "2023-05-19T17:28:15.000Z",
-          "wordCount": null,
-          "title": "How to Make Butter",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/AYtNhwNJnLvZ3ULQ7vkWvqESN_E=/4000x3000/20230519-SEA-HowToMakeButter-Amanda-Suarez-hero-ce0a9772a5ef4ff283ab3dde2c746f19.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/AYtNhwNJnLvZ3ULQ7vkWvqESN_E=/4000x3000/20230519-SEA-HowToMakeButter-Amanda-Suarez-hero-ce0a9772a5ef4ff283ab3dde2c746f19.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/how-to-make-buttermilk-7496927",
-          "author": "Daniel Gritzer",
-          "description": "True tangy buttermilk is hard to find in stores today, but it's a byproduct of making cultured butter that's easy to do at home.",
-          "link": "https://www.seriouseats.com/how-to-make-buttermilk-7496927",
-          "publishedOn": "2023-05-19T17:28:10.000Z",
-          "wordCount": null,
-          "title": "How to Make Buttermilk",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/zvpMis6TANLA6F1ZWaTTlI6vsNo=/4000x3000/20230519-SEA-HowToMakeButtermilk-Amanda-Suarez-hero-5682354febe344e7985f4fda13b2d34f.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/zvpMis6TANLA6F1ZWaTTlI6vsNo=/4000x3000/20230519-SEA-HowToMakeButtermilk-Amanda-Suarez-hero-5682354febe344e7985f4fda13b2d34f.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/champagne-vinaigrette-recipe-7499688",
-          "author": "Genevieve Yam",
-          "description": "Everything you need to know about a dressing and vinegar that no one seems to know anything about.",
-          "link": "https://www.seriouseats.com/champagne-vinaigrette-recipe-7499688",
-          "publishedOn": "2023-05-19T16:08:29.000Z",
-          "wordCount": null,
-          "title": "Champagne Vinaigrette",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/UIHjIWn_khkoOb0uVkjVDNYePOg=/4000x3000/20230519-SEA-ChampagneVinaigrette-Amanda-Suarez-hero-d4c8b0f872834d51a49ec33c19df5f2c.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/UIHjIWn_khkoOb0uVkjVDNYePOg=/4000x3000/20230519-SEA-ChampagneVinaigrette-Amanda-Suarez-hero-d4c8b0f872834d51a49ec33c19df5f2c.jpg"
         }
       ]
     },
@@ -21606,16 +21634,6 @@
           "wordCount": 4971,
           "title": "In Brazil’s Favelas, Green Roofs Might Help Relieve the Heat",
           "imageUrl": "https://undark.org/wp-content/uploads/2023/05/GettyImages-465254324_crop.jpg"
-        },
-        {
-          "id": "https://undark.org/?p=77908",
-          "author": "Hannah Wunsch",
-          "description": "In 1928, Philip Drinker and Louis Agassiz Shaw Jr. invented a giant metal respirator that enabled them to solve the problem of respiratory failure in polio patients. In the process, their unwieldy creation fundamentally altered the relationship between human and machine.",
-          "link": "https://undark.org/2023/05/19/book-excerpt-how-the-iron-lung-transformed-polio-care/",
-          "publishedOn": "2023-05-19T14:50:32.000Z",
-          "wordCount": 5889,
-          "title": "Book Excerpt: How the Iron Lung Transformed Polio Care",
-          "imageUrl": "https://undark.org/wp-content/uploads/2023/05/Child-in-Iron-Lung_lede_edit.jpg"
         }
       ]
     },
@@ -22493,6 +22511,56 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86135",
+          "author": "Tyler Cowen",
+          "description": "That is fresh kill from the night before, a buffalo hunted by lions, as the guide explained.  As of about 7 a.m., lions had eaten and hauled away all of the carcass. Hyenas carried away the bones. The surrounding ground was utterly spotless. This free lunch is over!\n\r\nThe post Zero profit condition, illustrated on the Kenyan plains appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Dinwar.   Human kills, due to our tools, tend to be ... by So Much For Subtlety\nIn reply to rsm.   Bizarre that this guy thinks cats only hunt ... by Prester John\nThere aren't many strip malls on the Kenyan plains, so follow ... by TC's ethnic dining guide\nIn reply to rsm.   Actually you’re right, hunters cut off the ... by L\nIn reply to RAD.   It's not an unreasonable explanation. ... by Dinwar\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/747074591/0/marginalrevolution~Zero-profit-condition-illustrated-on-the-Kenyan-plains.html",
+          "publishedOn": "2023-06-18T18:18:48.000Z",
+          "wordCount": 1813,
+          "title": "Zero profit condition, illustrated on the Kenyan plains",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2023/06/skull.jpeg-225x300.jpg"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86127",
+          "author": "Tyler Cowen",
+          "description": "1. Nate Silver on Jokic. 2. The physics of dancing peanuts in beer (Cowen’s Second Law). 3. Pastoralists and drought. 4. Mark Lutter’s plan to build a new Caribbean city. 5. Meta plans to commercialize the next version of LLaMA. 6. On the European human capital decline.\n\r\nThe post Sunday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Ben.   But the post is analyzing current ... by mkt42\n“3. Pastoralists and drought.”   The musical ... by mkt42\nIn reply to RAD.   The building rate in Toronto is incredible ... by Formerly K\nIn reply to EdR.   Being a service economy is only viable if ... by Dino the Isaurian\nIn reply to So Much For Subtlety.   Why not?   They’ve got to ... by Dino the Isaurian\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/747061772/0/marginalrevolution~Sunday-assorted-links.html",
+          "publishedOn": "2023-06-18T16:34:30.000Z",
+          "wordCount": 1792,
+          "title": "Sunday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86128",
+          "author": "Tyler Cowen",
+          "description": "None of women in the Bangalore trial had heard of ChatGPT and some of them had given up on receiving aid after struggling with language barriers, and government officials and middlemen demanding bribes. The Bangalore trials were led by Saurabh Karn and his team at the nonprofit OpenNyAI. By feeding a collection of millions of […]\n\r\nThe post India bots to the rescue appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to sxb.   Right, technology increases knowledge of ... by mkt42\nIn reply to Etalon d'Silomar.   Sorry. It's the requirement to ... by Etalon d'Silomar\nIn reply to Edward Burke.   Not just India, but the world. Why ... by Ben\nIn reply to rayward.   In high school, students who studied ... by rayward\nIn reply to Etalon d'Silomar.   If I learn Mandarin, that will ... by rayward\nPlus 5 more...\n\nRelated Stories\n\nWeb 3.0 has a future after all\nThe Road to Socialism and Back: An Economic History of Poland, 1939–2019\nVirtue signaling on Twitter",
+          "link": "https://feeds.feedblitz.com/~/747052022/0/marginalrevolution~India-bots-to-the-rescue.html",
+          "publishedOn": "2023-06-18T14:56:40.000Z",
+          "wordCount": 1951,
+          "title": "India bots to the rescue",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=85999",
+          "author": "Tyler Cowen",
+          "description": "A new study in Denmark used machine learning techniques on photographs of faces of Danish politicians to predict whether their political ideology is left- or right-wing. The accuracy of predictions was 61%. Faces of right-wing politicians were more likely to have happy and less likely to have neutral facial expressions. Women with attractive faces were […]\n\r\nThe post A mild return for Danish phrenology? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Hadur.   Meh. Wear a cowboy hat and some boots with ... by steve\nIn reply to kavu.   B/c R’s are more likely to be working ... by Oldcurmudgeon\nIn reply to Smoghat.   Sarah Sanders is the daughter of a ... by aaron\nIn reply to ABC.   Forget donation solicitation… wait until ... by JFA\nIn reply to DeQuan.   Yes, and haven't we always coveted the ... by Fondanomics\nPlus 10 more...\n\nRelated Stories\n\nSHRUG 2 for India is out\nMy Conversation with Noam Chomsky\nWhat is the optimistic case for Kenya?",
+          "link": "https://feeds.feedblitz.com/~/747005603/0/marginalrevolution~A-mild-return-for-Danish-phrenology.html",
+          "publishedOn": "2023-06-18T07:17:54.000Z",
+          "wordCount": 1861,
+          "title": "A mild return for Danish phrenology?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86027",
+          "author": "Tyler Cowen",
+          "description": "State income taxes affect federal income tax revenue by shifting the spatial distribution of households between high- and low-productivity states, thereby changing household incomes and tax payments. We derive an expression for these fiscal externalities of state taxes in terms of estimable statistics. An empirical quantification using American Community Survey data reveals that the externalities […]\n\r\nThe post Vertical migration externalities, or another reason why California taxes are too high appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nNo one here has pointed out that the reason businesses tend to ... by Kaleberg\nIn reply to So Much For Subtlety.   Mississippi gets money from ... by Kaleberg\nIn reply to So Much For Subtlety.   There are lots of federal ... by Kaleberg\nIn reply to Nodoubt.   Does this mean that high taxes encourage ... by Kaleberg\nIn reply to Formerly K.   I was in California during the ... by Kaleberg\nPlus 10 more...\n\nRelated Stories\n\nUsing a Quantum Annealer to Solve a Real Business Cycle Model\nThe Road to Socialism and Back: An Economic History of Poland, 1939–2019\nWhat is the optimistic case for Kenya?",
+          "link": "https://feeds.feedblitz.com/~/746995634/0/marginalrevolution~Vertical-migration-externalities-or-another-reason-why-California-taxes-are-too-high.html",
+          "publishedOn": "2023-06-18T05:25:27.000Z",
+          "wordCount": 1955,
+          "title": "Vertical migration externalities, or another reason why California taxes are too high",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86118",
           "author": "Tyler Cowen",
@@ -23498,6 +23566,16 @@
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
         {
+          "id": "https://johncarlosbaez.wordpress.com/2023/06/18/modes-part-3/",
+          "author": null,
+          "description": "I want to tell you more about modes! I’ve been playing music and thinking about modes a lot, but now I have more to say. In Part 1, I described the 7 modes formed by starting the major scale at various points: I linked to videos where you could hear samples of music in each […]",
+          "link": "https://johncarlosbaez.wordpress.com/2023/06/18/modes-part-3/",
+          "publishedOn": "2023-06-18T06:08:20.000Z",
+          "wordCount": 2507,
+          "title": "Modes (Part 3)",
+          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2023/06/keyboard.png"
+        },
+        {
           "id": "https://terrytao.wordpress.com/2023/06/16/a-note-on-the-mean-value-of-the-hooley-delta-function/",
           "author": null,
           "description": "Dimitris Koukoulopolous and I have just uploaded to the arXiv our paper “A note on the mean value of the Hooley delta function“. This paper concerns a (still somewhat poorly understood) basic arithmetic function in multiplicative number theory, namely the Hooley delta function where The function measures the extent to which the divisors of a […]",
@@ -23886,36 +23964,6 @@
           "wordCount": 3123,
           "title": "Neuromorphic Computing For Physics Applications",
           "imageUrl": null
-        },
-        {
-          "id": "https://quomodocumque.wordpress.com/2023/05/20/coinages/",
-          "author": null,
-          "description": "I was just at a conference where someone asked me if I had coined any mathematical terms. Well, sort of! I was the one who decided on the name “FI-modules” for the abelian category Tom Church, Benson Farb and I wrote about in this paper. More informally, I’m pretty sure I’m the originator of using […]",
-          "link": "https://quomodocumque.wordpress.com/2023/05/20/coinages/",
-          "publishedOn": "2023-05-20T07:04:30.000Z",
-          "wordCount": 2091,
-          "title": "Coinages",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://4gravitons.com/2023/05/19/traveling-this-week/",
-          "author": null,
-          "description": "I’m traveling this week, so this will just be a short post. This isn’t a scientific trip exactly: I’m in Poland, at an event connected to the 550th anniversary of the birth of Copernicus. Part of this event involved visiting the Copernicus Science Center, the local children’s science museum. The place was sold out completely. […]",
-          "link": "https://4gravitons.com/2023/05/19/traveling-this-week/",
-          "publishedOn": "2023-05-19T16:00:00.000Z",
-          "wordCount": 2750,
-          "title": "Traveling This Week",
-          "imageUrl": "https://4gravitons.files.wordpress.com/2023/05/20230518_180721.jpg"
-        },
-        {
-          "id": "http://hoggresearch.blogspot.com/2023/05/calibrating-gaia.html",
-          "author": null,
-          "description": "I was honored today by being invited to a meeting of the group at Cambridge (UK) that extracts and calibrates the low-resolution ESA  XP spectra. The model is bilinear: Each source is represented as a linear sum of basis functions, and each observation of each source has an expectation which is that linear sum multiplied by a convolution kernel, which is also represented as a sum of components. These components are smooth functions of position in the device and wavelength. It's a very nice system! I went through it all with them and said what I would have done differently (which is not much, I have to admit).Gaia",
-          "link": "http://hoggresearch.blogspot.com/2023/05/calibrating-gaia.html",
-          "publishedOn": "2023-05-19T14:06:00.000Z",
-          "wordCount": 4093,
-          "title": "calibrating Gaia",
-          "imageUrl": null
         }
       ]
     },
@@ -23936,6 +23984,16 @@
       "feedUrl": "https://pointers.dailywebthing.com/feed/",
       "siteUrl": "https://iwebthings.joejenett.com/",
       "articles": [
+        {
+          "id": "https://iwebthings.joejenett.com/recently-noticed-06-18-23/",
+          "author": null,
+          "description": "Aether 📌\n“Peer-to-peer ephemeral public communities”\n/kbin 📌\n“an open source reddit-like content aggregator and microblogging platform for the fediverse”\nWeekle \n“a web app to teach you how to quickly determine the day of the week from any date”\narttime 📌\n“a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰”\nZOMBO\nGotcha! (again) 😎",
+          "link": "https://iwebthings.joejenett.com/recently-noticed-06-18-23/",
+          "publishedOn": "2023-06-18T12:26:19.000Z",
+          "wordCount": 438,
+          "title": "recently noticed 06-18-23",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
         {
           "id": "https://iwebthings.joejenett.com/linkylove-06-16-23/",
           "author": null,
@@ -27106,6 +27164,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59190",
+          "author": "Victor Mair",
+          "description": "[This is a guest post by Jichang Lulu, with some minor modifications and additions by VHM] You might have seen this — the PRC embassy in Poland has given Badiucao's forthcoming exhibition in Warsaw (coorganised by Sinopsis) some very welcome, completely unexpected publicity by trying to have it shut down. Lots of international reporting: The Guardian, Sydney Morning Herald, &c., &c. […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59190&utm_source=rss&utm_medium=rss&utm_campaign=saturn-cronus-%25ce%25ba%25cf%2581%25cf%258c%25ce%25bd%25ce%25bf%25cf%2582-%25e2%2589%25a0-chronos-%25cf%2587%25cf%2581%25cf%258c%25ce%25bd%25ce%25bf%25cf%2582",
+          "publishedOn": "2023-06-18T04:50:29.000Z",
+          "wordCount": 2506,
+          "title": "Saturn < Cronus (Κρόνος) ≠ Chronos (Χρόνος)",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59266",
           "author": "Victor Mair",
           "description": "Article by Phillip M. Carter in The Conversation (6/12/23): \"Linguists have identified a new English dialect that’s emerging in South Florida\" Beginning sentences: “We got down from the car and went inside.” “I made the line to pay for groceries.” “He made a party to celebrate his son’s birthday.” These phrases might sound off to […]",
@@ -27678,16 +27746,6 @@
           "publishedOn": "2023-05-20T15:02:30.000Z",
           "wordCount": 4209,
           "title": "AI comic strip creation?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58734",
-          "author": "Victor Mair",
-          "description": "As we have pointed out countless times on Language Log, if one wishes to learn a Sinitic language, one can concentrate on the characters (writing system), one can rely exclusively on romanization or other phoneticization, or one can devise various means for combining the two approaches.  Here is a clever, fun method for learning Cantonese […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58734&utm_source=rss&utm_medium=rss&utm_campaign=romanisation-gives-clarity",
-          "publishedOn": "2023-05-20T04:48:59.000Z",
-          "wordCount": 2994,
-          "title": "\"Romanisation 'gives clarity'\"",
           "imageUrl": null
         }
       ]
@@ -29223,6 +29281,16 @@
       "siteUrl": "https://economicsfromthetopdown.com/",
       "articles": [
         {
+          "id": "https://economicsfromthetopdown.com/?p=6831",
+          "author": "Blair Fix",
+          "description": "With my postdoctoral fellowship wrapping up, I muse about what comes next.\nThe post A Blind Leap appeared first on Economics from the Top Down.",
+          "link": "https://economicsfromthetopdown.com/2023/06/18/a-blind-leap/",
+          "publishedOn": "2023-06-18T11:30:49.000Z",
+          "wordCount": 2991,
+          "title": "A Blind Leap",
+          "imageUrl": "https://economicsfromthetopdown.com/wp-content/uploads/2023/06/Redfox_Pounce_4453887453.jpg"
+        },
+        {
           "id": "https://economicsfromthetopdown.com/?p=6773",
           "author": "Blair Fix",
           "description": "I’m sick of the AI hype and scaremongering. The idea that AI could take over the world is laughable.\nThe post No, AI Does Not Pose an Existential Risk to Humanity appeared first on Economics from the Top Down.",
@@ -29231,16 +29299,6 @@
           "wordCount": 4629,
           "title": "No, AI Does Not Pose an Existential Risk to Humanity",
           "imageUrl": "https://economicsfromthetopdown.com/wp-content/uploads/2023/06/robot_breakfast1.png"
-        },
-        {
-          "id": "https://economicsfromthetopdown.com/?p=6674",
-          "author": "Blair Fix",
-          "description": "Twitter trolls don't think much of my chart relating income inequality to murder rates. Here's a detailed response. \nThe post Masochistic Fun with Plutocratic Murder appeared first on Economics from the Top Down.",
-          "link": "https://economicsfromthetopdown.com/2023/05/20/masochistic-fun-with-plutocratic-murder/",
-          "publishedOn": "2023-05-20T12:06:58.000Z",
-          "wordCount": 5780,
-          "title": "Masochistic Fun with Plutocratic Murder",
-          "imageUrl": "https://economicsfromthetopdown.com/wp-content/uploads/2023/05/murder_montage.png"
         }
       ]
     },
