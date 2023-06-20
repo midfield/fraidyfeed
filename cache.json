@@ -18,6 +18,16 @@
       "siteUrl": "https://golem.ph.utexas.edu/category/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/research_fellowships_in_repres.html",
+          "author": null,
+          "description": "Apply for a job in Leeds",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/research_fellowships_in_repres.html",
+          "publishedOn": "2023-06-19T09:39:45.000Z",
+          "wordCount": 467,
+          "title": "Research Fellowships in Representation Theory and/or Low Dimensional Topology at Leeds",
+          "imageUrl": null
+        },
+        {
           "id": "https://golem.ph.utexas.edu/category/2023/06/the_wedderburnartin_theorem.html",
           "author": null,
           "description": "We can generalize the Wedderburn--Artin theorem from rings to rigs.",
@@ -75,6 +85,16 @@
       "siteUrl": "https://terrytao.wordpress.com",
       "articles": [
         {
+          "id": "http://terrytao.wordpress.com/?p=13815",
+          "author": "Terence Tao",
+          "description": "Back in March, I was approached to contribute to a then-upcoming anthology project to evaluate an early access version of the GPT-4 large language model, and write a short essay about my experiences. Our prompt was to focus on two core questions: The anthology is now in the process of being rolled out, with twelve of […]",
+          "link": "https://terrytao.wordpress.com/2023/06/19/ai-anthology/",
+          "publishedOn": "2023-06-19T23:12:52.000Z",
+          "wordCount": 3771,
+          "title": "AI Anthology",
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1687222554"
+        },
+        {
           "id": "http://terrytao.wordpress.com/?p=13802",
           "author": "Terence Tao",
           "description": "Dimitris Koukoulopolous and I have just uploaded to the arXiv our paper “A note on the mean value of the Hooley delta function“. This paper concerns a (still somewhat poorly understood) basic arithmetic function in multiplicative number theory, namely the Hooley delta function where The function measures the extent to which the divisors of a […]",
@@ -111,6 +131,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48504",
+          "author": "Andrew",
+          "description": "Jouni Helske, Satu Helske, Matthew Cooper, Anders Ynnerman, and Lonni Besançon write: Can Visualization Alleviate Dichotomous Thinking? Effects of Visual Representations on the Cliff Effect Common reporting styles for statistical results in scientific articles, such as p-values and confidence intervals … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/19/can-visualization-alleviate-dichotomous-thinking-some-experimental-evidence/",
+          "publishedOn": "2023-06-19T13:42:15.000Z",
+          "wordCount": 3651,
+          "title": "Can Visualization Alleviate Dichotomous Thinking?  Some experimental evidence.",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=48682",
           "author": "Andrew",
@@ -520,16 +550,6 @@
           "wordCount": 4846,
           "title": "Is omicron natural or not – a probabilistic theory?",
           "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=48554",
-          "author": "Andrew",
-          "description": "José Iparraguirre writes: Just finished “Understanding Statistics and Experimental Design. How to Not Lie with Statistics”, by Michael­ Herzog, Gregory­ Francis, and Aaron ­Clarke (Springer, 2019). Near the end (p. 128), I read the following regarding “optional stopping”: …suppose a … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/05/20/if-you-do-not-know-what-you-would-have-done-under-all-possible-scenarios-then-you-cannot-know-the-type-i-error-rate-for-your-analysis/",
-          "publishedOn": "2023-05-20T13:23:32.000Z",
-          "wordCount": 5670,
-          "title": "“If you do not know what you would have done under all possible scenarios, then you cannot know the Type I error rate for your analysis.”",
-          "imageUrl": null
         }
       ]
     },
@@ -544,6 +564,36 @@
       "feedUrl": "https://www.atlasobscura.com/feeds/latest",
       "siteUrl": "https://www.atlasobscura.com",
       "articles": [
+        {
+          "id": "https://www.atlasobscura.com/articles/olmec-earth-monster-monument-nine-repatriated",
+          "author": "Karl Taube",
+          "description": "This story was originally published on The Conversation and appears here under a Creative Commons license.\n\r\n\r\nAn extremely important 1-ton sculpture, sometimes referred to by archaeologists as an “Earth Monster” or Monument 9, was repatriated to Mexico from a private collection in Colorado in May 2023, according to an announcement from Mexico’s Consul General in New York. The monument features the head of a front-facing creature with a gaping mouth: a supernatural being that represented the living, animate earth to an ancient culture in Central America and Mexico.\n\r\nThis sculpture was reportedly found at the base of a hill at Chalcatzingo, an archaeological site some 80 miles (130 kilometers) south of Mexico City, and dates to roughly 600 B.C. Chalcatzingo is closely related to Olmec cult…",
+          "link": "https://www.atlasobscura.com/articles/olmec-earth-monster-monument-nine-repatriated",
+          "publishedOn": "2023-06-19T13:10:00.000Z",
+          "wordCount": 5704,
+          "title": "An Olmec 'Earth Monster' Returns to Mexico",
+          "imageUrl": "https://img.atlasobscura.com/D7TRVczY2LLkrFKz34dSnHdYcs0JPik03g2pWA05sVM/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jM2ZiMjQ4Ny0y/ZjRhLTQyMDUtYTJk/MS05YmZjMGMwNDM3/M2FhYzE1NjZiYzUy/ZTdmOGU1MDBfT2xt/ZWNfTW9udW1lbnRf/OS5wbmc.png"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/crimson-dawn-casper-mountain-wyoming",
+          "author": "Michelle Harris",
+          "description": "It was 1929 when Neal Forsling began telling stories of the witches who live on the mountain, revealing themselves only on Midsummer’s Eve. The writer and artist had just moved to a remote one-room cabin on Wyoming’s Casper Mountain with her two young daughters, Jean and Mary. Set high near a red sandstone butte that overlooks the valley, the 640-acre homestead, surrounded by aspen and pine forest, was a new beginning for the family of three in the wake of a difficult time.\n\r\nUnable to bring most of the family’s books, Forsling used her own imagination to entertain her girls, who were 11 and 9 at the time. She was inspired during an early morning walk by the deep red color of the sandstone, and came up with the idea of a world called Crimson Dawn. From that moment, the tales flowed: There …",
+          "link": "https://www.atlasobscura.com/articles/crimson-dawn-casper-mountain-wyoming",
+          "publishedOn": "2023-06-19T13:00:00.000Z",
+          "wordCount": 5788,
+          "title": "On Wyoming's Casper Mountain, the Crimson Dawn Witches Appear Every Midsummer's Eve",
+          "imageUrl": "https://img.atlasobscura.com/iDyLR81Jx3_fnaGlmOswPwk9Cz7N_LdfEUUdR5MSNMw/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9hZDdjZjJhZS1j/YzVlLTQzNjItODJi/MS1iNjhkMTM1YzBh/MDE2OGU5NmNhYzY4/ZTY1OTg4NjhfQ2Fz/cGVyX01vdW50YWlu/X1ZpZXdfMV8oNDQ1/OTY2NDY3MDIpLmpw/Zw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/crossword-quigley-road-trips",
+          "author": "AO Puzzles",
+          "description": "This Atlas Obscura–themed crossword comes from independent crossword constructor Brendan Emmett Quigley. He has been a professional puzzlemaker since 1996, and his pieces have appeared in dozens of publications. He's also a member of the Boston Typewriter Orchestra.\n\r\nYou can solve the puzzle below, or download it in .pdf or .puz. Note that the links in the clues will take you to Atlas Obscura pages that contain the answer. Happy solving!",
+          "link": "https://www.atlasobscura.com/articles/crossword-quigley-road-trips",
+          "publishedOn": "2023-06-19T09:00:00.000Z",
+          "wordCount": 3443,
+          "title": "Puzzle Monday: Putting the 'Road' in Road Trips Crossword",
+          "imageUrl": "https://img.atlasobscura.com/6P8ti-pi1zCJ4m9ZF-g7k2lhNypnyx3UNvTlVTctloI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80NmViMGQzZmVi/N2NjMzlkYjBfQ3Jv/c3N3b3JkIExlYWQu/anBn.jpg"
+        },
         {
           "id": "https://www.atlasobscura.com/foods/doberge-cake",
           "author": null,
@@ -6442,6 +6492,61 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "85A1464F-82A7-4379-84EC9C3FA6999295",
+          "author": "Paul Brooke",
+          "description": "Science in meter and verse",
+          "link": "https://www.scientificamerican.com/article/poems-the-southern-lights-at-50-fahrenheit-and-lake-vostok/",
+          "publishedOn": "2023-06-19T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Poems: 'The Southern Lights at –50° Fahrenheit' and 'Lake Vostok'",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "F07E07F2-C96F-464B-BCFF00F2B453D31F",
+          "author": "The Editors",
+          "description": "We should pay less attention to children’s weight and more to their overall health by encouraging outdoor play",
+          "link": "https://www.scientificamerican.com/article/kids-need-more-places-to-play-not-fat-shaming/",
+          "publishedOn": "2023-06-19T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Kids Need More Places to Play, Not Fat Shaming",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B2D847E6-6802-4A1E-9482DCFDD2C07FCD",
+          "author": "Heidi Ledford, Nature magazine",
+          "description": "A link between endometriosis and bacterial infection suggests a potential way to treat the painful disorder",
+          "link": "https://www.scientificamerican.com/article/could-endometriosis-be-caused-by-bacteria-study-offers-fresh-clues/",
+          "publishedOn": "2023-06-19T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Could Endometriosis Be Caused by Bacteria? Study Offers Fresh Clues",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "27C07EA1-B8E9-4777-B6D6738E4A21B0C4",
+          "author": "Lee Billings",
+          "description": "New work suggests four distinct star system types—and finds our own in the rarest category",
+          "link": "https://www.scientificamerican.com/article/we-live-in-the-rarest-type-of-planetary-system/",
+          "publishedOn": "2023-06-19T11:00:00.000Z",
+          "wordCount": null,
+          "title": "We Live in the Rarest Type of Planetary System",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "ED269E72-7D20-452C-AEC5E3A8415BC1F8",
+          "author": "Meghan Bartels",
+          "description": "Scientists have used quantum technology to track individual particles of light as they begin the process of photosynthesis",
+          "link": "https://www.scientificamerican.com/article/quantum-light-experiment-proves-photosynthesis-starts-with-a-single-photon/",
+          "publishedOn": "2023-06-19T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Quantum Light Experiment Proves Photosynthesis Starts with a Single Photon",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "74186B26-6028-4AFC-A6E1403FE73C1DFD",
           "author": "Amy Brady",
           "description": "A wildfire rages against the Alberta tar sands, aliens induce existential crises for people (and cats), the hype and potential of MDMA, and more books out now",
@@ -6460,6 +6565,17 @@
           "publishedOn": "2023-06-18T14:00:00.000Z",
           "wordCount": null,
           "title": "Physicists Make Matter out of Light to Find Quantum Singularities",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "C94B6A81-7D7F-4683-8E7D07C954D6D814",
+          "author": "Allison Parshall",
+          "description": "Unlikely pollinators in Brazil, climate-resilient coffee in Uganda, credible cryptozoology down under, and more in this month’s Quick Hits",
+          "link": "https://www.scientificamerican.com/article/science-news-briefs-from-around-the-world-july-august-2023/",
+          "publishedOn": "2023-06-18T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Science News Briefs from around the World: July/August 2023",
           "itunes": {},
           "imageUrl": null
         },
@@ -14279,6 +14395,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53331",
+          "author": "xi'an",
+          "description": "Interesting first day, if somewhat intense!, with Sylvia Richardson talking of divide & conquer strategies, which we had recently explored in our work on mixtures with Adrien and Judith. Then Jere Koskela (Warwick) on sufficient conditions for consistent inference on trees like Kingman’s coalescent. And in the afternoon Julia-Adela Palacios on tree estimation, with novel […]",
+          "link": "https://xianblog.wordpress.com/2023/06/20/approximation-methods-in-bayesian-analysis-1/",
+          "publishedOn": "2023-06-19T22:23:58.000Z",
+          "wordCount": 1924,
+          "title": "Approximation Methods in Bayesian Analysis [#1]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2010/07/img_7225-e1278443781633.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53243",
           "author": "xi'an",
           "description": "Today, I attended (most of) and briefly took part in the discussion webinar run by Bayesian Analysis (the journal) and featuring the paper Causal Inference Under Mis-Specification: Adjustment Based on the Propensity Score by David Stephens, Widemberg Nobre, Erica Moodie, and Alexandra M. Schmidt, for which Pierre Jacob and I contributed a written discussion. I […]",
@@ -14457,16 +14583,6 @@
           "wordCount": 1668,
           "title": "Stochastic Numerics and Statistical Learning",
           "imageUrl": "https://cemse.kaust.edu.sa/sites/default/files/styles/max_fullhd_scale/public/2023-01/Stochastic%20Numerics%20Workshop%202022%20LED%20Signage%20Screens-01.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=52447",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/05/20/chateau-balac-haut-medoc/",
-          "publishedOn": "2023-05-20T18:20:23.000Z",
-          "wordCount": 1710,
-          "title": "Château Balac [Haut-Médoc]",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/03/1677843445855-e1677844190281.jpg"
         }
       ]
     },
@@ -14498,6 +14614,81 @@
       "feedUrl": "https://feeds.feedburner.com/RBloggers",
       "siteUrl": "https://www.r-bloggers.com",
       "articles": [
+        {
+          "id": "https://www.r-consortium.org/?p=5065",
+          "author": "R Consortium",
+          "description": "Back in 2018, when I was most involved in developing choroplethr, Joe Rickert, R Consortium Director, recommended that I submit a proposal to the R Consortium to create a Working...\n\n\nContinue reading: Renewing the R Consortium Census Working Group",
+          "link": "https://www.r-bloggers.com/2023/06/renewing-the-r-consortium-census-working-group/",
+          "publishedOn": "2023-06-19T16:23:39.000Z",
+          "wordCount": 2629,
+          "title": "Renewing the R Consortium Census Working Group",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-consortium.org/wp-content/uploads/sites/13/2023/05/Ari-Lamstein.jpeg"
+        },
+        {
+          "id": "https://kieranhealy.org/blog/archives/2023/06/19/the-naming-of-stats/",
+          "author": "R on kieranhealy.org",
+          "description": "The Naming of Stats is a difficult matter,\nContinue reading: The Naming of Stats",
+          "link": "https://www.r-bloggers.com/2023/06/the-naming-of-stats/",
+          "publishedOn": "2023-06-19T14:03:35.000Z",
+          "wordCount": 2406,
+          "title": "The Naming of Stats",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "https://statsandr.com/blog/two-way-anova-in-r/",
+          "author": "R on Stats and R",
+          "description": "Introduction\n\n\n\nContinue reading: Two-way ANOVA in R",
+          "link": "https://www.r-bloggers.com/2023/06/two-way-anova-in-r/",
+          "publishedOn": "2023-06-19T00:00:00.000Z",
+          "wordCount": 24800,
+          "title": "Two-way ANOVA in R",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://statsandr.com/blog/two-way-anova-in-r/images/two-way-anova-in-r.jpeg"
+        },
+        {
+          "id": "https://ropensci.org/blog/2023/06/19/ropensci-champions-program-teams-meet-alican-cagri-gokcek-and-elio-campitelli/",
+          "author": "rOpenSci - open tools for open science",
+          "description": "We designed the rOpenSci Champions Program with a mentorship aspect. Mentoring plays a significant role in the growth and development of both mentors and mentees alike. In our program, each Champion has a mentor who accompanies them during their train...\nContinue reading: rOpenSci Champions Program Teams: Meet Alican Cagri Gokcek and Elio Campitelli",
+          "link": "https://www.r-bloggers.com/2023/06/ropensci-champions-program-teams-meet-alican-cagri-gokcek-and-elio-campitelli/",
+          "publishedOn": "2023-06-19T00:00:00.000Z",
+          "wordCount": 2742,
+          "title": "rOpenSci Champions Program Teams: Meet Alican Cagri Gokcek and Elio Campitelli",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
+        {
+          "id": "https://joshuacook.netlify.app/post/generic-typehinting-classes/",
+          "author": "Posts &#124; Joshua Cook",
+          "description": "Introduction\nContinue reading: Leveraging generic type hints of classes in Python",
+          "link": "https://www.r-bloggers.com/2023/06/leveraging-generic-type-hints-of-classes-in-python/",
+          "publishedOn": "2023-06-18T21:25:33.000Z",
+          "wordCount": 3497,
+          "title": "Leveraging generic type hints of classes in Python",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
+        },
         {
           "id": "http://freerangestats.info/blog/2023/06/17/pacific-map-in-package",
           "author": "free range statistics - R",
@@ -16219,6 +16410,16 @@
       "siteUrl": "https://kieranhealy.org/",
       "articles": [
         {
+          "id": "https://kieranhealy.org/blog/archives/2023/06/19/the-naming-of-stats/",
+          "author": null,
+          "description": "The Naming of Stats is a difficult matter,\n\t\nOf names of this kind, there are many examples,",
+          "link": "https://kieranhealy.org/blog/archives/2023/06/19/the-naming-of-stats/",
+          "publishedOn": "2023-06-19T14:03:35.000Z",
+          "wordCount": 290,
+          "title": "The Naming of Stats",
+          "imageUrl": null
+        },
+        {
           "id": "https://kieranhealy.org/blog/",
           "author": null,
           "description": ".",
@@ -16257,6 +16458,46 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/60913efb159c",
+          "author": "Tim Denning",
+          "description": "Journaling makes me vomit.\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/how-to-start-a-daily-writing-habit-and-have-endless-ideas-to-write-about-60913efb159c?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-19T21:01:50.000Z",
+          "wordCount": 2900,
+          "title": "How to Start a Daily Writing Habit (And Have Endless Ideas to Write About)",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gcKsMVWm6Ofx3BozSFgMLg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c6ffd90ead9d",
+          "author": "Cynthia Marinakos",
+          "description": "A guide to help you from start to finish including examples and an unexpected SEO tip.\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/how-to-write-a-blog-for-the-first-time-c6ffd90ead9d?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-19T17:01:56.000Z",
+          "wordCount": 5467,
+          "title": "How to Write a Blog for the First Time",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oM4__7Pb83q5fLtgsjRVkg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/ee2eebec47aa",
+          "author": "Beth Dumey",
+          "description": "Successes and rejections are both part of the natural cycle\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/weathering-the-seasons-as-creatives-encouragement-for-the-sunny-and-bleak-days-ee2eebec47aa?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-19T13:02:29.000Z",
+          "wordCount": 2373,
+          "title": "Weathering the Seasons as Creatives: Encouragement for the Sunny and Bleak Days",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*nihw1IPsj4p6JCc4MUnRqA.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/161574c970e9",
+          "author": "Walter Rhein",
+          "description": "How the reader/writer relationship has evolved for the better\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/writers-paid-through-a-subscription-model-must-be-extra-mindful-of-their-readers-161574c970e9?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-19T11:01:53.000Z",
+          "wordCount": 4068,
+          "title": "Writers Paid Through a Subscription Model Must Be Extra Mindful of Their Readers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*VefzSoWyU7X2kaXJ3qsqXg.jpeg"
+        },
         {
           "id": "https://medium.com/p/dde5890dc45",
           "author": "Carmen Amato",
@@ -17324,6 +17565,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53331",
+          "author": "xi'an",
+          "description": "Interesting first day, if somewhat intense!, with Sylvia Richardson talking of divide & conquer strategies, which we had recently explored in our work on mixtures with Adrien and Judith. Then Jere Koskela (Warwick) on sufficient conditions for consistent inference on trees like Kingman’s coalescent. And in the afternoon Julia-Adela Palacios on tree estimation, with novel […]",
+          "link": "https://xianblog.wordpress.com/2023/06/20/approximation-methods-in-bayesian-analysis-1/",
+          "publishedOn": "2023-06-19T22:23:58.000Z",
+          "wordCount": 1924,
+          "title": "Approximation Methods in Bayesian Analysis [#1]",
+          "imageUrl": "https://xianblog.files.wordpress.com/2010/07/img_7225-e1278443781633.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53250",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -17620,6 +17871,16 @@
       "feedUrl": "https://johncarlosbaez.wordpress.com/feed/",
       "siteUrl": "https://johncarlosbaez.wordpress.com",
       "articles": [
+        {
+          "id": "http://johncarlosbaez.wordpress.com/?p=34835",
+          "author": "John Baez",
+          "description": "In Part 3, we figured out all the 7-note scales drawn from the usual 12-tone scale and obeying an extra constraint: there’s at most a whole tone between consecutive notes. We got a total of 21. They come in 3 groups of 7: • the modes of the major scale • the modes of the […]",
+          "link": "https://johncarlosbaez.wordpress.com/2023/06/19/modes-part-4/",
+          "publishedOn": "2023-06-19T23:29:35.000Z",
+          "wordCount": 3777,
+          "title": "Modes (Part 4)",
+          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2023/06/keyboard.png"
+        },
         {
           "id": "http://johncarlosbaez.wordpress.com/?p=34806",
           "author": "John Baez",
@@ -18420,6 +18681,16 @@
       "siteUrl": "http://www.tasteofcinema.com",
       "articles": [
         {
+          "id": "http://www.tasteofcinema.com/?p=66649",
+          "author": "Guillermo de Querol",
+          "description": "Ah, the 2000s, what a time to be alive. Flip phones and Myspace were still a thing, Brittney Spears and Eminem dominated Billboard’s charts, the world could not shut up about American Idol, the iPod came out, Tiger Woods won four straight majors, and Pottermania was in full swing. The aughts were also a banner […]",
+          "link": "http://www.tasteofcinema.com/2023/the-20-best-thriller-movies-of-the-2000s/",
+          "publishedOn": "2023-06-19T15:32:08.000Z",
+          "wordCount": 2947,
+          "title": "The 20 Best Thriller Movies Of The 2000s",
+          "imageUrl": "http://www.tasteofcinema.com/wp-content/uploads/2023/06/thrillers-2000s.jpg"
+        },
+        {
           "id": "http://www.tasteofcinema.com/?p=66633",
           "author": "Guillermo de Querol",
           "description": "Ever since making his comic-book debut on 5 June 1962, Marvel Comics’ Spider-Man has been part of the American zeitgeist and a big-screen mainstay that has swung his way into our hearts through various cinematic incarnations and studio reboots. From Nicholas Hammond to Tobey Maguire, Andrew Garfield, and Tom Holland, each actor brought a new […]",
@@ -18532,6 +18803,16 @@
       "feedUrl": "https://math216.wordpress.com/comments/feed/",
       "siteUrl": "https://math216.wordpress.com",
       "articles": [
+        {
+          "id": "http://math216.wordpress.com/?p=2059#comment-414571",
+          "author": "eliasgv3",
+          "description": "In section 8.3.1, it is said:\r\n\r\n>A morphism π:X→Y is quasiseparated if for every affine open subset U of Y, π⁻¹(U) is a quasiseparated scheme (§5.1.1). (Equivalently, the preimage of any quasicompact open subset is quasiseparated, although we won't worry about proving this. This is the definition that extends to other parts of geometry.)\r\n\r\nThe sentence between parentheses is wrong https://math.stackexchange.com/a/4721092/394668\r\nInstead, it should be \"the preimage of any quasiseparated open is quasiseparated\" https://math.stackexchange.com/a/4421658/394668",
+          "link": "https://math216.wordpress.com/2023/04/02/april-2023-version-of-the-notes/#comment-414571",
+          "publishedOn": "2023-06-19T08:49:01.000Z",
+          "wordCount": 3974,
+          "title": "Comment on April 2023 version of the notes by eliasgv3",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://math216.wordpress.com/?p=1445#comment-414079",
           "author": "ravivakil",
@@ -18720,16 +19001,6 @@
           "publishedOn": "2023-05-22T09:27:25.000Z",
           "wordCount": 3547,
           "title": "Comment on April 2023 version of the notes by Clemens",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://math216.wordpress.com/?p=2046#comment-409743",
-          "author": "Kevin",
-          "description": "Richard Borcherds has a very similar approach to Jordan-Hölder in his group theory videos here:\r\nhttps://www.youtube.com/watch?v=50yIUn1MgXM",
-          "link": "https://math216.wordpress.com/2023/03/11/i-reference-question-pathological-non-noetherian-examples-and-ii-the-jordan-holder-package/#comment-409743",
-          "publishedOn": "2023-05-21T08:39:29.000Z",
-          "wordCount": 5650,
-          "title": "Comment on (i) reference question (pathological non-Noetherian examples), and (ii) the Jordan-Holder package by Kevin",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
@@ -19916,6 +20187,16 @@
       "siteUrl": "https://thepatronsaintofsuperheroes.wordpress.com",
       "articles": [
         {
+          "id": "http://thepatronsaintofsuperheroes.wordpress.com/?p=12826",
+          "author": "Chris Gavaler",
+          "description": "That’s the intentionally unrevealing title of the research survey I’m designing to study how viewers perceive race and ethnicity in comics. It was originally “Representing Race in the Comics Medium” (which not coincidentally is also the subtitle of my book-in-progress, “The Color of Paper”), but a much more experienced colleague suggested I go with something […]",
+          "link": "https://thepatronsaintofsuperheroes.wordpress.com/2023/06/19/answer-questions-about-drawings-of-people/",
+          "publishedOn": "2023-06-19T11:07:41.000Z",
+          "wordCount": 3152,
+          "title": "Answer Questions About Drawings of People",
+          "imageUrl": "https://thepatronsaintofsuperheroes.files.wordpress.com/2023/06/mechanics.jpg"
+        },
+        {
           "id": "http://thepatronsaintofsuperheroes.wordpress.com/?p=12582",
           "author": "Chris Gavaler",
           "description": "I asked my Creating Comics class which version of this panel they preferred, unframed or framed: It’s from a comic I’ve been working on, and I think everyone agreed on the first. The framed version, they said, felt too claustrophobic — though if that’s the effect I wanted the scene to evoke, they said, then […]",
@@ -19944,16 +20225,6 @@
           "wordCount": 2104,
           "title": "Making Comics (Spring 2023)",
           "imageUrl": "https://thepatronsaintofsuperheroes.files.wordpress.com/2023/05/comics-215-logo-may-2023.png?w=1200"
-        },
-        {
-          "id": "http://thepatronsaintofsuperheroes.wordpress.com/?p=12509",
-          "author": "Chris Gavaler",
-          "description": "I wrote a series of posts (one, two, three, four, plus codas five, six, and seven) about the Warhol v. Goldsmith case in 2021, before the second appeal went to the Supreme Court in October 2022 (which I discussed here and here). I offered two guesses about the outcome: “SCOTUS sides with Warhol, but fails […]",
-          "link": "https://thepatronsaintofsuperheroes.wordpress.com/2023/05/20/warhol-v-goldsmith-2023/",
-          "publishedOn": "2023-05-20T15:24:17.000Z",
-          "wordCount": 3539,
-          "title": "Warhol v. Goldsmith (2023)",
-          "imageUrl": "https://thepatronsaintofsuperheroes.files.wordpress.com/2023/05/faceless-orange-prince-question-mark.png?w=798"
         }
       ]
     },
@@ -20523,6 +20794,16 @@
       "feedUrl": "http://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2791/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bookshelf_sorting.png\" title=\"Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence).\" alt=\"Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence).\" />",
+          "link": "https://xkcd.com/2791/",
+          "publishedOn": "2023-06-19T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Bookshelf Sorting",
+          "imageUrl": "https://imgs.xkcd.com/comics/bookshelf_sorting_2x.png"
+        },
         {
           "id": "https://xkcd.com/2790/",
           "author": null,
@@ -21435,6 +21716,16 @@
       "feedUrl": "https://undark.org/feed/",
       "siteUrl": "https://undark.org/",
       "articles": [
+        {
+          "id": "https://undark.org/?p=78389",
+          "author": "Rod McCullom",
+          "description": "Violent crime “hot spots” account for up to half of all reported crime in many cities. But recent research suggests that what’s called procedural justice policing — being fair, transparent, and giving citizens a voice — can greatly reduce crime while also encouraging stronger community relations.",
+          "link": "https://undark.org/2023/06/19/studies-show-a-need-for-procedural-justice-in-hot-spot-policing/",
+          "publishedOn": "2023-06-19T07:01:31.000Z",
+          "wordCount": 4940,
+          "title": "Studies Show a Need for Procedural Justice in ‘Hot Spot’ Policing",
+          "imageUrl": "https://undark.org/wp-content/uploads/2023/06/reform.jpg"
+        },
         {
           "id": "https://undark.org/?p=77993",
           "author": "Bethany Brookshire",
@@ -22493,16 +22784,6 @@
           "wordCount": 2482,
           "title": "Dutch university can revoke PhD for fake data, court rules",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2023/05/s200_kostadis_jason_.papaioannou_0.jpg"
-        },
-        {
-          "id": "https://retractionwatch.com/?p=127157",
-          "author": "Ivan Oransky",
-          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to more than 300. There are now 40,000 retractions in our database — which powers retraction alerts in EndNote, LibKey, Papers, and Zotero. The Retraction Watch Hijacked Journal Checker now contains 200 titles. And have you … Continue reading Weekend reads: Study claiming masks harm is retracted; papers lead to high treason charges; paying to publish in fake journals",
-          "link": "https://retractionwatch.com/2023/05/20/weekend-reads-study-claiming-masks-harm-is-retracted-papers-lead-to-high-treason-charges-paying-to-publish-in-fake-journals/",
-          "publishedOn": "2023-05-20T13:54:05.000Z",
-          "wordCount": 2422,
-          "title": "Weekend reads: Study claiming masks harm is retracted; papers lead to high treason charges; paying to publish in fake journals",
-          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2021/07/rw.jpeg"
         }
       ]
     },
@@ -22511,6 +22792,56 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86042",
+          "author": "Tyler Cowen",
+          "description": "Having experienced the strengths and weaknesses of the NHS firsthand — I recently completed treatment for Hodgkin’s lymphoma — Tyler kindly awarded me an Emergent Ventures grant to travel to Singapore to study their healthcare system. I would like to meet with health professionals and civil servants working in the health sector. I am looking […]\n\r\nThe post Can you help Max Thilo in Singapore? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nSingapore's universal care system (MediShield) covers the cost ... by rayward\nIn reply to EdR deep fake.   Then you're in the UK. by GPT_mf (EdR)\nIn reply to GPT_mf (EdR).   What if you run out of someone ... by EdR deep fake\nSo I cut myself, at least it wasn't Rosemary's Baby.   Yes, on ... by Equestrian\nIn reply to Crusader.   User charges.   TNSTAAFLMF   If it's ... by GPT_mf (EdR)\nPlus 5 more...",
+          "link": "https://feeds.feedblitz.com/~/747313868/0/marginalrevolution~Can-you-help-Max-Thilo-in-Singapore.html",
+          "publishedOn": "2023-06-19T21:03:22.000Z",
+          "wordCount": 1869,
+          "title": "Can you help Max Thilo in Singapore?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86131",
+          "author": "Tyler Cowen",
+          "description": "Recorded before the SBF implosion, and full of predictions.  Only now available on YouTube, with Q&A from the EA audience as well Interesting throughout.\n\r\nThe post My EA fireside chat with Kelsey Piper, on Effective Altruism appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Wanda.   I'll tag that one as “vocal fry.” ... by Moral Panic\nIn reply to Keith.   Agreed. Unfortunately that's not unique to ... by James\nIn reply to Todd K.   Harappa and Moche might be two examples. ... by Klapaucius\nIn reply to Todd K.   To be fair, he had seen all three many, ... by MikeP\nIn reply to Joe.   I'm not generally a reactionary, but I do ... by Formerly K\nPlus 10 more...\n\nRelated Stories\n\nMy Conversation with Noam Chomsky\nMy excellent Conversation with Peter Singer\nWhat should I ask Ada Palmer?",
+          "link": "https://feeds.feedblitz.com/~/747295979/0/marginalrevolution~My-EA-fireside-chat-with-Kelsey-Piper-on-Effective-Altruism.html",
+          "publishedOn": "2023-06-19T17:38:17.000Z",
+          "wordCount": 1799,
+          "title": "My EA fireside chat with Kelsey Piper, on Effective Altruism",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86134",
+          "author": "Tyler Cowen",
+          "description": "1. Catfish noodling.  “Catfish spawn in underwater holes, so when spawning season comes, you reach or dive underwater, stick your hand in the an underwater hole, wait for a catfish to bite down on your hand, and then you grab the fish by its jaw and wrestle it out of its hole and up to […]\n\r\nThe post Monday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\n“1. Catfish noodling. ”   One of the nuances, from the ... by mkt42\nIn reply to Anonymous.   “Sucks to be an economist.”   I ... by EdR\nIn reply to Christian Jacob.   I've been to musicals much worse ... by So Much For Subtlety\nIn reply to steve.   The sort of person who saves up and buys a ... by So Much For Subtlety\nIn reply to DeQuan.   It's nice having a brand new crank ... by James\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/747285677/0/marginalrevolution~Monday-assorted-links.html",
+          "publishedOn": "2023-06-19T16:34:55.000Z",
+          "wordCount": 1871,
+          "title": "Monday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86142",
+          "author": "Alex Tabarrok",
+          "description": "Arthur C. Clarke said that “Any sufficiently advanced technology is indistinguishable from magic.” Here’s an example. You know those ubiquitous little LEDs on devices like speakers, card readers, microphones etc. that simply indicate that the device has power? The authors show that these LEDs can bleed information about power consumption that can be used to […]\n\r\nThe post Black Magic Technology appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Marc_W.   The Soviets planted in the US embassy in ... by mkt42\nIn reply to cthulhu.   This class of side-channel attack ... by Cyrus\nI was involved with the Multics project back in the 1970s. It ... by Kaleberg\nIn reply to Kaleberg.   Oops! blinkee beat me to this. Sorry. by Kaleberg\nIn reply to Old Programmer.   Wasn't HAL reading the ... by Kaleberg\nPlus 10 more...\n\nRelated Stories\n\nA mild return for Danish phrenology?\nGDP and temperature shocks\nUsing a Quantum Annealer to Solve a Real Business Cycle Model",
+          "link": "https://feeds.feedblitz.com/~/747251342/0/marginalrevolution~Black-Magic-Technology.html",
+          "publishedOn": "2023-06-19T11:21:26.000Z",
+          "wordCount": 1936,
+          "title": "Black Magic Technology",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86136",
+          "author": "Tyler Cowen",
+          "description": "I learned just how accustomed I am to North American wildlife patterns.  In much of North America, you see wildlife only sporadically, as for instance in Yellowstone Park you can easily drive for an hour and not see a bear. In this part of Masai Mara, it is unusual to drive for more than thirty […]\n\r\nThe post Safari surprises appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to hnau.   Not that long ago, serious-TM biologists ... by Kaleberg\nIn reply to Bazza.   That first part is rather poetic, like ... by Kaleberg\nIn reply to Neurotic.   One of the reasons those areas aren't ... by Kaleberg\nIn reply to alz9794.   I was warned against wearing ... by Kaleberg\nIn reply to Anti-Gnostic.   So might makes right, and economics ... by rsm\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/747161078/0/marginalrevolution~Safari-surprises.html",
+          "publishedOn": "2023-06-19T04:38:05.000Z",
+          "wordCount": 2172,
+          "title": "Safari surprises",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86135",
           "author": "Tyler Cowen",
@@ -23566,6 +23897,46 @@
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
         {
+          "id": "https://johncarlosbaez.wordpress.com/2023/06/19/modes-part-4/",
+          "author": null,
+          "description": "In Part 3, we figured out all the 7-note scales drawn from the usual 12-tone scale and obeying an extra constraint: there’s at most a whole tone between consecutive notes. We got a total of 21. They come in 3 groups of 7: • the modes of the major scale • the modes of the […]",
+          "link": "https://johncarlosbaez.wordpress.com/2023/06/19/modes-part-4/",
+          "publishedOn": "2023-06-19T23:29:35.000Z",
+          "wordCount": 3777,
+          "title": "Modes (Part 4)",
+          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2023/06/keyboard.png"
+        },
+        {
+          "id": "https://terrytao.wordpress.com/2023/06/19/ai-anthology/",
+          "author": null,
+          "description": "Back in March, I was approached to contribute to a then-upcoming anthology project to evaluate an early access version of the GPT-4 large language model, and write a short essay about my experiences. Our prompt was to focus on two core questions: The anthology is now in the process of being rolled out, with twelve of […]",
+          "link": "https://terrytao.wordpress.com/2023/06/19/ai-anthology/",
+          "publishedOn": "2023-06-19T23:12:52.000Z",
+          "wordCount": 3771,
+          "title": "AI Anthology",
+          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1687222571"
+        },
+        {
+          "id": "http://nanoscale.blogspot.com/2023/06/food-and-broadly-speaking-fluid.html",
+          "author": null,
+          "description": "(author's website pdf , arxiv version ) is just a spectacularly good review article about fluid mechanics (broadly defined to include a bit about foams and viscoelastic systems) and food/drink.  The article is broadly structured like a menu (drinks & cocktails for multiphase flows; soups & starters for complex fluids; hot entrees for thermal effects; desserts for viscous flows; coffee for granular effects; tea for suspensions and mixing; and dishwashing for flows at interfaces).  \n\nI know I'm a particular niche demographic, in that I'm a scientist who likes cooking and actually had mech-e training in fluid mechanics, but trust me:  this article is just excellent, touching on a ton of interesting phenomena that you can play with in your own kitchen, while making connections to cutting-edge ongoing research.  \n\n:  APS Physics has a .UpdateQ&A with the first author here\n\nThis paperherehere",
+          "link": "http://nanoscale.blogspot.com/2023/06/food-and-broadly-speaking-fluid.html",
+          "publishedOn": "2023-06-19T16:49:00.000Z",
+          "wordCount": 2754,
+          "title": "Food and (broadly speaking) fluid mechanics - great paper!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7CgDZBT71YsJqQi7hmylk8pGm0yZh8wkvPpZZemE9XuD-IFD50VOqLxzwBhSbu8HN18SCFzyfg2-Gl1Vaz0fWmp_HA5Y6htIFL4h8lHNlK8AQXUiewrD1uWsfCP2eW0Z6_V3SDbBbylYgMsVKbSVGy8JapP3Dm7LUwIjOvflxUJHzL75hJhkNiQ/w1200-h630-p-k-no-nu/culinaryfluids.jpeg"
+        },
+        {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/research_fellowships_in_repres.html",
+          "author": null,
+          "description": "Apply for a job in Leeds",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/research_fellowships_in_repres.html",
+          "publishedOn": "2023-06-19T09:39:45.000Z",
+          "wordCount": 467,
+          "title": "Research Fellowships in Representation Theory and/or Low Dimensional Topology at Leeds",
+          "imageUrl": null
+        },
+        {
           "id": "https://johncarlosbaez.wordpress.com/2023/06/18/modes-part-3/",
           "author": null,
           "description": "I want to tell you more about modes! I’ve been playing music and thinking about modes a lot, but now I have more to say. In Part 1, I described the 7 modes formed by starting the major scale at various points: I linked to videos where you could hear samples of music in each […]",
@@ -24162,16 +24533,6 @@
           "publishedOn": "2023-05-21T22:46:30.000Z",
           "wordCount": 426,
           "title": "notes from the hub 05-21-23",
-          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
-        },
-        {
-          "id": "https://iwebthings.joejenett.com/archives-select-05-21-23/",
-          "author": null,
-          "description": "dwt-archives: odd \n Clemens Wenger: Physics of Beauty\n karbon (python)\n Click Bath\n Museum of Every Day Life\n Mobius Sliced Linked Bagel – How to Slice a Bagel into Two Linked Halves",
-          "link": "https://iwebthings.joejenett.com/archives-select-05-21-23/",
-          "publishedOn": "2023-05-21T11:57:46.000Z",
-          "wordCount": 408,
-          "title": "archives.select 05-21-23",
           "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
         }
       ]
@@ -27727,26 +28088,6 @@
           "wordCount": 3256,
           "title": "Hack of the year: 1980",
           "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58745",
-          "author": "Victor Mair",
-          "description": "We have seen ChatGPT tell stories (and variants of the stories it tells), fancify Coleridge's famous poem on Xanadu, pose a serious challenge to the Great Firewall of China, mimic VHM, write Haiku, and perform all manner of amazing feats.  In a forthcoming post, we will witness its efforts to translate Chinese poetry.  Today, we […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58745&utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-does-cuneiform-studies",
-          "publishedOn": "2023-05-21T10:32:21.000Z",
-          "wordCount": 3802,
-          "title": "ChatGPT does cuneiform studies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58752",
-          "author": "Mark Liberman",
-          "description": "Today's Tank McNamara: Of course the joke in this strip is the seven fingers on Tank's right hand, and the eight fingers on his left hand. A quick web search for {ai comic generator} turns out lots of options. As far as I can tell, these are all systems for creating images, not image sequences […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58752&utm_source=rss&utm_medium=rss&utm_campaign=ai-comic-strip-creation",
-          "publishedOn": "2023-05-20T15:02:30.000Z",
-          "wordCount": 4209,
-          "title": "AI comic strip creation?",
-          "imageUrl": null
         }
       ]
     },
@@ -29182,6 +29523,16 @@
       "siteUrl": "https://berthub.eu/articles/",
       "articles": [
         {
+          "id": "https://berthub.eu/articles/posts/dutch-postcode-and-building-database/",
+          "author": null,
+          "description": "Recently, I wrote a small open source tool to make the official Dutch national address & building database more accessible. More about the tool below, but first an introduction.\nIf all you need is an up to date CSV file of all Dutch addresses, their zipcodes and coordinates, scroll down to the end. If all you need is a web service, try https://berthub.eu/pcode/2513AA/14. For more details, do read on.",
+          "link": "https://berthub.eu/articles/posts/dutch-postcode-and-building-database/",
+          "publishedOn": "2023-06-19T16:20:43.000Z",
+          "wordCount": 1535,
+          "title": "Welcome to the BAG: The Dutch Building and Addresses database",
+          "imageUrl": "https://berthub.eu/articles/pcode-sql.png"
+        },
+        {
           "id": "https://berthub.eu/articles/posts/waarheen-met-energie/",
           "author": null,
           "description": "\"Best een goede samenvatting eigenlijk\" — een daadwerkelijke energie-expert\nOp 10 juni 2023 is dit artikel uit 2022 ge-update met een extra stukje over waterstof en waar het niet voor geschikt is, plus wat meer over kernenergie, en over minder energie verbruiken.\nSinds een tijdje maak ik grafiekjes van hoe Nederland aan z’n elektriciteit komt. En soms ben ik daar dan enthousiast over, zeker als de wind waait en de zon goed schijnt.",
@@ -29451,16 +29802,6 @@
           "wordCount": 2141,
           "title": "MIT students Rupert Li and Audrey Xie named 2023-24 Goldwater Scholars",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202305/rubert-li-audrey-xie-goldwater-scholars-00_0.png"
-        },
-        {
-          "id": "https://news.mit.edu/2023/using-data-write-songs-progress-0521",
-          "author": "Sandi Miller | Department of Mathematics",
-          "description": "Senior Ananya Gurumurthy adds her musical talents to her math and computer science studies to advocate using data for social change.",
-          "link": "https://news.mit.edu/2023/using-data-write-songs-progress-0521",
-          "publishedOn": "2023-05-21T04:00:00.000Z",
-          "wordCount": 2784,
-          "title": "Using data to write songs for progress",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202304/Gurumurthy-ananya-Piano.jpg"
         }
       ]
     },
@@ -29658,16 +29999,6 @@
           "wordCount": 3140,
           "title": "Researchers use AI to identify similar materials in images",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202305/MIT-SimilarMaterials-01-press.jpg"
-        },
-        {
-          "id": "https://news.mit.edu/2023/using-data-write-songs-progress-0521",
-          "author": "Sandi Miller | Department of Mathematics",
-          "description": "Senior Ananya Gurumurthy adds her musical talents to her math and computer science studies to advocate using data for social change.",
-          "link": "https://news.mit.edu/2023/using-data-write-songs-progress-0521",
-          "publishedOn": "2023-05-21T04:00:00.000Z",
-          "wordCount": 2784,
-          "title": "Using data to write songs for progress",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202304/Gurumurthy-ananya-Piano.jpg"
         }
       ]
     },
