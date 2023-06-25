@@ -18,6 +18,16 @@
       "siteUrl": "https://golem.ph.utexas.edu/category/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/compositional_system_dynamics.html",
+          "author": null,
+          "description": "Nathaniel Osgood will give a talk about category theory for public health software on Thursday June 29, 10:00-11:00 Pacific Time.",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/compositional_system_dynamics.html",
+          "publishedOn": "2023-06-24T22:41:18.000Z",
+          "wordCount": 920,
+          "title": "Compositional System Dynamics for Public Health",
+          "imageUrl": null
+        },
+        {
           "id": "https://golem.ph.utexas.edu/category/2023/06/act_2023_registration.html",
           "author": null,
           "description": "If you want to attend the 6th Annual International Conference on Applied Category Theory (ACT2023) or watch it on Zoom, you need to register by July 14th!",
@@ -161,6 +171,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48734",
+          "author": "Andrew",
+          "description": "A couple years ago I reviewed mathematician Jordan Ellenberg’s fun book, “Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else,” and at the conclusion I discussed Jordan’s statement that he’s no good at “visualizing shapes and what … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/06/24/on-that-weird-stereotype-about-jews-being-bad-at-spatial-reasoning/",
+          "publishedOn": "2023-06-24T13:24:28.000Z",
+          "wordCount": 4738,
+          "title": "On that weird stereotype about Jews being bad at spatial reasoning",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=49203",
           "author": "Andrew",
@@ -723,6 +743,16 @@
           "wordCount": 4013,
           "title": "Atlas Obscura Tries: Tarpon Fishing",
           "imageUrl": "https://img.atlasobscura.com/XeKVznMWKUlXqdrlYuWuaz3KpuYD40tKzMxcVBvKJq4/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS8y/MDIzLzA2LzIzLzE1/LzQ3LzI3L2ZkMmEz/NzMyLTFmZGMtNDJk/Mi1hOTYyLTE5ZTlk/MDU0NGU3Ni9BMDEz/Ni4wMTA4OTk5OS5w/bmc.png"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/disappeared-city-of-miedzianka-poland",
+          "author": null,
+          "description": "The city of Kupferberg ('Copper Mountain'), renamed 'Miedzianka' when the territory passed from Germany to Poland after World War II, was one of many prosperous mining towns in the mountains of Lower Silesia. As the name indicates, it was originally copper that was mined in this area—until the Soviets discovered after their occupation in 1945 that the local mines were also a rich source of uranium.\n\r\nThe Soviets quickly fenced off the area with barbed wire and forced local Poles to work in the uranium mines with no knowledge of the actual dangers. Officially, it was called a \"paper factory,\" and miners suffering from radiation poisoning were formally ignored. Anyone who attempted to reveal the true nature of the mines near Miedzianka was promptly 'disappeared' by the Communist government and never seen again.\n\r\nAfter about 600 tonnes of uranium were shipped from Miedzianka to the Soviet Union, the local mine was considered to be exhausted, and the extensive tunneling underneath the town had left the ground unstable. The town itself was then torn down in the late 1960s and early 1970s, and most of the residents were forcibly resettled to the nearby city of Jelenia Góra.\n\r\nToday, Miedzianka only exists in the form of a few scattered buildings, a church, and a resurrected form of its once-famous brewery along one surviving mountain road. The surrounding fields and forests are filled with the overgrown ruins of houses, factories, and cemeteries that used to form part of the city. Information boards on what was formerly the main square tell the story, accompanied by numerous photos, of what was once the bustling city center of Kupferberg/Miedzianka, now almost completely forgotten to the passage of time.",
+          "link": "https://www.atlasobscura.com/places/disappeared-city-of-miedzianka-poland",
+          "publishedOn": "2023-06-23T13:00:00.000Z",
+          "wordCount": 4001,
+          "title": "The Disappeared City of Miedzianka in Miedzianka, Poland",
+          "imageUrl": "https://img.atlasobscura.com/ta8uJEMvga2bIaZnrEkHqy_pSL3pnUvfnX_YHPQ6z8k/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOGVh/MDg1MC1mMTNmLTQ4/NmQtOTZlMi0wMTBk/Njk0NDljYzllMDNj/YWQzMGViMzEwZjNj/ODBfUFhMXzIwMjIw/NjI2XzExMDE0NjU4/My5qcGc.jpg"
         },
         {
           "id": "https://www.atlasobscura.com/articles/strange-maps-where-is-voyager-1",
@@ -3361,16 +3391,6 @@
           "wordCount": 20667,
           "title": "Purdue Pharma’s Bankruptcy Works Now",
           "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWD5RALTBQh4/v0/1200x695.jpg"
-        },
-        {
-          "id": "https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa",
-          "author": "Matt Levine",
-          "description": "Also Treasury bills vs. regional banks, reverse meme stocks, stock buybacks and ambassadorial investment banking.",
-          "link": "https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa",
-          "publishedOn": "2023-05-25T18:00:30.000Z",
-          "wordCount": 576,
-          "title": "The US Might Be Only AA+",
-          "imageUrl": null
         }
       ]
     },
@@ -9419,127 +9439,6 @@
           "publishedOn": "2023-05-26T14:00:00.000Z",
           "wordCount": null,
           "title": "Social Media Can Harm Kids. Could New Regulations Help?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "131D7C7E-A8B3-448C-B25FA2CC2112566D",
-          "author": "Robert Martone",
-          "description": "Frontotemporal dementia can release the creative potential of the brain’s visual areas",
-          "link": "https://www.scientificamerican.com/article/a-rare-form-of-dementia-can-unleash-creativity/",
-          "publishedOn": "2023-05-26T13:00:00.000Z",
-          "wordCount": null,
-          "title": "A Rare Form of Dementia Can Unleash Creativity",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "6CA282FD-38C3-4217-BB78C5F62E8E9DFF",
-          "author": "Meghan Bartels",
-          "description": "The weight of New York City’s 1.1 million buildings is making the city slowly sink",
-          "link": "https://www.scientificamerican.com/article/new-york-city-is-sinking-under-its-own-weight/",
-          "publishedOn": "2023-05-26T11:30:00.000Z",
-          "wordCount": null,
-          "title": "New York City Is Sinking under Its Own Weight",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "A67DF750-7E6D-4C06-8136262D38C03EB5",
-          "author": "Saurabh Bagchi, The Conversation US",
-          "description": "A computer scientist explains what it means when the inner workings of AIs are hidden",
-          "link": "https://www.scientificamerican.com/article/why-we-need-to-see-inside-ais-black-box/",
-          "publishedOn": "2023-05-26T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Why We Need to See Inside AI's Black Box",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "A0FD1E30-7053-48F2-919480E18204B7C0",
-          "author": "Tanya Lewis",
-          "description": "The COVID pandemic caused a U.S.-wide decline in fertility rates, but red states actually saw increases",
-          "link": "https://www.scientificamerican.com/article/the-pandemic-caused-a-baby-boom-in-red-states-and-a-bust-in-blue-states/",
-          "publishedOn": "2023-05-26T10:45:00.000Z",
-          "wordCount": null,
-          "title": "The Pandemic Caused a Baby Boom in Red States and a Bust in Blue States",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "5D7E8EFA-A5FB-4583-8202E18412026AE1",
-          "author": "James Phillips, The Conversation US",
-          "description": "Here's how to reconcile the mismatch in what your senses are telling your brain",
-          "link": "https://www.scientificamerican.com/article/heres-what-causes-motion-sickness/",
-          "publishedOn": "2023-05-26T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Here's What Causes Motion Sickness",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "96EDA88B-9FFA-493C-A91F157F127DB7AF",
-          "author": "Julie Rovner, Kaiser Health News",
-          "description": "Many physicians say they are reluctant to practice in states with abortion bans, harming access to regular exams and screenings",
-          "link": "https://www.scientificamerican.com/article/abortion-bans-are-driving-off-doctors-and-putting-basic-health-care-at-risk/",
-          "publishedOn": "2023-05-25T20:00:00.000Z",
-          "wordCount": null,
-          "title": "Abortion Bans Are Driving Off Doctors and Putting Basic Health Care at Risk",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "B76C247A-EA09-4C60-BE42F6F3AEA4E696",
-          "author": "The Editors",
-          "description": "Presidential contender Ron DeSantis has used governmental power in Florida to restrict access to health and education, promoting an intolerant and harmful agenda",
-          "link": "https://www.scientificamerican.com/article/ron-desantiss-anti-science-agenda-is-dangerous/",
-          "publishedOn": "2023-05-25T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Ron DeSantis's Antiscience Agenda Is Dangerous",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "58E6A466-F49B-4328-AE6969EE5C7FD9D4",
-          "author": "The Editors",
-          "description": "The Clean Water Act, a bipartisan piece of legislation that has fundamentally changed water pollution in the U.S., is under attack when it should be strengthened instead",
-          "link": "https://www.scientificamerican.com/article/we-need-50-more-years-of-the-clean-water-act/",
-          "publishedOn": "2023-05-25T18:00:00.000Z",
-          "wordCount": null,
-          "title": "We Need 50 More Years of the Clean Water Act",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "213ABCB8-C65F-47DA-8ADF2EBB910A5DAE",
-          "author": "Dyani Lewis, Nature magazine",
-          "description": "A device provides a connection between the brain and spinal cord, allowing thought to control movement",
-          "link": "https://www.scientificamerican.com/article/brain-spine-interface-allows-paralysed-man-to-walk-using-his-thoughts/",
-          "publishedOn": "2023-05-25T17:30:00.000Z",
-          "wordCount": null,
-          "title": "Brain-Spine Interface Allows Paralyzed Man to Walk Using His Thoughts",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "05DC3E6E-B310-404E-986DB89029A203A7",
-          "author": "Tamlyn Hunt",
-          "description": "Artificial intelligence algorithms will soon reach a point of rapid self-improvement that threatens our ability to control them and poses great potential risk to humanity",
-          "link": "https://www.scientificamerican.com/article/heres-why-ai-may-be-extremely-dangerous-whether-its-conscious-or-not/",
-          "publishedOn": "2023-05-25T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Here's Why AI May Be Extremely Dangerous--Whether It's Conscious or Not",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "079A631E-93F4-4660-B064B186CE498286",
-          "author": "Daniel Cusick, E&E News",
-          "description": "Miniature satellites called CubeSats will collect meteorologic data that NASA hopes will help explain how and why some tropical storms intensify as they approach land",
-          "link": "https://www.scientificamerican.com/article/nasa-mini-satellites-will-help-track-hurricanes/",
-          "publishedOn": "2023-05-25T15:30:00.000Z",
-          "wordCount": null,
-          "title": "NASA Mini Satellites Will Help Track Hurricanes",
           "itunes": {},
           "imageUrl": null
         }
@@ -17323,6 +17222,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53299",
+          "author": "xi'an",
+          "description": "Read both following volumes of Peter May’s Lewis trilogy, The Lewis Man and The Chessmen. The stories remain focussed on the same few characters as in the first volume, with some predictable developments and a rather heavy borrowing to the local history in the shape of a peat-bog mommy or a plane crash. And of […]",
+          "link": "https://xianblog.wordpress.com/2023/06/25/a-journal-of-the-conquest-war-famine-and-death-year/",
+          "publishedOn": "2023-06-24T22:23:25.000Z",
+          "wordCount": 2154,
+          "title": "a journal of the conquest, war, famine, and death year",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/1687007230088-e1687007345778.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53355",
           "author": "xi'an",
           "description": "My last day (#4) at the workshop, as I had to return to Paris earlier. A rather theoretical morning again, with Morgane Austern on (probabilistic) concentration inequalities on transport distances, far from my comfort zone if lively, Jason Xu on replacing non-convex penalisation factors to distances to the corresponding manifold, which I found most interesting […]",
@@ -17511,16 +17420,6 @@
           "wordCount": 2162,
           "title": "on control variates",
           "imageUrl": "https://nips.cc/media/PosterPDFs/NeurIPS%202022/72007983849f4fcb0ad565439834756b.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53085",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/05/26/ems-2023-warsaw/",
-          "publishedOn": "2023-05-25T22:23:13.000Z",
-          "wordCount": 1732,
-          "title": "EMS 2023, Warsaw",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/ems23.png"
         }
       ]
     },
@@ -17563,6 +17462,36 @@
       "siteUrl": "https://www.r-bloggers.com",
       "articles": [
         {
+          "id": "https://pablobernabeu.github.io/2023/how-to-break-up-colour-variable-in-sjplot-into-equally-sized-bins/",
+          "author": "R on Pablo Bernabeu",
+          "description": "Whereas the direction of main effects can be interpreted from the sign of the estimate, the interpretation of interaction effects often requires plots. This task is facilitated by the R package sjPlot (Lüdecke, 2022). For instance, using the plot_model function, I plotted the interaction between two continuous variables.\nlibrary(lme4)\n#> Loading required package: Matrix\nlibrary(sjPlot)\nlibrary(ggplot2)\n\ntheme_set(theme_sjplot())\n\n# Create data using code by Ben Bolker from \n# https://stackoverflow.com/a/38296264/7050882\n\nset.seed(101)\nspin = runif(600, 1, 24)\nreg = runif(600, 1, 15)\nID = rep(c(\"1\",\"2\",\"3\",\"4\",\"5\", \"6\", \"7\", \"8\", \"9\", \"10\"))\nday = rep(1:30, each = 10)\ntestdata <- data.frame(spin, reg, ID, day)\ntestdata$fatigue <- testdata$spin * testdata$reg/10 * rnorm(30, mean=3, sd=2)\n\nfit = lmer(fatigue ~ spin * reg + (1|ID),\n           data = testdata, REML = TRUE)\n\nplot_model(fit, type = 'pred', terms = c('spin', 'reg'))\n#> Warning: Ignoring unknown parameters: linewidth\n...\n\n\n\nContinue reading: How to break up colour variable in sjPlot into equally-sized bins",
+          "link": "https://www.r-bloggers.com/2023/06/how-to-break-up-colour-variable-in-sjplot-into-equally-sized-bins/",
+          "publishedOn": "2023-06-24T14:54:46.000Z",
+          "wordCount": 4310,
+          "title": "How to break up colour variable in sjPlot into equally-sized bins",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://i.imgur.com/oSERpE5.png"
+        },
+        {
+          "id": "http://freerangestats.info/blog/2023/06/24/weighted-percentiles",
+          "author": "free range statistics - R",
+          "description": "This interesting paper came out recently: A test of the predictive validity of relative versus absolute income for self-reported health and well-being in the United States, by David Brady, Michaela Curran and Richard Carpiano. It uses a large sample of...\nContinue reading: Weighted versus unweighted percentiles by @ellis2013nz",
+          "link": "https://www.r-bloggers.com/2023/06/weighted-versus-unweighted-percentiles-by-ellis2013nz/",
+          "publishedOn": "2023-06-23T13:00:00.000Z",
+          "wordCount": 6998,
+          "title": "Weighted versus unweighted percentiles by @ellis2013nz",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://freerangestats.info/img/0250-scatter1.png"
+        },
+        {
           "id": "http://gradientdescending.com/?p=2387",
           "author": "Daniel Oehm",
           "description": "Every R package needs a hex sticker. Here's how you can generate one in seconds using generative AI.\nContinue reading: How to generate a hex sticker with {openai} and {cropcircles}",
@@ -17576,6 +17505,21 @@
             "type": ""
           },
           "imageUrl": "https://gradientdescending.com/wp-content/uploads/2023/06/header-1024x706.png"
+        },
+        {
+          "id": "https://www.spsanderson.com/steveondata/posts/2023-06-23/index.html",
+          "author": "Steven P. Sanderson II, MPH",
+          "description": "Introduction\nContinue reading: Bootstrap Function in R: Resampling with the lapply and sample Functions",
+          "link": "https://www.r-bloggers.com/2023/06/bootstrap-function-in-r-resampling-with-the-lapply-and-sample-functions/",
+          "publishedOn": "2023-06-23T04:00:00.000Z",
+          "wordCount": 3465,
+          "title": "Bootstrap Function in R: Resampling with the lapply and sample Functions",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
         },
         {
           "id": "https://ropensci.org/blog/2023/06/23/ropensci-champions-program-teams-meet-ghozayel-elotteebi-and-zebulun-arendsee/",
@@ -17726,6 +17670,21 @@
             "type": ""
           },
           "imageUrl": "https://ropensci.org/blog/2023/06/21/coworking/slide_alex_sm.png"
+        },
+        {
+          "id": "http://gradientdescending.com/?p=2375",
+          "author": "Daniel Oehm",
+          "description": "Good news everyone! survivoR 2.1.0 is now available. The most exciting feature of this release is the new confessional timing app.\nContinue reading: survivoR 2.1.0 is now available",
+          "link": "https://www.r-bloggers.com/2023/06/survivor-2-1-0-is-now-available/",
+          "publishedOn": "2023-06-20T21:19:30.000Z",
+          "wordCount": 2253,
+          "title": "survivoR 2.1.0 is now available",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://gradientdescending.com/wp-content/uploads/2023/06/survivor-1024x811.png"
         },
         {
           "id": "https://lsinks.github.io/posts/2023-06-19-tidytuesday-UFOs/UFOs.html",
@@ -19001,36 +18960,6 @@
             "type": ""
           },
           "imageUrl": "https://freerangestats.info/img/0246-vaccination-time.png"
-        },
-        {
-          "id": "https://www.spsanderson.com/steveondata/posts/2023-05-26/index.html",
-          "author": "Steven P. Sanderson II, MPH",
-          "description": "Introduction\nContinue reading: Why Check File Size Output for Different Methods?",
-          "link": "https://www.r-bloggers.com/2023/05/why-check-file-size-output-for-different-methods/",
-          "publishedOn": "2023-05-26T04:00:00.000Z",
-          "wordCount": 3169,
-          "title": "Why Check File Size Output for Different Methods?",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
-        },
-        {
-          "id": "https://www.statforbiology.com/2023/stat_met_ammi/",
-          "author": "R on The broken bridge between biologists and statisticians",
-          "description": "Again into a subject that is rather important for most agronomists, i.e. the selection of crop varieties. All farmers are perfectly aware that crop performances are affected both by the genotype and by the environment. These two effects are not pure...\n\n\n\nContinue reading: AMMI analyses for multi-environment studies",
-          "link": "https://www.r-bloggers.com/2023/05/ammi-analyses-for-multi-environment-studies/",
-          "publishedOn": "2023-05-26T00:00:00.000Z",
-          "wordCount": 9696,
-          "title": "AMMI analyses for multi-environment studies",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://www.statforbiology.com/post/Stat_met_AMMI_files/figure-html/unnamed-chunk-12-1.png"
         }
       ]
     },
@@ -19381,6 +19310,36 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4ca5d169ce60",
+          "author": "Katharine Valentino",
+          "description": "Memoir is truth — as you remember it\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/writing-the-first-story-in-your-memoirs-4ca5d169ce60?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-24T21:01:34.000Z",
+          "wordCount": 3956,
+          "title": "Writing the First Story in Your Memoirs",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*2_sESKB33JdpvljE"
+        },
+        {
+          "id": "https://medium.com/p/b091cd049597",
+          "author": "Jerren Gan",
+          "description": "Updating old content as an effective content generation strategy\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/revive-and-thrive-how-you-can-transform-old-content-into-timeless-masterpieces-b091cd049597?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-24T17:01:38.000Z",
+          "wordCount": 4441,
+          "title": "Revive and Thrive: How You Can Transform Old Content into Timeless Masterpieces",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*bdOu1PB7FGJJXUJ9"
+        },
+        {
+          "id": "https://medium.com/p/a5b890e64d5d",
+          "author": "Harold De Gauche",
+          "description": "Why swim at the surface when you can dive straight in?\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/my-5-tips-for-writing-short-stories-a5b890e64d5d?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-06-24T13:01:36.000Z",
+          "wordCount": 6681,
+          "title": "My 5 Tips for Writing Short Stories",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1080/1*e0Wa-nSqHw_COqGm1FxWrw.jpeg"
+        },
         {
           "id": "https://medium.com/p/43bdd897262e",
           "author": "Bobby Powers",
@@ -20598,6 +20557,16 @@
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
         {
+          "id": "http://xianblog.wordpress.com/?p=53299",
+          "author": "xi'an",
+          "description": "Read both following volumes of Peter May’s Lewis trilogy, The Lewis Man and The Chessmen. The stories remain focussed on the same few characters as in the first volume, with some predictable developments and a rather heavy borrowing to the local history in the shape of a peat-bog mommy or a plane crash. And of […]",
+          "link": "https://xianblog.wordpress.com/2023/06/25/a-journal-of-the-conquest-war-famine-and-death-year/",
+          "publishedOn": "2023-06-24T22:23:25.000Z",
+          "wordCount": 2154,
+          "title": "a journal of the conquest, war, famine, and death year",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/1687007230088-e1687007345778.jpg"
+        },
+        {
           "id": "http://xianblog.wordpress.com/?p=53258",
           "author": "xi'an",
           "description": "Visit the post for more.",
@@ -20896,16 +20865,6 @@
           "wordCount": 2162,
           "title": "on control variates",
           "imageUrl": "https://nips.cc/media/PosterPDFs/NeurIPS%202022/72007983849f4fcb0ad565439834756b.png"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53085",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/05/26/ems-2023-warsaw/",
-          "publishedOn": "2023-05-25T22:23:13.000Z",
-          "wordCount": 1732,
-          "title": "EMS 2023, Warsaw",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/05/ems23.png"
         }
       ]
     },
@@ -20914,6 +20873,16 @@
       "feedUrl": "https://johncarlosbaez.wordpress.com/feed/",
       "siteUrl": "https://johncarlosbaez.wordpress.com",
       "articles": [
+        {
+          "id": "http://johncarlosbaez.wordpress.com/?p=34936",
+          "author": "John Baez",
+          "description": "The Topos Institute has a colloquium every week. This time it’s by my old grad school pal Nate Osgood. He’s a computer scientist, he helped lead Canada’s COVID modeling effort… … and he is now spear-heading a project to develop software that uses ideas from category theory to make it easier to create models of […]",
+          "link": "https://johncarlosbaez.wordpress.com/2023/06/24/compositional-system-dynamics-for-public-health/",
+          "publishedOn": "2023-06-24T21:36:01.000Z",
+          "wordCount": 2314,
+          "title": "Compositional System Dynamics for Public Health",
+          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2022/06/sirsmodel.png"
+        },
         {
           "id": "http://johncarlosbaez.wordpress.com/?p=34930",
           "author": "John Baez",
@@ -21098,22 +21067,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/eb169156-e2a3-40e5-a496-f6c8e2ae1a1e_612x435.jpeg"
-        },
-        {
-          "id": "https://www.overcomingbias.com/p/to-imagine-ai-imagine-no-ai",
-          "author": "Robin Hanson",
-          "description": "To appreciate an AI future, consider a future without AI. That is, imagine that we somehow manage to forever prevent any AIs who might take control of civilization. But also assume that our descendants continue to evolve competitively, with technical and economic growth for millions or billions of years. Now ask: what exactly did you think would happen there?",
-          "link": "https://www.overcomingbias.com/p/to-imagine-ai-imagine-no-ai",
-          "publishedOn": "2023-05-25T23:04:13.000Z",
-          "wordCount": null,
-          "title": "To Imagine AI, Imagine No AI",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0cf249ba-d918-4c6c-be65-cf626b9c8aa1_1749x1200.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0cf249ba-d918-4c6c-be65-cf626b9c8aa1_1749x1200.jpeg"
         }
       ]
     },
@@ -22243,16 +22196,6 @@
           "publishedOn": "2023-06-22T00:00:00.000Z",
           "wordCount": 1310,
           "title": "StanCon 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.yulingyao.com/blog/2023/overfit/",
-          "author": null,
-          "description": "The myth A few years ago I saw a StackOverflow question (but I cannot find it now): allegedly Andrew Gelman blogged that Bayesian models would not overfit and would only underfit (I also cannot find Andrew’s blog post now but I think what he meant by “Bayesian models only underfits” is that you can never fully model the true data process in the population).",
-          "link": "https://www.yulingyao.com/blog/2023/overfit/",
-          "publishedOn": "2023-05-26T00:00:00.000Z",
-          "wordCount": 1290,
-          "title": "Bayes is guaranteed to overfit, for any model, any prior, and every data point",
           "imageUrl": null
         }
       ]
@@ -24475,16 +24418,6 @@
           "wordCount": 1415,
           "title": "Family Bush",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.tanyakhovanova.com/?p=1906",
-          "author": "tanyakh",
-          "description": "My new logic puzzle happens in the usual place: an island with truth-tellers and liars. Truth-tellers always tell the truth, while liars always lie. The liars on this island are dedicated to their lies: they do not want other people to figure out that they are liars and want to confuse people with their responses […]",
-          "link": "https://blog.tanyakhovanova.com/2023/05/cooperative-dedicated-liars/",
-          "publishedOn": "2023-05-25T19:00:15.000Z",
-          "wordCount": 1969,
-          "title": "Cooperative Dedicated Liars",
-          "imageUrl": null
         }
       ]
     },
@@ -24612,16 +24545,6 @@
           "wordCount": 182,
           "title": "Wikipedia Article Titles",
           "imageUrl": "https://imgs.xkcd.com/comics/wikipedia_article_titles_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2781/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/the_six_platonic_solids.png\" title=\"Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.\" alt=\"Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.\" />",
-          "link": "https://xkcd.com/2781/",
-          "publishedOn": "2023-05-26T00:00:00.000Z",
-          "wordCount": 184,
-          "title": "The Six Platonic Solids",
-          "imageUrl": "https://imgs.xkcd.com/comics/the_six_platonic_solids_2x.png"
         }
       ]
     },
@@ -25614,16 +25537,6 @@
           "wordCount": 5200,
           "title": "Discovered in Collections, Many New Species are Already Gone",
           "imageUrl": "https://undark.org/wp-content/uploads/2023/05/SMF-Be-3498_Meliponinae_body_lede.jpg"
-        },
-        {
-          "id": "https://undark.org/?p=78018",
-          "author": "Lixing Sun",
-          "description": "Self-deception is part of the human condition, and many people are unable to recognize, much less admit, the ceiling of their own capabilities. Psychologists have long studied our ignorance of our own ignorance, and the results are surprising. If deceiving ourselves won’t do us good, why do we still do it?",
-          "link": "https://undark.org/2023/05/26/book-excerpt-why-do-we-insist-on-lying-to-ourselves/",
-          "publishedOn": "2023-05-26T07:30:38.000Z",
-          "wordCount": 4246,
-          "title": "Book Excerpt: Why Do We Insist on Lying to Ourselves?",
-          "imageUrl": "https://undark.org/wp-content/uploads/2023/05/GettyImages-983493900_crop.jpg"
         }
       ]
     },
@@ -26471,6 +26384,66 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86176",
+          "author": "Tyler Cowen",
+          "description": "The WSJ ran a widely discussed article a few days ago, and many people have concluded that the Lab Leak hypothesis is now confirmed.  I’ve now read the piece, and I don’t see relevant new information in there.  The New York Times ran a rebuttal of sorts, with this as one key paragraph: Recent news […]\n\r\nThe post Is “Lab Leak” now proven? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Well.   Yeah, no. The molecular epidemiology of ... by RAD\nIn reply to Formerly K.   @Random Walker   Wait until he's the ... by Formerly K\nIn reply to Formerly K.   “As it stands, I still think Trump ... by Random Walker\nIn reply to S. Byerley.   Rob meet anooj he is coming in hot ... by the king of texas\nIn reply to Steve.   Right, and the WIV with a secret ... by RAD\nPlus 10 more...\n\nRelated Stories\n\nDoes Britain Have High or Low State Capacity?\nUK NHS fact of the day\nRussia fact of the day",
+          "link": "https://feeds.feedblitz.com/~/748358186/0/marginalrevolution~Is-Lab-Leak-now-proven.html",
+          "publishedOn": "2023-06-24T17:39:22.000Z",
+          "wordCount": 2194,
+          "title": "Is “Lab Leak” now proven?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86174",
+          "author": "Alex Tabarrok",
+          "description": "Tim Harford writing at the FT covers the question “Is it even possible to prepare for a pandemic?” drawing on my paper with Tucker Omberg. [I]n an unsettling study published late last year, the economists Robert Tucker Omberg and Alex Tabarrok took a more sophisticated look at this question and found that “almost no form […]\n\r\nThe post Does Britain Have High or Low State Capacity? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nto be fair   the postmodern gender theorists spent the entirety ... by community notes\nIn reply to Fazal Majid.   I mean, just as a statistical ... by M\nIn reply to M.   It's not surprising at all, it depends on what ... by Fazal Majid\nIn reply to Heedless.   Partly probably, though Berlin or ... by M\nIn reply to Anti-Markovnikov.   “As a UK resident, I think we ... by dearieme\nPlus 10 more...\n\nRelated Stories\n\nThe Road to Socialism and Back: An Economic History of Poland, 1939–2019\nIs “Lab Leak” now proven?\nHigh Fructose Corn Syrup and the Sugar Quota",
+          "link": "https://feeds.feedblitz.com/~/748323950/0/marginalrevolution~Does-Britain-Have-High-or-Low-State-Capacity.html",
+          "publishedOn": "2023-06-24T11:19:16.000Z",
+          "wordCount": 2330,
+          "title": "Does Britain Have High or Low State Capacity?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86172",
+          "author": "Tyler Cowen",
+          "description": "Jane narrates: She pushed me towards him. I thought Diana very provoking, and felt uncomfortably confused; and while I was thus thinking and feeling, St. John bent his head; his Greek face was brought to a level with mine, his eyes questioned my eyes piercingly–he kissed me. There are no such things as marble kisses […]\n\r\nThe post Rereading *Jane Eyre* (the experiment kiss) appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Henry Oliver.   Wait, what? I thought he couldn't ... by peri\nIn reply to Hmmmmmm.   We believe Love Is Love.   You bigot. by In this country\nIn reply to Frank.   I'll say “Donner Party” is possibly ... by Moral Panic\nIn reply to Infovores.   Thank you! by Henry Oliver\nIn reply to Leslie.   This is a really interesting paper and I ... by Henry Oliver\nPlus 10 more...\n\nRelated Stories\n\nThe Road to Socialism and Back: An Economic History of Poland, 1939–2019\nMy Conversation with Noam Chomsky\nGame theory and the First World War",
+          "link": "https://feeds.feedblitz.com/~/748289207/0/marginalrevolution~Rereading-Jane-Eyre-the-experiment-kiss.html",
+          "publishedOn": "2023-06-24T06:59:58.000Z",
+          "wordCount": 1932,
+          "title": "Rereading *Jane Eyre* (the experiment kiss)",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86175",
+          "author": "Tyler Cowen",
+          "description": "That is the topic of my latest Bloomberg column, here is one bit: As a general rule, one should not debate publicly with conspiracy theorists. Some conspiracies may be true and should not be dismissed out of hand. But any discussion needs to start by demanding the best available documented evidence, and then subjecting it to rigorous […]\n\r\nThe post When should you debate in oral public forums? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Ricky.   I wouldn't exaggerate like that, but there ... by harold\nIn reply to peri.   I think you'll find, after careful ... by harold\n“one should not debate publicly with conspiracy theorists.” ... by dearieme\nHow many medical slash health groups, associations, ... by God of Thunder\nIn reply to ThatsNotAll.   “He has twisted Adam Smith's ... by blue jay\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/748277888/0/marginalrevolution~When-should-you-debate-in-oral-public-forums.html",
+          "publishedOn": "2023-06-24T04:43:29.000Z",
+          "wordCount": 2008,
+          "title": "When should you debate in oral public forums?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86181",
+          "author": "Tyler Cowen",
+          "description": "In most of the equilibria I can conceive, either Prighozin or Putin has to die in the next week or less? Putin has to die if he can’t take out Prighozin promptly? Game theory is often wrong, but it is worth putting this prediction out there.  And here is Kamil Galeev on the most likely […]\n\r\nThe post What game theory predicts appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Formerly K.   Why do people persist with ... by surfie\nIn reply to Luka.   I think China has a vested interest in ... by Andao\nIn reply to blue jay.   ” At the very least he might hope to ... by blue jay\nIn reply to Christof.   A negotiated compromise was not given ... by RAD\nIn reply to james.   In the last weeks Russians were preparing ... by Prof. Emeritus\nPlus 10 more...\n\nRelated Stories\n\nGame theory and the First World War",
+          "link": "https://feeds.feedblitz.com/~/748264181/0/marginalrevolution~What-game-theory-predicts.html",
+          "publishedOn": "2023-06-24T02:15:45.000Z",
+          "wordCount": 1865,
+          "title": "What game theory predicts",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86180",
+          "author": "Tyler Cowen",
+          "description": "Prigozhin's Kremlin coup is causing the Russian ruble to crash. 93.9 rubles per USD at Tinkoff Bank. 91.77 at Alfa Bank. The ruble closed at 84/USD on Friday just hours ago. — Igor Sushko (@igorsushko) June 24, 2023\n\r\nThe post Russia fact of the day appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nThe big question now is whether Wagner actually exchanged ... by aaron\nIn reply to Bill Allen.   OMG, someone posted bullshit on ... by Karl Pooper\nFirst Galeev, now Sushko. Do you follow anyone on Russia ... by Widmerpool\nIn reply to European Troll.   AP Wagner: “Pypa (Putin) made ... by M\nHow the west keeps falling for Prigozhin‘s trolling is beyond ... by European Troll\nPlus 10 more...\n\nRelated Stories\n\nChina (Germany) fact of the day\nWill Kenya take the lead in carbon removal?\nUK NHS fact of the day",
+          "link": "https://feeds.feedblitz.com/~/748258772/0/marginalrevolution~Russia-fact-of-the-day.html",
+          "publishedOn": "2023-06-24T01:25:03.000Z",
+          "wordCount": 1794,
+          "title": "Russia fact of the day",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86170",
           "author": "Tyler Cowen",
@@ -27746,6 +27719,46 @@
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/category/2023/06/compositional_system_dynamics.html",
+          "author": null,
+          "description": "Nathaniel Osgood will give a talk about category theory for public health software on Thursday June 29, 10:00-11:00 Pacific Time.",
+          "link": "https://golem.ph.utexas.edu/category/2023/06/compositional_system_dynamics.html",
+          "publishedOn": "2023-06-24T22:41:18.000Z",
+          "wordCount": 920,
+          "title": "Compositional System Dynamics for Public Health",
+          "imageUrl": null
+        },
+        {
+          "id": "https://johncarlosbaez.wordpress.com/2023/06/24/compositional-system-dynamics-for-public-health/",
+          "author": null,
+          "description": "The Topos Institute has a colloquium every week. This time it’s by my old grad school pal Nate Osgood. He’s a computer scientist, he helped lead Canada’s COVID modeling effort… … and he is now spear-heading a project to develop software that uses ideas from category theory to make it easier to create models of […]",
+          "link": "https://johncarlosbaez.wordpress.com/2023/06/24/compositional-system-dynamics-for-public-health/",
+          "publishedOn": "2023-06-24T21:36:01.000Z",
+          "wordCount": 2314,
+          "title": "Compositional System Dynamics for Public Health",
+          "imageUrl": "https://johncarlosbaez.files.wordpress.com/2022/06/sirsmodel.png"
+        },
+        {
+          "id": "http://nanoscale.blogspot.com/2023/06/a-busy-and-contentious-week-in.html",
+          "author": null,
+          "description": "There were a couple of interesting and controversial things afoot this week in the condensed matter world.\n\n\nThere was a new  from the group of  at the University of Illinois Chicago featuring electronic transport measurements in samples of the  made from Lu-N-H, samples synthesized by the group of .  This was mentioned as a potential confirmation of the room temperature superconductivity result by the .  Plotting the full raw data that goes with the new preprint, however, certainly gives many people (including me) pause.  The raw resistance vs temperature sweep traces have unphysically narrow (in temperature) drops to and rises from zero, as shown.  Obviously I don't know with complete certainty, but this looks exactly like what would be seen if one of the contacts was bad.  Time will tel…",
+          "link": "http://nanoscale.blogspot.com/2023/06/a-busy-and-contentious-week-in.html",
+          "publishedOn": "2023-06-24T20:07:00.000Z",
+          "wordCount": 3071,
+          "title": "A busy and contentious week in condensed matter physics",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIX5yXqKpmNQJQMKbc8ieIsCEbhxhc_jOjMuETqz0FzmyexkL3doWjveYAOgUv4pWzXtxfUpX_wgcGFHgL7BSCQIC56-PZ8fDq4cBGzhDzsdB48m0l72QatxwbsRWoSvjrgBdnalHOsbbwErWThD5vT9ilA83AhUYr_kEhxzwGZP9iHGtG3WiRhg/w1200-h630-p-k-no-nu/hemley.png"
+        },
+        {
+          "id": "https://www.science20.com/tommaso_dorigo/find_the_move-256681",
+          "author": null,
+          "description": "<div type=\"xhtml\"><div xmlns=\"http://www.w3.org/1999/xhtml\">Blitz games on the internet are a lot of fun, if you love chess as I do. Perhaps a good share of the fun is due to the complete chaos that may arise, when you have few seconds left on the clock and decisions have to be taken instantly. But sometimes you may happen to play correct chess, too. It is exceedingly rare, and when it happens it is a good indication that you have been able to hold on to clear strategic ideas leading your play into the correct decisions.<br/><p><a href=\"https://www.science20.com/tommaso_dorigo/find_the_move-256681\" target=\"_blank\">read more</a></p></div></div>",
+          "link": "https://www.science20.com/tommaso_dorigo/find_the_move-256681",
+          "publishedOn": "2023-06-24T19:34:18.000Z",
+          "wordCount": 1430,
+          "title": "Find The Move",
+          "imageUrl": null
+        },
+        {
           "id": "https://golem.ph.utexas.edu/category/2023/06/act_2023_registration.html",
           "author": null,
           "description": "If you want to attend the 6th Annual International Conference on Applied Category Theory (ACT2023) or watch it on Zoom, you need to register by July 14th!",
@@ -28214,16 +28227,6 @@
           "wordCount": 4024,
           "title": "Enfin, Permanent",
           "imageUrl": "https://4gravitons.files.wordpress.com/2023/05/20230330_153447.jpg"
-        },
-        {
-          "id": "http://hoggresearch.blogspot.com/2023/05/how-to-maximize-yield-of-planets.html",
-          "author": null,
-          "description": "There were discussions this week at University of Warwick about the Terra Hunting Experiment strategy and likely detection capability. Various take-homes include that we need to mitigate lots of stellar noise, and that we care deeply about the covariance (as a function of separation in time) of adjacent measurements. I advocated that we split our ten-year survey into two or three surveys, of varying length. In the first, we learn about the stars, and in the last, we go to town on the very most promising targets. There was general agreement that this is a good idea. But now we need a very specific plan for what this means. As my loyal reader knows, in my view, the decisions must be based on repeatable operations, so that we have some hope of learning statistical things about populations in the end.",
-          "link": "http://hoggresearch.blogspot.com/2023/05/how-to-maximize-yield-of-planets.html",
-          "publishedOn": "2023-05-26T03:59:00.000Z",
-          "wordCount": 4151,
-          "title": "how to maximize the yield of planets?",
-          "imageUrl": null
         }
       ]
     },
@@ -28244,6 +28247,16 @@
       "feedUrl": "https://pointers.dailywebthing.com/feed/",
       "siteUrl": "https://iwebthings.joejenett.com/",
       "articles": [
+        {
+          "id": "https://iwebthings.joejenett.com/little-misc-list-06-24-23/",
+          "author": null,
+          "description": "The Wheel of Things by Clive Murray \n“a toy to help you choose between things, Wheel of Fortune style”\nMeow (about) 📌\n“This is a tool that allows you to view your Mastodon export file.”\nQuotes Explained 📌\n“The problem is that some of societies most powerful quotes are either taken out of context, misattributed or never said at all. That’s where we come in.”\nobsidian-note-from-template 📌\n“Simple plugin to create Notes from a template, and fill in fields defined there” \n(available as “From Template\" in Obsidian>Settings>Community plugins)\nColar 📌\n“A universal color palette based on Open Color”",
+          "link": "https://iwebthings.joejenett.com/little-misc-list-06-24-23/",
+          "publishedOn": "2023-06-24T14:54:19.000Z",
+          "wordCount": 474,
+          "title": "little misc list 06-24-23",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
         {
           "id": "https://iwebthings.joejenett.com/generate-layered-smooth-shadows/",
           "author": null,
@@ -31924,6 +31937,26 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59396",
+          "author": "Mark Liberman",
+          "description": "Just wow. A video has surfaced showing Prigozhin at the Southern Military District HQ in Rostov-on-Don talking to (and HUMILIATING) Deputy Defense Minister Yunus-bek Yevkurov. He threatens to blockade Rostov and head for Moscow! I have extreme trouble understanding Yevkurov and… pic.twitter.com/jGr9gaLB1i — Kevin Rothrock (@KevinRothrock) June 24, 2023 An English translation of the linguistically-relevant […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59396&utm_source=rss&utm_medium=rss&utm_campaign=prigozhins-pronouns",
+          "publishedOn": "2023-06-24T14:26:14.000Z",
+          "wordCount": 2856,
+          "title": "Prigozhin's pronouns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59388",
+          "author": "Victor Mair",
+          "description": "I promised that I would tell the story of how five old, white men persuaded me to begin the study of Asian languages two years after I was out of college.  Here it is. When I graduated from Dartmouth in 1965, I joined the Peace Corps for two years in Nepal.  Although I contracted fifteen […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59388&utm_source=rss&utm_medium=rss&utm_campaign=five-old-white-men",
+          "publishedOn": "2023-06-24T11:16:19.000Z",
+          "wordCount": 2544,
+          "title": "Five old, white men",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59383",
           "author": "Mark Liberman",
           "description": "The most recent xkcd: Mouseover title: \"Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing\" What the Berkeley Neural Parser thinks: (S (PP (IN After) (NP (NN bird) (VBZ strikes))) (NP (NP (NN judge)) (SBAR (WHNP (WP who)) (S (VP (VBD ordered) (NP (NNP olive) (NNP garden) (NNP path) (NN sentence)) […]",
@@ -32486,16 +32519,6 @@
           "publishedOn": "2023-05-28T03:27:05.000Z",
           "wordCount": 2679,
           "title": "Chickee cakes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58791",
-          "author": "Victor Mair",
-          "description": "From Medievalists.net: \"By God’s Bones: Medieval Swear Words\" What were bad words in the Middle Ages? Cursing or swearing in medieval England was really different from today’s world. May, 2023 The post begins: Some historians have looked into the topic, such as Melissa Mohr, the author of Holy Sh*t: A Brief History of Swearing. In her […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58791&utm_source=rss&utm_medium=rss&utm_campaign=insults-oaths-and-curses-in-the-middle-ages",
-          "publishedOn": "2023-05-26T12:37:34.000Z",
-          "wordCount": 3803,
-          "title": "Insults, oaths, and curses in the Middle Ages",
           "imageUrl": null
         }
       ]
@@ -34728,26 +34751,6 @@
           "wordCount": 3142,
           "title": "Celebrating the impact of IDSS",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202305/Munzer-thanks.jpg"
-        },
-        {
-          "id": "https://news.mit.edu/2023/using-ai-scientists-combat-drug-resistant-infections-0525",
-          "author": "Anne Trafton | MIT News Office",
-          "description": "The machine-learning algorithm identified a compound that kills Acinetobacter baumannii, a bacterium that lurks in many hospital settings.",
-          "link": "https://news.mit.edu/2023/using-ai-scientists-combat-drug-resistant-infections-0525",
-          "publishedOn": "2023-05-25T15:00:00.000Z",
-          "wordCount": 3006,
-          "title": "Using AI, scientists find a drug that could combat drug-resistant infections",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202305/MIT_New-Antibiotic-01-PRESS.jpg"
-        },
-        {
-          "id": "https://news.mit.edu/2023/probabilistic-ai-knows-how-well-its-working-0525",
-          "author": "Rachel Paiste | Department of Brain and Cognitive Sciences",
-          "description": "It’s more important than ever for artificial intelligence to estimate how accurately it is explaining data.",
-          "link": "https://news.mit.edu/2023/probabilistic-ai-knows-how-well-its-working-0525",
-          "publishedOn": "2023-05-25T14:30:00.000Z",
-          "wordCount": 2427,
-          "title": "Probabilistic AI that knows how well it’s working",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202305/probabilistic-ai-00_0.jpg"
         }
       ]
     },
