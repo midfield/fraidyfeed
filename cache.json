@@ -163,16 +163,6 @@
           "wordCount": 4422,
           "title": "Inequalities, convergence, and continuity as “special deals”",
           "imageUrl": "https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=200&ts=1685926731"
-        },
-        {
-          "id": "http://terrytao.wordpress.com/?p=13769",
-          "author": "Terence Tao",
-          "description": "The National Academies of Science, Engineering, and Mathematics are hosting a virtual workshop on the topic of “AI to Assist Mathematical Reasoning” from June 12-14. The tentative program can be found here. I am one of the members of the organizing committee for this workshop, together with Petros Koumoutsakos, Jordan Ellenberg, Melvin Greer, Brendan Hassett, […]",
-          "link": "https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/",
-          "publishedOn": "2023-06-02T17:52:35.000Z",
-          "wordCount": 3873,
-          "title": "AI to Assist Mathematical Reasoning: A Workshop",
-          "imageUrl": "https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=200&ts=1685753871"
         }
       ]
     },
@@ -181,6 +171,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48428",
+          "author": "Andrew",
+          "description": "Asher Meir writes: I haven’t cried on your shoulder for a long time, but I know statistics education is one of your passions and I couldn’t resist. My niece is studying political science at a university in Holland. She has … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/07/02/instructors-are-trying-their-best-but-they-are-busy-and-often-dont-themselves-understand-statistics-so-well-how-can-they-avoid-using-bad-examples-or-does-this-even-matter/",
+          "publishedOn": "2023-07-02T13:22:04.000Z",
+          "wordCount": 6840,
+          "title": "Instructors are trying their best but they are busy and often don’t themselves understand statistics so well.  How can they avoid using bad examples, or does this even matter?",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=48747",
           "author": "Andrew",
@@ -589,16 +589,6 @@
           "publishedOn": "2023-06-03T13:42:05.000Z",
           "wordCount": 3139,
           "title": "Junk science:  It’s not just for Ted talks, NPR features, and airport bestsellers.  It can also ruin people’s lives.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=48570",
-          "author": "Andrew",
-          "description": "The problem: When fitting multilevel models, the group-level variance parameters can be difficult to estimate. Posterior distributions are wide, and point estimates are noisy. The maximum marginal likelihood estimate of the variance parameter can often be zero, which is a … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/06/02/blme-bayesian-linear-mixed-effects-models/",
-          "publishedOn": "2023-06-02T13:23:29.000Z",
-          "wordCount": 2941,
-          "title": "blme: Bayesian Linear Mixed-Effects Models",
           "imageUrl": null
         }
       ]
@@ -2903,136 +2893,6 @@
           "wordCount": 2303,
           "title": "Puzzle Monday: How Swede It Is! Crossword",
           "imageUrl": "https://img.atlasobscura.com/ebny5p_unHxkAD6jfCAnwYoLr85T1rRRj0ERpAwNdn4/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kZDcxYTFjY2Rk/NzVjZjA5MTRfQ3Jv/c3N3b3JkIExlYWQu/anBn.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/sarabhas-creamery-nashville",
-          "author": null,
-          "description": "Between Nashville’s iconic Music Row and Vanderbilt University, Sarabha's Creamery, the city's first homemade Indian-style ice cream shop, quietly works sweet, frozen magic from the second story of a nondescript strip mall. It’s the passion project of husband-and-wife duo Gursharan Singh and Manpreet Gill, who opened the parlor in 2022 after leaving jobs in tech. As Gill explained in an interview with Nashville Scene, the pair saw the empty storefront and decided to make the switch almost immediately. \n\r\nThe mango kulfi—reminiscent of a tropical creamsicle—is the perfect starter to a multi-course ice cream feast, and comes in flavors like malai (with cardamom and milk solids) and kesar pista (saffron with pistachios). It melts quickly, so it’s both logistically sound and extremely satisfying to lick it off the stick as quickly as possible. \n\r\nThe rest of the ice creams are equally stellar. Sarabhas’s incorporates less air into its Indian-style ice cream than a typical American scoop, giving it a texture more akin to gelato. Pair flavors such as rose tutti frutti, cardamom-scented Indian coffee, and paan nawabi (made with rose petals and cashews) in a crispy waffle cone or bowl, then wash it all down with a steaming masala chai.\n\r\nVisually, the star of the show is Sarabhas' vibrant falooda, which arrives brimming with malai ice cream, sweet basil seeds, vermicelli noodles, and jellied fruit bobbing a cup of ice-cold milk, all finished with a cherry and a swirl of fuchsia rose syrup. Originally invented in Persia more than 2,500 years ago, faloodeh is a dessert made from frozen vermicelli soaked in a rose syrup. Persians began arriving in India during the 8th century, so faloodeh had plenty of time to catch on, attain royal status, and then morph into a popular milkshake-like dessert, all while retaining almost exactly the same name—falooda.",
-          "link": "https://www.atlasobscura.com/places/sarabhas-creamery-nashville",
-          "publishedOn": "2023-06-02T22:00:00.000Z",
-          "wordCount": 3998,
-          "title": "Sarabha's Creamery in Nashville, Tennessee",
-          "imageUrl": "https://img.atlasobscura.com/ojyiD0s5s5ok-8vnH1XOK6s1Z1bKEZsJeeAyE5sVvNk/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDZl/ODc0OC0xMzcxLTRi/YWYtOGVjNS03YjA3/NGRiMmVlOTk4OGQy/ZTU3MzBhN2YzYzg5/NTZfaW1hZ2VfNjcy/MjkxODUuSlBH.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/browns-diner-nashville",
-          "author": null,
-          "description": "First housed inside an old mule-pulled trolley car, Brown’s Diner has changed hands three times since 1927 without losing its charm or its original ethos. Customers now have the option to dine on a covered patio area next to the old trolley, but the interior of the diner remains a time warp. \n\r\nThe concise menu sticks to the classics—Frito chili pies, wings, fried chicken plates—and does them well. But the cheeseburger, Brown's claim to fame, is what an old-school fast food burger aspires to be: a slender patty with a hint of char on the outside and a pink interior, blanketed in American cheese and Duke’s mayo. It costs less than $10, tastes like a million bucks, and can (and should) be ordered alongside a basket of ultra-crispy Tater Tots.\n\r\nThe diner also bears the unusual distinction of having Nashville’s oldest beer license. Throughout its lifetime, generations of recording artists—from John Prine to Vince Gill—have played on its small stage and knocked back a cold one at the bar.",
-          "link": "https://www.atlasobscura.com/places/browns-diner-nashville",
-          "publishedOn": "2023-06-02T21:00:00.000Z",
-          "wordCount": 3739,
-          "title": "Brown's Diner in Nashville",
-          "imageUrl": "https://img.atlasobscura.com/B8_uvtoNOotpRYsErZaPCZxDhwgJ6AvioJ0E8IGMIno/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNDM3/ZTgyMDk2NGYxOWFl/NzdfaW1hZ2VfNTA0/Mzc2MzMuSlBH.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/secret-tunnels-nazi-project-riese-poland",
-          "author": null,
-          "description": "During the final years of World War II, the Nazis forced thousands of prisoners to carve out an elaborate system of tunnels under Silesia's Owl Mountains. Almost all documentation related to the project was destroyed before the German surrender, meaning that the purpose and the true extent of these tunnels, codenamed Project \"Riese\" (or \"Giant\"), remain shrouded in mystery to this day.\n\r\nThe secret tunnels under Silesia have attracted numerous treasure hunters over the years, convinced that somewhere under this low mountain range lies a trove of Nazi loot. Theories about the true purpose of the Silesian tunnels range from a secret underground train system to transport stolen gold and other treasures, to the final hiding place of the Amber Room, to a covert weapons lab working on the \"Wunderwaffe,\" a top-secret new weapon under development by the Nazis.\n\r\nMost historians now believe that the tunnels were probably an attempt to move key factories underground and away from Allied bombing raids, but this hasn't stopped others from searching further. The full extent of the Nazi tunnel system under Silesia has yet to be uncovered, and the region continues to attract treasure hunters from all over the world, looking for new stores of Nazi gold.\n\r\nThe tunnels were abandoned after the war, and for several decades, only experienced cavers and treasure hunters dared to explore the many underground complexes dug out during Project Riese. Beginning in the 2000s, however, many known sections of the tunnels have been secured and opened to the public. The most famous of the Silesian tunnels are the ones under Ksiaz castle, but more than a dozen other self-contained tunnel systems have been discovered throughout the Owl Mountains, notably in the modern Polish towns of Osówka, Rzeczka/Walim, Soboń, Jawornik, and Włodarz.",
-          "link": "https://www.atlasobscura.com/places/secret-tunnels-nazi-project-riese-poland",
-          "publishedOn": "2023-06-02T21:00:00.000Z",
-          "wordCount": 3926,
-          "title": "Podziemne Miasto Osówka in Sierpnica, Poland",
-          "imageUrl": "https://img.atlasobscura.com/-jfjr-JWubqlvNjMAIbespxoL4Avr-MVKP_Kawgl6Xw/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYzhm/NjM5Ny1hOGY4LTRi/OTAtOGEzZC02N2U1/MmM5YTFjOTQyMWYy/NGE4YjdjZDhjMWZj/YmRfMjAyMTEwMTFf/MTYzOTA5LmpwZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/pinky-ring-pizza",
-          "author": null,
-          "description": "Wedged into a strip mall parking lot behind a Subway, this unassuming pizza parlor turns out 18-inch New York–style pies that could make Manhattan’s top pizzaiolos weak in the knees. Offerings lean unconventional, with standouts including the Esmerelda, featuring pistachio pesto, fig preserves, and charred lamb flank, and the Bianca, which tops a ricotta base with locally grown oyster mushrooms. \n\r\nThe real feat of nature, however, is the pickle pizza, which pairs slivers of kosher dill pickles with toasted garlic, ricotta cream, smoked provolone, and ranch. Recently, the kitchen crew has been experimenting with a plussed-up variation called the “Hot Matty.” Chef David Bonner, Jr., inspired by a cluster of daikon radish sprouts growing on the counter, whipped up a daikon-feta pesto and amp…",
-          "link": "https://www.atlasobscura.com/places/pinky-ring-pizza",
-          "publishedOn": "2023-06-02T20:00:00.000Z",
-          "wordCount": 4013,
-          "title": "Pinky Ring Pizza in Madison, Tennessee",
-          "imageUrl": "https://img.atlasobscura.com/PrXVu75YVACY5wjcgQ72pkyyQKVZuPFOAdX0ZJPXUy4/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wOGQ5/YzBmZS1mYTM3LTQz/MGEtOTZmOS01NDcy/NjFkNGQwODlkNWJh/NDRhZjkwNWQyNDA5/MDVfaW1hZ2VfNTA3/NTQ4MTcgMi5KUEc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/yay-yays",
-          "author": null,
-          "description": "The biscuits arrive in an unassuming disposable box, still gently warm and roughly the size of a softball. Served with honey butter, jam, and tangy-sweet house-made curd, they’re already superb, but used as the vehicle for a breakfast sandwich, they’re transcendent. From the fried chicken and waffles to the shrimp and grits, there’s no dead weight on the short, sharp menu at Yay Yay’s, but if you only have stomach capacity for one item, a biscuit needs to be a part of it.  \n\r\nChef Charlotte Miller, who built up a reputation through catering for years, opened her first brick-and-mortar along with her business partner Jason Luntz in 2022. From its location on Jefferson Street, a historic commerce hub, to the wall murals, to the thoughtfully curated selection of books by Michael Twitty, Toni Tipton-Martin, and others, every facet of her café is a celebration of Black history and culture in Nashville. The airy, welcoming interior is ideal for a leisurely brunch or afternoon tea.\n\r\nThe “Can You Say Yay Yay?” with fried green tomatoes, fried chicken, and pimiento cheese on a biscuit is absolutely as much of a triple-threat as it sounds like. The whole concoction is structurally unsound in the right way, with a biscuit crumb so ethereal that it begins to disintegrate almost as soon as it hits your fingers. You won’t mind—the messy sense of immediacy of this sandwich is part of its allure.",
-          "link": "https://www.atlasobscura.com/places/yay-yays",
-          "publishedOn": "2023-06-02T18:00:00.000Z",
-          "wordCount": 3862,
-          "title": "Yay Yay's in Nashville, Tennessee",
-          "imageUrl": "https://img.atlasobscura.com/iN8YWsa_Neal6ZCBp0odv5r3u2GpGbqRuo4a3SdMAg8/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mYTdl/N2FjYTBmNGMwMzMw/MTZfaW1hZ2VfNTA0/Mjk0NDEuSlBH.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/tinside-lido-plymouth-england",
-          "author": null,
-          "description": "Tinside Lido is a famous outdoor swimming pool complex located on the waterfront in Plymouth. It holds historical significance as a Grade II listed building, adorning the city's edge to the English Channel. \n\r\nThe lido was opened in 1935 having been designed by the architect John Wibberley. It features an iconic Art-Deco style, with sleek lines, curved edges, and a stunning white façade. The design was influenced by the \"ocean liner aesthetic\" renowned during that era, with many of the U.K.'s seaside towns building lidos in the 1930s as an ode to the rise of popularity in sport and fitness. What makes this lido a must-visit is its heritage and beautiful curves, telling of history in its peeling paint and quaint 30s signage.\n\r\nOver the years, Tinside Lido has undergone periods of closure and renovation to maintain its historic charm and functionality. Like other lidos, it has had periods when it was abandoned and out of use. Fortunately, Plymouth's Tinside Lido is one of the lucky lidos that has not been subject to demolition.\n\r\nIn 2003, the Tinside Lido underwent a major restoration, preserving its original features while incorporating modern facilities and amenities. Since then, it is functional in the summer months as a full-blown swimming pool that can be entered with a small fee.",
-          "link": "https://www.atlasobscura.com/places/tinside-lido-plymouth-england",
-          "publishedOn": "2023-06-02T18:00:00.000Z",
-          "wordCount": 3811,
-          "title": "Tinside Lido in Plymouth, England",
-          "imageUrl": "https://img.atlasobscura.com/E_lc3Y5TMuG6Iwlr7wT9r2hFkq0R_JZtUQMlBsdscjg/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NzJh/YTY1ZC0xNmQ2LTRm/Y2YtOTI5My01NzA5/YmRjZjRjZjVkM2Mx/YmZjMGJmOTVmZGI0/ZjZfNzQ4MTYwMTQ0/NF8yZmFhODhiZGI3/X2suanBn.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/jewish-ghetto-wall-budapest-hungary",
-          "author": null,
-          "description": "In 1944, the Jewish people in Budapest, much like those before them in major cities across Europe, were forced to live in a small 20-block area of the 7th district. Many tourists today will learn about the plight of Hungary's Jewish citizens through the history of the Dohány Street Synagogue (The Great Synagogue), the Holocaust Memorial, and the Hungarian Jewish Museum. There are also some more subtle remnants of the impact of the Nazi pogrom on the people of Budapest, if you know where to look.\n\r\nOne of the more hidden memorials isn't entirely authentic, but its location is. The wall surrounding the Jewish ghetto was erected in November 1944 and destroyed in 2006. However, the 30-meter section that sits at the back of the courtyard at 15 Király Utca was reconstructed in 2010 (minus the original barbed wire) to serve as a permanent reminder of the tens of thousands who were forced to live in the area. You can find carefully placed stones and votive lamps along the wall in memory of the people who were interred there.\n\r\nA small plaque on the street describes the memorial wall in Hungarian, English, and Hebrew. Getting to the wall itself requires entering the courtyard of the private apartments currently occupying the location. Pass through the courtyard and continue out through the short tunnel to a second courtyard to find the remains of the wall and a small plaque showing a map of the original ghetto.",
-          "link": "https://www.atlasobscura.com/places/jewish-ghetto-wall-budapest-hungary",
-          "publishedOn": "2023-06-02T18:00:00.000Z",
-          "wordCount": 3866,
-          "title": "Jewish Ghetto Wall in Budapest, Hungary",
-          "imageUrl": "https://img.atlasobscura.com/nI7Ebj4GCbYkWNiG3aZsM0GEaNg1aUUHxhiOZAbeF6w/rt:fit/w:600/c:3014:2009:nowe:0:685/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hOTE0/OTc2ZC1mZDM1LTQw/Y2EtYWI5Ni01YzMx/NzdjZjcwMWI0ZDI3/MjIyZDk5NmNkMjli/YTNfSU1HXzA1MjQu/anBlZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/last-versailles-border-stone-poland",
-          "author": null,
-          "description": "After World War I, the 1919 Treaty of Versailles brought the Polish state back into existence after 123 years of division and occupation by the Prussian, Austrian, and Russian empires, formalizing the borders of this resurrected Poland by carving out territory from these three failing imperial powers.\n\r\nPoland's new border was moved even further west after World War II, but during the interwar period between 1919 and 1939, its border with Germany followed more or less the same course as the provincial delimitation between modern Poland's Lubusz and Wielkopolska Voivodeships. This former international border is today overgrown with thick forests that conceal many old, fortified border crossings and bunkers which have become popular landmarks for local hikers.\n\r\nOnly one of the original border markers from the Versailles era has survived to the present day, and it stands in a public park in the Polish village of Wierzbno. It's engraved with the date of the Versailles Treaty—June 28, 1919—as well as a \"P\" for Poland and a \"D\" for Deutschland (Germany). The actual border crossing was located about one kilometer further east along Poland's national road 24 where the Lubusz Voivodeship meets the Wielkopolska Voivodeship, and is commemorated with a small monument, an information board, and some crumbling ruins of the customs buildings that used to stand there.",
-          "link": "https://www.atlasobscura.com/places/last-versailles-border-stone-poland",
-          "publishedOn": "2023-06-02T17:00:00.000Z",
-          "wordCount": 3775,
-          "title": "The Last Versailles Border Stone in Wierzbno, Poland",
-          "imageUrl": "https://img.atlasobscura.com/XZXsAx6JZy9wd2419DhdwdfYjWVKsgkS9Zc4Aa4abJg/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zYzFm/MTZiNi0xYzY0LTRh/MmEtYWVhNi1lZjkx/MmU3YTI0YmRmOWVl/ZTgzMmM2NGYxZDgx/YTFfUFhMXzIwMjMw/MTEwXzE0NDA0OTg0/Mi5qcGc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/local-unique-summer-activities-around-world",
-          "author": "Sarah Durn",
-          "description": "As temperatures start to rise and beaches start to fill, it seems summer has officially arrived—bring on the backyard barbecues and picture-perfect picnics (perhaps in a secluded Georgian graveyard)! This year at Atlas Obscura, we’re doing the sunny season a little differently. With the launch of our ongoing Summer of Wonder series, we’re delving into the marvels of the night sky, whimsical tales of the road, and curious animals we might encounter along the way.\n\r\nTo celebrate this time of longer days and shorter pants, we recently asked readers on our Facebook page to tell us about their favorite spots to soak up the sun, unique summer traditions, the festival treats they can’t wait to try, and the summer adventures they’re planning. We collected some of our favorite responses below, from…",
-          "link": "https://www.atlasobscura.com/articles/local-unique-summer-activities-around-world",
-          "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5707,
-          "title": "11 Hyper-Local, Unique Summer Activities From Around the World",
-          "imageUrl": "https://img.atlasobscura.com/dwtGgKRHLSC4iQ58e3Nxq3FzN6m2XwRxhG7ClzCmLm4/rt:fit/w:600/c:1863:1242:nowe:30:329/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wMjRlNzg4NTQ3/OTc2OTI1NjJfRmxp/Y2tyLCBGYWlyY2hp/bGQgdGhlIGdvcGhl/ciwgdGhlIG1hc2Nv/dCBvZiB0aGUgTWlu/bmVzb3RhIFN0YXRl/IEZhaXIgaW4gU3Qu/IFBhdWwsIE1pbm5l/c290YSAyLmpwZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/bon-scott-grave-australia",
-          "author": null,
-          "description": "Situated within the Fremantle Cemetery lies the final resting place of Ronald Belford \"Bon\" Scott, lead vocalist of the popular rock band AC/DC.\n\r\nBon was born on July 9, 1946, in a town north of the Scottish city of Dundee. (You can find a bronze statue of the singer in Kirriemuir, where he spent the first few years of his life.) In 1952, at the age of six, he migrated to Australia with his family. They lived in Melbourne for a time before relocating to the Perth suburb of Fremantle.\n\r\nIn 1974, he was asked to join the band AC/DC by Malcolm and Angus Young, two brothers from Glasgow and over a period of six years, Scott reached world fame through his performances as the lead singer of the band. \n\r\nOn February 19, 1980, Scott tragically passed away after leaving a nightclub and later falling asleep in his friend's car, with the coroner determining the cause of death to be acute alcohol poisoning. Scott's body was embalmed and his family decided to scatter his ashes at this site in Fremantle Cemetery. The memorial site includes a plaque and memorial bench and due to his contributions to the field of music, the National Trust of Australia has deemed this a site of cultural significance.",
-          "link": "https://www.atlasobscura.com/places/bon-scott-grave-australia",
-          "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 3726,
-          "title": "Bon Scott's Grave in Palmyra, Australia",
-          "imageUrl": "https://img.atlasobscura.com/sWPGWePnEkXgsGjNshi8r2YFz3kqLD5nW4MFJZaIbBU/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83OGRh/NzRjMS1iZjRkLTQw/ZTAtOGEzMS0wZDk0/NmZkNDRkMGQzMzBk/ZjQ2NjdjNDlkMzI3/N2ZfMzJCMkJDQTgt/NDBDOS00RTk4LTg5/NUMtNEFBMzVGQzU2/QUJGLmpwZWc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/dragon-of-trutnov",
-          "author": null,
-          "description": "The history of Trutnov is intimately bound with dragons, as even the shortest term visitor will notice. Dragons adorn businesses throughout the city center and comprise some of the city's most prominent statues. Depending on the time of year, you may even be lucky enough to see one hoisted from city hall.\n\r\nAccording to local legend, in 1006, shortly after Trutnov was founded, two stonecutters stumbled upon a dragon's den while searching the woods for building materials. They rushed back to town and informed a local knight, Lord Albrecht von Trautenberg. Although he was skeptical of their story, he went to investigate it for himself, bringing with him several men from the town armed with rope nooses to capture the beast. Using a lamb as bait, they lured the dragon from its lair and were able to subdue it before suffocating it to death with smoke. The dragon was then skinned, stuffed, and hung in the town square.\n\r\nIn thanks to Lord Albrecht, the new city was supposedly named in his honor (Trautenau), and was later adapted into Czech as 'Trutnov'. Legend also has it that the stuffed dragon was gifted to Brno, and continues to hang in its city hall.\n\r\nEvery year in the first weekend of May, the residents of Trutnov commemorate the slaying of the dragon in a ceremony called Už ho nesou (\"They are already carrying him\"), in which a tin dragon is symbolically hoisted up onto the facade of the city hall in the main square, where it remains until September or October. The ceremony itself is accompanied by a large public festival with food, drinks, and medieval costumes. Outsiders are rare, but are more than welcome.",
-          "link": "https://www.atlasobscura.com/places/dragon-of-trutnov",
-          "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 3898,
-          "title": "The Dragon of Trutnov in Trutnov, Czechia",
-          "imageUrl": "https://img.atlasobscura.com/JSUnAgpQtRSrq9iqkM1EzXUdBPbSDccbEVTcAxCbpcA/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZjgz/NmFhOS1iZWMwLTQw/NDktYjE3Zi00NzVh/YzZlYmZlNTRhNjI4/NGU3NmNkYWNkY2Jk/N2JfMjAyMTA1MTNf/MTI1MjA4LmpwZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/quality-tomato-capital-of-the-world-pittston-pennsylvania",
-          "author": null,
-          "description": "In the 1930s Pittston, Pennsylvania, was dubbed the \"Quality Tomato Capital of the World,\" because it fulfilled the high demand for tomatoes from metropolitan New York.\n\r\nIn 1984 the city began the now-yearly Pittston Tomato Festival. Held every August, it includes a tomato fight, a tomato pageant, a tomato parade, and other tomato-centered activities.\n\r\nThe tomato statue has become a sculptural salute to the fruit that the city adores. The city identifies as the “quality” tomato capital, not the “quantity” tomato capital.",
-          "link": "https://www.atlasobscura.com/places/quality-tomato-capital-of-the-world-pittston-pennsylvania",
-          "publishedOn": "2023-06-02T15:04:00.000Z",
-          "wordCount": 3620,
-          "title": "Quality Tomato Capital of the World Statue in Pittston, Pennsylvania",
-          "imageUrl": "https://img.atlasobscura.com/lX-5610nDaT9XfwZjOluTSlfVT0iI9XSvKN20b8kTI0/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS9h/cHBfdXBsb2Fkcy9w/bGFjZV9pbWFnZXMv/dXNlcl8yODU5MDM3/X2RmNGJjNDk3LTI3/MGEtNDcyYi05NTA2/LWFkNGJkZmQyYWNl/Nw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/riker-hill-art-park-new-jersey",
-          "author": null,
-          "description": "In the 1950s, the site now known as Riker Hill Art Park was used as a United States Army Nike Missile Tracking Base. Its location, the highest elevation in the county, offered the perfect clear line defense against anyone attempting to target the New York Metro area.\n\r\nBy the 1970s, due to advancements in weapons systems, these measures became obsolete, and in 1974, the base, known as Riker Hill Nike Battery Control Area NY-80, was sold to the county for $1. For a short time, the site was used to showcase dinosaur fossils that had been found nearby, in a quarry. But there was little interest from the public, and this was also closed down.\n\r\nShortly after, the former army barracks were transformed into 38 artist studios, with the spaces now being used for various disciplines, such as sculpture, painting, photography, glass blowing, pottery, printmaking, ceramics, and more.\n\r\nEach of the buildings is painted a different color. Whilst taking a stroll around the 42-acre complex you can enjoy the scenic overlooks, check out the large metal sculptures, and also see if you can spot any military remnants.",
-          "link": "https://www.atlasobscura.com/places/riker-hill-art-park-new-jersey",
-          "publishedOn": "2023-06-02T14:30:00.000Z",
-          "wordCount": 3832,
-          "title": "Riker Hill Art Park in Livingston, New Jersey",
-          "imageUrl": "https://img.atlasobscura.com/seis2njAzqU0lfCZvCWwykzNKKwtDnM2_x1KJwhqJ4Q/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wODBl/NGNmNi1hMWQxLTRi/MjUtYTI4OC1lNDBl/NDFiNDc2M2ViZTAy/Y2RkZWM5MjdjNTA3/NGVfREM0NEEwMjUt/NDM1Mi00NDQ1LTk5/RDMtRTRGMUQzMUY5/NjU3LmpwZWc.jpg"
         }
       ]
     },
@@ -5297,6 +5157,21 @@
       "siteUrl": "https://standardebooks.org",
       "articles": [
         {
+          "id": "https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-new-pin",
+          "author": null,
+          "description": "A newspaper reporter aids the local police in investigating how a wealthy man was murdered in a room locked from the inside.",
+          "link": "https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-new-pin",
+          "publishedOn": "2023-07-02T19:01:01.000Z",
+          "wordCount": 585,
+          "title": "The Clue of the New Pin, by Edgar Wallace",
+          "enclosure": {
+            "length": "850793",
+            "type": "application/epub+zip",
+            "url": "https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-new-pin/downloads/edgar-wallace_the-clue-of-the-new-pin.epub"
+          },
+          "imageUrl": "https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-new-pin/downloads/cover.jpg"
+        },
+        {
           "id": "https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast",
           "author": null,
           "description": "A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.",
@@ -5610,6 +5485,22 @@
       "feedUrl": "https://astralcodexten.substack.com/feed/",
       "siteUrl": "https://astralcodexten.substack.com",
       "articles": [
+        {
+          "id": "https://astralcodexten.substack.com/p/open-thread-283",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://astralcodexten.substack.com/p/open-thread-283",
+          "publishedOn": "2023-07-02T07:40:28.000Z",
+          "wordCount": null,
+          "title": "Open Thread 283",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b86b2940-e9c8-4605-8e2d-2500e0c2a01e_255x255.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b86b2940-e9c8-4605-8e2d-2500e0c2a01e_255x255.webp"
+        },
         {
           "id": "https://astralcodexten.substack.com/p/hidden-open-thread-2825",
           "author": "Scott Alexander",
@@ -5977,22 +5868,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/439a4430-71fc-4189-88d8-222478222a77_255x255.webp"
-        },
-        {
-          "id": "https://astralcodexten.substack.com/p/your-book-review-why-machines-will",
-          "author": "a reader",
-          "description": "Finalist #3 in the Book Review Contest",
-          "link": "https://astralcodexten.substack.com/p/your-book-review-why-machines-will",
-          "publishedOn": "2023-06-03T00:34:05.000Z",
-          "wordCount": null,
-          "title": "Your Book Review: Why Machines Will Never Rule the World",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0429f7b4-63dd-406d-84a7-eaa0cc8d21fd_1000x667.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0429f7b4-63dd-406d-84a7-eaa0cc8d21fd_1000x667.jpeg"
         }
       ]
     },
@@ -7538,6 +7413,28 @@
       "feedUrl": "http://rss.sciam.com/ScientificAmerican-Global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "3A403F87-9183-49EF-8E41D939BC9B1F7E",
+          "author": "Lauren J. Young",
+          "description": "Here’s why older adults naturally lose muscle mass over time and how regular physical activity and resistance training can help",
+          "link": "https://www.scientificamerican.com/article/how-to-keep-muscles-strong-as-you-age/",
+          "publishedOn": "2023-07-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Keep Muscles Strong as You Age",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "6A6FFC2E-4415-46C0-A88A14C9B72DD255",
+          "author": "Jim Behnke",
+          "description": "Cape Cod has quickly become one of the largest white shark hotspots in the world and the first ever in the North Atlantic",
+          "link": "https://www.scientificamerican.com/article/remarkable-rebound-the-great-white-sharks-of-cape-cod1/",
+          "publishedOn": "2023-07-02T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Great White Sharks Are Surging off Cape Cod",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "35BCC601-ED24-46F1-A8E792F37E85F1B0",
           "author": "Mark Fischetti",
@@ -9621,61 +9518,6 @@
           "publishedOn": "2023-06-04T15:15:00.000Z",
           "wordCount": null,
           "title": "How Much Worry about Mass Shootings Is Too Much?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "03BBA9B4-7CED-4BC1-83C6989CEE14BEF7",
-          "author": "Allison Parshall",
-          "description": "Chernobyl’s adaptable canines, sewage sea spray in the U.S., hibernating germs on Everest, and much more in this month’s Quick Hits",
-          "link": "https://www.scientificamerican.com/article/science-news-briefs-from-around-the-world-june-2023/",
-          "publishedOn": "2023-06-03T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Science News Briefs from around the World: June 2023",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "2FDB4B38-6373-4BE3-8107F186E2266C88",
-          "author": "Emily Waltz, Nature magazine",
-          "description": "Analysis of more than 100 studies of non-invasive electrical brain stimulation probes whether the controversial technology works",
-          "link": "https://www.scientificamerican.com/article/does-brain-stimulation-boost-memory-and-focus-huge-study-tries-to-settle-debate/",
-          "publishedOn": "2023-06-02T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Does Brain Stimulation Boost Memory and Focus? Huge Study Tries to Settle Debate",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "BE51B4EA-2363-4ABE-B86389C0E4ECE802",
-          "author": "Thomas Frank, E&E News",
-          "description": "A key FEMA disaster fund and state insurance programs could run out of money to finance disaster recovery and pay claims, respectively, as hurricane and wildfire seasons begin",
-          "link": "https://www.scientificamerican.com/article/this-hurricane-season-may-see-a-key-fema-disaster-fund-run-out-of-money/",
-          "publishedOn": "2023-06-02T18:30:00.000Z",
-          "wordCount": null,
-          "title": "This Hurricane Season May See a Key FEMA Disaster Fund Run Out of Money",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "767FDF99-4C59-417E-A03794055E7E3757",
-          "author": "Kiley Price, LiveScience",
-          "description": "Astronomers recently identified asteroid 2023 FW13 as a quasi-moon, a space rock orbiting the sun nearly in tandem with Earth",
-          "link": "https://www.scientificamerican.com/article/newfound-quasi-moon-has-been-earths-fellow-traveler-for-thousands-of-years/",
-          "publishedOn": "2023-06-02T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Newfound 'Quasi-Moon' Has Been Earth's Fellow Traveler for Thousands of Years",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "53C56B73-6F9E-4558-84979874503AF74C",
-          "author": "Tariq Malik, SPACE.com",
-          "description": "Boeing's first Starliner flight for NASA astronauts was scheduled for July 21, but is now delayed—perhaps indefinitely",
-          "link": "https://www.scientificamerican.com/article/crewed-starliner-launch-delayed-by-flammable-tape-botched-parachutes/",
-          "publishedOn": "2023-06-02T17:00:00.000Z",
-          "wordCount": null,
-          "title": "Crewed Starliner Launch Delayed by Flammable Tape, Botched Parachutes",
           "itunes": {},
           "imageUrl": null
         }
@@ -18178,16 +18020,6 @@
           "wordCount": 1776,
           "title": "fusing simulation with data science [18-19 July 2023]",
           "imageUrl": "https://xianblog.files.wordpress.com/2013/05/img_5108.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53169",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/06/03/van-dantzig-seminar/",
-          "publishedOn": "2023-06-02T22:23:48.000Z",
-          "wordCount": 1732,
-          "title": "van Dantzig seminar",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/temp.png"
         }
       ]
     },
@@ -19798,36 +19630,6 @@
             "type": ""
           },
           "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
-        },
-        {
-          "id": "http://freerangestats.info/blog/2023/06/04/causality-sims",
-          "author": "free range statistics - R",
-          "description": "Motivation and key points\nSo this tweet came across my feed. It refers to this article, Statistical Control Requires Causal Justification by Wysocki, Lawson and Rhemtulla, published in June last year (2022) in Advances in Methods and Practices in Psyc...\nContinue reading: Simulating confounders, colliders and mediators by @ellis2013nz",
-          "link": "https://www.r-bloggers.com/2023/06/simulating-confounders-colliders-and-mediators-by-ellis2013nz/",
-          "publishedOn": "2023-06-03T12:00:00.000Z",
-          "wordCount": 8096,
-          "title": "Simulating confounders, colliders and mediators by @ellis2013nz",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://freerangestats.info/img/0247-results-with-dags.png"
-        },
-        {
-          "id": "https://r-posts.com/?p=10454",
-          "author": "Dariia Mykhailyshyna",
-          "description": "Learn how to use mixed-effects models in R! Join our workshop on Introduction to Mixed-effects Models in R which is a part of our workshops for Ukraine series.  Here’s some more info:  Title: Introduction to Mixed-effects Models in R Date: Thursday, June 22nd, 18:00 – 20:00 CEST (Rome, Berlin, Paris timezone) Speaker: ...\nContinue reading: Introduction to Mixed-effects Models in R workshop",
-          "link": "https://www.r-bloggers.com/2023/06/introduction-to-mixed-effects-models-in-r-workshop/",
-          "publishedOn": "2023-06-02T14:54:26.000Z",
-          "wordCount": 3466,
-          "title": "Introduction to Mixed-effects Models in R workshop",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
         }
       ]
     },
@@ -20128,6 +19930,46 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/5b6e0a4ec409",
+          "author": "Christopher Massimine",
+          "description": "The Raw, Real Path Towards Overcoming Your Writing Demons\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/the-5-unfiltered-truths-holding-you-back-from-exceptional-writing-5b6e0a4ec409?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-07-02T21:02:13.000Z",
+          "wordCount": 3870,
+          "title": "The 5 Unfiltered Truths Holding You Back From Exceptional Writing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gDbNMfrvOEYoJD_a6uP3ew.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/e5f29356b34b",
+          "author": "Simon Haberfellner",
+          "description": "The mindset and methods that built my confidence and made me publish",
+          "link": "https://writingcooperative.com/heres-how-to-find-peace-of-mind-and-unblock-your-writing-e5f29356b34b?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-07-02T17:02:44.000Z",
+          "wordCount": 5828,
+          "title": "Here’s How to Find Peace of Mind and Unblock Your Writing",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A-FiFjtX1XBfwvxtn0Llqg.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/f80f23afacca",
+          "author": "Cynthia Marinakos",
+          "description": "Avoid overloaded sentences, wasted words, and the passive voice\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/help-your-reader-by-breaking-these-common-writing-habits-f80f23afacca?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-07-02T15:02:17.000Z",
+          "wordCount": 2323,
+          "title": "Help Your Reader by Breaking These Common Writing Habits",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*DqgbW1cQLTVDA1HC3ZNDKw.png"
+        },
+        {
+          "id": "https://medium.com/p/26c15f7d9280",
+          "author": "Don Johnson",
+          "description": "I'm 71 years old. Here's how it happened. If I can do it, you can too.\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/i-started-writing-3-years-ago-and-just-signed-a-book-deal-26c15f7d9280?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-07-02T13:02:17.000Z",
+          "wordCount": 2708,
+          "title": "I Started Writing 3 Years Ago and Just Signed a Book Deal",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vUmKYtf8X6az1W2N9t4RHg.jpeg"
+        },
         {
           "id": "https://medium.com/p/e7f07b61c466",
           "author": "Lauren Coggins",
@@ -21177,46 +21019,6 @@
           "wordCount": 7429,
           "title": "Q&A with Billy Ray: The Oscar-Nominated Filmmaker on How Donald Trump Changed How He Makes Art",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1086/0*6OWQSxhPdFJjvoSN.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/2af3f6bae6d1",
-          "author": "Maclean Tamanda Mbepula",
-          "description": "Maybe your story is just ahead of its time.\nContinue reading on The Writing Cooperative »",
-          "link": "https://writingcooperative.com/maybe-your-story-isnt-crap-2af3f6bae6d1?source=rss----6e9c0c9fd682---4",
-          "publishedOn": "2023-06-03T13:01:47.000Z",
-          "wordCount": 3430,
-          "title": "Maybe Your Story isn’t Crap?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*ZlBsVd7P6NcZCsgn4ul3pA.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/6ff36faa4c7b",
-          "author": "Steven Toews, JD, MBA",
-          "description": "Treat your writing seriously so others will too\nContinue reading on The Writing Cooperative »",
-          "link": "https://writingcooperative.com/how-to-write-work-that-gets-recognized-6ff36faa4c7b?source=rss----6e9c0c9fd682---4",
-          "publishedOn": "2023-06-02T21:01:28.000Z",
-          "wordCount": 3159,
-          "title": "How To Write Work That Gets Recognized",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*1XzWR2TJJvaVJRDu"
-        },
-        {
-          "id": "https://medium.com/p/7418c57cec79",
-          "author": "David B. Clear",
-          "description": "It’s all about having the raw materials for engaging personal stories\nContinue reading on The Writing Cooperative »",
-          "link": "https://writingcooperative.com/how-keeping-a-daily-journal-makes-you-a-better-writer-7418c57cec79?source=rss----6e9c0c9fd682---4",
-          "publishedOn": "2023-06-02T19:01:27.000Z",
-          "wordCount": 3295,
-          "title": "How Keeping a Daily Journal Makes You a Better Writer",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SKVNOi5sTcvSoD3tvIHvsw.png"
-        },
-        {
-          "id": "https://medium.com/p/4f19cef85694",
-          "author": "Caitlin Bourbonnais",
-          "description": "How I use outlines to test my reader’s experience\nContinue reading on The Writing Cooperative »",
-          "link": "https://writingcooperative.com/from-templates-to-prototypes-4f19cef85694?source=rss----6e9c0c9fd682---4",
-          "publishedOn": "2023-06-02T17:01:43.000Z",
-          "wordCount": 4529,
-          "title": "From Templates to Prototypes",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*WeLpQqjmfKN6N2AG"
         }
       ]
     },
@@ -21444,6 +21246,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=53391",
+          "author": "xi'an",
+          "description": "“Il conduisait sans permis mais c’est un non sujet, vous avez vu comme moi que le gouvernement comptait faire passer l’âge du permis à 17 ans, alors bon…” J. Cambla, lawyer. A few cars (and a bike!) were set on fire and a supermarket was looted just a block from home, on Thursday night, in […]",
+          "link": "https://xianblog.wordpress.com/2023/07/03/in-absurdum/",
+          "publishedOn": "2023-07-02T22:23:18.000Z",
+          "wordCount": 1933,
+          "title": "in absurdum",
+          "imageUrl": "https://xianblog.files.wordpress.com/2023/07/1688216829867-e1688220025763.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=53312",
           "author": "xi'an",
@@ -21743,16 +21555,6 @@
           "wordCount": 1706,
           "title": "The Beacon [jatp]",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/05/kaust.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53169",
-          "author": "xi'an",
-          "description": "Visit the post for more.",
-          "link": "https://xianblog.wordpress.com/2023/06/03/van-dantzig-seminar/",
-          "publishedOn": "2023-06-02T22:23:48.000Z",
-          "wordCount": 1732,
-          "title": "van Dantzig seminar",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/06/temp.png"
         }
       ]
     },
@@ -24669,76 +24471,6 @@
           "wordCount": 2710,
           "title": "Mystery illness closes Eagan lake over the weekend",
           "imageUrl": "https://www.minnpost.com/wp-content/uploads/2018/08/TheGlean400.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117355",
-          "author": "Alberto Gomez",
-          "description": "After declining in 2018 and 2019, violent crime in Minnesota increased 17.2% in 2020 and 21.6% in 2021, according to Minnesota Department of Public Safety's 2021 statewide crime report.",
-          "link": "https://www.minnpost.com/fact-briefs/2023/06/has-violent-crime-increased-in-minnesota-in-recent-years/",
-          "publishedOn": "2023-06-02T19:50:06.000Z",
-          "wordCount": 1931,
-          "title": "Has violent crime increased in Minnesota in recent years?",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/05/FactBrief740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117344",
-          "author": "Jazzmine Jackson",
-          "description": "Plus: AG Ellison looking into Allina Health System; Target stock falls; layoffs at Shakopee facility; and more.",
-          "link": "https://www.minnpost.com/glean/2023/06/xcel-energy-approves-rate-hike-lower-than-original-proposed-amount/",
-          "publishedOn": "2023-06-02T19:23:48.000Z",
-          "wordCount": 1941,
-          "title": "Xcel Energy approves rate hike lower than original proposed amount",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/01/XcelEnergyTruck740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117285",
-          "author": "By Chuck Slocum",
-          "description": "Over the years, Walter Cronkite became something of a national institution, with an unflappable delivery and a voice guiding viewers through national triumphs and tragedies alike.",
-          "link": "https://www.minnpost.com/community-voices/2023/06/saluting-the-original-television-anchorman/",
-          "publishedOn": "2023-06-02T18:37:12.000Z",
-          "wordCount": 3962,
-          "title": "Saluting the original television anchorman",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/WalterCronkite2005_740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117323",
-          "author": "Peter Callaghan",
-          "description": "The new effort is in response to rising crime on light rail and at stations. It is also aimed at increasing ridership levels, which have not fully recovered after the pandemic.",
-          "link": "https://www.minnpost.com/state-government/2023/06/fresh-off-legislative-changes-metro-transit-launches-safety-plan-to-address-light-rail-crime/",
-          "publishedOn": "2023-06-02T15:32:38.000Z",
-          "wordCount": 4612,
-          "title": "Fresh off legislative changes, Metro Transit launches safety plan to address light rail crime",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/MoralesTabkeDibbleZelle060123_740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117269",
-          "author": "Ana Radelat",
-          "description": "Plus: Angie Craig draws a new challenger",
-          "link": "https://www.minnpost.com/dc-memo/2023/06/d-c-memo-centrist-dean-phillips-helps-gop-in-debt-ceiling-drama-attempt-to-cut-food-stamps-wont/",
-          "publishedOn": "2023-06-02T14:28:47.000Z",
-          "wordCount": 5284,
-          "title": "D.C. Memo: Centrist Dean Phillips helps GOP in debt ceiling drama, attempt to cut food stamps won’t",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/DeanPhillipsHouseFloor740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117262",
-          "author": "Walker Orenstein",
-          "description": "Most of the money is aimed at one stubborn issue plaguing cities across Greater Minnesota: workforce housing. And the aid got wrapped up in debate over helping Minneapolis rebuild in the wake of riots after the murder of George Floyd.",
-          "link": "https://www.minnpost.com/greater-minnesota/2023/06/14-million-legislative-aid-package-aims-to-help-windom-amid-planned-closure-of-hylife-pork-plant/",
-          "publishedOn": "2023-06-02T13:51:42.000Z",
-          "wordCount": 4174,
-          "title": "$14 million legislative aid package aims to help Windom amid planned closure of HyLife pork plant",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/HyLifeWindom740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2117254",
-          "author": "By Kristi Eaton, The Daily Yonder",
-          "description": "The National Endowment for the Humanities (NEH) has earmarked $4 million to support the digitization of records from the United States’ system of 408 federal Indian boarding schools.",
-          "link": "https://www.minnpost.com/other-nonprofit-media/2023/06/government-agencies-work-to-document-the-painful-past-of-indian-boarding-schools/",
-          "publishedOn": "2023-06-02T13:51:13.000Z",
-          "wordCount": 3412,
-          "title": "Government agencies work to document the painful past of Indian boarding schools",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/06/AlbuquerqueIndianSchool740.png"
         }
       ]
     },
@@ -25408,6 +25140,16 @@
       "feedUrl": "https://blog.tanyakhovanova.com/feed/",
       "siteUrl": "https://blog.tanyakhovanova.com",
       "articles": [
+        {
+          "id": "https://blog.tanyakhovanova.com/?p=1915",
+          "author": "tanyakh",
+          "description": "I buy almost everything on Amazon. Recently, I ordered a back stretcher. It took half an hour to assemble, and after the first use, it changed shape. However, this story is not about quality but about a card that was included with the item. In the box, I found a gift card that wasn’t a […]",
+          "link": "https://blog.tanyakhovanova.com/2023/07/a-bribe-for-a-5-star-review/",
+          "publishedOn": "2023-07-02T19:10:05.000Z",
+          "wordCount": 1490,
+          "title": "A Bribe for a 5-Star Review",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.tanyakhovanova.com/?p=1912",
           "author": "tanyakh",
@@ -26206,36 +25948,6 @@
             "url": "https://www.seriouseats.com/thmb/nqYu3pRPHi1yBf6OWkTdbxGc1_c=/4000x2668/Web_4000-Testing-AllClad_3.5QT_7-RussellKilgore-0014-43336e577a5c4bfaaaca6289259645fb.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/nqYu3pRPHi1yBf6OWkTdbxGc1_c=/4000x2668/Web_4000-Testing-AllClad_3.5QT_7-RussellKilgore-0014-43336e577a5c4bfaaaca6289259645fb.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/orecchiette-with-broccoli-and-toasted-hazelnuts-recipe-7507873",
-          "author": "Nik Sharma",
-          "description": "In this easy weeknight dinner, the classic pairing of orecchiette and broccoli gets a twist with a creamy turmeric sauce and crunchy toasted hazelnuts.",
-          "link": "https://www.seriouseats.com/orecchiette-with-broccoli-and-toasted-hazelnuts-recipe-7507873",
-          "publishedOn": "2023-06-02T20:43:56.000Z",
-          "wordCount": 4097,
-          "title": "Orecchiette With Broccoli and Toasted Hazelnuts",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/HzxRAymKZbRP5ziVfvLGhTI9k_8=/4000x3000/20230530-SEA-Broccoliorecchiette-AmandaSuarez-16-a005aec0dcd1443f9dce2c4f1a7f7019.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/HzxRAymKZbRP5ziVfvLGhTI9k_8=/4000x3000/20230530-SEA-Broccoliorecchiette-AmandaSuarez-16-a005aec0dcd1443f9dce2c4f1a7f7019.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-tea-infusers-7500581",
-          "author": "Abigail Clarkin",
-          "description": "After testing 10 tea infusers, we have top picks for both ball tea infusers and basket tea infusers.",
-          "link": "https://www.seriouseats.com/best-tea-infusers-7500581",
-          "publishedOn": "2023-06-02T17:20:03.000Z",
-          "wordCount": 7531,
-          "title": "We Tested Tea Infusers–These Four Stood Out",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/ZxGLY5XZFdmPrpuursSsC7zSu_A=/2970x1980/sea-product-fenshine-infuser-abigail-clarkin-10.jpg-2859650797e043d1bf668d52d523f668.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/ZxGLY5XZFdmPrpuursSsC7zSu_A=/2970x1980/sea-product-fenshine-infuser-abigail-clarkin-10.jpg-2859650797e043d1bf668d52d523f668.jpg"
         }
       ]
     },
@@ -26250,6 +25962,16 @@
       "feedUrl": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
       "siteUrl": "https://www.math.columbia.edu/~woit/wordpress",
       "articles": [
+        {
+          "id": "https://www.math.columbia.edu/~woit/wordpress/?p=13550",
+          "author": "woit",
+          "description": "A few days ago I read a fascinating article in New York magazine: Inside the AI Factory, which explained how the very large business of hiring humans to do tasks that generate training data for AI works. One reaction I … Continue reading →",
+          "link": "https://www.math.columbia.edu/~woit/wordpress/?p=13550",
+          "publishedOn": "2023-07-03T00:04:15.000Z",
+          "wordCount": 2057,
+          "title": "A Mathematics AI Factory?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.math.columbia.edu/~woit/wordpress/?p=13538",
           "author": "woit",
@@ -27325,16 +27047,6 @@
           "wordCount": 2917,
           "title": "“Flagrant and frankly, inexcusable” data duplication leads to retraction",
           "imageUrl": "https://retractionwatch.com/wp-content/uploads/2023/06/baskari-1.jpg"
-        },
-        {
-          "id": "https://retractionwatch.com/?p=127232",
-          "author": "Ivan Oransky",
-          "description": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to more than 300. There are now 40,000 retractions in our database — which powers retraction alerts in EndNote, LibKey, Papers, and Zotero. The Retraction Watch Hijacked Journal Checker now contains 200 titles. And have you … Continue reading Weekend reads: How university rankings lead to bad science; how to report research misconduct; the impact of Retraction Watch reporting",
-          "link": "https://retractionwatch.com/2023/06/03/weekend-reads-how-university-rankings-lead-to-bad-science-how-to-report-research-misconduct-the-impact-of-retraction-watch-reporting/",
-          "publishedOn": "2023-06-03T11:00:00.000Z",
-          "wordCount": 2187,
-          "title": "Weekend reads: How university rankings lead to bad science; how to report research misconduct; the impact of Retraction Watch reporting",
-          "imageUrl": "https://retractionwatch.com/wp-content/uploads/2021/07/rw.jpeg"
         }
       ]
     },
@@ -27343,6 +27055,46 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86234",
+          "author": "Tyler Cowen",
+          "description": "Over the last 15 years, individual households have concentrated their spending on a few preferred products. However, this is not driven by “superstar” products capturing larger market shares. Instead, households increasingly purchase different products from each other. As a result, aggregate spending concentration has decreased. We develop a model of heterogeneous household demand and use […]\n\r\nThe post The rise of niche consumption appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Niche consumption of mass produced items.   My ... by Tom T.\nIn reply to Scott Mauldin.   Do people choose flight times ... by Dismalist\nIn reply to ESPN.   Are there toothpastes that aren't ... by Tom T.\nIn reply to Reason.   Yes, eventually there will be 2 and then ... by PHinton\nIn reply to Scott Mauldin.   Does this 1/2% per year get fed ... by jmkd\nPlus 10 more...\n\nRelated Stories\n\nCanada is Poaching US Talent!\nUpdate Schedule A!\nMy excellent Conversation with Reid Hoffman",
+          "link": "https://feeds.feedblitz.com/~/750341126/0/marginalrevolution~The-rise-of-niche-consumption.html",
+          "publishedOn": "2023-07-02T19:39:22.000Z",
+          "wordCount": 1886,
+          "title": "The rise of niche consumption",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86235",
+          "author": "Tyler Cowen",
+          "description": "1. Most of the claims in this Evgeny Morozov NYT Op-Ed are wrong (for a start, he doesn’t realize that current public libraries are largely empty), but it makes the interesting point that AI represents the fulfillment of a neoliberal vision, as on that turf government simply cannot keep up.  Also from NYT here is […]\n\r\nThe post Sunday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\n#7 – Alright, I'm inspired to do some reading. I am as guilty ... by Tim\nIn reply to sxb.   Thank you for agreeing with me. Elon isn’t ... by Dj\nIn reply to Reason.   Give Trump credit for outsourcing SCOTUS ... by mikeInThe716\nIn reply to EdR.   If Twitter was pro-free speech, why is Alex ... by Karl Pooper\nIn reply to H.   5% care a lot, and the rest just lip-sync by Y\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/750309779/0/marginalrevolution~Sunday-assorted-links.html",
+          "publishedOn": "2023-07-02T15:46:19.000Z",
+          "wordCount": 1886,
+          "title": "Sunday assorted links",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86232",
+          "author": "Tyler Cowen",
+          "description": "This paper estimates differences in human capital as country-of-origin specific labor productivity terms, in firm production functions, making it immune to wage discrimination concerns.  After accounting for wage and experience, estimated human capital varies by a factor of around 3 between the 90th and 10th percentile.  When I investigate which country-of-origin characteristics correlate most closely […]\n\r\nThe post Cultural values and productivity (rooftops) appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to M.   “tended to be similar levels of sociability ... by Bazza\nIn reply to John Derbyshire's friend the Biologist Professor. ... by Harun\nIn reply to we are all straussians now.   Fentanyl, like most ... by RAD\nIn reply to Tom T..   Very sad. The pathetic apple doesn’t ... by Pathetic\nIn reply to bazza.   The US scores high on individualism and ... by sxb\nPlus 10 more...",
+          "link": "https://feeds.feedblitz.com/~/750223091/0/marginalrevolution~Cultural-values-and-productivity-rooftops.html",
+          "publishedOn": "2023-07-02T05:37:17.000Z",
+          "wordCount": 1879,
+          "title": "Cultural values and productivity (rooftops)",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86222",
+          "author": "Tyler Cowen",
+          "description": "The shrinking village of Karluk, on the western shore of Kodiak Island, is trying to keep its school viable. So it’s willing to pay a couple of families with three or four children apiece to move there of a year, so that it can draw down state education funds. Public schools in Alaska need to […]\n\r\nThe post Markets in everything Alaska regulatory arbitrage edition, tribal qualifier added appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Justin Chang.   Probably the most famous of the ... by DonH\nIn reply to Justin Chang.   The Supreme Court's decision in ... by Ricardo\nIn reply to george m weinberg.   Oops, action -> actual. We all ... by george m weinberg\nWhen there are only 37 people, giving populations as a ... by george m weinberg\nIn reply to Crusader.   Good point. Perhaps it may be worth ... by jayson\nPlus 10 more...\n\nRelated Stories\n\n*The Monetarists*, by George S. Tavlas\nGRE scores by university major\nMy excellent Conversation with Reid Hoffman",
+          "link": "https://feeds.feedblitz.com/~/750215531/0/marginalrevolution~Markets-in-everything-Alaska-regulatory-arbitrage-edition-tribal-qualifier-added.html",
+          "publishedOn": "2023-07-02T04:32:04.000Z",
+          "wordCount": 1988,
+          "title": "Markets in everything Alaska regulatory arbitrage edition, tribal qualifier added",
+          "imageUrl": "https://mustreadalaska.com/wp-content/uploads/2023/06/karluk-wikimedia-696x439.jpg"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86231",
           "author": "Tyler Cowen",
@@ -28672,46 +28424,6 @@
           "wordCount": 1811,
           "title": "Saturday assorted links",
           "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86012",
-          "author": "Tyler Cowen",
-          "description": "Goods producers increase their capital expenditure and employment in response to a cut in marginal corporate income tax rates or an increase in investment tax credits. In contrast, companies in the service sector mostly use any tax windfall to increase dividend payouts. We base our conclusions on a novel measure of U.S. firm-specific tax shocks […]\n\r\nThe post Who gains from corporate tax cuts? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Alamo.   If the choice were to eliminate corporate ... by Vulcidian\nIn reply to Vulcidian.   Dubious claims – the corporate tax ... by Alamo\nIn reply to Dorey.   Because there are better – more ... by Alamo\nIn reply to Rich Berger.   I think this is misleading.   A big ... by aaron\nIn reply to Rich Berger.   One wonders whether CBO models ... by guizot\nPlus 10 more...",
-          "link": "https://feeds.feedblitz.com/~/744065837/0/marginalrevolution~Who-gains-from-corporate-tax-cuts.html",
-          "publishedOn": "2023-06-03T08:21:13.000Z",
-          "wordCount": 1851,
-          "title": "Who gains from corporate tax cuts?",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86036",
-          "author": "Tyler Cowen",
-          "description": "I agree that miracles may well be possible for disabled individuals, but I am less certain about their more general applicability.  Here is one excerpt from my latest Bloomberg column: Another vision for this technology is that the owners of computers will want to “rent out” the powers of human brains, much the way companies […]\n\r\nThe post Why I am not entirely bullish on brain-computer interface appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nJeeze, this is off the mark. When we have stable, safe Brain ... by Reason\nIn reply to M. ... by M\nIn reply to Dino the Isaurian.   Unionisation, unfortunately. by M\nIn reply to M.   I’d have more faith in the viability of ... by Dino the Isaurian\nIn reply to M.   Sisyphus the autonomous car builder. That's ... by rayward\nPlus 10 more...\n\nRelated Stories\n\nTwo Podcasts\nSam Bowman on French success\nThe international competition heats up",
-          "link": "https://feeds.feedblitz.com/~/744050675/0/marginalrevolution~Why-I-am-not-entirely-bullish-on-braincomputer-interface.html",
-          "publishedOn": "2023-06-03T04:58:57.000Z",
-          "wordCount": 2104,
-          "title": "Why I am not entirely bullish on brain-computer interface",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86025",
-          "author": "Tyler Cowen",
-          "description": "1. Claudia Rosett, RIP. 2. Russell Hogg and Scott Sumner podcast on Japanese movies. 3. Foundations and Frontiers, some new essays on new technologies, by Anna-Sofia Lesiv. 4. “Meet the one-person team behind Antarctica’s longest-running newspaper, the Antarctic Sun.” 5. Benjamin Wallace-Wells on libertarianism (New Yorker). 6. The excellent Dan Senor podcasts with me. 7. How […]\n\r\nThe post Friday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\norwell also correctly predicted that the woke & pear-shaped in ... by Dr. jose X biden junios-alsatian, ph.d\nRIP Claudia Rosett, my sister, who was a true warrior for ... by Charles Rosett\nIn reply to dan.   Really? Sweden is generally considered to ... by MikeP\nIn reply to Jermaine Ukraine.   There are two exhibits on a ... by Equestrian\nIn reply to Lord Action.   I think for this advance of ... by sxb\nPlus 10 more...",
-          "link": "https://feeds.feedblitz.com/~/743972195/0/marginalrevolution~Friday-assorted-links.html",
-          "publishedOn": "2023-06-02T15:44:09.000Z",
-          "wordCount": 1818,
-          "title": "Friday assorted links",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86037",
-          "author": "Tyler Cowen",
-          "description": "Chinese startup MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI’s ChatGPT, is close to completing a fundraising of more than $250 million that will value it at about $1.2 billion, people familiar with the matter said. The deal comes amid a global AI buzz kicked off by ChatGPT that has spread to […]\n\r\nThe post The international competition heats up appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to dan1111.   During the Great Leap Forward years, the ... by Godfree Roberts\nis English a killer app for LLMs? I wonder if a chinese LLMs ... by alexiton\nIn reply to Reason.   This also helps contextualise why Saltman ... by Agreed\nIn reply to N.   If Tyler said the exact thing you claim he ... by dan1111\nIn reply to dan1111.   Stubborn Attachments is probably a less ... by N\nPlus 10 more...\n\nRelated Stories\n\nMy excellent Conversation with Seth Godin\nIt was just a simulation run…designed to create that problem\nThe art of prompting is just at its beginning",
-          "link": "https://feeds.feedblitz.com/~/743967005/0/marginalrevolution~The-international-competition-heats-up.html",
-          "publishedOn": "2023-06-02T14:49:04.000Z",
-          "wordCount": 2002,
-          "title": "The international competition heats up",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
         }
       ]
     },
@@ -28726,6 +28438,16 @@
       "feedUrl": "https://golem.ph.utexas.edu/~distler/planet/atom.xml",
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
+        {
+          "id": "https://asymptotia.com/2023/07/01/and-so-it-begins-4/",
+          "author": null,
+          "description": "<div type=\"xhtml\" xml:lang=\"en-US\"><div xmlns=\"http://www.w3.org/1999/xhtml\"><p>There’s not much in this post, but I wanted to mark a significant date. It is the first day of the rest of 2023, but in addition, it is the beginning of a new chapter for me. Yesterday was my last day as an employee of the University of Southern … <a class=\"continue-reading-link\" href=\"https://asymptotia.com/2023/07/01/and-so-it-begins-4/\"> Click to continue reading this post <span class=\"meta-nav\">→ </span></a></p><p>The post  appeared first on .<a href=\"https://asymptotia.com/2023/07/01/and-so-it-begins-4/\" rel=\"nofollow\">And so it begins…</a><a href=\"https://asymptotia.com\" rel=\"nofollow\">Asymptotia</a></p></div></div>",
+          "link": "https://asymptotia.com/2023/07/01/and-so-it-begins-4/",
+          "publishedOn": "2023-07-02T05:33:07.000Z",
+          "wordCount": 2333,
+          "title": "And so it begins…",
+          "imageUrl": "http://asymptotia.com/wp-images/2023/07/mountain_view.jpg"
+        },
         {
           "id": "http://nanoscale.blogspot.com/2023/07/molecular-electronics-in-2023.html",
           "author": null,
@@ -29155,36 +28877,6 @@
           "wordCount": 4422,
           "title": "Inequalities, convergence, and continuity as “special deals”",
           "imageUrl": "https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=200&ts=1685926738"
-        },
-        {
-          "id": "https://www.science20.com/tommaso_dorigo/a_w_a_z_and_a_top_quark-256648",
-          "author": null,
-          "description": "<div type=\"xhtml\"><div xmlns=\"http://www.w3.org/1999/xhtml\">The world of elementary particles has something in common with our own: there are large inequalities in the properties of particles, as in the properties of human beings. The heaviest particle, the top quark, with its estimated mass of 172 GeV is five orders of magnitude heavier than the most common matter constituents, the up and down quarks and the electron. Along with the top quark there are three other heavyweight particles that we currently call elementary -perhaps only a label we have to use because we haven't been able to split them further into smaller bits: the Higgs boson (125 GeV), the Z boson (91 GeV), and the W boson (80 GeV).<p><a href=\"https://www.science20.com/tommaso_dorigo/a_w_a_z_and_a_top_quark-256648\" target=\"_blank\">read more</a></p></div></div>",
-          "link": "https://www.science20.com/tommaso_dorigo/a_w_a_z_and_a_top_quark-256648",
-          "publishedOn": "2023-06-03T06:58:57.000Z",
-          "wordCount": 1546,
-          "title": "A W, A Z, And A Top Quark",
-          "imageUrl": null
-        },
-        {
-          "id": "https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/",
-          "author": null,
-          "description": "The National Academies of Science, Engineering, and Mathematics are hosting a virtual workshop on the topic of “AI to Assist Mathematical Reasoning” from June 12-14. The tentative program can be found here. I am one of the members of the organizing committee for this workshop, together with Petros Koumoutsakos, Jordan Ellenberg, Melvin Greer, Brendan Hassett, […]",
-          "link": "https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/",
-          "publishedOn": "2023-06-02T17:52:35.000Z",
-          "wordCount": 3873,
-          "title": "AI to Assist Mathematical Reasoning: A Workshop",
-          "imageUrl": "https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=200&ts=1685753871"
-        },
-        {
-          "id": "https://4gravitons.com/2023/06/02/learning-for-a-living/",
-          "author": null,
-          "description": "It’s a question I’ve now heard several times, in different forms. People hear that I’ll be hired as a researcher at an institute of theoretical physics, and they ask, “what, exactly, are they paying you to research?” The answer, with some caveats: “Whatever I want.” When a company hires a researcher, they want to accomplish […]",
-          "link": "https://4gravitons.com/2023/06/02/learning-for-a-living/",
-          "publishedOn": "2023-06-02T16:17:22.000Z",
-          "wordCount": 3078,
-          "title": "Learning for a Living",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -29205,6 +28897,26 @@
       "feedUrl": "https://pointers.dailywebthing.com/feed/",
       "siteUrl": "https://iwebthings.joejenett.com/",
       "articles": [
+        {
+          "id": "https://iwebthings.joejenett.com/linkylove-07-02-23/",
+          "author": null,
+          "description": "Andreas Jennische \nCrossword Builder 📌\nRyan Rix \n⬌ The Lion's Rear\nPoseMy.Art 📌\nYarchive 📌",
+          "link": "https://iwebthings.joejenett.com/linkylove-07-02-23/",
+          "publishedOn": "2023-07-02T16:07:59.000Z",
+          "wordCount": 390,
+          "title": "linkylove 07-02-23",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
+        {
+          "id": "https://iwebthings.joejenett.com/and-speaking-of-macOS/",
+          "author": null,
+          "description": "Advanced macOS Commands\n[panoptican]\nand, from the same author:\nmacOS tips and tricks",
+          "link": "https://iwebthings.joejenett.com/and-speaking-of-macOS/",
+          "publishedOn": "2023-07-02T15:30:20.000Z",
+          "wordCount": 397,
+          "title": "and, speaking of macOS...",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
         {
           "id": "https://iwebthings.joejenett.com/the-ultimate-command-reference-for-mac-terminal/",
           "author": null,
@@ -29373,16 +29085,6 @@
           "publishedOn": "2023-06-04T10:42:00.000Z",
           "wordCount": 386,
           "title": "‘better gradients through colour spaces’",
-          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
-        },
-        {
-          "id": "https://iwebthings.joejenett.com/although-quite-an-old-project-its-still-downloaded-frequently/",
-          "author": null,
-          "description": "Desktop2\n[surlyville]\nI just pulled an old laptop out of the closet (from ‘98), which may be perfect for trying out this software - looking forward to playing with it… 😎",
-          "link": "https://iwebthings.joejenett.com/although-quite-an-old-project-its-still-downloaded-frequently/",
-          "publishedOn": "2023-06-02T13:59:42.000Z",
-          "wordCount": 418,
-          "title": "‘Although quite an old project, it's still downloaded frequently.’",
           "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
         }
       ]
@@ -33225,6 +32927,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=59485",
+          "author": "Victor Mair",
+          "description": "This new article in The Economist (6/29/23) has a familiar ring to it: To understand Xi Jinping, it helps to be steeped in the classics China’s leader has invented a phrase—and an image Take four Chinese characters, all of them in everyday use. Put them in a certain order and, lo, they become a phrase […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=59485&utm_source=rss&utm_medium=rss&utm_campaign=xi-jinpings-faux-classicism",
+          "publishedOn": "2023-07-02T17:32:06.000Z",
+          "wordCount": 5558,
+          "title": "Xi Jinping's faux classicism",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=59476",
           "author": "Victor Mair",
           "description": "This is part of a long series of Language Log posts in which we pondered the phenomenal memorization skills of persons of Indian heritage (see \"Selected readings\" below). So you know what's happening in the following astonishing video, let me begin by giving a basic definition, etymology, and explication of what happens in this intricate […]",
@@ -33867,36 +33579,6 @@
           "publishedOn": "2023-06-03T14:21:21.000Z",
           "wordCount": 4170,
           "title": "Pronouncing \"DeSantis\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58874",
-          "author": "Victor Mair",
-          "description": "I recently received this book: Sūn Sīmiǎo, Sabine Wilms.  Healing Virtue-Power: Medical Ethics and the Doctor's Dao.  Whidbey Island WA:  Happy Goat Productions, 2022. ISBN:  978-1-7321571-9-4 website As soon as I started to leaf through the volume, I was struck by its unusual format and usages:  every Chinese character is accompanied by Hanyu Pinyin phonetic […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58874&utm_source=rss&utm_medium=rss&utm_campaign=sinological-formatting",
-          "publishedOn": "2023-06-03T12:02:31.000Z",
-          "wordCount": 3188,
-          "title": "Sinological formatting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58869",
-          "author": "Victor Mair",
-          "description": "I listened to this Harry Styles song dozens of times on the radio, and every time I heard him sing \"You know it's just the same as it was\" over and over: It was only after watching the video and reading the subtitles that I realized he was saying \"You know it's not the same […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58869&utm_source=rss&utm_medium=rss&utm_campaign=just-not-the-same-as-it-was",
-          "publishedOn": "2023-06-02T22:12:54.000Z",
-          "wordCount": 2057,
-          "title": "Just < Not the same as it was",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=58855",
-          "author": "Victor Mair",
-          "description": "Handbook of Formosan Languages (Online): The Indigenous Languages of Taiwan Editors: Paul Jen-kuei Li, Academia SinicaElizabeth Zeitoun, Academia SinicaRik De Busser, National Taiwan Cheng-Chi University Leiden:  Brill, 2023 Outright Purchase: € 2249 / US dollars 2495Subscription: € 350 / US dollars 390 A print version is forthcoming (September 2023 ; 3 vols, ~ 2200 pp.) […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=58855&utm_source=rss&utm_medium=rss&utm_campaign=austronesian-languages-of-taiwan",
-          "publishedOn": "2023-06-02T19:27:48.000Z",
-          "wordCount": 2394,
-          "title": "Austronesian languages of Taiwan",
           "imageUrl": null
         }
       ]
@@ -35928,28 +35610,7 @@
       "title": null,
       "feedUrl": "https://gregorygundersen.com/feed.xml",
       "siteUrl": "http://gregorygundersen.com/",
-      "articles": [
-        {
-          "id": "http://gregorygundersen.com/blog/2023/06/03/hsia-proof-black-scholes/",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "http://gregorygundersen.com/blog/2023/06/03/hsia-proof-black-scholes/",
-          "publishedOn": "2023-06-03T04:00:00.000Z",
-          "wordCount": 2292,
-          "title": "Proof the Binomial Model Converges to Black–Scholes",
-          "imageUrl": null
-        },
-        {
-          "id": "http://gregorygundersen.com/blog/2023/06/03/binomial-options-pricing-model/",
-          "author": null,
-          "description": "The goal of this post is to present a simple formula for fairly pricing options, called the binomial options pricing model (Cox et al., 1979; Rendleman, 1979). This is sometimes called the Cox-Ross-Rubinstein model (CRR) after the authors’ surnames in (Cox et al., 1979). I like this model because it is a simple, discrete-time model that captures much of the intuition behind how to price options, while avoiding much of the mathematical machinery needed for a continuous-time treatment or Black–Scholes (Black &amp; Scholes, 1973). Learning the binomial model is like climbing a smaller, easier mountain that gives views that are almost as good as its larger, more intimidating neighbor. As we will see, despite its simplicity this model introduces many important concepts from the options-pricing literature such as the no-arbitrage condition, pricing via replication, and the risk-neutral measure. And it does so without any advanced mathematics.",
-          "link": "http://gregorygundersen.com/blog/2023/06/03/binomial-options-pricing-model/",
-          "publishedOn": "2023-06-03T04:00:00.000Z",
-          "wordCount": 9044,
-          "title": "Binomial Options-Pricing Model",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Climbing Mount Bourbaki",
