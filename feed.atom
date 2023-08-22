@@ -2,10 +2,823 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://midfield.github.io/fraidyfeed/index.html</id>
     <title>fraidymid</title>
-    <updated>2023-08-21T00:43:03.167Z</updated>
+    <updated>2023-08-22T00:43:42.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://midfield.github.io/fraidyfeed/index.html"/>
     <link rel="self" href="https://midfield.github.io/fraidyfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Can Fetish Research Tell Us About AI?]]></title>
+        <id>https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us</id>
+        <link href="https://astralcodexten.substack.com/p/what-can-fetish-research-tell-us"/>
+        <updated>2023-08-21T23:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Epistemic status: Ha ha, only serious]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palette cleanser]]></title>
+        <id>https://scottaaronson.blog/?p=7489</id>
+        <link href="https://scottaaronson.blog/?p=7489"/>
+        <updated>2023-08-21T22:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Ben Brubaker wrote a long piece for Quanta magazine about meta-complexity. The first three-quarters are a giant refresher on the story of computability and complexity theory in the 20th centuryR…]]></summary>
+        <author>
+            <name>Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palette cleanser]]></title>
+        <id>https://scottaaronson.blog/?p=7489</id>
+        <link href="https://scottaaronson.blog/?p=7489"/>
+        <updated>2023-08-21T22:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Ben Brubaker wrote a  about meta-complexity.  The first three-quarters are a giant refresher on the story of computability and complexity theory in the 20th century—including Turing, Gödel, Shannon, Cook, Karp, Levin, Baker-Gill-Solovay, Sipser, Razborov, Rudich, and more.  But then the last quarter gets into actually new (well, within the last couple years) developments, including the NP-completeness of “Partial-MCSP” and other progress on the Minimum Circuit Size Problem, and progress toward basing cryptography on the sole assumption PNP, and ruling out Impagliazzo’s “Heuristica” and “Pessiland” worlds.  I’m quoted (and helped proofread the piece) despite playing no role in the new developments.  Worth a read if you don’t already know this stuff.long piece for  magazineQuanta
+
+Duane Rich…]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The President [jatp]]]></title>
+        <id>http://xianblog.wordpress.com/?p=53836</id>
+        <link href="https://xianblog.wordpress.com/2023/08/22/the-president-jatp/"/>
+        <updated>2023-08-21T22:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Five Minutes of Now”- Boost Your Creativity with Real-Time Writing]]></title>
+        <id>https://medium.com/p/98d6bb723580</id>
+        <link href="https://writingcooperative.com/five-minutes-of-now-boost-your-creativity-with-real-time-writing-98d6bb723580?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-21T21:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Find new ways to observe and express magic in the moment
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Martha Manning, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orikum  in Orikum, Albania]]></title>
+        <id>https://www.atlasobscura.com/places/orikum-albania</id>
+        <link href="https://www.atlasobscura.com/places/orikum-albania"/>
+        <updated>2023-08-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ancient ruins of Orikum, at the south end of the Bay of Vlorë in Albania, is an important historical landmark boasting a rich history, well-preserved ruins, and a unique blend of Illyrian, Greek and Roman influences. 
+
+Founded by Euboeans and originally situated on an island, Orikum was well-positioned for communication with Corfu and Greece. The city was only 40 miles across the sea from Otranto, making it a convenient stopover between Greece and Italy. Ancient sources described it as a harbor, but it eventually attained the status of a polis and issued its own coins from around 230 to 168 B.C.
+
+Orikum's military importance continued under Roman rule, as it served as a base during Rome's wars with the Illyrians and Macedonia, which occupied it for a time. Julius Caesar captured the city during the civil war in 48 B.C.
+Under Ottoman rule, the city was renamed Orikum Pashaliman, "the Pasha's harbor," and the lagoon and nearby Albanian navy base still bears this name today.
+
+The city's past is not only marked by ancient history; in 1950, Pashaliman was the only Soviet base in the Mediterranean. The base became a hot spot of conflict between the Russians and Albanians in 1961. The base is still in operation today, hosting a small fleet of ships.
+Visitors to Orikum can marvel at the ancient ruins, which, although not as extensive or well-preserved as other sites, are impressive nonetheless. The picturesque surroundings of the Bay of Vlorë and the verdant hillsides create a stunning backdrop, adding to the allure of this historical landmark.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a ‘simple and minimalistic’ terminal file manager]]></title>
+        <id>https://iwebthings.joejenett.com/a-simple-and-minimalistic-terminal-file-manager/</id>
+        <link href="https://iwebthings.joejenett.com/a-simple-and-minimalistic-terminal-file-manager/"/>
+        <updated>2023-08-21T20:05:25.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - antonmedv/walk: Terminal file manager
+[roger]
+
+
+I like its speed. 😎]]></summary>
+        <author>
+            <name>i.webthings.hub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Iceberg Won the Lettuce Wars]]></title>
+        <id>https://www.atlasobscura.com/articles/iceberg-lettuce-wedge-salad</id>
+        <link href="https://www.atlasobscura.com/articles/iceberg-lettuce-wedge-salad"/>
+        <updated>2023-08-21T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[THIS ARTICLE IS ADAPTED FROM THE AUGUST 19, 2023, EDITION OF GASTRO OBSCURA’S FAVORITE THINGS NEWSLETTER. YOU CAN SIGN UP HERE.
+
+I wish I had some sort of Proustian memory of a fancy steakhouse wedge salad, resplendent in blue cheese and crackles of bacon. But like most kids growing up in suburbia, my first exposure to iceberg lettuce involved a few wan hothouse tomatoes and a bottle of dressing with Paul Newman’s face on it.
+By the time I was learning to cook as a teen, wedge salads and iceberg were hopelessly passé. I aspired to the salads spotted in the dog-eared pages of old Gourmets—turrets of microgreens and edible flowers à la Alice Waters, who famously snubbed iceberg—made in far-off places like San Francisco.
+
+I've since seen the error of my snobby ways, and I’m not alone. In 20…]]></summary>
+        <author>
+            <name>Diana Hubbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World's Largest Gas Kan in Iola, Kansas]]></title>
+        <id>https://www.atlasobscura.com/places/worlds-largest-gas-kan</id>
+        <link href="https://www.atlasobscura.com/places/worlds-largest-gas-kan"/>
+        <updated>2023-08-21T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The City of Gas got its unique name from the natural gas deposits found in what was then known as Elm Township. The cheap fuel boom caused a local farmer, E.K. Taylor, to divide his farm into lots in 1898, leading to the creation of “Gas City.” The plentiful natural gas caused the town to reach a population of over 1,200 residents at its peak in 1910, however, by 1920, 70 percent of the population had left.
+
+Gas remains on the map, with a current population of 475 residents, as measured by the 2020 census. In the 1970s, the local water tower was built, and the city council wanted to celebrate it with something fun and eye-catching. The tower was painted red to resemble a gas can, and the words “GAS KAN” were written across it, creating a play on words, and thus, the World’s Largest Gas Kan was born.
+
+The water tower continues to serve the community, holding 100,000 gallons of water. The tower isn’t immediately visible from Highway 54, so it requires a brief, but intentional drive into town. However, a miniature replica of the Gas Kan is visible in the southwest corner of Fees Park, located at 2000th Street and West 1st Street.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guardians of the Seeds Trolls in Boothbay, Maine]]></title>
+        <id>https://www.atlasobscura.com/places/guardians-of-the-seeds-trolls-maine</id>
+        <link href="https://www.atlasobscura.com/places/guardians-of-the-seeds-trolls-maine"/>
+        <updated>2023-08-21T19:36:00.000Z</updated>
+        <summary type="html"><![CDATA[In the Coastal Maine Botanical Gardens, a group of five mythical trolls has taken residence, adding a touch of enchantment to the woods. Created by artist Thomas Dambo in a two-year, $500,000 collaboration, these friendly giants are nestled along hidden paths, inviting visitors on a treasure hunt to catch a glimpse.
+
+The sculptures, with Danish names related to the forest, expand Dambo's collection of 80 trolls found worldwide.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fountains of Diamonds Erupt as Supercontinents Break Up]]></title>
+        <id>7BA17111-9AAC-4DD7-8B09A3A469E569AB</id>
+        <link href="https://www.scientificamerican.com/article/fountains-of-diamonds-erupt-as-supercontinents-break-up/"/>
+        <updated>2023-08-21T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have discovered a pattern where diamonds spew from deep beneath Earth’s surface in huge, explosive volcanic eruptions]]></summary>
+        <author>
+            <name>Stephanie Pappas, LiveScience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘adjust your images, add effects online in your browser’]]></title>
+        <id>https://iwebthings.joejenett.com/adjust-your-images-add-effects-online-in-your-browser/</id>
+        <link href="https://iwebthings.joejenett.com/adjust-your-images-add-effects-online-in-your-browser/"/>
+        <updated>2023-08-21T19:25:01.000Z</updated>
+        <summary type="html"><![CDATA[miniPaint - image editor (github)
+[tdjones]
+
+
+Impressive for an online “Photoshop alternative.” 😎]]></summary>
+        <author>
+            <name>i.webthings.hub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Tip for Selling Your Book]]></title>
+        <id>https://medium.com/p/3d43d1836130</id>
+        <link href="https://writingcooperative.com/top-tip-for-selling-your-book-3d43d1836130?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-21T19:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Successfully market your nonfiction book with this crucial first step
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Kathy Widenhouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yayoi Archaeological Site in Tokyo, Japan]]></title>
+        <id>https://www.atlasobscura.com/places/yayoi-archaeological-site-japan</id>
+        <link href="https://www.atlasobscura.com/places/yayoi-archaeological-site-japan"/>
+        <updated>2023-08-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In early Japanese archaeology and history, the Yayoi period is one of the major time periods that is believed to have lasted from the 10th century B.C. to the 3rd century A.D. Bridging the prehistoric Jōmon period and the pre-dynastic Kofun period, it saw the proto-Japanese people's shift from a hunter-gatherer society to an agricultural civilization, which led to the dawn of the Iron Age in Japan.
+
+The historical period is named after the Yayoi district in today's Bunkyo City, then called Mukaigaoka-Yayoi, where a number of terracotta vessels were unearthed in 1884. As research advanced, archaeologists concluded that the Yayoi-type pottery was a successor to the Jōmon pottery and of a separate period. On the whole, the Yayoi pottery is plainer than the Jōmon pottery, which is often decor…]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Wants a Piece of Sculptor]]></title>
+        <id>https://www.bloomberg.com/opinion/articles/2023-08-21/everyone-wants-a-piece-of-sculptor</id>
+        <link href="https://www.bloomberg.com/opinion/articles/2023-08-21/everyone-wants-a-piece-of-sculptor"/>
+        <updated>2023-08-21T18:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Also David Solomon, Standard Industries and SoHo House.]]></summary>
+        <author>
+            <name>Matt Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dean Phillips not running for president in 2024]]></title>
+        <id>https://www.minnpost.com/?p=2124002</id>
+        <link href="https://www.minnpost.com/glean/2023/08/dean-phillips-not-running-for-president-in-2024/"/>
+        <updated>2023-08-21T18:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Plus: Vikings sign XFL QB Jordan Ta’amu; the future of Open Streets is in jeopardy; staff shortages close many Minneapolis beaches and public pools; and more.]]></summary>
+        <author>
+            <name>MinnPost staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why a Highly Mutated Coronavirus Variant Has Scientists on Alert]]></title>
+        <id>B249AA4E-54A5-41B3-BCA9A1ADFFBA747C</id>
+        <link href="https://www.scientificamerican.com/article/why-a-highly-mutated-coronavirus-variant-has-scientists-on-alert/"/>
+        <updated>2023-08-21T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Research is under way to determine whether the mutation-laden lineage BA.2.86 is nothing to worry about — or has the potential to spread globally]]></summary>
+        <author>
+            <name>Ewen Callaway, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business & entrepreneur freelance opportunity]]></title>
+        <id>https://www.minnpost.com/?p=2122015</id>
+        <link href="https://www.minnpost.com/careers/2023/08/business-entrepreneur-freelance-opportunity/"/>
+        <updated>2023-08-21T18:24:41.000Z</updated>
+        <summary type="html"><![CDATA[There are great candidates who might not check all the boxes or who hold important skills we haven’t listed. Don’t hesitate to apply and tell us about yourself.]]></summary>
+        <author>
+            <name>Harry Colbert Jr.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Pumpkin Seed Recipes That You Don't Have to Wait For Fall to Make]]></title>
+        <id>https://www.seriouseats.com/pumpkin-seed-recipes-7565935</id>
+        <link href="https://www.seriouseats.com/pumpkin-seed-recipes-7565935"/>
+        <updated>2023-08-21T18:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Pumpkin seeds add a nutty complex flavor to any recipe, from classic moles to soups, salads, and baked goods. They also make for an irresistible snack, whether simply toasted with olive oil and salt or dressed up with delectable flavor combinations like curry and mint or chorizo and smoked paprika.]]></summary>
+        <author>
+            <name>The Serious Eats Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grave of the Godstone Pirate in Godstone, England]]></title>
+        <id>https://www.atlasobscura.com/places/grave-of-the-godstone-pirate-england</id>
+        <link href="https://www.atlasobscura.com/places/grave-of-the-godstone-pirate-england"/>
+        <updated>2023-08-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Grave of the Godstone Pirate can be found in an otherwise innocuous-looking church in Godstone.
+
+John Edward Trenchman was born in London in the 17th century. At the age of 12, he left the city's docks and joined the crew of the notorious pirate Henry Morgan. After years at sea, Trenchman returned to England but did not leave his pirate ways behind. He smuggled goods along the country's southeast coast. But when a member of his crew was arrested and gave up the secret smuggling routes, customs officers put a stop to his piracy. 
+
+Trenchman was wounded in the ambush. He escaped and made his way to the Fox and Hounds Inn in Godstone, but eventually succumbed to his wounds and died at the pub. Villagers buried him in an unmarked grave at the south end of the churchyard at St. Nicholas.
+
+The church was the subject of several episodes of haunting after the pirate was initially buried in an unmarked grave at the back of the church until the priest and churchwardens removed the pirate’s body and reburied him with a full Christian service, opposite the church doors. From then on nothing more was seen or heard of Godstone’s pirate ghost.
+
+More can be found about the pirate at the Fox and Hounds pub, where he died. The pub is a few minutes' drive from the church on the other side of Godstone. It can be found by heading into Godstone from the church and heading towards Godstone Farm (follow the signs). The pub is a little way past the Godstone Farm.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shrinking Economies Don’t Innovate]]></title>
+        <id>https://www.overcomingbias.com/p/shrinking-economies-dont-innovate</id>
+        <link href="https://www.overcomingbias.com/p/shrinking-economies-dont-innovate"/>
+        <updated>2023-08-21T17:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Most economic growth comes from innovation, not the accumulation of capital or labor. And innovation rates are mostly due to two competing factors. One the one hand, we pick the low hanging fruit of the easiest highest-payoff innovations to try first. On the other hand, we can more easily pursue innovation ideas when our world is richer, has better tech, and knows more.]]></summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=86561</id>
+        <link href="https://feeds.feedblitz.com/~/787154465/0/marginalrevolution~Monday-assorted-links.html"/>
+        <updated>2023-08-21T17:22:30.000Z</updated>
+        <summary type="html"><![CDATA[1. What happens to your returns? (New Yorker) 2. “The hobby of “collecting” had the highest average IQ.” 3. Is there a new accent developing in Antarctica? 4. How one man created a multimillion-dollar resale market for Buc-ee’s snacks (Texan throughout). 5. More Heidi Williams (and others) on speeding scientific progress, and the co-authored (various luminaries) […]
+
+The post Monday assorted links appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Pepé Silvia.   Sheetz and Wawa are just big ... by dave
+In reply to MikeP.   The same cannot be said for mRNA vaccines, ... by RAD
+In reply to dan1111.   Europe and North America are drifting ... by Temper Tantra
+In reply to MT.   Yes. Insofar as it is possible to find any ... by Evolutionist
+In reply to James N. Markels.   You're seeing P(IQ|activity ... by George Oh-Well
+Plus 10 more...]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Yourself from Smoky Wildfire Air]]></title>
+        <id>771E43B9-E45F-4FCB-8FEA1270BB8A2A2A</id>
+        <link href="https://www.scientificamerican.com/article/how-to-protect-yourself-from-smoky-wildfire-air1/"/>
+        <updated>2023-08-21T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[As giant plumes from fires in Canada billow over the U.S., experts explain what smoke does to your health—and how to protect yourself]]></summary>
+        <author>
+            <name>Lauren J. Young</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sinks in Lander, Wyoming]]></title>
+        <id>https://www.atlasobscura.com/places/sinks-canyon-state-park-wyoming</id>
+        <link href="https://www.atlasobscura.com/places/sinks-canyon-state-park-wyoming"/>
+        <updated>2023-08-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This incredible canyon features the Popo Agie River (pronounced "puh-POE-zha"), which descends through the canyon in gentle cascades. What's particularly unique about The Sinks is that the river disappears underground for about a quarter-mile, then reemerges further downstream.
+
+It takes several hours for the water to reappear on the surface, though this same volume of water, traveling aboveground, would only take a few minutes. For years, geologists were stumped about how the river could take so long to travel such a short distance. While they still cannot confirm the passage, the theory is that there are a myriad of winding passages for the water to work through, drastically lengthening its travel time. Cracks, fissures, dead ends, and side traps create a world of obstacles for the water to overcome before reemerging and continuing its path down the canyon.
+
+Take a night to camp in the park's beautiful campground that rests right on the river and be sure to keep an eye on the cliffs nearby when it is dark. If you spotlights bobbing along the cliff's face, it's merely local mountaineers out for a night climb.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disappearing Glaciers Expose Vast New Ecosystems That Need Protection]]></title>
+        <id>24DB476A-5C8C-476C-8008761C035EB129</id>
+        <link href="https://www.scientificamerican.com/article/disappearing-glaciers-expose-vast-new-ecosystems-that-need-protection/"/>
+        <updated>2023-08-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[New habitats that are emerging as mountain glaciers melt away represent huge ecological shifts and present new challenges for conservation]]></summary>
+        <author>
+            <name>Jeff Tollefson, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yellow Squash Casserole]]></title>
+        <id>https://www.seriouseats.com/yellow-squash-casserole-recipe-7693472</id>
+        <link href="https://www.seriouseats.com/yellow-squash-casserole-recipe-7693472"/>
+        <updated>2023-08-21T16:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Packed full of sweet yellow squash and topped with buttery crackers, this Southern staple is worth turning on the oven, even during the hottest summer days.]]></summary>
+        <author>
+            <name>Amethyst Ganaway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serious Eats Staff Spaces: A Former Coffee Pro’s Home Cafe]]></title>
+        <id>https://www.seriouseats.com/staff-favorite-coffee-gear-7565404</id>
+        <link href="https://www.seriouseats.com/staff-favorite-coffee-gear-7565404"/>
+        <updated>2023-08-21T16:05:52.000Z</updated>
+        <summary type="html"><![CDATA[We tour the home coffee bar of our resident coffee expert—featuring our favorite drip coffee maker, coffee grinder, coffee scale, and gooseneck kettle.]]></summary>
+        <author>
+            <name>Jesse Raub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans Have Breathed More Wildfire Smoke in Eight Months Than in Entire Years]]></title>
+        <id>319F2594-870B-4150-A231F00ADAA5DAE3</id>
+        <link href="https://www.scientificamerican.com/article/americans-have-breathed-more-wildfire-smoke-in-eight-months-than-in-entire-years1/"/>
+        <updated>2023-08-21T16:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Smoke from wildfires that have been exacerbated by climate change is complicating the picture of air pollution in the U.S.]]></summary>
+        <author>
+            <name>Meghan Bartels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Frog of Hakata Station in Fukuoka, Japan]]></title>
+        <id>https://www.atlasobscura.com/places/golden-frog-hakata-station-japan</id>
+        <link href="https://www.atlasobscura.com/places/golden-frog-hakata-station-japan"/>
+        <updated>2023-08-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since antiquity, frogs have been a lucky symbol in Japanese culture. For one thing, they are associated with the rain—needed to grow rice—and are considered a messenger of several deities. Additionally, the Japanese word for "frog" is homophonous with the word meaning "to return:" kaeru. Thanks to this wordplay, frogs are believed to grant safety to travelers until they return home and bring back health and money that one has spent.
+
+At Hakata Station, one of the major transport hubs in Fukuoka, there is a small golden frog hiding in plain sight, and it is said that good luck will come to whoever finds it.
+
+Designed by sculptor Satoshi Yabuuchi, widely known as the creator of Nara Prefecture's mascot character Sento-Kun, the Golden Frog was humbly unveiled when the JR Hakata City station mall was completed in 2011. It has since been climbing the wall of the building, unnoticed by most passengers. The idea behind its conception was that one should walk with their head up, or they would miss nice things in life.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worm Brains, Decoded like Never Before, Could Shed Light on Our Own Mind]]></title>
+        <id>C8108F32-008D-403C-8C1704D62DD8B86C</id>
+        <link href="https://www.scientificamerican.com/article/worm-brains-decoded-like-never-before-could-shed-light-on-our-own-mind/"/>
+        <updated>2023-08-21T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most in-depth catalogs of an animal’s brain-body connections ever compiled ties neural activity to roundworm behavior]]></summary>
+        <author>
+            <name>Lauren Leffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dangers of Wildfire Smoke]]></title>
+        <id>274F3D9C-9DB3-4338-86F2E4BC214A10C8</id>
+        <link href="https://www.scientificamerican.com/report/the-dangers-of-wildfire-smoke/"/>
+        <updated>2023-08-21T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate change is making wildfires more likely and more intense, exposing more people to dangerous wildfire smoke. Scientists are continuing to learn how much damage that smoke can do to the environment and human health]]></summary>
+        <author>
+            <name>Scientific American Content: Global</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What matters?]]></title>
+        <id>https://justthesocialfacts.blogspot.com/2023/08/what-matters.html</id>
+        <link href="https://justthesocialfacts.blogspot.com/2023/08/what-matters.html"/>
+        <updated>2023-08-21T15:35:00.001Z</updated>
+        <summary type="html"><![CDATA[In March, a survey about which values were important to people got a lot of attention.  It seemed to show that people had shifted away from concerns with family and community and towards a concern with money.  I raised some questions about the interpretation of the survey and said that I would look for other data, but forgot to follow up on it.    I was reminded by a column by David Brooks the other day.   It's called "To be happy, marriage matters more than career," and the summary on my phone says "Yet parents sends the opposite message to the young."  Presumably Brooks didn't write those (and nobody copy-edited the summary), but they give a pretty good distillation of his column.  Basically it's the same conclusion that he (and others) drew from the earlier survey:  that people are turn…]]></summary>
+        <author>
+            <name>Just the social facts, ma'am</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia's Luna-25 Lander Has Crashed into the Moon]]></title>
+        <id>55DABC90-A382-4BC6-93176DEDF2AC065E</id>
+        <link href="https://www.scientificamerican.com/article/russias-luna-25-lander-has-crashed-into-the-moon/"/>
+        <updated>2023-08-21T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Luna-25, Russia's first moon mission in nearly a half-century, was the vanguard of a planned series of lunar probes]]></summary>
+        <author>
+            <name>Elizabeth Howell, SPACE.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers at Hamline University look to expand accessibility of lead testing]]></title>
+        <id>https://www.minnpost.com/?p=2123916</id>
+        <link href="https://www.minnpost.com/race-health-equity/2023/08/researchers-at-hamline-university-look-to-expand-accessibility-of-lead-testing/"/>
+        <updated>2023-08-21T15:17:58.000Z</updated>
+        <summary type="html"><![CDATA[The average price of gold (currently used to test for lead) per gram was $57.9, while the average price of bismuth (a testing alternative) per gram was $0.0085 (less than 1 cent).]]></summary>
+        <author>
+            <name>Ava Kian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buster Keaton Museum in Piqua, Kansas]]></title>
+        <id>https://www.atlasobscura.com/places/buster-keaton-museum</id>
+        <link href="https://www.atlasobscura.com/places/buster-keaton-museum"/>
+        <updated>2023-08-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This rural museum and water utility office honors the life of the town of Piqua’s most famous non-resident, Buster Keaton. Despite his limited relationship with the town during his lifetime, Piqua has become the truest home of the comic genius of the silent screen.
+
+Keaton was born October 4, 1895, in Piqua, Kansas, but he never lived there. His parents, a moderately famous vaudevillian couple who performed together as “The Two Keatons,” had no connection to Piqua. However, they were in town supporting Harry Houdini’s act on the day Buster was born. Buster would grow up on the road, first performing onstage with his parents before making the jump to film. 
+
+Keaton starred in some of the greatest comedies of the era, many of which he directed himself, revolutionizing the language of comedy filmmaking. He weathered career setbacks including the switch to sound and personal struggles, and lived to see interest in his work and career revived in the 1950s.
+
+The famed actor visited Piqua only once in his lifetime. In 1957, Keaton and his wife, Eleanor, were driving back from the Kansas State Fair, when Eleanor saw a sign for Piqua. According to Eleanor, In shock, she stopped short, waking Buster, who was surprised to discover that his hometown even existed. In a hurry, they briefly walked through town, and pledged to come back one day.
+
+While Keaton never returned before passing away in 1966, Eleanor would come back frequently, as Piqua and the nearby town of Iola began planning an annual festival to honor their native son. People, including Eleanor, began donating memorabilia to the festival, which was held annually from 1993 until 2023. Without the level of attendance needed to build a permanent museum, Piqua opened up the Buster Keaton Museum as a room within the water department, where it still stands today.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can’t teach psychology without covering gender and sexuality, and you can’t teach history without covering racism]]></title>
+        <id>https://www.minnpost.com/?p=2123912</id>
+        <link href="https://www.minnpost.com/community-voices/2023/08/you-cant-teach-psychology-without-covering-gender-and-sexuality-and-you-cant-teach-history-without-covering-racism/"/>
+        <updated>2023-08-21T14:43:26.000Z</updated>
+        <summary type="html"><![CDATA[We cannot sit back and let politicians prevent our young people from learning the truth in their classrooms.]]></summary>
+        <author>
+            <name>By Sara Guillermo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McCammonplein in Opijnen, Netherlands]]></title>
+        <id>https://www.atlasobscura.com/places/mccammonplein-opijnen-netherlands</id>
+        <link href="https://www.atlasobscura.com/places/mccammonplein-opijnen-netherlands"/>
+        <updated>2023-08-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 30, 1943, the American B-17 bomber Man-O-War was shot down by German fighter planes, crashing into the occupied town of Opijnen in the Netherlands. Eight crewmen were killed and two others became war prisoners.  After the war, in appreciation of their sacrifice, the townspeople of Opijnen built a monument at the exact site of the crash in the shape of the B-17, using paving stones and a granite tail section containing the crew's names.
+
+The bodies of the crew were interred in the nearby churchyard, where, with the permission of their families, they remain today. The streets surrounding the crash site are named for the members of the crew and memorial services are held annually. The small park that houses the memorial was named McCammonplein in honor of the plane's pilot, 2nd Lt. Keene C McCammon, who survived the crash.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tocharian Trek:  PIE and migration across Eurasia]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60244</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60244&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-tocharian-trek-pie-and-migration-across-eurasia"/>
+        <updated>2023-08-21T14:29:48.000Z</updated>
+        <summary type="html"><![CDATA[In recent weeks and months, Language Log has been quite active in discussions on Tocharian and its relationship to other members of Indo-European.  Today's post takes a different approach from this post made just yesterday and many earlier posts. "Europe's ancient languages shed light on a great migration and weather vocabulary" by Ali Jones, Horizon: […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Favorite KitchenAid Stand Mixer is Available Refurbished...and Is $300 Off]]></title>
+        <id>https://www.seriouseats.com/refurbished-kitchenaid-professional-600-stand-mixer-sale-7653254</id>
+        <link href="https://www.seriouseats.com/refurbished-kitchenaid-professional-600-stand-mixer-sale-7653254"/>
+        <updated>2023-08-21T14:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Its large capacity bowl and powerful motor can mix stiff doughs and whip cream better than any other model we tested.]]></summary>
+        <author>
+            <name>Jesse Raub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘I will keep fighting for this’: State licensure is a challenge for many internationally trained mental health professionals]]></title>
+        <id>https://www.minnpost.com/?p=2123886</id>
+        <link href="https://www.minnpost.com/mental-health-addiction/2023/08/i-will-keep-fighting-for-this-state-licensure-is-a-challenge-for-many-internationally-trained-mental-health-professionals/"/>
+        <updated>2023-08-21T14:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Because of Minnesota’s complex licensing requirements, these three internationally trained mental health professionals say they haven’t been able to practice at a level equal to their education and experience since moving to the state.]]></summary>
+        <author>
+            <name>Andy Steiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: World-renowned biologist accused of bullying student, stealing his work]]></title>
+        <id>https://retractionwatch.com/?p=127733</id>
+        <link href="https://retractionwatch.com/2023/08/21/exclusive-world-renowned-biologist-accused-of-bullying-student-stealing-his-work/"/>
+        <updated>2023-08-21T14:12:07.000Z</updated>
+        <summary type="html"><![CDATA[One of the world’s foremost conservation biologists is being accused of plagiarism and bullying by a former PhD student, Retraction Watch has learned.   The biologist, Stuart Pimm of Duke University, strongly denies the charges, but he and his colleagues have acknowledged the existence of “closely related” work following an internal investigation by Duke. The … Continue reading Exclusive: World-renowned biologist accused of bullying student, stealing his work]]></summary>
+        <author>
+            <name>Frederik Joelving</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Closer to Eliminating the Wild Poliovirus]]></title>
+        <id>A3EF5D9A-9C4D-4298-AAC3DA0AFB3AE1FF</id>
+        <link href="https://www.scientificamerican.com/article/getting-closer-to-eliminating-the-wild-poliovirus/"/>
+        <updated>2023-08-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global efforts to eradicate the poliovirus were recently described as unsuccessful—yet Afghanistan and Pakistan are now on the verge of eliminating it]]></summary>
+        <author>
+            <name>Clare Watson, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modes (Part 8)]]></title>
+        <id>http://johncarlosbaez.wordpress.com/?p=35308</id>
+        <link href="https://johncarlosbaez.wordpress.com/2023/08/21/modes-part-8/"/>
+        <updated>2023-08-21T13:31:11.000Z</updated>
+        <summary type="html"><![CDATA[In Part 6 and Part 7 we used George Russell’s theories about the Lydian mode to illuminate some beautiful patterns in the modes of the major scale. Now let’s make those patterns more precise using a little group theory. We’ll see that the 84-element group acts as symmetries on the set of all modes of […]]]></summary>
+        <author>
+            <name>John Baez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modes (Part 8)]]></title>
+        <id>https://johncarlosbaez.wordpress.com/2023/08/21/modes-part-8/</id>
+        <link href="https://johncarlosbaez.wordpress.com/2023/08/21/modes-part-8/"/>
+        <updated>2023-08-21T13:31:11.000Z</updated>
+        <summary type="html"><![CDATA[In Part 6 and Part 7 we used George Russell’s theories about the Lydian mode to illuminate some beautiful patterns in the modes of the major scale. Now let’s make those patterns more precise using a little group theory. We’ll see that the 84-element group acts as symmetries on the set of all modes of […]]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewilding His Corner of Ireland's Beara Peninsula Is One Man's Labor of Love]]></title>
+        <id>https://www.atlasobscura.com/articles/rewilding-ireland-beara-peninsula</id>
+        <link href="https://www.atlasobscura.com/articles/rewilding-ireland-beara-peninsula"/>
+        <updated>2023-08-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This piece was originally published in The Guardian and appears here as part of our Climate Desk collaboration.
+
+
+Eoghan Daltun stood on a slope and pointed to a distant vista of verdant fields, craggy hills, and conifer trees across the Beara Peninsula in west Cork.
+
+Sun glinted off the rocks and sheep grazed in meadows. It was serene—the sort of bucolic panorama that draws tourists and appears on Irish postcards to embody the Emerald Isle.
+
+Daltun, however, had news for anyone tempted to marvel at nature’s majesty. “It’s ecological illiteracy. They can’t read the landscape they’re looking at. That is a completely barren landscape. It is biologically empty.”
+
+The scenery, he said, represented environmental degradation. The sheep had devoured wild flowers and seedlings, preventing nat…]]></summary>
+        <author>
+            <name>Rory Carroll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rochester Cyclone of Aug. 21, 1883]]></title>
+        <id>https://www.minnpost.com/?p=2121904</id>
+        <link href="https://www.minnpost.com/mnopedia/2023/08/the-rochester-cyclone-of-aug-21-1883/"/>
+        <updated>2023-08-21T13:09:52.000Z</updated>
+        <summary type="html"><![CDATA[It killed dozens and injured hundreds, dropping people into cemeteries, scattering fish across the landscape, and plucking chickens bald.]]></summary>
+        <author>
+            <name>By R. L. Cartwright</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s Old Is New Again: Why I Stopped Using a Computer and Started Writing by Hand]]></title>
+        <id>https://medium.com/p/acd52c6d0772</id>
+        <link href="https://writingcooperative.com/whats-old-is-new-again-why-i-stopped-using-a-computer-and-started-writing-by-hand-acd52c6d0772?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-21T13:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Going analog could give your writing a jump start
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Nicholas Barron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Hi Andrew, there’s a new Effective Altruist billionaire giving away their money . . .”]]></title>
+        <id>https://statmodeling.stat.columbia.edu/?p=48508</id>
+        <link href="https://statmodeling.stat.columbia.edu/2023/08/21/hi-andrew-theres-a-new-effective-altruist-billionaire-giving-away-their-money/"/>
+        <updated>2023-08-21T13:00:33.000Z</updated>
+        <summary type="html"><![CDATA[I’m going thru my old emails—Inbox Zero, baby!—and came across this one from 8 Mar 2022, from someone who will remain anonymous: Hi Andrew, there’s a new Effective Altruist billionaire giving away their money, and I’m writing a grant proposal … Continue reading →]]></summary>
+        <author>
+            <name>Andrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: A Whale of a Tale with Daniel Kraus]]></title>
+        <id>https://www.atlasobscura.com/articles/podcast-a-whale-of-a-tale-with-daniel-kraus</id>
+        <link href="https://www.atlasobscura.com/articles/podcast-a-whale-of-a-tale-with-daniel-kraus"/>
+        <updated>2023-08-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.
+
+
+
+In this episode of The Atlas Obscura Podcast, we chat with writer Daniel Kraus, who let his imagination run deep into the ocean after hearing a wild news story about an encounter between kayakers and a whale. And we get the backstory to Kraus’ new novel Whalefall, about a man who finds himself in the belly of a sperm whale.
+
+Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinating people and hear their stories. Join us daily, Monday through Thursday, to explore a new wonder with cofounder Dylan Thuras and a neighborhood of Atlas Obscura reporters.]]></summary>
+        <author>
+            <name>The Podcast Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Human-Sized Microphones and Hay Bales, They Unlocked the Mysteries of Bird Migration]]></title>
+        <id>A1E43E58-48E1-4AFB-817D2B36C7CC4B7A</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/using-human-sized-microphones-and-hay-bales-they-unlocked-the-mysteries-of-bird-migration/"/>
+        <updated>2023-08-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For thousands of years, no one truly knew how birds migrated—that is until a few unlikely pioneers sat, with hundreds of pounds of kludged together recording gear, in an empty field waiting to hear sounds that no one had ever captured]]></summary>
+        <author>
+            <name>Jacob Job</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Jones Act Enforcer]]></title>
+        <id>https://marginalrevolution.com/?p=86559</id>
+        <link href="https://feeds.feedblitz.com/~/786952748/0/marginalrevolution~The-Jones-Act-Enforcer.html"/>
+        <updated>2023-08-21T11:22:36.000Z</updated>
+        <summary type="html"><![CDATA[The Offshore Marine Service Association has a ship, the Jones Act Enforcer, whose only job is to spy on and harass European vessels that are installing wind farms off the coast of New England. BostonGlobe: To get Vineyard Wind done, developers are turning to vehicles such as the Sea Installer, which arrived in Salem in […]
+
+The post The Jones Act Enforcer appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to F. E. Guerra-Pujol.   Has Biden, or Trump, or any ... by David Wright
+In reply to blue jay.   Well, I'm probably wrong – I usually ... by EdR
+In reply to EdR.   Clearly there are many partisan demoncats ... by EdR
+In reply to dan1111.   dan111 – You hit the nail squarely on ... by Old Primate
+In reply to Doug.   There are many regulations that could do ... by Bob
+Plus 10 more...
+
+Related Stories
+
+Return to the Econ
+Which countries are the losers in the new mercantilism?
+Listen to Lech]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to the Econ]]></title>
+        <id>https://marginalrevolution.com/?p=86557</id>
+        <link href="https://feeds.feedblitz.com/~/786952754/0/marginalrevolution~Return-to-the-Econ.html"/>
+        <updated>2023-08-21T11:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Joshua Gans revisits life among the econ, 50 years after the classic investigation by Axel Leijonhufvud. In Leijonhufvud’s time, economics was dominated by two super-castes which worshipped different totems. Today, however, the super-castes are hardly to be seen and the old totems have been replaced by a singular new totem: The technology powering the Econ […]
+
+The post Return to the Econ appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to dearieme.   How dare they still ... by George Oh-Well
+Interestingly, his outlook for the future of the Econ is very ... by Gridlock
+In reply to Evan Osborne.   How is that name not a typo or ... by yo
+It's remarkable that the continued existence of indentured ... by dearieme
+Will this be post of the year? by Rich Berger
+Plus 3 more...
+
+Related Stories
+
+Listen to Lech
+The Jones Act Enforcer
+Which countries are the losers in the new mercantilism?]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michel Foucault Is Not a Comics Scholar]]></title>
+        <id>http://thepatronsaintofsuperheroes.wordpress.com/?p=12901</id>
+        <link href="https://thepatronsaintofsuperheroes.wordpress.com/2023/08/21/michel-foucault-is-not-a-comics-scholar/"/>
+        <updated>2023-08-21T11:04:58.000Z</updated>
+        <summary type="html"><![CDATA[This is not a calligram. But it’s close. A calligram, according to James Harkness, is a “poem whose words are arranged in such fashion as to form a picture of its ‘topic'” (60), such as Guillaume Apollinaire’s 1918 “Salut monde”: Arranged to evoke the Eiffel Tower, the words translate: “Hello world, of which I am […]]]></summary>
+        <author>
+            <name>Chris Gavaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minneapolis shooting leaves 8 injured]]></title>
+        <id>https://www.minnpost.com/?p=2123783</id>
+        <link href="https://www.minnpost.com/glean/2023/08/gov-walz-calls-republican-presidential-candidates-a-weird-group-of-folks/"/>
+        <updated>2023-08-21T11:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Plus: Gov. Walz calls Republican candidates a "weird group of folks"; former Gov. Al Quie dies; potential for rare 100-degree weather in August; SCSU cuts more faculty ahead of fall semester; and more.]]></summary>
+        <author>
+            <name>Jazzmine Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Writers Shouldn’t Be Punished For High Bounce Rates]]></title>
+        <id>https://medium.com/p/33e11ac8d336</id>
+        <link href="https://writingcooperative.com/why-writers-shouldnt-be-punished-for-high-bounce-rates-33e11ac8d336?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-21T11:02:23.000Z</updated>
+        <summary type="html"><![CDATA[It’s unscientific to make assumptions based on incomplete data
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Walter Rhein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fast, Furious and Brutally Short Life of an African Male Lion]]></title>
+        <id>C9D9D5EF-6844-46DF-A021B9AC60CA490F</id>
+        <link href="https://www.scientificamerican.com/article/the-fast-furious-and-brutally-short-life-of-an-african-male-lion/"/>
+        <updated>2023-08-21T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From the moment a male lion is born it faces a gauntlet of challenges, ranging from snakebite to infanticide]]></summary>
+        <author>
+            <name>Alexander Richard Braczkowski, Duan Biggs, Peter Lindsey, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puzzle Monday: Chocaholic]]></title>
+        <id>https://www.atlasobscura.com/articles/double-choco-nikoli-puzzle</id>
+        <link href="https://www.atlasobscura.com/articles/double-choco-nikoli-puzzle"/>
+        <updated>2023-08-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Among our crosswords and other puzzles, we're featuring logic challenges from Puzzle Communication Nikoli, a cult-favorite puzzle publication from Japan. A PDF of the puzzle, as well as the solution, can be downloaded below.
+
+
+Many of the challenges in Puzzle Communication Nikoli, Japan’s influential publication of logic puzzles, have been around for a while. But readers and puzzle enthusiasts are always submitting new ideas. Some get published, and among those some pick up enough fans that they earn a place in the regular puzzle lineup. Double Choco is the most recent addition to that lineup that we’ve featured in Atlas Obscura. It was created in 2018 by a reader with the pseudonym Airplane, who was a new Nikoli reader at the time.
+
+
+Airplane was interested in grid puzzles that involve shapes and resolve to recognizable images, according to Nikoli president and puzzle creator Yoshinao Anpuku. He was also inspired by fractal art, or art involving geometric structures that repeat at small and large sizes. The resulting puzzle, Double Choco, isn’t quite fractal art, but the idea of repeated, connected shapes and patterns runs through it.
+
+Airplane named the puzzle Double Chocolate, which was shortened slightly by the editors, in reference to dark and white chocolate. The two-color arrangement distinguishes puzzle grids from others in Nikoli’s pages, and often creates pleasing symmetries (as seen in Puzzle #3 below).
+
+
+Solving a Double Choco involves reasoning at several levels. The goal is to divide the grid into blocks by drawing solid lines over the dotted lines. Each block must contain an equal number of white and gray cells, and those areas of white and gray must have the same form/shape. They can be rotated or mirrored to match one another. The numbers in the grid indicate the number of cells of that color in its block—or half the total cells in the block. A block can contain any number of cells with the number, or no number at all.
+
+
+Stumped? Download the solutions!]]></summary>
+        <author>
+            <name>AO Puzzles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Offshore Wind Ramps Up, Scientists Flag Potential Impacts]]></title>
+        <id>https://undark.org/?p=79266</id>
+        <link href="https://undark.org/2023/08/21/as-offshore-wind-ramps-up-scientists-flag-potential-impacts/"/>
+        <updated>2023-08-21T07:41:05.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. is set to ramp up offshore wind capacity, but scientists still don’t fully understand the potential impacts that thousands of new turbines will have. They stress, though, that they don’t want to derail offshore wind, only to better understand what changes — both positive and negative — to expect.]]></summary>
+        <author>
+            <name>Becki Robins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Thread 290]]></title>
+        <id>https://astralcodexten.substack.com/p/open-thread-290</id>
+        <link href="https://astralcodexten.substack.com/p/open-thread-290"/>
+        <updated>2023-08-21T07:39:19.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calvino’s Ghosts]]></title>
+        <id>https://inframethodology.cbs.dk/?p=6467</id>
+        <link href="https://inframethodology.cbs.dk/?p=6467"/>
+        <updated>2023-08-21T07:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Last summer, Mike Sharples drew my attention to a lecture that Italo Calvino toured Italy with in 1967, reprinted as “Cybernetics and Ghosts” in the Vintage collection The Literature Machine. It presents a puzzling and somewhat disturbing argument. But the other day I was rereading it and think I discovered a key to unlocking its … Continue reading Calvino’s Ghosts →]]></summary>
+        <author>
+            <name>Thomas Basbøll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which businesses mix the classes best?]]></title>
+        <id>https://marginalrevolution.com/?p=86560</id>
+        <link href="https://feeds.feedblitz.com/~/786850697/0/marginalrevolution~Which-businesses-mix-the-classes-best.html"/>
+        <updated>2023-08-21T06:50:41.000Z</updated>
+        <summary type="html"><![CDATA[Casual restaurant chains, like Olive Garden and Applebee’s, have the largest positive impact on cross-class encounters through both scale and their diversity of visitors. Dollar stores and local pharmacies like CVS deepen isolation. Among publicly-funded spaces, libraries and parks are more redistributive than museums and historical sites. And, despite prominent restrictions on chain stores in […]
+
+The post Which businesses mix the classes best? appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Space Hair.   There are cultures where yes, ... by Bob
+In reply to Mike in Va.   Yeah, I have seen very little cross ... by Bob
+In reply to dearieme.   'German contributions to American ... by carlospln
+In reply to Steve Sailer.   Steve,   I think you forget that a ... by clear-eyed, blue-collar guy
+In reply to mkt42.   Nah, they were publishing German ... by peri
+Plus 10 more...
+
+Related Stories
+
+What makes for a good Royal Navy senior officer?
+The Gender Death Gap
+The Impact of Vaccines and Behavior on U.S. Cumulative Deaths from COVID-19]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What have I been thinking about lately?]]></title>
+        <id>https://marginalrevolution.com/?p=86548</id>
+        <link href="https://feeds.feedblitz.com/~/786815222/0/marginalrevolution~What-have-I-been-thinking-about-lately.html"/>
+        <updated>2023-08-21T05:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Robin Hanson asked me this question at lunch last week, and due to the general raucousness of the occasion I didn’t get a chance to answer.  So here is my list of recent questions: 1. How much did the British colonial welfare state for Ceylon in the 1930s help that country and its later social […]
+
+The post What have I been thinking about lately? appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+re: Ecuador the Venezuelan migrant crisis overran the country ... by Dawszein
+In reply to M.   A consumer anthropologist whose class I took ... by Josh
+Tyler – what about the human cost of AI? On their career ... by Antony T.
+In reply to Trump 2024.   In a country of idiots and ... by Antony T.
+In reply to Otto.   “Tyler is an insider radical Dem de ... by ...
+Plus 10 more...
+
+Related Stories
+
+Which countries are the losers in the new mercantilism?
+Emergent Ventures winners, 28th cohort
+Diogo Costa on Brazil]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Box Plots with Mean Values using Base R and ggplot2]]></title>
+        <id>https://www.spsanderson.com/steveondata/posts/2023-08-21/index.html</id>
+        <link href="https://www.r-bloggers.com/2023/08/exploring-box-plots-with-mean-values-using-base-r-and-ggplot2/"/>
+        <updated>2023-08-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+
+Continue reading: Exploring Box Plots with Mean Values using Base R and ggplot2]]></summary>
+        <author>
+            <name>Steven P. Sanderson II, MPH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a journal of the conquest, war, famine, and death year]]></title>
         <id>http://xianblog.wordpress.com/?p=53509</id>
@@ -588,6 +1401,18 @@ I taught a workshop at the Australian Marine Sciences Associ...
 Continue reading: Introduction to structural causal modelling]]></summary>
         <author>
             <name>Bluecology blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myrtle Beach Pinball Museum in Myrtle Beach, South Carolina]]></title>
+        <id>https://www.atlasobscura.com/places/myrtle-beach-pinball-museum-3</id>
+        <link href="https://www.atlasobscura.com/places/myrtle-beach-pinball-museum-3"/>
+        <updated>2023-08-18T23:55:00.000Z</updated>
+        <summary type="html"><![CDATA[When real estate expert Jerry Pinkas bought a pinball machine to entertain clients’ kids at his office, it was only the start of something much bigger. 
+
+As a teenager in the 1980s, Pinkas spent a lot of time at his local mall and boardwalk arcades playing pinball, and his passion for the game never diminished. Soon, one office pinball game turned into two, and eventually he had so many that he began taking them home. Eventually, Pinkas learned how to repair these mazes of moving parts, from their plungers (those spring-loaded knobs that send the balls flying) to their switches, spinners, and stoppers. Then in 2018, he turned his collection into the Myrtle Beach Pinball Museum, an interactive display of retro history with one main goal: “to preserve pinball for what it really is: a nation…]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
         </author>
     </entry>
     <entry>
@@ -1414,6 +2239,19 @@ From the dirt parking area, you can hear the falls but due to heavy vegetation, 
         <summary type="html"><![CDATA[This historic temperance fountain stands behind the bandstand on the Rehoboth boardwalk, intended to discourage drinking alcohol by offering a public source of drinking water. Erected in 1929 by the Delaware branch of the Woman’s Christian Temperance Union, the fountain was added to the National Register of Historic Places in 2009 and is still functional.]]></summary>
         <author>
             <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking from Infinite Sequences]]></title>
+        <id>https://jcarroll.com.au/2023/08/18/taking-from-infinite-sequences/</id>
+        <link href="https://www.r-bloggers.com/2023/08/taking-from-infinite-sequences/"/>
+        <updated>2023-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One thing that has really caught my attention as I learn more programming
+
+
+Continue reading: Taking from Infinite Sequences]]></summary>
+        <author>
+            <name>Jonathan Carroll</name>
         </author>
     </entry>
     <entry>
@@ -2884,6 +3722,19 @@ Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange 
         <summary type="html"><![CDATA[As extreme heat worsens, cities are exploring ways to reach isolated individuals before it’s too late]]></summary>
         <author>
             <name>Akielly Hu, Grist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Esquisse: How to Explore Data in R Through a Tableau-like Drag-and-Drop Interface]]></title>
+        <id>https://wordpress.appsilon.com/?p=19163</id>
+        <link href="https://www.r-bloggers.com/2023/08/r-esquisse-how-to-explore-data-in-r-through-a-tableau-like-drag-and-drop-interface/"/>
+        <updated>2023-08-16T11:14:17.000Z</updated>
+        <summary type="html"><![CDATA[R Esquisse is an R package that provides an intuitive GUI for creating data visualizations using ggplot2. This package is particularly valuable for stakeholders seeking quick interactive analysis and insights gathering from data sources, whether they are new to R or prefer a more visual approach to creating plots. With ...
+
+
+Continue reading: R Esquisse: How to Explore Data in R Through a Tableau-like Drag-and-Drop Interface]]></summary>
+        <author>
+            <name>Dario Radečić</name>
         </author>
     </entry>
     <entry>
@@ -17321,286 +18172,6 @@ blogs.hn 📌
 Homepage of the Oldternet 📌]]></summary>
         <author>
             <name>i.webthings.hub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When is best in life to read or reread many of the greatest classic novels?]]></title>
-        <id>https://marginalrevolution.com/?p=86353</id>
-        <link href="https://feeds.feedblitz.com/~/757552076/0/marginalrevolution~When-is-best-in-life-to-read-or-reread-many-of-the-greatest-classic-novels.html"/>
-        <updated>2023-07-23T07:42:24.000Z</updated>
-        <summary type="html"><![CDATA[First of all, and most of all, read them when you are young (teens and 20s) so they can still influence the longer trajectory of your life! But let’s say you are past that point.  It seems to me an optimal amount of waiting is in order.  You want at least one of your rereads […]
-
-The post When is best in life to read or reread many of the greatest classic novels? appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to ged.   Come on little puppies, …, sing me your ... by ged
-In reply to ged.   With a drop dead gorgeous wife. by ged
-Reading Tacitus in my 30's … by ged
-I doubt that “the Classics” *should* consist of the same ... by Neurotic
-In reply to dearieme.   And on the subject of historical ... by dearieme
-Plus 10 more...
-
-Related Stories
-
-Victory City
-My excellent Conversation with David Bentley Hart
-Dear Chat-GPT (just one opinion)]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More on Singapore and public sector talent development]]></title>
-        <id>https://marginalrevolution.com/?p=86337</id>
-        <link href="https://feeds.feedblitz.com/~/757513973/0/marginalrevolution~More-on-Singapore-and-public-sector-talent-development.html"/>
-        <updated>2023-07-23T05:25:54.000Z</updated>
-        <summary type="html"><![CDATA[From an anonymous correspondent, I will not indent: “As a Singaporean, I appreciated your recent post on Singapore and the self-perpetuating nature of its establishment. I wanted to raise three points that may be of interest to you, which seem to also be under-discussed outside of Singapore. The first is the Singaporean system of scholarships. […]
-
-The post More on Singapore and public sector talent development appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-A simple google of “Average IQ by country”: ... by truth777
-In reply to Melmoth.   Agree. I didn't mean in the TV show ... by Anon
-I once asked a high-ranking Singapore bureaucrat how a little ... by Wooden Foot
-In reply to steve.   Yup. Singapore has benefited from decades ... by mkt42
-In reply to Rahul.   I think this, combined with size, matters ... by Formerly K
-Plus 10 more...
-
-Related Stories
-
-The politics of neuroticism and unhappiness
-Matt Yglesias on European politics
-Why Singaporean democracy is like a social media graph]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R and/or Python training – 4 sessions – With discount]]></title>
-        <id>https://pacha.dev/blog/2023/07/23/r-python-training/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/07/r-and-or-python-training-4-sessions-with-discount/"/>
-        <updated>2023-07-23T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Book here: https://www.buymeacoffee.com/pacha/e/153099.
-
-
-
-Continue reading: R and/or Python training – 4 sessions – With discount]]></summary>
-        <author>
-            <name>pacha.dev/blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step-by-Step Guide to Scrape UN Comtrade metadata with R and Selenium]]></title>
-        <id>https://pacha.dev/blog/2023/07/23/selenium/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/07/step-by-step-guide-to-scrape-un-comtrade-metadata-with-r-and-selenium/"/>
-        <updated>2023-07-23T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[R and Shiny Training: If you find this blog to be interesting, please note that I offer personalized and group-based training sessions that may be reserved through Buy me a Coffee. Additionally, I provide training services in the Spanish language ...
-
-
-
-Continue reading: Step-by-Step Guide to Scrape UN Comtrade metadata with R and Selenium]]></summary>
-        <author>
-            <name>pacha.dev/blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-door Adjustment]]></title>
-        <id>https://www.kenkoonwong.com/blog/frontdoor/</id>
-        <link href="https://www.r-bloggers.com/2023/07/front-door-adjustment/"/>
-        <updated>2023-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-door adjustment: a superhero method for handling unobserved confounding by using mediators (if present) to estimate causal effects accurately.
-Let’s DAG an estimand!
-library(dagitty)
-dag 
-
-
-
-Continue reading: Front-door Adjustment]]></summary>
-        <author>
-            <name>r on Everyday Is A School Day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sài Gòn snapshot #2 [jatp]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53531</id>
-        <link href="https://xianblog.wordpress.com/2023/07/23/sai-gon-snapshot-jatp-2/"/>
-        <updated>2023-07-22T22:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Easy Ways to Set Yourself Up for Success When Establishing a Writing Practice]]></title>
-        <id>https://medium.com/p/ec7a0d0dfef9</id>
-        <link href="https://writingcooperative.com/3-easy-ways-to-set-yourself-up-for-success-when-establishing-a-writing-practice-ec7a0d0dfef9?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-07-22T21:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Make daily writing easier to adopt with these simple tricks
-Continue reading on The Writing Cooperative »]]></summary>
-        <author>
-            <name>Allison Burney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visiting Death]]></title>
-        <id>https://www.overcomingbias.com/p/visiting-death</id>
-        <link href="https://www.overcomingbias.com/p/visiting-death"/>
-        <updated>2023-07-22T20:43:28.000Z</updated>
-        <summary type="html"><![CDATA[I haven’t posted as much lately as it is summer, and I’ve been doing a lot of family trips. Including an Alaskan cruise the last two weeks. Such periods are supposed to be happy times, worth their extra cost in part due to our anticipating and remembering them fondly. But while such trips are indeed often filled with interesting and indulgent sights and experiences, they also let me see and feel death.]]></summary>
-        <author>
-            <name>Robin Hanson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear Chat-GPT (just one opinion)]]></title>
-        <id>https://marginalrevolution.com/?p=86363</id>
-        <link href="https://feeds.feedblitz.com/~/757366841/0/marginalrevolution~Dear-ChatGPT-just-one-opinion.html"/>
-        <updated>2023-07-22T18:44:40.000Z</updated>
-        <summary type="html"><![CDATA[“Would reverse engineering partial hash codes of thousands of website users to get their IPs with brute force be considered hacking?” Yes, attempting to reverse engineer hash codes to obtain user IP addresses or any other sensitive information would certainly be considered hacking. This is an unauthorized attempt to access, manipulate, or use another person’s […]
-
-The post Dear Chat-GPT (just one opinion) appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to Joshua Gans.   “Human Being, why would it matter ... by Sashoir
-In reply to No, I would like to thank you personally.   Why ... by rsm
-In reply to seegs.   Should we be figuring out animal language ... by rsm
-In reply to Soap McTavish.   The sky is red not the land. You ... by the king of texas
-Tyler crying about the behavior of bolsheviks seems like a poor ... by Terry Richards
-Plus 10 more...
-
-Related Stories
-
-My excellent Conversation with David Bentley Hart
-Victory City
-Austin Vernon on electric vehicles > hybrids]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*Barbie*]]></title>
-        <id>https://marginalrevolution.com/?p=86367</id>
-        <link href="https://feeds.feedblitz.com/~/757346507/0/marginalrevolution~Barbie.html"/>
-        <updated>2023-07-22T17:55:28.000Z</updated>
-        <summary type="html"><![CDATA[You can object to the lack of plot impetus in this work, or cite several other objections, not entirely without reason.  Yet the film is fresh, interesting, and creative throughout.  It is full of ideas, starting with an investigation of how lookism oppresses women, and then it continues to deepen.  By the end, the surface-level […]
-
-The post *Barbie* appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to Upvote if you don't know what Straussian means. ... by Derek227
-In reply to Soap McTavish.   I liked the Ken song I saw on ... by Asdf
-In reply to Upvote if you don't know what Straussian means. ... by Bill
-In reply to Enoch Lambert.   Straussian refers specifically to ... by Heedless
-In reply to RAD.   I'd rather watch Barbie on .25x speed than ... by Eric
-Plus 10 more...
-
-Related Stories
-
-*Oppenheimer*, the movie
-Mission Impossible 7 (no real spoilers)
-Los Alamos From Below]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Pi Approximation Day]]></title>
-        <id>http://www.r-bloggers.com/?guid=2cab502c3a2fb0515f379e6df4df8987</id>
-        <link href="https://www.r-bloggers.com/2023/07/happy-pi-approximation-day/"/>
-        <updated>2023-07-22T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Many people know March 14 is celebrated as Pi Day because 3, 1, and 4 are the first three significant digits of π (using the month, day date format). I just learned that July 22 is celebrated as Pi Approximation Day (using the day/month date ...
-
-
-
-Continue reading: Happy Pi Approximation Day]]></summary>
-        <author>
-            <name>Jerry Tuttle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=86350</id>
-        <link href="https://feeds.feedblitz.com/~/757322651/0/marginalrevolution~Saturday-assorted-links.html"/>
-        <updated>2023-07-22T16:07:41.000Z</updated>
-        <summary type="html"><![CDATA[1. What a corruption scandal in Singapore looks like. 2. Vargas Llosa uh-oh? (New Yorker) 3. Astral Codex Ten: comments on British economic decline. 4. FedNow will enable speedier payments. 5. One take on the current Chinese economic slowness.  A good, non-hysterical piece. 6. Stupid bluster about Suwalki.  But don’t think this is not a […]
-
-The post Saturday assorted links appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to Bilbo b..   Gabriel Garcia Marquez occupied the ... by Faze
-In reply to The Scary Black Hundreder.   Seems like conflict ... by M
-In reply to Rebes.   “In 1974, after nearly two decades of ... by andy
-In reply to Baltics are Historic Russia.   Give it to us. I'm ... by Pochemuchka
-In reply to Kent Guida.   Less reason for surprise than a New ... by Mm
-Plus 10 more...]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be civilized when you urinate]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59794</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59794&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=be-civilized-when-you-urinate"/>
-        <updated>2023-07-22T15:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Notice in a men's room at Dunhuang, far western Gansu Province: The sign says: tiējǐn wénmíng  kàojìn fāngbiàn 贴紧文明 靠近方便 "adhere to civilization  get close when you urinate" The authorities are forever enjoining men to stand close to the urinal when they relieve themself, and men are forever standing back several feet so they don't […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Problem with the University of Wisconsin’s Area Deprivation Index.  And, no, face validity is not “the weakest of all possible arguments.”]]></title>
-        <id>https://statmodeling.stat.columbia.edu/?p=49282</id>
-        <link href="https://statmodeling.stat.columbia.edu/2023/07/22/problem-with-the-university-of-wisconsins-area-deprivation-index-and-no-face-validity-is-not-the-weakest-of-all-possible-arguments/"/>
-        <updated>2023-07-22T13:48:52.000Z</updated>
-        <summary type="html"><![CDATA[A correspondent writes: I thought you might care to comment on a rebuttal in today’s HealthAffairs. I find it a poor non-defense that relies on “1000s of studies used our measure and found it valid”, as well as attacks on … Continue reading →]]></summary>
-        <author>
-            <name>Andrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Need to Zoom in Ideas and Start to Write in-Depth]]></title>
-        <id>https://medium.com/p/657fdfaaa1e3</id>
-        <link href="https://writingcooperative.com/why-you-need-to-zoom-in-ideas-and-start-to-write-in-depth-657fdfaaa1e3?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-07-22T13:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Setting off on the expertise journey in your writing
-Continue reading on The Writing Cooperative »]]></summary>
-        <author>
-            <name>Wahyuni Sapri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend reads: Stanford president to resign; untrustworthy clinical trials; ‘cruel and fake’ animal experiments]]></title>
-        <id>https://retractionwatch.com/?p=127577</id>
-        <link href="https://retractionwatch.com/2023/07/22/weekend-reads-stanford-president-to-resign-untrustworthy-clinical-trials-cruel-and-fake-animal-experiments/"/>
-        <updated>2023-07-22T13:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to more than 300. There are now 41,000 retractions in our database — which powers retraction alerts in Edifix, EndNote, LibKey, Papers, and Zotero. The Retraction Watch Hijacked Journal Checker now contains 200 titles. And have … Continue reading Weekend reads: Stanford president to resign; untrustworthy clinical trials; ‘cruel and fake’ animal experiments]]></summary>
-        <author>
-            <name>Ivan Oransky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Stooping" in China]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=59807</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=59807&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stooping-in-china"/>
-        <updated>2023-07-22T12:42:37.000Z</updated>
-        <summary type="html"><![CDATA[I never heard of it in America or Europe (seems to be a quite recent phenomenon — by that name — but see below for the deeper history of the activity).  Apparently it has taken off in China during the last year: Stooping Takes China by Storm as Zoomers Scour the Streets for Junk Cash-strapped […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
         </author>
     </entry>
     <entry>
