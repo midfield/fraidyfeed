@@ -2,10 +2,768 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://midfield.github.io/fraidyfeed/index.html</id>
     <title>fraidymid</title>
-    <updated>2023-08-29T00:44:02.519Z</updated>
+    <updated>2023-08-30T00:43:48.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://midfield.github.io/fraidyfeed/index.html"/>
     <link rel="self" href="https://midfield.github.io/fraidyfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Highlights From The Comments On Fetishes]]></title>
+        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-fetishes</id>
+        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-fetishes"/>
+        <updated>2023-08-30T00:38:29.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Scott Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-publication review]]></title>
+        <id>https://justthesocialfacts.blogspot.com/2023/08/post-publication-review.html</id>
+        <link href="https://justthesocialfacts.blogspot.com/2023/08/post-publication-review.html"/>
+        <updated>2023-08-30T00:36:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, I wrote about an article in the New York Times "1619 Project," which drew on a paper published in the Proceedings of the National Academy of Sciences in 2016:   "Racial Bias in Pain Assessment and Treatment Recommendations, and False Beliefs about Biological Differences between Blacks and Whites." The paper was based on a survey of medical students and residents that gave them hypothetical cases and asked them to rate how much pain they thought the patient would be feeling and what treatment they would recommend for the pain (narcotics vs. something weaker).*  According to the Times "when asked to imagine how much pain white or black patients experienced in hypothetical situations, the medical students and residents insisted that black people felt less pain."  Actually, the rating…]]></summary>
+        <author>
+            <name>Just the social facts, ma'am</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talks to watch at the RSS International Conference 2023]]></title>
+        <id>https://www.jumpingrivers.com/blog/royal-statistical-society-conference/</id>
+        <link href="https://www.r-bloggers.com/2023/08/talks-to-watch-at-the-rss-international-conference-2023/"/>
+        <updated>2023-08-29T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Statistical Society International conference is next week from 4-7 September 2023, hosted in Harrogate. Jumping Rivers are exhibiting at the conference, as well as delivering workshops a...
+
+
+
+Continue reading: Talks to watch at the RSS International Conference 2023]]></summary>
+        <author>
+            <name>The Jumping Rivers Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[differentially private distributed Bayesian linear regression with MCMC]]></title>
+        <id>http://xianblog.wordpress.com/?p=53623</id>
+        <link href="https://xianblog.wordpress.com/2023/08/30/differentially-private-distributed-bayesian-linear-regression-with-mcmc/"/>
+        <updated>2023-08-29T22:23:23.000Z</updated>
+        <summary type="html"><![CDATA[An ICML 2023 paper by Barıs¸ Alparslan, Sinan Yıldırım¸ and Ilker Birbil that (re)addresses the issue of privacy when running a Bayesian regression analysis. Resorting to the common notion of differential privacy, imposing a limited variability if a single observation is modified, and a Gaussian randomisation of the observations. “A differentially private algorithm constrains the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[differentially private distributed Bayesian linear regression with MCMC]]></title>
+        <id>http://xianblog.wordpress.com/?p=53623</id>
+        <link href="https://xianblog.wordpress.com/2023/08/30/differentially-private-distributed-bayesian-linear-regression-with-mcmc/"/>
+        <updated>2023-08-29T22:23:23.000Z</updated>
+        <summary type="html"><![CDATA[An ICML 2023 paper by Barıs¸ Alparslan, Sinan Yıldırım¸ and Ilker Birbil that (re)addresses the issue of privacy when running a Bayesian regression analysis. Resorting to the common notion of differential privacy, imposing a limited variability if a single observation is modified, and a Gaussian randomisation of the observations. “A differentially private algorithm constrains the […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Japanification of Japanese]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60435</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60435&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=de-japanification-of-japanese"/>
+        <updated>2023-08-29T22:22:30.000Z</updated>
+        <summary type="html"><![CDATA[This morning in the first class of my course on "Language, Script, and Society in China", I had just spoken about the most frequent morphemes in Mandarin, Taiwanese, and Japanese (the possessive particles de 的, e, and no の) and other common terms that had no fixed characters to write them or had to borrow […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI update]]></title>
+        <id>https://marginalrevolution.com/?p=86630</id>
+        <link href="https://feeds.feedblitz.com/~/790810982/0/marginalrevolution~AI-update.html"/>
+        <updated>2023-08-29T22:21:18.000Z</updated>
+        <summary type="html"><![CDATA[We’re in that “a lot of people have stopped caring” phase of the transition, don’t let the status quo and recency biases fool you: Google’s new flagship AI model, “Gemini,” is set to be a direct competitor to GPT-4 and boasts computing power 5 times that of GPT-4. Trained on Google’s TPUv5 chips, it’s capable […]
+
+The post AI update appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+Through the grapevine I've heard it's incredibly good in ... by Crusader
+
+Related Stories
+
+YouTube does not polarize, yet further results in this direction
+Emergent Ventures winners, 28th cohort
+The economic impact of AI]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pyramids of Caral-Supe in Caral, Peru]]></title>
+        <id>https://www.atlasobscura.com/places/pyramids-of-caral-supe-peru</id>
+        <link href="https://www.atlasobscura.com/places/pyramids-of-caral-supe-peru"/>
+        <updated>2023-08-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coastal Peru is a landscape of deep-cut ravines and the glacial melt of Andes-spawned rivers cascading through narrow, arid corridors to a waiting Pacific Ocean. If you look at a modern road map of the country, you will see a network of highways cutting northeast through the mountains, linking the high plateau of the Amazonian interior to the dry cliffs overlooking the sea. 
+
+These present-day roads mimic the footpaths of ancient people who migrated to South America and sought their own routes to the coast, finding fertile, protected valleys along the way where they created something spectacular. We don’t yet know exactly when these people first arrived in what is now Peru, but we do know when they built the civilization at Caral-Supe: 2627 B.C.
+
+And that date is, in a word, stunning.
+
+…]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear Writer! You Can’t Dedicate Your Whole Life to Write]]></title>
+        <id>https://medium.com/p/368d42e30d76</id>
+        <link href="https://writingcooperative.com/dear-writer-you-cant-dedicate-your-whole-life-to-write-368d42e30d76?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-29T21:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Seems the 10,000-hour rule doesn’t really fit for writing.
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Wahyuni Sapri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCRAP in San Francisco, California]]></title>
+        <id>https://www.atlasobscura.com/places/scrap-san-francisco</id>
+        <link href="https://www.atlasobscura.com/places/scrap-san-francisco"/>
+        <updated>2023-08-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SCRAP is an Aladdin's cave for artists, creatives, and the naturally curious. Founded in 1976 by Anne Marie Theilen and San Francisco artist Ruth Asawa, it is the nation's oldest creative reuse center and arts education nonprofit.
+
+SCRAP breathes new life into old arts and crafts supplies by diverting over 250 tons of materials that would otherwise head to landfills every year. They also offer a diverse variety of workshops and programs centered around creative reuse and sustainability.
+
+People from all walks of life come here to discover unique treasures that you wouldn't find anywhere else. Not only are they offering quality materials for pennies on the dollar, but they even have an ever-changing free section to rummage through!]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How South Korea Fell in Love With Norway's Unique Cheese]]></title>
+        <id>https://www.atlasobscura.com/articles/korea-cheese</id>
+        <link href="https://www.atlasobscura.com/articles/korea-cheese"/>
+        <updated>2023-08-29T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Since leaving my native Norway, I find myself constantly telling people about brunost. Pronounced “broon’ust,” it simply means “brown cheese.” But brunost is nothing like any other cheese.
+
+The taste starts with a salty, rich caramel, and under the sweetness there’s a pleasant funk, courtesy of a mix of goat’s and cow’s milk. Eating it is momentarily overwhelming, as it sticks to the roof of your mouth before melting away. Its dense, sticky texture even requires a cheese plane, a special spatula-shaped tool for shaving off long pieces.
+
+It used to be nearly impossible to get brunost outside of Norway, but in recent years, it’s become a craze in an unlikely place—South Korea. Brunost is now everywhere across the nation, from cafes to street food stands. Interestingly, Koreans have made br…]]></summary>
+        <author>
+            <name>Jessica Furseth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eglinton Castle in Eglinton, Scotland]]></title>
+        <id>https://www.atlasobscura.com/places/eglinton-castle-scotland</id>
+        <link href="https://www.atlasobscura.com/places/eglinton-castle-scotland"/>
+        <updated>2023-08-29T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ruins of Eglinton Castle now sit in the grounds of Eglinton Country Park. Though they appear to be a giant romantic folly, in reality, this stately home once held one of the most extravagant events of the 1800s.
+
+The grand home was the seat of the Montgomerie family, who held the title of Earls of Eglinton. The Montgomerie family was among William the Conqueror's most powerful allies. After his success at the Battle of Hastings, William rewarded the family with extensive lands across both England and Scotland. The original castle was burnt in 1528 by the Earl of Glencairn, who was also responsible for many raids on nearby Kilwinning Abbey during the same period.
+
+In 1797, the earl began work on an extravagant new residence. The architect was John Patterson, who had trained under the …]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edmond Halley Memorial in London, England]]></title>
+        <id>https://www.atlasobscura.com/places/edmond-halley-plaque-westminster-abbey</id>
+        <link href="https://www.atlasobscura.com/places/edmond-halley-plaque-westminster-abbey"/>
+        <updated>2023-08-29T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A tribute to astronomer Edmond Halley is mounted on a wall in the south cloister of Westminster Abbey. It depicts a stylized comet made of brilliant blue stone with gold accents. Halley's many contributions to science are enumerated on the comet's undulating tail streams.
+
+As stated in an inscription on the plaque, it was placed to commemorate Halley's Comet's visit to the inner Solar System in 1986. During that trip, it became the first comet to be observed in detail by spacecraft, specifically the European Space Agency's Giotto. An illustration of Giotto appears in the middle of the comet. The next time Halley's Comet will be visible from Earth will be in mid-2061.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Chambers’s radical plan for Psychological Science]]></title>
+        <id>https://statmodeling.stat.columbia.edu/?p=49432</id>
+        <link href="https://statmodeling.stat.columbia.edu/2023/08/29/chris-chamberss-radical-plan-for-psychological-science/"/>
+        <updated>2023-08-29T19:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Someone pointed me to this Vision Statement by Chris Chambers, a psychology professor who would like to edit Psychological Science, a journal that just a few years ago was notorious for publishing really bad junk science. Not as bad as … Continue reading →]]></summary>
+        <author>
+            <name>Andrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Coriander?]]></title>
+        <id>https://www.seriouseats.com/what-is-coriander-7963340</id>
+        <link href="https://www.seriouseats.com/what-is-coriander-7963340"/>
+        <updated>2023-08-29T19:30:20.000Z</updated>
+        <summary type="html"><![CDATA[How to buy, store, and cook with the golden, floral spice.]]></summary>
+        <author>
+            <name>Yasmine Maggio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OK County 66 - John’s Place in Arcadia, Oklahoma]]></title>
+        <id>https://www.atlasobscura.com/places/ok-county-66-johns-place</id>
+        <link href="https://www.atlasobscura.com/places/ok-county-66-johns-place"/>
+        <updated>2023-08-29T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[John's Place is a unique warehouse along Route 66 that is full of relics from the "mother road" and so much more.
+
+It's run by John Hargrove, a former airplane and school bus mechanic. He has everything from old toys, books, artwork, cars, and memorabilia that was either handmade or personally rebuilt by John himself. He even built a small movie theater complete with seats and a movie screen. Every room is filled with knickknacks and painted with such detail that it’s easy to see how much love and dedication it took to create a truly remarkable place. John is friendly, talkative, and inviting. And his dog Buddy is pretty cool too.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wiley Post-Will Rogers Memorial in Utqiagvik, Alaska]]></title>
+        <id>https://www.atlasobscura.com/places/wiley-post-will-rogers-memorial-alaska</id>
+        <link href="https://www.atlasobscura.com/places/wiley-post-will-rogers-memorial-alaska"/>
+        <updated>2023-08-29T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On August 15, 1935, Wiley Post and Will Rogers were flying together in a Lockheed hybrid airplane when they crashed just 15 miles outside of Point Barrow, Alaska. The engine had stalled just after take-off, causing the plane to nose-dive and crash into a lagoon. Both Post and Rogers died instantly. 
+
+Wiley Post had used his old but trusty Winnie Mae for both his round-the-world trips. However, Winnie Mae was now outdated, and Post needed a new aircraft for his Alaska-Russia venture. Struggling for funds, Post decided to piece together a plane that would suit his needs. 
+
+Starting with a fuselage from a Lockheed Orion, Post added extra-long wings from a Lockheed Explorer. He then changed out the regular engine and replaced it with a 550-horsepower Wasp engine that was 145 pounds heavier t…]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to travel in India]]></title>
+        <id>https://marginalrevolution.com/?p=86625</id>
+        <link href="https://feeds.feedblitz.com/~/790726949/0/marginalrevolution~How-to-travel-in-India.html"/>
+        <updated>2023-08-29T18:41:37.000Z</updated>
+        <summary type="html"><![CDATA[An MR reader asks me: ….what have you found to be nonobvious activities with high return on time invested in India? Perhaps it is all obvious, but here is my list: 1. Make sure you visit a bunch of smaller temples, not just the famous, very well known sites. 2. Never turn down a trip, […]
+
+The post How to travel in India appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Reason.   Interested in this as well by Raja
+7. Which places have the least noise pollution?   11. Which ... by Justin Chang
+find indian friends before you go and ask them what the best ... by Stephen Jonesyoung
+In reply to L.   I'd add that your driver can shoo the other ... by OldCurmudgeon
+In reply to B.   Oh, and were you alone/with other ... by Phil S.
+Plus 10 more...
+
+Related Stories
+
+What should I ask Jacob Mikanowski?
+The Real UFO Story
+The Mother Church of the Common Law]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiwi North in Whangārei, New Zealand]]></title>
+        <id>https://www.atlasobscura.com/places/kiwi-north-whangarei</id>
+        <link href="https://www.atlasobscura.com/places/kiwi-north-whangarei"/>
+        <updated>2023-08-29T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The Whangarei Museum offers a delightful variety of Maori artifacts and natural history, as well as early settler and wartime displays.
+
+The Kiwi House turns day into night with a fully nocturnal set-up that allows visitors to observe native animals in an environment built to reflect their natural habitats. It is home to a kiwi, tuatara, and several species of camouflaging geckos.
+
+Victorian and Edwardian-era buildings have been preserved for present-day exploration, with the oldest structure dating back to circa 1859. Set out almost as a mini town, there is a home estate, church, schoolhouse, women's jailhouse, and the now-detached turret in which author Jane Mander (1877-1949) would write in her family home.
+
+All are set together on farmland with a view of the city of Whangarei below.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Downtown Houston Tunnel System in Houston, Texas]]></title>
+        <id>https://www.atlasobscura.com/places/houston-tunnel-system-texas</id>
+        <link href="https://www.atlasobscura.com/places/houston-tunnel-system-texas"/>
+        <updated>2023-08-29T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An air-conditioned system of tunnels underneath downtown Houston connects 95 city blocks and over 20 commercial buildings. The tunnels are full of dining options and various shopping/service locations catered towards the employees of all the offices occupying the buildings above.
+
+The tunnel system has been around for nearly a century. The earliest known tunnels date back to the 1930s. According to the Houston Chronicle, one of the first tunnels connected two buildings owned by former Texas Governor Ross Sterling: the Houston Post-Dispatch and the Sterling Building. The tunnel ran beneath Fannin Street. Around the same time, entertainment entrepreneur Will Horwitz had a tunnel connecting his three theaters, the Travis, the Texan, and the Uptown.
+
+According to architectural historian Stephen Fox, the idea of a system of shared tunnels came about in 1956, when the Bank of the Southwest was linked to the 1010 Garage and the Mellie Esperson Building. As the city grew in the 60s and 70s, so did the underground tunnels.
+
+Each section of the tunnels has its own aesthetic, often an extension of the buildings directly above, which vary wildly from haphazard and dingy to spacious and modern. The tunnels are only open during the weekday business hours.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnesota one of six sites chosen for new women’s hockey league]]></title>
+        <id>https://www.minnpost.com/?p=2124876</id>
+        <link href="https://www.minnpost.com/glean/2023/08/minnesota-one-of-six-sites-chosen-for-new-womens-hockey-league/"/>
+        <updated>2023-08-29T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Plus: St. Paul City Council amends sales tax ballot language; how the Minnesota State Fair gets visitors to spread out; burglars steal $12,000 worth of audio equipment from Twin Cities youth music charity; and more.]]></summary>
+        <author>
+            <name>MinnPost staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Alabama chemistry prof faked data in grant applications: Federal watchdog]]></title>
+        <id>https://retractionwatch.com/?p=127781</id>
+        <link href="https://retractionwatch.com/2023/08/29/former-alabama-chemistry-prof-faked-data-in-grant-applications-federal-watchdog/"/>
+        <updated>2023-08-29T18:20:23.000Z</updated>
+        <summary type="html"><![CDATA[A former chemistry professor at the University of Alabama in Huntsville admitted to reusing data in grant applications to the National Institutes of Health while claiming that it came from different experiments, according to the U.S. Office of Research Integrity. Surangi (Suranji) Jayawardena, who joined the UAH faculty in 2017 following a postdoc at MIT, … Continue reading Former Alabama chemistry prof faked data in grant applications: Federal watchdog]]></summary>
+        <author>
+            <name>Ivan Oransky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publix Cake Water Tower in Lakeland, Florida]]></title>
+        <id>https://www.atlasobscura.com/places/publix-cake-water-tower-florida</id>
+        <link href="https://www.atlasobscura.com/places/publix-cake-water-tower-florida"/>
+        <updated>2023-08-29T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nicknamed "the HydroCake" by the construction company Hydrostorage, Inc., this iconic water tower was built to provide support to the newly opened dairy processing plant, frozen food warehouse, and expanded bakery plant. And boy, does it do its job well - with the ability to deliver a whopping 250,000 gallons of water per minute.
+
+But let's talk about the real star of the show here: the cake itself. Standing at a staggering 146 feet tall, this tower is like the world's biggest, baddest, most delicious birthday cake. And let's not forget the candles—10 in total, each representing five years of Publix history. And that eleventh candle in the middle? That's for the years to come.
+
+This tower is made up of a whopping 2.25 million pounds of steel, secured by two tons of welding rods, and resting on a foundation of 170 cubic yards of concrete. It's like the Hulk of water towers—strong, sturdy, and built to last. And those candles are no slouches either. Each one stands at a towering eight feet tall and weighs in at a solid 250 pounds. That's like having 10 Shaquille O'Neals perched on top of your water tower.
+
+But perhaps the best part of the Publix Birthday Cake water tower is the way it lights up the night sky. Every evening, the lights at the top of the tower turn on, and that center candle serves as an aerial blinker, like a delicious lighthouse guiding ships to safety. It's a sight to behold, and one that has served as an iconic beacon in the Lakeland community for years.
+
+The tower has become a symbol of the community and a beacon of hope for those who call Lakeland their home. It's a structure that represents the strength and resilience of the people of Lakeland.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grayscale Can Be a Bitcoin ETF]]></title>
+        <id>https://www.bloomberg.com/opinion/articles/2023-08-29/grayscale-can-be-a-bitcoin-etf</id>
+        <link href="https://www.bloomberg.com/opinion/articles/2023-08-29/grayscale-can-be-a-bitcoin-etf"/>
+        <updated>2023-08-29T17:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Also Sculptor drama, Citadel interns, 3M bribes and student loan payments restarting.]]></summary>
+        <author>
+            <name>Matt Levine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonaire Botanical Garden in Kralendijk, Caribbean Netherlands]]></title>
+        <id>https://www.atlasobscura.com/places/bonaire-botanical-garden-caribbean-netherlands</id>
+        <link href="https://www.atlasobscura.com/places/bonaire-botanical-garden-caribbean-netherlands"/>
+        <updated>2023-08-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It might be a stretch to call this place a botanical garden. Bone menagerie. Pseudo-science workshop. Psychedelic trip through a macabre, outdoor fantasy world would all be more appropriate. But it’s well worth the €10 entrance fee, if only for the bizarre photos.
+
+The island of Bonaire has long been a mecca for scuba divers, especially those who enjoy shore dives. With 63 official dive sites on the main island—marked with distinctive, yellow-painted rocks—and another 26 easily accessed from a boat on the adjacent island of Klein Bonaire, most people choose to spend their time diving and snorkeling along the southern and western coasts and enjoying the excellent seafood restaurants found in the capital of Kralendijk.
+
+But the northern and eastern coasts of this boomerang-shaped island are known as the “wild side”. Windward and rocky, the wild side boasts a national park, blow holes, petroglyphs, and the Bonaire Botanical Garden. This is a privately-owned garden, so don’t expect a national park-caliber tour. Instead, you should expect the unexpected and take most of it with a grain of salt.
+
+If you’re lucky, Manuel, the owner of the garden, will be there to take you on the tour. He will detail his inspiration for many of the art exhibits built from found materials and animal bones, share his beliefs on the healing properties of various plants, and extol the supposed virtues of drinking quantities of seawater daily.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuesday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=86621</id>
+        <link href="https://feeds.feedblitz.com/~/790686350/0/marginalrevolution~Tuesday-assorted-links.html"/>
+        <updated>2023-08-29T16:59:30.000Z</updated>
+        <summary type="html"><![CDATA[1. What increases and decreases morale. 2. How might AI reshape government? 3. David Deming on the wage gains from migration. 4. Historic bird once thought extinct returns to New Zealand visibility. 5. Zvi links on dating. 6. Is the U.S. economy seeing an upsurge of new firms?
+
+The post Tuesday assorted links appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+To have high morale is to believe that you are able to do the ... by So Much For Subtlety
+In reply to EdR.   And loyalty. A good manager defends his own. ... by So Much For Subtlety
+2)   Cost of government will increase as massive government ... by El Conquistador
+In reply to Bob.   I've been getting all my dates from colleges ... by mobile
+In reply to Neurotic. ... by M
+Plus 10 more...]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Most Effectively Tenderize Steak]]></title>
+        <id>https://www.seriouseats.com/how-to-tenderize-steak-7963134</id>
+        <link href="https://www.seriouseats.com/how-to-tenderize-steak-7963134"/>
+        <updated>2023-08-29T16:29:31.000Z</updated>
+        <summary type="html"><![CDATA[We studied the primary physical, chemical, to biological methods of meat tenderization so you can choose the technique that best fits your needs.]]></summary>
+        <author>
+            <name>Nik Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Re-Grand Opening"]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60440</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60440&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=re-grand-opening"/>
+        <updated>2023-08-29T16:22:55.000Z</updated>
+        <summary type="html"><![CDATA[From John Bell: I thought of you and your interest in the oddities of linguistic expression a few days ago when I noticed that the local Safeway supermarket had large signs up saying "RE-GRAND OPENING".   They had recently done some renovation in a corner of the store — enlarging the self-checkout and the Starbucks […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sangpyeongtongbo Gallery in Seoul, South Korea]]></title>
+        <id>https://www.atlasobscura.com/places/sanpyeongtongbo-gallery-seoul</id>
+        <link href="https://www.atlasobscura.com/places/sanpyeongtongbo-gallery-seoul"/>
+        <updated>2023-08-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduced in 1633, the Sangpyeong Tongbo coinage was first issued by a government famine relief organization called the Stabilization Office, or Sangpyeong-chong in Korean, during the reign of Emperor Injo. Variations of this coin would continue to be issued for years after this, up until 1884.
+
+A small section in the Bank of Korea’s currency museum, dubbed the Sangpyeongtongbo Gallery, focuses on the history and many varieties of the Joseon dynasty’s most widely circulated coinage.
+
+Reportedly, the Bank of Korea’s collection once possessed 3,137 different varieties, but it’s estimated that Sangpyeong Tongbo boasted over 5,000 varieties throughout its history, many now lost and undocumented. Originally minted at the Stabilization Office, the coins were later issued by other government offices as well, each variety bearing a different mint mark.
+
+In the mid-18th century, other marks were also introduced, indicating the number of the furnace the coin was cast in. They were represented by a single Chinese character, such as those standing for the Chinese zodiac, the five elements, and the Thousand Character Classic.
+
+The Bank of Korea also boasts a collection of cash-shaped amulets, including the so-called open-work charms. One is even shaped after a pair of fish (or maybe a fish cut open), a fanciful amulet you might not realize it’s even coin-shaped at first glance.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endangered California Condors Get Bird Flu Vaccine]]></title>
+        <id>C1313328-9748-4824-B74F1D826B8213F1</id>
+        <link href="https://www.scientificamerican.com/article/endangered-california-condors-get-bird-flu-vaccine/"/>
+        <updated>2023-08-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After avian influenza killed 21 endangered California Condors, government officials are testing a vaccine that could protect the massive scavengers from infection]]></summary>
+        <author>
+            <name>Meghan Bartels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolf Stand Mixer Review: Pricier Than a KitchenAid, but Is It Worth It?]]></title>
+        <id>https://www.seriouseats.com/wolf-gourmet-stand-mixer-review-7570693</id>
+        <link href="https://www.seriouseats.com/wolf-gourmet-stand-mixer-review-7570693"/>
+        <updated>2023-08-29T15:49:35.000Z</updated>
+        <summary type="html"><![CDATA[We tested the Wolf stand mixer—using it to whip cream and make pound cake, pizza dough, and chocolate chip cookies.]]></summary>
+        <author>
+            <name>Irvin Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Idalia Is Turning into a Monster Storm because of Heat in Gulf of Mexico]]></title>
+        <id>293B8645-DCF9-4B16-B150A1E4959CA0EF</id>
+        <link href="https://www.scientificamerican.com/article/hurricane-idalia-is-turning-into-a-monster-storm-because-of-heat-in-gulf-of-mexico/"/>
+        <updated>2023-08-29T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Abundant warm ocean waters are set to cause Hurricane Idalia to rapidly intensify into a major hurricane before striking the Gulf Coast of Florida and bringing significant impacts]]></summary>
+        <author>
+            <name>Andrea Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s how to break out of binary thinking on the Blue Line Extension project]]></title>
+        <id>https://www.minnpost.com/?p=2124841</id>
+        <link href="https://www.minnpost.com/community-voices/2023/08/heres-how-to-break-out-of-binary-thinking-on-the-blue-line-extension-project/"/>
+        <updated>2023-08-29T15:29:34.000Z</updated>
+        <summary type="html"><![CDATA[We must stay committed and accountable to the more challenging discussion that pairs high-quality transit and anti-displacement measures in ways that could make the Twin Cities a model for the nation.]]></summary>
+        <author>
+            <name>By Denise Butler, Karla Arredondo and Candy Bakion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Museum of Sa Huỳnh Culture in Hoi An, Vietnam]]></title>
+        <id>https://www.atlasobscura.com/places/museum-of-sa-huynh-culture</id>
+        <link href="https://www.atlasobscura.com/places/museum-of-sa-huynh-culture"/>
+        <updated>2023-08-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A UNESCO World Heritage Site, Hoi An Ancient Town is a popular destination in Vietnam, with narrow bustling streets full of historic monuments and traditional lanterns, charming shops and restaurants, as well as beach resorts close by.
+
+Among such vibrant places of interest, a small museum dedicated to local archaeology is not likely to attract crowds of tourists, especially when there are other museums focusing on Hoi An’s history and cultural lifestyles. Nevertheless, the Museum of Sa Huỳnh Culture offers a fascinating look into Vietnam’s Iron Age, which flourished in the region between the 10th century BCE and the 4th century CE.
+
+Named after a small village in Quảng Ngãi Province where the first site was found in 1909, Sa Huỳnh culture is known for its ironware, gemstone beads, and terra-cotta burial jars, not unlike those found in the Philippines.
+
+It is known that Sa Huỳnh, the Philippines, as well as Taiwan, Borneo, and Thailand, were connected along an ancient trade route. Sa Huỳnh is one of the few cultures that made ling-ling-o, a type of ancient ring-shaped amulet in the ancient Philippines, using jade imported from Taiwan.
+
+Founded in 1994, the Museum of Sa Huỳnh Culture is home to nearly 1,000 locally sourced artifacts, the largest of its kind. One of its major highlights is the exhibit of burial jars on the second floor.]]></summary>
+        <author>
+            <name>Atlas Obscura - Latest Articles and Places</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two local Emerging Craft Artists get a boost from the American Craft Council]]></title>
+        <id>https://www.minnpost.com/artscape/2023/08/two-local-emerging-craft-artists-get-a-boost-from-the-american-craft-council/</id>
+        <link href="https://www.minnpost.com/artscape/2023/08/two-local-emerging-craft-artists-get-a-boost-from-the-american-craft-council/"/>
+        <updated>2023-08-29T14:17:29.000Z</updated>
+        <summary type="html"><![CDATA[The three-month competitive program connects 11 early-career craft artists to leaders across the country as well as career opportunities.]]></summary>
+        <author>
+            <name>Sheila Regan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give Back: Volunteer at MinnPost Festival 2023]]></title>
+        <id>https://www.minnpost.com/?p=2124746</id>
+        <link href="https://www.minnpost.com/inside-minnpost/2023/08/give-back-volunteer-at-minnpost-festival-2023/"/>
+        <updated>2023-08-29T14:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Earn free entrance to all of MinnPost Festival's Saturday sessions by volunteering at the event! Positions available for people of all abilities.]]></summary>
+        <author>
+            <name>Bee Howerton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Creating joy is also an act of resistance’: Pro-choice rockers The Maneaters and friends gear up for ‘Do Re #MeToo 3’]]></title>
+        <id>https://www.minnpost.com/?p=2124412</id>
+        <link href="https://www.minnpost.com/arts-culture/2023/08/creating-joy-is-also-an-act-of-resistance-pro-choice-rockers-the-maneaters-and-friends-gear-up-for-do-re-metoo-3/"/>
+        <updated>2023-08-29T14:15:04.000Z</updated>
+        <summary type="html"><![CDATA[“I think all music kind of has roots in misogyny,” said Meghan Kreidler. “And having women sing these songs, it almost kind of makes it funny, and then you really hear it for what it is."]]></summary>
+        <author>
+            <name>Jim Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When it comes to American Indian gaming, some, but not all, tribes come up big winners]]></title>
+        <id>https://www.minnpost.com/?p=2124765</id>
+        <link href="https://www.minnpost.com/economy/2023/08/when-there-comes-to-american-indian-gaming-some-but-not-all-tribes-come-up-big-winners/"/>
+        <updated>2023-08-29T14:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Treasure Island Resort and Casino includes the second-largest hotel in the state, a golf course and employs between 15,000 and 17,000 people.]]></summary>
+        <author>
+            <name>Ana Radelat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Delays in Delivering Justice Lead to Harsher Sentencing]]></title>
+        <id>A5D6AA08-F67D-48AF-A81BFA0DADA8FF19</id>
+        <link href="https://www.scientificamerican.com/article/why-delays-in-delivering-justice-lead-to-harsher-sentencing/"/>
+        <updated>2023-08-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[People want swift punishment and will even penalize perpetrators for delays outside their control]]></summary>
+        <author>
+            <name>Timothy Kundro, Samir Nurmohamed, Hemant Kakkar, Salvatore Affinito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Go Bat-Watching]]></title>
+        <id>https://www.atlasobscura.com/articles/how-to-go-bat-watching</id>
+        <link href="https://www.atlasobscura.com/articles/how-to-go-bat-watching"/>
+        <updated>2023-08-29T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[If you spend a lot of time outdoors at night in the summer, you might be used to seeing shaky, silhouetted creatures flitting above. Maybe you’ve stopped to watch them skim over your garden at twilight, or you’ve caught them while you’re camping near a lake, or you just sense a brief flash of movement outside your window. Birdwatching is great, but bat-watching is another world entirely.
+
+Anybody can learn how to bat-watch, according to Merlin Tuttle and Teresa Nichta, cofounders of the nonprofit Merlin Tuttle’s Bat Conservation (MTBC) in Austin, Texas. And given the adaptability of these flying mammals, it’s quite likely there will be bats wherever you are. Tuttle has over 60 years of experience in the field and is considered one of the fathers of bat conservation in North America. Nicht…]]></summary>
+        <author>
+            <name>Casey Langton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Open Questions in Statistics (my talk this Fri, 1 Sep 2023, at the University of Michigan)]]></title>
+        <id>https://statmodeling.stat.columbia.edu/?p=49424</id>
+        <link href="https://statmodeling.stat.columbia.edu/2023/08/29/some-open-questions-in-statistics-my-talk-this-fri-1-sep-2003-at-the-university-of-michigan/"/>
+        <updated>2023-08-29T13:22:53.000Z</updated>
+        <summary type="html"><![CDATA[The University of Michigan biostatistics seminar, 12 noon in SPH II, Room M1020: Some Open Questions in Statistics Andrew Gelman, Dept of Statistics and Dept of Political Science, Columbia University Statistics is full of exciting developments and open questions. I … Continue reading →]]></summary>
+        <author>
+            <name>Andrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haunted Stays and Autumn Days in Colorado]]></title>
+        <id>https://www.atlasobscura.com/articles/haunted-stays-and-autumn-days-in-colorado</id>
+        <link href="https://www.atlasobscura.com/articles/haunted-stays-and-autumn-days-in-colorado"/>
+        <updated>2023-08-29T13:09:00.000Z</updated>
+        <summary type="html"><![CDATA[If an autumn breeze blowing through an alpine forest at the base of a majestic mountain fills your heart with joy, Colorado is a fantastic place to be in the fall. And if ghost-hunting in historic hotels, mines, and abandoned villages with Halloween around the corner is more your speed, Colorado also ticks those spooky boxes. Whether you have a penchant for mountain life or the afterlife, Colorado has your name written all over it. To help you make the most of your fall visit this year, we rounded up 10 ways to explore Colorado’s haunted and wholesome wonders, from scenic byways and sky-high railroads to spooky hotels, abandoned villages and more.
+
+1. The Stanley Hotel 
+
+
+Stephen King and his wife were on their way out of Boulder one weekend in the mid-1970s when foul weather forced the…]]></summary>
+        <author>
+            <name>Luke Fater</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Editors and Employers Should Evaluate the Use of AI in Writing]]></title>
+        <id>https://medium.com/p/cf30dc445c63</id>
+        <link href="https://writingcooperative.com/how-editors-and-employers-should-evaluate-the-use-of-ai-in-writing-cf30dc445c63?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-29T13:02:29.000Z</updated>
+        <summary type="html"><![CDATA[AI’s Transformative Impact on Creativity
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Daniel Lehewych, M.A</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: It’s Getting Hot in Here]]></title>
+        <id>https://www.atlasobscura.com/articles/podcast-hell-michigan</id>
+        <link href="https://www.atlasobscura.com/articles/podcast-hell-michigan"/>
+        <updated>2023-08-29T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.
+
+
+
+In this episode of The Atlas Obscura Podcast, we visit hell—by which, of course, we mean Hell, Michigan.
+
+Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinating people and hear their stories. Join us daily, Monday through Thursday, to explore a new wonder with cofounder Dylan Thuras and a neighborhood of Atlas Obscura reporters.]]></summary>
+        <author>
+            <name>The Podcast Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3M agrees to pay $6 billion in earplug settlement]]></title>
+        <id>https://www.minnpost.com/?p=2124827</id>
+        <link href="https://www.minnpost.com/glean/2023/08/exemptions-for-vaccines-growing-among-minnesota-kindergarteners-over-the-last-decade/"/>
+        <updated>2023-08-29T11:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Plus: State Fair attendance near 2019 record levels; Appeals Court rules driver did not break law when checking phone while driving; intense heat heading to Minnesota; and more.]]></summary>
+        <author>
+            <name>Jazzmine Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choose Your Own Design]]></title>
+        <id>https://medium.com/p/9592a99fb1a2</id>
+        <link href="https://writingcooperative.com/choose-your-own-design-9592a99fb1a2?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-08-29T11:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Justin Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will the Universe Ever Stop Expanding?]]></title>
+        <id>987E5FA4-D746-42EF-92F3F8F4D3819672</id>
+        <link href="https://www.scientificamerican.com/article/will-the-universe-ever-stop-expanding/"/>
+        <updated>2023-08-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientists debate what the future of the cosmos looks like and whether space will ever stop getting bigger and bigger]]></summary>
+        <author>
+            <name>Sarah Scoles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Air-Conditioning Technology Could Be the Future of Cool]]></title>
+        <id>D5318A15-34F8-476A-A5AB72AA44CFD878</id>
+        <link href="https://www.scientificamerican.com/article/new-air-conditioning-technology-could-be-the-future-of-cool/"/>
+        <updated>2023-08-29T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Standard AC units cool buildings but contribute to global warming. New technology aims to change that]]></summary>
+        <author>
+            <name>Lauren Leffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atmospheric absorption, spectra, units and code: companion page to the global warming explanation post]]></title>
+        <id>https://berthub.eu/articles/posts/a-bit-on-absorption-and-spectra/</id>
+        <link href="https://berthub.eu/articles/posts/a-bit-on-absorption-and-spectra/"/>
+        <updated>2023-08-29T08:21:10.000Z</updated>
+        <summary type="html"><![CDATA[This is a companion page to my blog post on global warming (which is currently not yet ready).
+I put up this post already as a teaser for my upcoming global warming post, which desperately needs expert review before I dare put it online. If you are an experienced climate/atmospheric scientist, would you please consider helping me out? Please email me on bert@hubertnet.nl if you can spare the time to skim my work for gross errors.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Message to Undergraduates]]></title>
+        <id>https://inframethodology.cbs.dk/?p=6482</id>
+        <link href="https://inframethodology.cbs.dk/?p=6482"/>
+        <updated>2023-08-29T07:42:49.000Z</updated>
+        <summary type="html"><![CDATA[It’s the start of the semester, so I had a look at the advice I give to undergraduates. It’s pretty good, if I do so say so myself. During your undergraduate studies, I strongly suggest you develop a sustainable habit of reading, writing and searching the literature. Make an effort to become academically literate by … Continue reading My Message to Undergraduates →]]></summary>
+        <author>
+            <name>Thomas Basbøll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farmworkers Face Increasing Heat Waves With Little Protection]]></title>
+        <id>https://undark.org/?p=79958</id>
+        <link href="https://undark.org/2023/08/29/farmworkers-face-increasing-heat-waves-with-little-protection/"/>
+        <updated>2023-08-29T07:04:28.000Z</updated>
+        <summary type="html"><![CDATA[A fifth of reported heat-related deaths between 2017 and 2022 were agricultural workers, yet only four states have adopted outdoor workplace heat-stress standards. Academics, occupational health specialists, and advocacy groups are calling attention to this underreported impact of climate change.]]></summary>
+        <author>
+            <name>Mónica Cordero, Investigate Midwest &amp; Eva Tesfaye, Harvest Public Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The geography of Indian grandmasters]]></title>
+        <id>https://marginalrevolution.com/?p=86620</id>
+        <link href="https://feeds.feedblitz.com/~/790525100/0/marginalrevolution~The-geography-of-Indian-grandmasters.html"/>
+        <updated>2023-08-29T06:24:16.000Z</updated>
+        <summary type="html"><![CDATA[The chart speaks for itself. pic.twitter.com/35erte95c6 — 𑀅𑀫𑀦 (@The_Equationist) August 28, 2023 Via Scott Sumner.
+
+The post The geography of Indian grandmasters appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to So Much For Subtlety.   Mechanically if you have ... by M
+In reply to N.K Anton.   Tamil Tiger Cubs do well in academics? ... by M
+In reply to sxb.   Is akin to Oak Hill Academy where basketball ... by TomWinTejas
+In reply to Brian Donohue.   Have upvoted Sailer's ignorance. ... by And 14 people
+In reply to Brian Donohue.   I'm not among the downvotes, but ... by Formerly K
+Plus 10 more...
+
+Related Stories
+
+Market Response to Racial Uprisings
+What’s Behind Her Smile? Health, Looks, and Self-Esteem
+Excess All-Cause Mortality in China After Ending the Zero COVID Policy]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R/Basel 2023]]></title>
+        <id>https://mirai-solutions.ch/news/2023/08/29/r-basel-2023/</id>
+        <link href="https://www.r-bloggers.com/2023/08/r-basel-2023/"/>
+        <updated>2023-08-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The regional R/Basel event took place at Roche on 21/07: Our presentation and impressions.
+R/Basel 2023 is an useR! regional event that took place at Roche main campus. The agenda with talks and presentations can be found at the following link.
+Base...
+
+
+
+Continue reading: R/Basel 2023]]></summary>
+        <author>
+            <name>Mirai Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Market Response to Racial Uprisings]]></title>
+        <id>https://marginalrevolution.com/?p=86618</id>
+        <link href="https://feeds.feedblitz.com/~/790518494/0/marginalrevolution~Market-Response-to-Racial-Uprisings.html"/>
+        <updated>2023-08-29T05:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Defund the police was never really in the cards: Do investors anticipate that demands for racial equity will impact companies? We explore this question in the context of the Black Lives Matter (BLM) movement—the largest racially motivated protest movement in U.S. history—and its effect on the U.S. policing industry using a novel dataset on publicly […]
+
+The post Market Response to Racial Uprisings appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to Engineer.   Now, when I see the word “equity,” ... by Et
+“… after the murder of George Floyd…”   Derek Chauvin ... by Calvin Hobbes
+In reply to Ricardo.   In the end. What does that mean? I am ... by So Much For Subtlety
+In reply to PHinton.   I am trying to wrap my head around the ... by Are you a yoga devotee?
+In reply to PHinton.   Your flexibility is impressive. When ... by Are you a yoga devotee?
+Plus 10 more...
+
+Related Stories
+
+What’s Behind Her Smile? Health, Looks, and Self-Esteem
+Excess All-Cause Mortality in China After Ending the Zero COVID Policy
+El Salvador and the elasticity of supply]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TidyTuesday 35: Exploring Fair Use Cases]]></title>
+        <id>https://lsinks.github.io/posts/2023-08-29-TidyTuesday-fair-use/tidytuesday35-fair-use.html</id>
+        <link href="https://www.r-bloggers.com/2023/08/tidytuesday-35-exploring-fair-use-cases/"/>
+        <updated>2023-08-29T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intro/Overview
+
+
+Continue reading: TidyTuesday 35: Exploring Fair Use Cases]]></summary>
+        <author>
+            <name>Louise E. Sinks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Categorical Data in R: A Guide with Engaging Charts Using the Iris Dataset]]></title>
+        <id>https://www.spsanderson.com/steveondata/posts/2023-08-29/index.html</id>
+        <link href="https://www.r-bloggers.com/2023/08/visualizing-categorical-data-in-r-a-guide-with-engaging-charts-using-the-iris-dataset/"/>
+        <updated>2023-08-29T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+
+Continue reading: Visualizing Categorical Data in R: A Guide with Engaging Charts Using the Iris Dataset]]></summary>
+        <author>
+            <name>Steven P. Sanderson II, MPH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now You’re Thinking with Arrays]]></title>
+        <id>https://jcarroll.com.au/2023/08/29/now-you-re-thinking-with-arrays/</id>
+        <link href="https://www.r-bloggers.com/2023/08/now-youre-thinking-with-arrays/"/>
+        <updated>2023-08-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I keep hearing the assertion that “writing APL/Haskell/etc… makes you think
+
+
+Continue reading: Now You’re Thinking with Arrays]]></summary>
+        <author>
+            <name>Jonathan Carroll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comment on July 2023 version:  content now complete, including index by ravivakil]]></title>
         <id>http://math216.wordpress.com/?p=2069#comment-425943</id>
@@ -168,6 +926,16 @@ The term “bay leaf” originally referred to foliage from the bay laurel tree.
 All of them are used to flavor food, either added to dishes whole or sometimes ground into a powder. However, the similarities often end there, and one type of bay leaf doesn’t necessarily make a goo…]]></summary>
         <author>
             <name>Andrew Coletti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow a Hurricane Expert into the Heart Of the Beast]]></title>
+        <id>3F2AF5D1-8E6C-4292-AA20EEB155AABF8E</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/follow-a-hurricane-expert-into-the-heart-of-the-beast1/"/>
+        <updated>2023-08-28T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Along with an expert, we take you into some of nature's most monstrous storms.]]></summary>
+        <author>
+            <name>Andrea Thompson</name>
         </author>
     </entry>
     <entry>
@@ -808,6 +1576,16 @@ Continue reading: Enhancing Your Histograms in R: Adding Vertical Lines for Bett
 Bunnings NPC Predictions for Wednesday Game for Round 4 first appeared on Stats Chat.]]></summary>
         <author>
             <name>David Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Path Minimization]]></title>
+        <id>https://xkcd.com/2821/</id>
+        <link href="https://xkcd.com/2821/"/>
+        <updated>2023-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/path_minimization.png" title="Of course you get an ice cream cone for the swimmer too! You're not a monster." alt="Of course you get an ice cream cone for the swimmer too! You're not a monster." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -18022,572 +18800,6 @@ Continue reading on The Writing Cooperative »]]></summary>
         <summary type="html"><![CDATA[A dazzling new map lights up the fruit fly brain]]></summary>
         <author>
             <name>Jordan Kinard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Own Dozens of Knives—And Love This $35 Cork-Lined Box for Storing Them]]></title>
-        <id>https://www.seriouseats.com/knifedock-review-7556906</id>
-        <link href="https://www.seriouseats.com/knifedock-review-7556906"/>
-        <updated>2023-07-31T12:41:47.000Z</updated>
-        <summary type="html"><![CDATA[This cork-lined box is an excellent, relatively inexpensive way to store knives in a drawer.]]></summary>
-        <author>
-            <name>Riddley Gemperlein-Schirm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Bone Vinyl]]></title>
-        <id>https://www.atlasobscura.com/articles/podcast-bone-vinyl</id>
-        <link href="https://www.atlasobscura.com/articles/podcast-bone-vinyl"/>
-        <updated>2023-07-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.
-
-
-
-In this episode of The Atlas Obscura Podcast, we hear the story of how, in the Soviet Union, X-rays didn’t just offer a look inside the human body. They also gave a glimpse of the outside world, thanks to music that was imprinted onto this unassuming medical tool.
-
-Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinating people and hear their stories. Join us daily, Monday through Thursday, to explore a new wonder with cofounder Dylan Thuras and a neighborhood of Atlas Obscura reporters.]]></summary>
-        <author>
-            <name>The Podcast Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which Is More Dangerous: Outer Space or the Deep Sea?]]></title>
-        <id>18CF90A4-F6B3-4A8E-9BC0CD95658D7FF2</id>
-        <link href="https://www.scientificamerican.com/article/which-is-more-dangerous-outer-space-or-the-deep-sea/"/>
-        <updated>2023-07-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explorers of space and the deep sea face similar dangers, but some differences make one realm safer than the other]]></summary>
-        <author>
-            <name>Syris Valentine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosquitoes Carry Nasty Diseases. Here's How to Protect Yourself]]></title>
-        <id>18371550-D8F9-47CF-B1F6CAF61BA5AE9C</id>
-        <link href="https://www.scientificamerican.com/article/mosquitoes-carry-nasty-diseases-heres-how-to-protect-yourself/"/>
-        <updated>2023-07-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Malaria grabs headlines, but U.S. residents are more likely to encounter West Nile virus and other mosquito-borne illnesses]]></summary>
-        <author>
-            <name>Meghan Bartels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eleven arrested in St. Paul human trafficking sting]]></title>
-        <id>https://www.minnpost.com/?p=2121002</id>
-        <link href="https://www.minnpost.com/glean/2023/07/eleven-arrested-in-st-paul-human-trafficking-sting/"/>
-        <updated>2023-07-31T11:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Minnesota Republicans call for special session on marijuana law; one dead, one injured in shooting in Minneapolis neighborhood; child found safe following AMBER Alert; and more.]]></summary>
-        <author>
-            <name>Jazzmine Jackson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Superman Has Roots in Arthurian Legend]]></title>
-        <id>https://medium.com/p/58a622dd8ccc</id>
-        <link href="https://writingcooperative.com/how-superman-has-roots-in-arthurian-legend-58a622dd8ccc?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-07-31T11:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Collective narratives reveal much about the essential longings of the human spirit
-Continue reading on The Writing Cooperative »]]></summary>
-        <author>
-            <name>Walter Rhein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rippling Waves of Plasma May Cause Massive Stars to 'Twinkle']]></title>
-        <id>4F75D582-9743-44D0-B51A500C986A3989</id>
-        <link href="https://www.scientificamerican.com/article/rippling-waves-of-plasma-may-cause-massive-stars-to-twinkle/"/>
-        <updated>2023-07-31T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Scientists have developed a new model to predict how much “gravity waves” could alter a star’s brightness]]></summary>
-        <author>
-            <name>Timmy Broderick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judging Love & Rockets No. 2 by its Cover]]></title>
-        <id>http://thepatronsaintofsuperheroes.wordpress.com/?p=12447</id>
-        <link href="https://thepatronsaintofsuperheroes.wordpress.com/2023/07/31/judging-love-rockets-no-2-by-its-cover/"/>
-        <updated>2023-07-31T10:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Jaime and Gilbert Hernandez created and self-published the black-and-white 68-page comics anthology Love and Rockets #1 in 1981, which Fantagraphics reprinted in 1982 with new colored front and back covers. Three more issues followed in 1983, including #2: Fantagraphics also published a three-part colored mini-series Mechanics in late 1985, reprinting Jaime Hernandez’s 6-part story “Mechanics” […]]]></summary>
-        <author>
-            <name>Chris Gavaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Old Can Humans Get?]]></title>
-        <id>6EA7B3F9-D2F8-4A90-91CC43DA746B4991</id>
-        <link href="https://www.scientificamerican.com/article/how-old-can-humans-get/"/>
-        <updated>2023-07-31T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[An expert on aging thinks humans could live to be 1,000 years old—with a few tweaks to our genetic “software”]]></summary>
-        <author>
-            <name>Bill Gifford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive: How a dean went about about correcting the scientific record even when at least one journal said he didn’t need to]]></title>
-        <id>https://retractionwatch.com/?p=127633</id>
-        <link href="https://retractionwatch.com/2023/07/31/exclusive-how-a-dean-went-about-about-correcting-the-scientific-record/"/>
-        <updated>2023-07-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Less than a year after he became dean of the University of Alabama Birmingham School of Dentistry, an uncomfortable email landed in Russell Taichman’s inbox. Overlapping and duplicated panels in one of Taichman’s 2005 papers were among a list of complaints relayed by the publisher of Cellular Signalling in the April 2020 correspondence – complaints … Continue reading Exclusive: How a dean went about about correcting the scientific record even when at least one journal said he didn’t need to]]></summary>
-        <author>
-            <name>Lori Youmshajekian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puzzle Monday: On the Map Crossword]]></title>
-        <id>https://www.atlasobscura.com/articles/puzzle-monday-on-the-map-crossword</id>
-        <link href="https://www.atlasobscura.com/articles/puzzle-monday-on-the-map-crossword"/>
-        <updated>2023-07-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Atlas Obscura's fortnightly crossword comes to us from creator Laura Braunstein and editor Stella Zawistowski, members of Inkubator, which publishes crossword puzzles by women and nonbinary constructors. You can see more puzzles in their book, Inkubator Crosswords: 100 Audacious Puzzles from Women and Nonbinary Creators.
-
-You can solve the puzzle below, or download it in .pdf or .puz. Note that the links in the clues will take you to Atlas Obscura pages that may contain the answer. Happy solving!]]></summary>
-        <author>
-            <name>AO Puzzles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Peltzman on American happiness]]></title>
-        <id>https://marginalrevolution.com/?p=86423</id>
-        <link href="https://feeds.feedblitz.com/~/762236012/0/marginalrevolution~Sam-Peltzman-on-American-happiness.html"/>
-        <updated>2023-07-31T08:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Sam is still writing good papers: Since 1972 the General Social Survey (GSS) has asked a representative sample of US adults “… [are] you …very happy, pretty happy, or not too happy?” Overall, the population is reasonably happy even after a mild recent decline. I focus on differences along standard socio demographic dimensions: age, race, […]
-
-The post Sam Peltzman on American happiness appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-My theory, or maybe it's a known theory by now, is that ... by Mike W
-In reply to Umm, there was little USA rahing going on in 1976. ... by community notes
-In reply to Umm, there was little USA rahing going on in 1976. ... by PHinton
-In reply to steve.   Yes, almost like I explicitly said ... by Sure
-In reply to steve.   I think each one of us has an internal set ... by Rahul
-Plus 10 more...
-
-Related Stories
-
-Suicide rates
-The Rise in American Pain
-David J. Deming now has a Substack]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why It’s Hard to Track Maternal Deaths Under Abortion Bans]]></title>
-        <id>https://undark.org/?p=79324</id>
-        <link href="https://undark.org/2023/07/31/why-its-hard-to-track-maternal-deaths-under-abortion-bans/"/>
-        <updated>2023-07-31T07:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Post-Roe, pregnancy-related deaths in the U.S. are expected to rise. Advocates say it’s important to gather maternal mortality data to understand the life-or-death consequences of the restrictions. But determining whether those deaths were due to an inability to obtain an abortion can be difficult.]]></summary>
-        <author>
-            <name>Kavitha Surana, ProPublica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to eat well in Sri Lanka]]></title>
-        <id>https://marginalrevolution.com/?p=86418</id>
-        <link href="https://feeds.feedblitz.com/~/762173705/0/marginalrevolution~How-to-eat-well-in-Sri-Lanka.html"/>
-        <updated>2023-07-31T04:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Food here is excellent, but eating well involves some counterintuitive advice. For one thing, there are few “undiscovered gems” along the roadways.  It is just not a thing here, and several Sri Lanka residents have confirmed this to me (one person suggested there used to be lots of them, but they have faded).  During my […]
-
-The post How to eat well in Sri Lanka appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to bazza.   Well they did storm the palace and forced ... by EdR
-In reply to MMK.   Taking inspiration from eco-tourism Pakistan ... by Rahul
-In reply to JWatts.   I'm not quite sure what to do with the ... by dearieme
-In reply to Patrick.   Sri Lanka has a legitimate tourism ... by MMK
-In reply to Umm, there was little USA rahing going on in 1976. ... by dearieme
-Plus 10 more...
-
-Related Stories
-
-Sri Lanka travel notes
-The Economics of Export Bans]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Weird Trick to Make Ggplot2 Columns the Same Width]]></title>
-        <id>https://pacha.dev/blog/2023/07/31/ggplot-columns/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/07/one-weird-trick-to-make-ggplot2-columns-the-same-width-2/"/>
-        <updated>2023-07-31T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[R and Shiny Training: If you find this blog to be interesting, please note that I offer personalized and group-based training sessions that may be reserved through Buy me a Coffee. Additionally, I provide training services in the Spanish language ...
-
-
-
-Continue reading: One Weird Trick to Make Ggplot2 Columns the Same Width]]></summary>
-        <author>
-            <name>pacha.dev/blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Weird Trick to Make Ggplot2 Columns the Same Width]]></title>
-        <id>https://pacha.dev/blog/2023/07/31/tintin/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/07/one-weird-trick-to-make-ggplot2-columns-the-same-width/"/>
-        <updated>2023-07-31T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have used ggplot2, you probably wondered how to make all columns the same width.
-We can also center the columns and make columns in the same category more sep...
-
-
-
-Continue reading: One Weird Trick to Make Ggplot2 Columns the Same Width]]></summary>
-        <author>
-            <name>pacha.dev/blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The replicate() function in R]]></title>
-        <id>https://www.spsanderson.com/steveondata/posts/2023-07-31/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/07/the-replicate-function-in-r/"/>
-        <updated>2023-07-31T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-Continue reading: The replicate() function in R]]></summary>
-        <author>
-            <name>Steven P. Sanderson II, MPH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI to protect against AI image manipulation]]></title>
-        <id>https://news.mit.edu/2023/using-ai-protect-against-ai-image-manipulation-0731</id>
-        <link href="https://news.mit.edu/2023/using-ai-protect-against-ai-image-manipulation-0731"/>
-        <updated>2023-07-31T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“PhotoGuard,” developed by MIT CSAIL researchers, prevents unauthorized image manipulation, safeguarding authenticity in the era of advanced generative models.]]></summary>
-        <author>
-            <name>Rachel Gordon | MIT CSAIL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear model and Transformations]]></title>
-        <id>/r-blog/2023-07-31-r-markdown/linearsystems/</id>
-        <link href="https://www.r-bloggers.com/2023/07/linear-model-and-transformations/"/>
-        <updated>2023-07-31T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-
-
-
-Continue reading: Linear model and Transformations]]></summary>
-        <author>
-            <name>R-Blog on Data modelling to develop ...</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419838</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419838"/>
-        <updated>2023-07-31T00:09:27.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-416502">Clemens</a>.
-
-You are right on all three counts, and they are all patched.  Thanks!]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419837</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419837"/>
-        <updated>2023-07-31T00:06:13.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-417945">Pengcheng Zhang</a>.
-
-Thanks, now fixed!  (Unfortunately I will have added a lot of errors like this, while making the index, where spaces have accidentally disappeared.)]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 2023 Challenge]]></title>
-        <id>https://www.research.ibm.com/haifa/ponderthis/challenges/August2023.html</id>
-        <link href="https://www.research.ibm.com/haifa/ponderthis/challenges/August2023.html"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Square-triangular numbers]]></summary>
-        <author>
-            <name>IBM Ponder This</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using flexdashboard to create a GitHub Actions-powered YouTube feed]]></title>
-        <id>https://compassionate-benz-9a12b2.netlify.app/blog/automated-youtube-dashboard/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/07/using-flexdashboard-to-create-a-github-actions-powered-youtube-feed-2/"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Utagawa Yoshikazu, Early Foreign Photographer in Yokohama
-R-Ladies organizes a multitude of inspiring and exciting Meetups worldwide. However, due to work, time zones, or other commitments, I can’t attend them all. Fortunately, since the pand...
-
-
-
-Continue reading: Using flexdashboard to create a GitHub Actions-powered YouTube feed]]></summary>
-        <author>
-            <name>%&amp;#62;% dreams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moon]]></title>
-        <id>https://xkcd.com/2809/</id>
-        <link href="https://xkcd.com/2809/"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/moon.png" title="I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts." alt="I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419833</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419833"/>
-        <updated>2023-07-30T23:59:49.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-417886">Jan</a>.
-
-No worries; I value having people reading as closely as you!]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419832</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419832"/>
-        <updated>2023-07-30T23:59:12.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-416978">Su, Tao</a>.
-
-That's a good idea - it is easy to say given what the reader knows, and an important concept.  Likely I'll add it in the next week.  (And thank you for the kind words.)]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419831</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419831"/>
-        <updated>2023-07-30T23:57:59.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-418204">Swan Klein</a>.
-
-Thanks!  I see what you mean, and it definitely could be.  The one with times maps to the one with the otimes, which maps to the right side of that map in the notes.  So we're both right.   I want to write it like this so the two vector vector bundles (the two sides of the "\times") are most visible.
-
-(And thanks for your other suggestions and corrections you sent by email; I think I owe you a response, and if so, hope to get to it soon.)]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419829</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419829"/>
-        <updated>2023-07-30T23:56:05.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-418782">Gabe O</a>.
-
-Thanks, now fixed!]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by ravivakil]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419828</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419828"/>
-        <updated>2023-07-30T23:55:52.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419755">Gabe O</a>.
-
-Thanks, now fixed!  I'm now properly doing the index, which causes spacing errors like this when I'm not careful, and these are *really* hard to catch.]]></summary>
-        <author>
-            <name>ravivakil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #0 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53658</id>
-        <link href="https://xianblog.wordpress.com/2023/07/31/contextual-integrity-for-differential-privacy-0-23w5106/"/>
-        <updated>2023-07-30T22:23:14.000Z</updated>
-        <summary type="html"><![CDATA[The Banff International Research Station will host the “Contextual Integrity for Differential Privacy” workshop at the UBC Okanagan campus in Kelowna, B.C., from July 30 to August 4, 2023. Privacy concerns are becoming a major obstacle to using data, and it is often unclear how current regulations should translate into technology. Over the last decade, […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contextual Integrity for Differential Privacy #0 [23w5106]]]></title>
-        <id>http://xianblog.wordpress.com/?p=53658</id>
-        <link href="https://xianblog.wordpress.com/2023/07/31/contextual-integrity-for-differential-privacy-0-23w5106/"/>
-        <updated>2023-07-30T22:23:14.000Z</updated>
-        <summary type="html"><![CDATA[The Banff International Research Station will host the “Contextual Integrity for Differential Privacy” workshop at the UBC Okanagan campus in Kelowna, B.C., from July 30 to August 4, 2023. Privacy concerns are becoming a major obstacle to using data, and it is often unclear how current regulations should translate into technology. Over the last decade, […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[building trust in emulators]]></title>
-        <id>http://hoggresearch.blogspot.com/2023/07/building-trust-in-emulators.html</id>
-        <link href="http://hoggresearch.blogspot.com/2023/07/building-trust-in-emulators.html"/>
-        <updated>2023-07-30T21:59:00.000Z</updated>
-        <summary type="html"><![CDATA[I started writing in a possible grant proposal (that would be in collaboration with others) about the trustworthiness of machine-learning emulators. Emulators are systems that learn the input–output relationship of a computationally expensive simulation and produce (or speed the computation of) new simulation outputs, reducing total computational requirements for a given number of simulations. These are so important now that the ESA  and  data-analysis plans crucially involve emulation.EuclidSimons Observatory
-The issue is: How do we trust that the emulators are giving good outputs? There is no obvious way to test them, except by comparing to held-out training data. But in large-scale structure contexts, no amount of held-out data can test the enormous input data space. I don't know how we will ever trust such systems (and damn do we need to!), but I have some ideas about how to improve the situation. One involves enforcing physics symmetries on the emulators. Another involves running adversarial attacks on them.]]></summary>
-        <author>
-            <name>Planet Musings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Challenges of Writing About Climate Change]]></title>
-        <id>https://medium.com/p/18af1de92658</id>
-        <link href="https://writingcooperative.com/the-challenges-of-writing-about-climate-change-18af1de92658?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-07-30T21:01:57.000Z</updated>
-        <summary type="html"><![CDATA[How do we assign words to this invisible enemy?
-Continue reading on The Writing Cooperative »]]></summary>
-        <author>
-            <name>Robert Cutrera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One simple reason why travel is important]]></title>
-        <id>https://marginalrevolution.com/?p=86424</id>
-        <link href="https://feeds.feedblitz.com/~/762044297/0/marginalrevolution~One-simple-reason-why-travel-is-important.html"/>
-        <updated>2023-07-30T18:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Travel makes you a better reader, especially for history, geography, (factual) economics, and political science. I have been reading two good books about Sri Lanka, namely K.M. de Silva’s Sri Lanka and the Defeat of the LTTE and also his A History of Sri Lanka.  Both would be very difficult to follow if I didn’t […]
-
-The post One simple reason why travel is important appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to Grape Fruit.   >One simple reason why travel is ... by Derek22
-The most visited and venerated places in the world for the past ... by Martin Gray
-In reply to Excursive.   It takes a certain poverty of soul to ... by Excursive
-In reply to skyzyks.   She writes: “Travel prevents us from ... by Excursive
-In reply to Tom T..   I hope you didn't need to charge your ... by EdR
-Plus 10 more...
-
-Related Stories
-
-Sri Lanka travel notes
-The Amy Finkelstein and Liran Einav health care plan
-On-line, Chinese production of *The Three-Body Problem*]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment on June 2023 version:  potentially finalized content by Gabe O]]></title>
-        <id>http://math216.wordpress.com/?p=2063#comment-419755</id>
-        <link href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-419755"/>
-        <updated>2023-07-30T18:18:18.000Z</updated>
-        <summary type="html"><![CDATA[In reply to <a href="https://math216.wordpress.com/2023/07/01/june-2023-version-potentially-finalized-content/#comment-418782">Gabe O</a>.
-
-Another typo in Def. 10.7.7. ..., we say \rho: X^{red}\to X is "the" reduction of *X if*, missing a space between "X" and "if"]]></summary>
-        <author>
-            <name>Gabe O</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=86416</id>
-        <link href="https://feeds.feedblitz.com/~/762017237/0/marginalrevolution~Sunday-assorted-links.html"/>
-        <updated>2023-07-30T16:01:31.000Z</updated>
-        <summary type="html"><![CDATA[1. Questions that are rarely asked: “At the breakfast bar and wondering if having everybody touch the same pair of tongs in the same place is proven to be better than having everybody simply pick up their own piece of bread” 2. The importance of high school guidance counselors. 3. Is fish and chips disappearing?  […]
-
-The post Sunday assorted links appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to Hazel Meade.   This seems unlikely to me. Why ... by whut
-In reply to MikeP.   >I don't know whether this is real Bill or ... by Derek22
-#1   Absent extenuating circumstances (you know that you are ... by Phil S.
-Investing more in guidance counselors seems like low-hanging ... by Phil S.
-1 &7 not surprised russia shot at ufos. russia once mistakenly ... by cornpopsrustyrazor
-Plus 10 more...]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Entanglement]]></title>
-        <id>https://blog.bguarisma.com/quantum-entanglement</id>
-        <link href="https://www.r-bloggers.com/2023/07/quantum-entanglement/"/>
-        <updated>2023-07-30T15:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Cover photo by inkoly ref. 1185114379 on iStock
-
-
-Continue reading: Quantum Entanglement]]></summary>
-        <author>
-            <name>Boris Guarisma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Thread 287]]></title>
-        <id>https://astralcodexten.substack.com/p/open-thread-287</id>
-        <link href="https://astralcodexten.substack.com/p/open-thread-287"/>
-        <updated>2023-07-30T15:10:06.000Z</updated>
-        <summary type="html"><![CDATA[....]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[noteworthy.mix 07-30-23]]></title>
-        <id>https://iwebthings.joejenett.com/noteworthy-mix-07-30-23/</id>
-        <link href="https://iwebthings.joejenett.com/noteworthy-mix-07-30-23/"/>
-        <updated>2023-07-30T13:57:51.000Z</updated>
-        <summary type="html"><![CDATA[GradientGenerator
-“Create advanced CSS gradients”
-WORDWARD DRAW 
-An odd little word game.
-Decentralized vs. Federated 📌
-“I often see the terms decentralized and federated used somewhat interchangeably. So I wanted to provide a simple explanation and example of the difference.”
-Snowflake ❄️ 📌
-“...a system that allows people from all over the world to access censored websites and applications”
-overpass turbo 📌
-“...a web-based data filtering tool for OpenStreetMap”]]></summary>
-        <author>
-            <name>i.webthings.hub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-validation FAQ]]></title>
-        <id>https://statmodeling.stat.columbia.edu/?p=48460</id>
-        <link href="https://statmodeling.stat.columbia.edu/2023/07/30/cross-validation-faq/"/>
-        <updated>2023-07-30T13:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Here it is! It’s from Aki. Aki linked to it last year in a post, “Moving cross-validation from a research idea to a routine step in Bayesian data analysis.” But I thought the FAQ deserved its own post. May it … Continue reading →]]></summary>
-        <author>
-            <name>Andrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Rules For Balancing Story Details]]></title>
-        <id>https://medium.com/p/28311016a2f4</id>
-        <link href="https://writingcooperative.com/some-rules-for-balancing-story-details-28311016a2f4?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-07-30T13:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Here are some easy ways to add more to your storytelling
-Continue reading on The Writing Cooperative »]]></summary>
-        <author>
-            <name>Asher "Zach" Neuman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Minimalist system monitor for macOS’]]></title>
-        <id>https://iwebthings.joejenett.com/minimalist-system-monitor-for-macos/</id>
-        <link href="https://iwebthings.joejenett.com/minimalist-system-monitor-for-macos/"/>
-        <updated>2023-07-30T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[VitalSigns: macOS System Monitor
-[e2b]
-Note: This is not an endorsement.]]></summary>
-        <author>
-            <name>i.webthings.hub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leibniz-Institut für Astrophysik Potsdam in Potsdam, Germany]]></title>
-        <id>https://www.atlasobscura.com/places/leibniz-gemeinschaft-https-www-leibniz-gemeinschaft-de-leibniz-institut-fur-astrophysik-potsdam</id>
-        <link href="https://www.atlasobscura.com/places/leibniz-gemeinschaft-https-www-leibniz-gemeinschaft-de-leibniz-institut-fur-astrophysik-potsdam"/>
-        <updated>2023-07-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Leibniz Institute for Astrophysics Potsdam (AIP) is primarily focused on astrophysical research studying various aspects of the universe, from the Sun to the development of the cosmos. All of this is at a historical campus that dates back to the beginning of the 20th century. 
-
-The most historic building on the campus is the Humboldt-Haus house, which houses the second largest telescope in the country, just after the Großen Refraktor, on its roof.
-
-Several other telescopes and domes dot the area, including a large one that houses the institute library. The Spectrumweg is also a feature that can be found in this place.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
         </author>
     </entry>
     <entry>
