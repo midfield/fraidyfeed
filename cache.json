@@ -49,6 +49,16 @@
       "siteUrl": "https://golem.ph.utexas.edu/category/",
       "articles": [
         {
+          "id": "https://golem.ph.utexas.edu/category/2023/09/linear_actegories.html",
+          "author": null,
+          "description": "Concurrency is the process of running different processes in non-sequential order while not affecting the desired output.",
+          "link": "https://golem.ph.utexas.edu/category/2023/09/linear_actegories.html",
+          "publishedOn": "2023-09-07T15:46:37.000Z",
+          "wordCount": 2995,
+          "title": "Linear Actegories",
+          "imageUrl": null
+        },
+        {
           "id": "https://golem.ph.utexas.edu/category/2023/09/an_introduction_to_linearly_di.html",
           "author": null,
           "description": "LDCs are categories with two tensor products linked by coherent linear (or weak) distributors. The significance of this theoretical development stems from many situations in logic, theoretical computer science, and category theory where tensor products play a key role.",
@@ -212,6 +222,16 @@
       "feedUrl": "https://statmodeling.stat.columbia.edu/feed/",
       "siteUrl": "https://statmodeling.stat.columbia.edu",
       "articles": [
+        {
+          "id": "https://statmodeling.stat.columbia.edu/?p=48989",
+          "author": "Andrew",
+          "description": "Art Owen writes: Here’s a figure you might like. I generated a bunch of data sets constructed to have true effect size 1 and power equal to 0.06. The first 100 confidence intervals that exclude 0 are shown. Their endpoints … Continue reading →",
+          "link": "https://statmodeling.stat.columbia.edu/2023/09/07/this-is-what-power-06-looks-like-visualized-by-art-owen/",
+          "publishedOn": "2023-09-07T13:05:54.000Z",
+          "wordCount": 3163,
+          "title": "This is what “power = .06” looks like (visualized by Art Owen).",
+          "imageUrl": null
+        },
         {
           "id": "https://statmodeling.stat.columbia.edu/?p=48986",
           "author": "Andrew",
@@ -631,16 +651,6 @@
           "wordCount": 7054,
           "title": "(from 2017 but still relevant):  What Has the Internet Done to Media?",
           "imageUrl": null
-        },
-        {
-          "id": "https://statmodeling.stat.columbia.edu/?p=49253",
-          "author": "Andrew",
-          "description": "A few years ago there was a cottage industry among some contrarian journalists, making use of the fact that 1998 was a particularly hot year (by the standards of its period) to cast doubt on the global warming trend. Ummmm, … Continue reading →",
-          "link": "https://statmodeling.stat.columbia.edu/2023/08/08/freakonomics-and-global-warming-what-happens-to-a-team-of-rogues-when-there-is-no-longer-a-stable-center-to-push-against/",
-          "publishedOn": "2023-08-08T13:35:49.000Z",
-          "wordCount": 9655,
-          "title": "Freakonomics and global warming:  What happens to a team of “rogues” when there is no longer a stable center to push against?  (a general problem with edgelords)",
-          "imageUrl": null
         }
       ]
     },
@@ -655,6 +665,86 @@
       "feedUrl": "https://www.atlasobscura.com/feeds/latest",
       "siteUrl": "https://www.atlasobscura.com",
       "articles": [
+        {
+          "id": "https://www.atlasobscura.com/articles/ai-foraging-guides",
+          "author": "Andrew Coletti",
+          "description": "Saturated images of mushrooms and wildflowers stand out against a bright-green book cover. The title is wordy, but enticing: The Forager's Harvest Bible: The Ultimate Guide to Wild Food and Edible Plants Foraging, Identification and Harvesting. In his headshot, the author, Hector Lawson, smiles sternly but gently. His biography tells us that he was “raised amidst nature, on the outskirts of a bustling city,” though it doesn’t say where. Nor does it list Lawson’s other publications or his professional or educational background; there are just a few bland paragraphs about his “desire to reconnect with nature.” Googling “Hector Lawson” with “foraging,” or doing a reverse image search of the headshot, turns up nothing except the book.\n\r\nThis is because Hector Lawson, alleged foraging expert, l…",
+          "link": "https://www.atlasobscura.com/articles/ai-foraging-guides",
+          "publishedOn": "2023-09-07T21:40:00.000Z",
+          "wordCount": 6974,
+          "title": "Would You Trust AI to Help You Forage?",
+          "imageUrl": "https://img.atlasobscura.com/FcoZDoTeOefCLZXQzYylEoaDuB8fx2jbYphDXorjiiU/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yYTk5Mjk1YmI0/MjU5ZDJiYTlfTVAw/RDZDLmpwZw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/mexican-gem-covered-beetle-pets",
+          "author": "Roxanne Hoorn",
+          "description": "In the vast insect collection of the Smithsonian National Museum of Natural History in Washington, D.C., one small box of beetles stands out from countless others. Currently it sits on the desk of Floyd Shockley, the museum’s entomology collections manager. He’s spent his spare summer hours in 2023 meticulously working on the contents of this box—re-placing rhinestones and replica rubies. The box contains 28 maquech beetles: bedazzled bugs once meant to be worn as living jewelry.\n\r\n“I can’t say for sure, but I’d wager this is one of the best and most well-rounded collections in terms of different decorative styles of maquechs,” he says.\n\r\nMaquech, or makech, beetles are objects of legend, and also tourist trinkets and sources of concern for both border control and conservationists. Sold al…",
+          "link": "https://www.atlasobscura.com/articles/mexican-gem-covered-beetle-pets",
+          "publishedOn": "2023-09-07T20:00:00.000Z",
+          "wordCount": 5847,
+          "title": "The Living, Breathing Brooches of the Yucatán",
+          "imageUrl": "https://img.atlasobscura.com/pDBDMZW0xnJi7EWnsbiaKRc7NmWjMH15m_Y6UWjmkGU/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85YzFkMDlkMy0z/NWI5LTRjMjItYWE2/OS03YzE4N2UyMGY5/NjAxNmNhMWMxOTQ1/ZThhYTI5ZWJfTWFr/ZWNoLTEuanBn.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/last-gas-lamp-theater-england",
+          "author": "Jenny Elliott",
+          "description": "There’s a low hiss, a spark, then a momentary brilliant blaze. The outline of red velvet seats, ornate moldings, and a sweeping balcony emerge from the shadows, all now illuminated by an apricot glow. “I think of it as waking up the building,” says Wendy Cook, Head of Cinema at the Hyde Park Picture House, as she stands in the empty auditorium, long lighter in hand.\n\r\nCook has worked at this small neighborhood cinema in Leeds, England, since she began selling sweets here 20 years ago. She estimates she’s lit the cinema’s nine gas lamps thousands of times. “It’s just part of my daily routine,” she says, “like muscle memory.”\n\r\nYet Cook’s everyday ritual is wholly extraordinary; this Edwardian picture house, which has been operating since shortly before World War I, is thought to be the only…",
+          "link": "https://www.atlasobscura.com/articles/last-gas-lamp-theater-england",
+          "publishedOn": "2023-09-07T18:24:00.000Z",
+          "wordCount": 6755,
+          "title": "How to Ensure the Last Gas-Lamp Theater in the World Doesn’t Blow Up",
+          "imageUrl": "https://img.atlasobscura.com/U4ScvnIfHwfvDjYStqDymY7zf2rNPPuyn71kqRNQYp4/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82OGE0YzU0OC0w/MzU5LTQ5NWEtYWRh/Ny0yNjQ3Mjg1YmY2/Y2Y5Njc1OGYxNWNk/MTg1ODdjNzJfUGlj/dHVyZSBIb3VzZSBQ/cm9qZWN0IHdvcmtz/IC0gSnVuZSAyMDIz/IC0gMTQgKENyZWRp/dCAtIE9sbGllIEpl/bmtpbnMpLmpwZw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/manresa-castle-port-townsend",
+          "author": null,
+          "description": "Nestled atop a hill in Port Townsend, Washington, Manresa Castle is not only known for its historic charm but also for the eerie tales that linger within its walls. With a reputation for being haunted, the castle has piqued the curiosity of those seeking a spine-tingling experience.\n\r\nDating back to the late 1800s, the castle's storied past is said to be intertwined with lingering spirits. Whispers of ghostly apparitions, mysterious footsteps echoing through empty corridors, and inexplicable cold spots have contributed to the castle's haunted reputation. Legends suggest that some of the castle's former inhabitants still roam its halls, adding an element of intrigue for those intrigued by the supernatural.\n\r\nGuests who dare to stay at Manresa Castle may find themselves immersed in an atmosphere where history and hauntings intertwine. Some have reported unexplained encounters, such as flickering lights, doors creaking open on their own, and unaccountable whispers in the night. The castle's ambiance seems to invite both curiosity and trepidation, offering a unique opportunity for brave souls to explore the realms of the unknown.\n\r\nWhether you're a skeptic or a believer, the haunted rumors surrounding Manresa Castle add an extra layer of fascination to its already captivating allure. Those seeking an unforgettable experience, where the line between reality and the paranormal blurs, may find themselves drawn to this historic and enigmatic destination.\n\r\nAn episode of Travel Channel’s Ghost Adventures filmed here in 2015.",
+          "link": "https://www.atlasobscura.com/places/manresa-castle-port-townsend",
+          "publishedOn": "2023-09-07T18:00:00.000Z",
+          "wordCount": 3956,
+          "title": "Manresa Castle in Port Townsend, Washington",
+          "imageUrl": "https://img.atlasobscura.com/U3voEg8ChVIZ8vD_wgJbitPPI61L1azJn6djzyN3AOw/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNjYy/NDMzMy1lYzJmLTRi/YTktOTI2Ni0xODg1/NWEzNzc5MWE1MGY0/NzMwOTIwYTc2MDcx/MTBfMjU2MHB4LU1h/bnJlc2FfQ2FzdGxl/XzA0LmpwZw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/jcpenney-mother-store-wyoming",
+          "author": null,
+          "description": "Ask an American of a certain age what they think of when they hear the name “J.C. Penney,” and you’ll likely be met with a description of big box stores in dying shopping malls of various cities and suburbs. And yet, this retail giant actually got its start in the remote rural town of Kemmerer, Wyoming, where its “Mother Store” still exists today.\n\r\nJames Cash Penney, Jr. was born outside Hamilton, Missouri, in 1875. After moving west in hopes that the weather would be good for his health, he ended up working for Thomas Callahan and Guy Johnson, who owned the Golden Rule dry goods store chain operating throughout Colorado and Wyoming. In 1902, Callahan and Johnson gave Penney seed money to open a store in Ogden, Utah. Believing that market to be too large, Penney suggested Kemmerer as an a…",
+          "link": "https://www.atlasobscura.com/places/jcpenney-mother-store-wyoming",
+          "publishedOn": "2023-09-07T17:00:00.000Z",
+          "wordCount": 4264,
+          "title": "JCPenney Mother Store in Kemmerer, Wyoming",
+          "imageUrl": "https://img.atlasobscura.com/EdSSx8ftXWeIijY-85eYdQnWWjN6vgipNkkHSCxdGDU/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NGQy/M2IyMS1hNjJhLTQw/ZWYtODFjMy0yM2Jm/MzY4MDA4N2RmYjdi/MTE1NDQwYTBjYmQ2/ZjJfSmNwZW5uZXkt/bW90aGVyLXN0b3Jl/LmpwZw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/otaru-herring-palace",
+          "author": null,
+          "description": "Otaru was known for its herring fisheries during the last half of the 19th century. Its golden year was 1897, when it scored a record total of a near-million ton of herrings—accounting for six-tenths of that year's national catch.\n\r\nLike a gold rush, the abundance of fish attracted opportunity-seekers and drove them out to sea. Collectively referred to as yan-shū in the north, these fishermen were known for their rough nature and their sea shanty called Sōran Bushi, which continues to be remembered as one of Japan's most iconic folk songs.\n\r\nIn Otaru, the yan-shū lodged in dormitories at massive mansions called Nishin-Goten. Built by the nouveau riche who had made their fortunes from huge catches of herrings, these wooden \"herring palaces\" typically stood on the hilltop by the seaside so that any shoal of herrings was not missed.\n\r\nFew herring palaces have survived over the years, but few of those standing today are herring palaces, technically speaking. A majority of them are either banya, smaller-scale lodges for the herring fishermen, or villas built by the fishery bosses for themselves.\n\r\nStanding on a hilltop along the Ishikari Bay coastline is the Otaru Herring Palace, the \"real\" Nishin-Goten completed in 1897. Initially built in Shakotan, it was moved to its current location in 1958 and is now managed by the Otaru Aquarium as a historic monument and museum.\n\r\nOn display are mainly fishermen’s equipment and old photographs, as well as scenes from Otaru’s fishery past re-enacted by dolls and in dioramas. Still, the main exhibit is the building itself. The lodging area, the spacious hall, and the wooden beams, all hearken back to the heyday of Otaru's herring era. Visitors can also feel the past in fishermen's clothes that can be worn for free.",
+          "link": "https://www.atlasobscura.com/places/otaru-herring-palace",
+          "publishedOn": "2023-09-07T16:00:00.000Z",
+          "wordCount": 4203,
+          "title": "Otaru Herring Palace in Otaru, Japan",
+          "imageUrl": "https://img.atlasobscura.com/a1XyciWR52jR7WKTtClNV9-kzYjCgG_VDQxryWHGVII/rt:fit/w:600/c:5988:3992:nowe:4:8/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNGFh/NTQ2Ny0wZTFiLTQx/YjktOTQxYy1hM2Vh/ZmQ4OWM1MzhiZTFi/NTZkOGZmODMwYTAy/YzBfMkFGNEE5OEMt/MTU2OS00RTVDLUJC/NzgtMjkwQkI5NjEx/QTI5LmpwZWc.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/places/ghost-riders-of-the-chisholm-trail",
+          "author": null,
+          "description": "As travelers cross the Kansas-Oklahoma border while heading north on Highway 81, they may happen upon a seemingly unsettling sight near Caldwell, Kansas. In the distance, a caravan of riders is traveling alongside you, driving cattle. These silhouetted figures are known as the \"Ghost Riders of the Chisholm Trail.\"\n\r\nThe Abilene stockyards opened in 1866, providing a new, safer, and shorter route for Texas ranchers to deliver their goods to the north and east. They began to use an old hunting and trading route through indigenous territory, that had been scouted by Jesse Chisholm, a Cherokee merchant, and his friend Black Beaver, a Lenape guide and trader. The trail, which became known as the Chisholm Trail, runs through what is now Highway 81. As the railroad grew, the trail changed shape, eventually ending at Caldwell, before being overtaken by newer, better routes.\n\r\nIn 1995, a group of volunteers worked together to memorialize this era in silhouetted steel. The trail is best viewed at dawn, as the sun breaks over the trail, or at dusk, as the trail figures seemingly come to life as they face the waning light.",
+          "link": "https://www.atlasobscura.com/places/ghost-riders-of-the-chisholm-trail",
+          "publishedOn": "2023-09-07T15:00:00.000Z",
+          "wordCount": 3981,
+          "title": "'Ghost Riders of the Chisholm Trail' in Caldwell, Kansas",
+          "imageUrl": "https://img.atlasobscura.com/LC8r8SUnDytulsyNcvXqhF2vCGvS0xscleZtzkoW-FI/rt:fit/w:600/c:2017:1345:nowe:234:5/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yZWI0/YTVlYy04MTk1LTQ3/YTMtOTcwYy02YTAz/NDI3MWFmNTgwZWIx/ZTQzYWI3NDJiZmRm/ODNfMjAyMzA2MjZf/MjEwNzU2LmpwZw.jpg"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/podcast-mini-golfing-in-myrtle-beach",
+          "author": "Harrison Watkins",
+          "description": "Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.\n\r\n\r\n\r\nIn this episode of The Atlas Obscura Podcast, we head to Myrtle Beach where mini golf is not so mini. It’s over the top!\n\r\nThis episode was produced in partnership with Visit Myrtle Beach, and to find a list of all mini golf courses, go to VisitMyrtleBeach.com.\n\r\nOur podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinating people and hear their stories. Join us daily, Monday through Thursday, to explore a new wonder with cofounder Dylan Thuras and a neighborhood of Atlas Obscura reporters.",
+          "link": "https://www.atlasobscura.com/articles/podcast-mini-golfing-in-myrtle-beach",
+          "publishedOn": "2023-09-07T12:00:00.000Z",
+          "wordCount": 4358,
+          "title": "Podcast: Mini Golfing in Myrtle Beach",
+          "imageUrl": "https://img.atlasobscura.com/MODTGAcqejmjEF4144IL37-u6tkvR1hkvLM_uEXmgOI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS8y/MDIzLzA5LzA1LzIw/LzQzLzMwL2ZmZTQz/OWQxLTczMmMtNGJi/Ny1hMGFmLTMzMDM3/YjUyM2EzOC9mMzcx/YjZmOS1iNTA0LTQ0/NTEtOTY1Zi1lYmUz/ZWJjZjllMDI1OGVm/MWMwODcwOGRiZjYw/YjBfTXRfQXRsYW50/aWN1c19NaW5pX0dv/bGZfNTc1OUJFMzEt/NTA1Ni1BMzZBLTBC/M0IxODIyRkM1RDRE/MzAtNTc1OWJiZmY1/MDU2YTM2XzU3NTlj/N2EyLTUwNTYtYTM2/YS0wYmFmNDNjNWZj/NWUyMTc4LmpwZw.jpg"
+        },
         {
           "id": "https://www.atlasobscura.com/places/st-chads-holy-well",
           "author": null,
@@ -3374,146 +3464,6 @@
           "wordCount": 3999,
           "title": "Caelum Mór in Arlington, Texas",
           "imageUrl": "https://img.atlasobscura.com/OZFnQT-7KOBoAntInJkEUN-3D-idv_OtJcFW1NwKQTw/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82YWM4/NmE2NS0xMTQxLTQ2/MmUtYjYxMC1mN2I0/ODlhMjY3ZmE4ZDQ2/MWI1MWY3MDdjZWE3/MmJfUmljaGFyZF9H/cmVlbmVfTGluZWFy/X1BhcmtfSnVuZV8y/MDIwXzMyXyhDYWVs/dW1fTW9vcikuanBn.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/podcast-gullah-geechee-museum-south-carolina",
-          "author": "The Podcast Team",
-          "description": "Listen and subscribe on Stitcher, Apple Podcasts, Spotify, and all major podcast apps.\n\r\n\r\n\r\nIn this episode of The Atlas Obscura Podcast, we visit a museum in Georgetown, South Carolina that’s dedicated to preserving and prioritizing the rich and historic Gullah Geechee culture.\n\r\nOur podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinating people and hear their stories. Join us daily, Monday through Thursday, to explore a new wonder with cofounder Dylan Thuras and a neighborhood of Atlas Obscura reporters.",
-          "link": "https://www.atlasobscura.com/articles/podcast-gullah-geechee-museum-south-carolina",
-          "publishedOn": "2023-08-09T12:00:00.000Z",
-          "wordCount": 3862,
-          "title": "Podcast: Gullah Museum",
-          "imageUrl": "https://img.atlasobscura.com/695uw4NJFfcajUg2OghJdpMMideYE1K6iT9kiD8a8UI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mZGZmODNmMjVm/MWVhNDU3NDFfR3Vs/bGFoIEdlZWNoZWUg/SGVyaXRhZ2UgVHJh/aWwuanBlZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/perseid-meteor-shower",
-          "author": "Rebecca Boyle",
-          "description": "Atlas Obscura’s Wondersky columnist Rebecca Boyle is an award-winning science journalist and author of the upcoming Our Moon: How Earth’s Celestial Companion Transformed the Planet, Guided Evolution, and Made Us Who We Are (January 2024, Random House). Throughout the summer, she’ll be sharing the stories and secrets of our wondrous night sky.\n\r\n\r\nWhen you wake up tomorrow, whether you rise with the sun or long after it, think for a moment about our journey through the cosmos.\n\r\nThe sun has not technically risen. Instead, the location of your bed has merely spun around, at roughly 1,000 miles an hour, to face the violent nuclear furnace of our star. Your bed sits on a floor, likely inside a building, on the surface of a hot rock coated in a vanishingly thin layer of breath. You, your bed, e…",
-          "link": "https://www.atlasobscura.com/articles/perseid-meteor-shower",
-          "publishedOn": "2023-08-09T12:00:00.000Z",
-          "wordCount": 5208,
-          "title": "The Perseid Meteor Shower Is Summer's Best Show",
-          "imageUrl": "https://img.atlasobscura.com/jxPY95MdFT_oFypFm1mpvw_bhBqHdLNlyXRne-RBaVo/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80OGIxMDZiZS0y/NDdhLTQ4MTctYTBh/OS1mYTVjZjU1OTU5/NDlhNDVlNjgzOTNh/NzY3ZmIwNDFfR2V0/dHlJbWFnZXMtMTQx/NDU3NTIyOS5qcGc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/make-viking-funeral-flatbreads",
-          "author": "Paula Marcoux",
-          "description": "Gastro Obscura’s Summer Cookout columnist Paula Marcoux is a food historian and the author of Cooking With Fire. Throughout the summer, she’ll be sharing recipes and stories from the luminous history of open-fire cooking.\n\r\nAh, there’s nothing quite like an aromatic loaf of freshly baked bread, still crackling and steaming from the oven. But for archaeologists, that option—so enticing to normal people—might be a second choice to a fragment of bread that has been incinerated with a human corpse, then entombed for a millennium or two. Perhaps that sounds grim, but it happens to be the recipe for an ideal scenario to preserve the payload of information encoded in a bread-artifact for future excavation and analysis.\n\r\nCharring your breakfast toast may seem tragic in the moment, but, if dispose…",
-          "link": "https://www.atlasobscura.com/articles/make-viking-funeral-flatbreads",
-          "publishedOn": "2023-08-08T20:24:00.000Z",
-          "wordCount": 7595,
-          "title": "How to Make Viking Funerary Flatbread",
-          "imageUrl": "https://img.atlasobscura.com/CPtOkShxz62QwoY1oitbpK4_-tQzK42B_f2E9KepNAo/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yOWI4ZTllMy1j/ZTdkLTQ4YzctOGVl/MC0xZWQ2NzEzMDdi/MzU0ODEzZTc3ZDE3/ZjRjMzA3MzdfR2V0/dHlJbWFnZXMtODU5/MjUwOTUyLmpwZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/thai-dessert-candle",
-          "author": "Andrew Coletti",
-          "description": "In Thailand, traditional food can be exquisite and elaborate. Nothing epitomizes this more than the use of tian op, Thailand’s culinary candle.\n\r\nThough its name simply means “scented candle” in Thai, this double-wicked curl of beeswax is no ordinary room freshener. Tian op is a flavoring agent, or rather, a scenting agent, used to enhance specific dishes in Thai cuisine.\n\r\nChefs light the U-shaped candle at both ends, place it on top of the food to be scented, and cover it with a lid. Lack of oxygen snuffs the flames and the enclosed space fills with flowery smoke. Minutes or even hours later, the chefs lift the lid and serve the food, now garnished with the candle’s delectable aroma.\n\r\nTian op is infused with numerous ingredients also found in perfume and incense, like patchouli, ylang-y…",
-          "link": "https://www.atlasobscura.com/articles/thai-dessert-candle",
-          "publishedOn": "2023-08-08T20:00:00.000Z",
-          "wordCount": 5699,
-          "title": "The Magic of Thailand’s Culinary Candle",
-          "imageUrl": "https://img.atlasobscura.com/GGDWacFuXncmV5jOkw19Qpkca_hLftsMgURgS2lh6wY/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82Y2M4OGRiZS01/MThlLTRkODAtYTNh/MS1kMjQxZjdkZmYz/MWExNmJjNWZiZDI5/ZDBkMDcwNzNfMmQ2/aGM2ay5qcGc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/darlingtonia-trail-california",
-          "author": null,
-          "description": "The Darlingtonia Trail is named for the bog that it snakes around, filled with Darlingtonia californica, carnivorous pitcher plants. Called the cobra lily because their shape resembles an upright cobra, these plants lie in wait to strike at insects, their main source of nitrogen.  \n\r\nAt the first platform on the trail, you can see the bog in full bloom. At peak season, its full of hundreds of these gorgeous pitcher plants, some with bright flowers growing out. A few miles from the bog, the Smith River churns along. The area is full of a mineral called serpentine, which is gray-green in color and gives the Smith its brilliant blue-green color. The weathering of the serpentine produces magnesium, silica, and iron in the soil. It reduces the levels of calcium, potassium, and aluminum. To get the nitrogen and phosphorus that the plants need, they turn to a different source:  insects. \n\r\nThe pitcher plants have evolved to secrete nectar that attracts flies, ants, spiders, beetles, butterflies, and moths. They enter the plant and slide down into its long trumpet-shaped gullet, full of downward-facing hairs and slippery wall, becoming trapped at the bottom. There, the insect drowns and is slowly consumed by the plant. This is an extremely beautiful but extremely metal plant. \n\r\nSpeaking of metal, the area was extensively mined during and after the California Gold Rush. On the trail, you can also see a test mine shaft, probably dug to test for suitable minerals and metals to dig. They must not have found anything here, but the area has produced gold, chromite, and copper.",
-          "link": "https://www.atlasobscura.com/places/darlingtonia-trail-california",
-          "publishedOn": "2023-08-08T19:00:00.000Z",
-          "wordCount": 3932,
-          "title": "Darlingtonia Trail  in Gasquet, California",
-          "imageUrl": "https://img.atlasobscura.com/xDBXPoO7tXJNIDEI_4JtsJiKXUgnwe0Mw5b_6z6ZPuQ/rt:fit/w:600/c:3024:2016:nowe:0:1271/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNzFl/MzIzZS02MDdkLTQ2/ODEtYjFhNi01Njcx/YTU3OTg4YTA3MWQw/OGU2YTJlNDhlOGY5/MDBfYm9nIGNsb3Nl/IHVwIDQuanBn.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/boneyard-beach",
-          "author": null,
-          "description": "Boneyard Beach is tucked away on Big Talbot Island Preserve in the wider Timucuan Ecological and Historical Preserve. It features 20-foot bluffs falling away to the shoreline that, for several centuries, has been rapidly eroding which cause a number of trees for fall onto the beach.\n\r\nOver time these trees have become bleached by sun and wind and have an almost bone-like appearance, hence the name. Curiously, real skeletons have been unearthed on this beach as well—the fossilized remains of several mammoths, that is.",
-          "link": "https://www.atlasobscura.com/places/boneyard-beach",
-          "publishedOn": "2023-08-08T19:00:00.000Z",
-          "wordCount": 3724,
-          "title": "Boneyard Beach in Jacksonville, Florida",
-          "imageUrl": "https://img.atlasobscura.com/B4ekzAmSEDoib9v3_du4fD53jGVpJ-nyV3xOWypi_vg/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYzdm/NjZjZS04MjcxLTRm/ZTMtOTQ4OC0yMDA1/NTFhNWU2MjZmYjVi/MGU0NzYzNzQxZmUx/OGNfdHJlZSAxLmpw/Zw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/changi-jurassic-mile-singapore",
-          "author": null,
-          "description": "Stretching over one kilometer, Changi Jurassic Mile is an interesting outdoor attraction located outside the Terminal 4 of Singapore's Changi Airport.\n\r\nThe trail showcases a diverse range of dinosaur species, including the iconic Tyrannosaurus rex, towering Brachiosaurus, and the Stegosaurus. Interestingly, the trail is created with the idea of visitors walking in a proper Dinosasur Park, with warning signs all around, and dinosaurs trying to escape their cages or attacking golf carts.\n\r\nThe trail is entirely outdoor, and can be experienced either by foot or bicycle.",
-          "link": "https://www.atlasobscura.com/places/changi-jurassic-mile-singapore",
-          "publishedOn": "2023-08-08T18:22:00.000Z",
-          "wordCount": 3618,
-          "title": "Changi Jurassic Mile in Singapore",
-          "imageUrl": "https://img.atlasobscura.com/NA7-Ryhh46lk6YB3RAidgYA8JlyVwSakF82hbp9J1s8/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNmU0/YjQ1MS1jYjU4LTQy/NTgtOWE0Yi1mNjMx/NzYzODFjZWIxNThj/NDIzZDk0NzY4Njgy/N2JfSU1HLTIwMjMw/NjIzLVdBMDAxMi5q/cGc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/gizella-kopsick-palm-arboretum-florida",
-          "author": null,
-          "description": "Previously a miniature golf course, the development of the arboretum began in 1976 with the gift of 60 palms from Miss Gizella Kopsick's private stock. The arboretum was dedicated to her on May 16, 1977—her 100th birthday. All facilities were designed to meet the needs of the handicapped, which included Miss Kopsick, who was confined to a wheelchair. \n\r\nSince then, the park has grown to incorporate more than 150 species of palms and cycads.",
-          "link": "https://www.atlasobscura.com/places/gizella-kopsick-palm-arboretum-florida",
-          "publishedOn": "2023-08-08T18:13:00.000Z",
-          "wordCount": 3852,
-          "title": "Gizella Kopsick Palm Arboretum  in St. Petersburg, Florida",
-          "imageUrl": "https://img.atlasobscura.com/DQcUuO1Z_pKYDAHQCK5mwGOtKwm2l9tdTnoRp7WK4NE/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNTg2/ZjgxNi1lZDUzLTRm/OGUtYWU1MS05OGMy/NWUyNGQ0ODFkNjNl/NzllNDY5Njg1ZTJk/M2ZfMjAyMzA2MDVf/MDY1NzMzLmpwZw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/donggureung",
-          "author": null,
-          "description": "The Royal Tombs of the Joseon Dynasty have been recognized as a UNESCO World Heritage Site since 2009. Built to honor the ancestors and to assert their royal authority, many of the tombs consist of a huge burial mound and several temples.\n\r\nScattered over 18 locations across the Korean Peninsula, it’s not easy to see everything in one go, but one location has a huge cluster of royal tombs. Located in the city of Guri, right outside the perimeters of Seoul, is Donggureung: The Nine Eastern Royal Tombs.\n\r\nThe largest royal burial site in South Korea, Donggureung (also transliterated as Dongguneung) is home to the resting places of 17 kings and queens of the Joseon dynasty, originally founded by the order of King Taejong in 1408.\n\r\nThe “nine tombs” consist of Geonwonneung (King Taejo, 1408); Hyeonneung (King Munjong and Queen Hyeondeok, 1452); Mongneung (King Seonjo and Queens Uiin and Inmok, 1600); Sungneung (King Hyeonjong and Queen Myeongseong, 1674); Hwineung (Queen Jangnyeol, 1688); Hyeneung (Queen Danui, 1718); Wonneung (King Yeongjo and Queen Jeongsun, 1776); Gyeongneung (King Heonjong and Queens Hyohyeon and Hyojeong, 1849); and Suneung (King Ikjong and Queen Sinjeong, 1890).\n\r\nIn addition to these royal tombs, with their red pavilions, burial mounds, and funerary statues, the Donggureung complex also contains Myeongbinmyo (the grave of King Taejong’s concubine), the caretaker’s house, and a small museum. Surrounded by a serene forest and typically not as crowded as other historic attractions in and near Seoul, it’s quite a lovely place; one major shortcoming, perhaps, is that you can’t get close to the main parts of the tombs, as all the mounds are fenced at the foot.",
-          "link": "https://www.atlasobscura.com/places/donggureung",
-          "publishedOn": "2023-08-08T18:00:00.000Z",
-          "wordCount": 3931,
-          "title": "Donggureung in Guri-si, South Korea",
-          "imageUrl": "https://img.atlasobscura.com/Ws72FSBM0zLgfVPPGs_M_XKkdpzYRtZF7RcUPrdMQgM/rt:fit/w:600/c:5988:3992:nowe:10:8/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81Mjgx/YWM3ZC04NGFkLTQ2/ZTktYTAyNi0yYmI1/NjE1ZGRkNzNlNzA4/NDNhNDc1YTVhODdj/NGZfQjc0NDYxN0Mt/RjVDNy00RTE3LTky/RTQtQ0ZBRDUzMzRE/REI0LmpwZWc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/the-desert-fjords-of-oman",
-          "author": null,
-          "description": "At the far northeastern tip of Arabia exists a landscape like no other. Separated from Oman proper by the United Arab Emirates, the Musandam Peninsula reaches toward Iran and into the notorious Strait of Hormuz with delicate, dramatic mountains of barren red rock falling into an emerald sea.\n\r\nThese are the only desert fjords in the world.\n\r\nKnown locally as khors, these jagged coves were created by the collision of tectonic plates instead of the glacial activity that shaped their Nordic and Alaskan cousins. But the uncanny similarities still persist with 6,500-foot (2,000-meter) mountains and razor-thin spines of rock towering over deep water teeming with wildlife. Dolphins, rays, and a variety of colorful reef fish can be found throughout the inlets, and the warm, clear water makes for excellent scuba diving and snorkeling.\n\r\nEasily explored in a day trip from the town of Kasab, most excursions will be aboard a traditional fishing vessel known as a dhow. Between vibrant local history lessons and fascinating facts of geography, guides may even free dive for scallops freshly served as ceviche with a bit of lemon and spices.",
-          "link": "https://www.atlasobscura.com/places/the-desert-fjords-of-oman",
-          "publishedOn": "2023-08-08T17:00:00.000Z",
-          "wordCount": 3886,
-          "title": "The Desert Fjords of Oman in Khasab, Oman",
-          "imageUrl": "https://img.atlasobscura.com/FecRFJp8eWlrRl9mW9uo3-5Wzy6A-Wvdh-bzykh-kNo/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNjMz/YTU0OC05YTM1LTRl/ZGItODA4My04NDVk/OGNhZjQ5ZjYyNmQw/OGU1ZWRkODNjNzQ3/MjlfYm9hdDAxLmpw/Zw.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/the-map-of-the-grand-canyons-of-la-jolla-shores",
-          "author": null,
-          "description": "San Diego is California's second-largest city by population and is proudly referred to as \"America's Finest City.\" It has a reputation for being in close proximity to Mexico and home to all branches of the United States armed forces. However, it is perhaps most well known for its 70 miles of beaches. \n\r\nUnless an avid and practiced sea diver, few visitors probably have little experience or knowledge of what is living in these watery depths. This is what makes the Map of the Grand Canyons La Jolla Shores so unique. Unveiled in October 2020, this 2,200 square-foot LithoMosaic not only depicts over 100 variety of species, (including aquatic varieties, as well as birds, mammals, and reptiles) but also the geological formations that can be found in and around this beachfront property.\n\r\nThe map was created to honor what would have been Walter Munk's 103rd birthday. Munk was an Austrian-born oceanographer who worked at the nearby Scripps Institute of Oceanography, as well as being a resident of La Jolla Shores. He was an avid proponent of understanding the effects climate change has on our environment, including the impacts on ocean temperatures. \n\r\nAlong with the Walter Munk Foundation for the Oceans, artist Robin Brailsford and her team of volunteers spent hundreds of hours mapping out and creating the massive display. Visitors are encouraged to walk on the art piece and discover the intricate details, as well as gain an understanding of what is taking place under the nearby waves. This includes 3-D models of reefs and the varying shades of blue tiles to indicate the various depths of the ocean floor.",
-          "link": "https://www.atlasobscura.com/places/the-map-of-the-grand-canyons-of-la-jolla-shores",
-          "publishedOn": "2023-08-08T16:00:00.000Z",
-          "wordCount": 4309,
-          "title": "The Map of the Grand Canyons of La Jolla Shores in San Diego, California",
-          "imageUrl": "https://img.atlasobscura.com/I-ZRQXnGWNsaMr-dE29p5sLfx2wGNe3ZPE56RBU3TH0/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZmZj/MzRkNS0yZjYxLTQ1/YTUtODMxNi1kMWYw/MWVlOWEzMzViMGYz/OTMzZTgzMzY0M2M5/ZDZfMzMwMzQxMjY2/XzIzMTg5NjE5MjYx/MDIxNF84MzU0NDk3/MTU4ODM3NjM5MTYy/X24uanBn.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/fort-shirley-cemetery",
-          "author": null,
-          "description": "Travelers who keep their eyes trained on the lefthand side of the road en route Shirley Heights Lookout restaurant will notice a small cemetery with an amazing view.\n\r\nIf you have a chance to retrace your steps just before the turn, you will be met with about a dozen graves and a white obelisk forever looking over the ocean; this area is for the deceased soldiers and officers of the 54th Regiment, Second Battalion Dorsets.",
-          "link": "https://www.atlasobscura.com/places/fort-shirley-cemetery",
-          "publishedOn": "2023-08-08T16:00:00.000Z",
-          "wordCount": 3714,
-          "title": "Fort Shirley Cemetery in Piccadilly, Antigua and Barbuda",
-          "imageUrl": "https://img.atlasobscura.com/rR5H0ptjmJwchoj550IKzzszScRlw0efVRzXVCh77lU/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kYmRj/NzhjMi05Y2YyLTQ2/MGItYjJlYy1hZDFm/YmJkY2Q5NmNiNzYw/N2VmNWQ0MzJjMzgy/ZDhfc2hpcmxleSBo/ZWlnaHRzICg1OSku/anBn.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/dollhouse-grave-lova-cline",
-          "author": null,
-          "description": "In 1902, a young girl named Lova Cline was born with an illness that left her unable to enjoy things that most children might. She was unable to move, and according to stories, the only object that she enjoyed was a tall dollhouse with clear windows that her father George had built for her. When Lova passed in 1908, she was buried and the dollhouse went with her to the grave, or so the story is told.\n\r\nSome news articles speculate the dollhouse was built specifically for the grave, which was not an entirely uncommon style for the region. Regardless, Lova’s father had requested the dollhouse be destroyed at the death of himself and Lova’s mother but the community rallied to disinter Lova and move the dollhouse to where she is now buried with her parents.",
-          "link": "https://www.atlasobscura.com/places/dollhouse-grave-lova-cline",
-          "publishedOn": "2023-08-08T14:00:00.000Z",
-          "wordCount": 3818,
-          "title": "Lova Cline's Dollhouse Grave in Rushville, Indiana",
-          "imageUrl": "https://img.atlasobscura.com/2vH1FDumrNrlCUoV3QEVlQxo39eC9TrIT6tXfjjhMGY/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMGYz/OGNiMC03N2U0LTQz/YzktYmUyYy1lMDUy/OGY5MWIyYTczMTEx/NDU0NmY1YmIxYmE4/MjBfQkU5NDg1RTYt/QjMxNy00Q0IyLTg5/QTktOEU0MjZGMzk5/NDEwLmpwZWc.jpg"
-        },
-        {
-          "id": "https://www.atlasobscura.com/places/rhode-island-red-monument-adamsville",
-          "author": null,
-          "description": "Next to the town baseball field in the Adamsville hamlet of Little Compton, Rhode Island, in the state's southeastern corner, stands a rough-hewn granite monument with a bronze tablet bearing the likeness of a large chicken. Created by American sculptor Henry L. Norton and erected in 1925 by the Rhode Island Red Club, the memorial commemorates “the birthplace of the Rhode Island Red breed of fowl which originated near this location.” The poultry breed became integral to the area’s agrarian economy during the late 19th and early 20th centuries. In 2001, the monument was added to the National Register of Historic Places.\n\r\nIn 1854, William Tripp, a local farmer, began experimenting with poultry breeding.  He acquired exotic fowl brought back from Asia on New Bedford whaling ships. The Asian …",
-          "link": "https://www.atlasobscura.com/places/rhode-island-red-monument-adamsville",
-          "publishedOn": "2023-08-08T13:00:00.000Z",
-          "wordCount": 4094,
-          "title": "Rhode Island Red Monument in Little Compton, Rhode Island",
-          "imageUrl": "https://img.atlasobscura.com/Ib_vk_5qWTPnmOaxDKDXu5QE5vAHdT6CDvEq4Leocfk/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85Mzll/NjM0ZC0zMDkxLTQx/MzktYmZkNC0zYTRi/OTk3NWZjMzFhNDc3/ZTgxZDc4ZGU3ODQy/ZmVfTW9udW1lbnQy/LmpwZw.jpg"
         }
       ]
     },
@@ -3704,6 +3654,16 @@
       "siteUrl": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine",
       "articles": [
         {
+          "id": "https://www.bloomberg.com/opinion/articles/2023-09-07/matt-levine-s-money-stuff-don-t-let-robots-do-earnings-calls",
+          "author": "Matt Levine",
+          "description": "Also crypto mark-to-market, trays of crushed limestone, WeWork leases, a new Sculptor bid, Citi Bridge and gardening leave.",
+          "link": "https://www.bloomberg.com/opinion/articles/2023-09-07/matt-levine-s-money-stuff-don-t-let-robots-do-earnings-calls",
+          "publishedOn": "2023-09-07T18:03:34.000Z",
+          "wordCount": 576,
+          "title": "Don’t Let a Robot Do the Earnings Call",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bloomberg.com/opinion/articles/2023-09-06/spacex-loaned-elon-musk-some-money",
           "author": "Matt Levine",
           "description": "Also AMC’s de-APE-ing, Apollo’s TRA and extinction credits.",
@@ -3811,16 +3771,6 @@
           "publishedOn": "2023-08-09T18:07:20.000Z",
           "wordCount": 576,
           "title": "Barstool Sold High and Bought Low",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bloomberg.com/opinion/articles/2023-08-08/don-t-do-deals-on-linkedin",
-          "author": "Matt Levine",
-          "description": "Also LNG contracts, ESG ratings and a Russian derivatives trade.",
-          "link": "https://www.bloomberg.com/opinion/articles/2023-08-08/don-t-do-deals-on-linkedin",
-          "publishedOn": "2023-08-08T17:59:29.000Z",
-          "wordCount": 576,
-          "title": "Don’t Do Deals on LinkedIn",
           "imageUrl": null
         }
       ]
@@ -6057,6 +6007,38 @@
       "siteUrl": "https://www.astralcodexten.com",
       "articles": [
         {
+          "id": "https://www.astralcodexten.com/p/hidden-open-thread-2925",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://www.astralcodexten.com/p/hidden-open-thread-2925",
+          "publishedOn": "2023-09-07T22:32:10.000Z",
+          "wordCount": null,
+          "title": "Hidden Open Thread 292.5",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/3992ce60-9a56-444c-9317-afacb498c637_612x583.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3992ce60-9a56-444c-9317-afacb498c637_612x583.jpeg"
+        },
+        {
+          "id": "https://www.astralcodexten.com/p/contra-kirkegaard-on-evolutionary",
+          "author": "Scott Alexander",
+          "description": "...",
+          "link": "https://www.astralcodexten.com/p/contra-kirkegaard-on-evolutionary",
+          "publishedOn": "2023-09-07T04:38:41.000Z",
+          "wordCount": null,
+          "title": "Contra Kirkegaard On Evolutionary Definitions Of Mental Illness",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/357451db-10d4-4564-84d2-0e126c66d646_315x181.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/357451db-10d4-4564-84d2-0e126c66d646_315x181.jpeg"
+        },
+        {
           "id": "https://www.astralcodexten.com/p/my-presidential-platform",
           "author": "Scott Alexander",
           "description": "...",
@@ -8289,6 +8271,83 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "19F4B6FF-E325-4425-AF441A6FC540E397",
+          "author": "Thomas Frank, E&E News",
+          "description": "U.S. census tracts with high exposure to climate impacts will get extra federal funds to build resilience",
+          "link": "https://www.scientificamerican.com/article/nearly-500-neighborhoods-prone-to-climate-disasters-will-get-extra-money-for-resilience/",
+          "publishedOn": "2023-09-07T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Nearly 500 Neighborhoods Prone to Climate Disasters Will Get Extra Money for Resilience",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "55981B6E-77DF-4AC2-862A86A359F25DDE",
+          "author": "Katie Hafner, Ashraya Gupta, The Lost Women of Science Initiative",
+          "description": "Lise Meitner, an Austrian-born Jewish physicist, never received the Nobel Prize she deserved for her pioneering work on nuclear fission",
+          "link": "https://www.scientificamerican.com/article/she-cracked-the-mystery-of-how-to-split-the-atom-but-someone-else-got-the-nobel-prize-for-the-discovery/",
+          "publishedOn": "2023-09-07T17:00:00.000Z",
+          "wordCount": null,
+          "title": "She Cracked the Mystery of How to Split the Atom, but Someone Else Got the Nobel Prize for the Discovery",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "88D30C5E-085B-4B6A-B461FE6AC7629E30",
+          "author": "Andrea Thompson",
+          "description": "Nearly every person on the planet saw high temperatures that were made at least twice as likely by climate change this summer",
+          "link": "https://www.scientificamerican.com/article/half-the-worlds-population-faced-extreme-heat-for-at-least-30-days-this-summer/",
+          "publishedOn": "2023-09-07T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Half the World's Population Faced Extreme Heat for at Least 30 Days This Summer",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "69BCDBA2-2846-4895-8DE1B5E0A6AF03DB",
+          "author": "Jack Murtagh",
+          "description": "“Anscombe’s quartet” and the “datasaurus dozen” demonstrate the importance of visualizing data",
+          "link": "https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/",
+          "publishedOn": "2023-09-07T15:31:00.000Z",
+          "wordCount": null,
+          "title": "What This Graph of a Dinosaur Can Teach Us about Doing Better Science",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "1D95BC4A-F72A-4E2C-A6F1174452DCF3DF",
+          "author": "Meghan Bartels",
+          "description": "Discovered only last month, Comet Nishimura is drawing attention before close approaches to the sun and Earth in the coming weeks",
+          "link": "https://www.scientificamerican.com/article/watch-a-comets-tail-get-mangled-by-the-sun/",
+          "publishedOn": "2023-09-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Watch a Comet's Tail Get Mangled by the Sun",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "2A5876DC-937D-4C47-8B36C5BA3CA151C3",
+          "author": "Ananya",
+          "description": "Seemingly trivial differences in training data can skew the judgments of AI programs—and that’s not the only problem with automated decision-making",
+          "link": "https://www.scientificamerican.com/article/algorithms-are-making-important-decisions-what-could-possibly-go-wrong/",
+          "publishedOn": "2023-09-07T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Algorithms Are Making Important Decisions. What Could Possibly Go Wrong?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "92140647-6DD6-4EE9-ACE7372465C6E476",
+          "author": "Meghan Bartels",
+          "description": "Often nicknamed “making biscuits,” kneading is a good sign that your cat is happy, experts say",
+          "link": "https://www.scientificamerican.com/article/why-do-cats-knead-like-theyre-making-biscuits/",
+          "publishedOn": "2023-09-07T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Why Do Cats Knead Like They're Making Biscuits?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "25F96277-6B36-4A38-BA22BA2A37B43CBC",
           "author": "Anna Ikarashi, Nature magazine",
           "description": "A new technique for analyzing modern genetic data suggests that prehumans survived in a group of only 1,280 individuals",
@@ -10304,57 +10363,6 @@
           "publishedOn": "2023-08-09T17:00:00.000Z",
           "wordCount": null,
           "title": "What Caused Maui's Devastating Wildfires?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "BD4E0849-5B3D-4FE3-9A6DF72A7F63605D",
-          "author": "Tom Metcalfe",
-          "description": "Archaeologists say the ornate ruins of Nero’s theater were found near the Vatican at a site earmarked for a luxury hotel",
-          "link": "https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/",
-          "publishedOn": "2023-08-09T12:15:00.000Z",
-          "wordCount": null,
-          "title": "Ruins of Emperor Nero's Theater Discovered near Vatican",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "EE1FCA9D-A227-4291-98EB63F7350C5FF1",
-          "author": "Meg Duff, Jeffery DelViscio, Tulika Bose",
-          "description": "Here's how scientists are planning on getting underground fungi data from space, using satellites.",
-          "link": "https://www.scientificamerican.com/podcast/episode/the-fungi-economy-part-3-can-climate-modeling-from-space-save-our-forests/",
-          "publishedOn": "2023-08-09T10:00:00.000Z",
-          "wordCount": null,
-          "title": "The Fungi Economy, Part 3: Can Climate Modeling From Space Save Our Forests?",
-          "itunes": {
-            "duration": "12:49"
-          },
-          "enclosure": {
-            "length": "12406591",
-            "type": "audio/mpeg",
-            "url": "http://flex2.acast.com/s/60secondscience/u/www.scientificamerican.com/podcast/podcast.mp3?fileId=A6E98CA6-CD80-41C0-87D874A1AAEE2BD1"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "4B201BEE-2188-45AA-A9E1286E78CC588F",
-          "author": "Scott Streater, E&E News",
-          "description": "President Biden is declaring a national monument around the Grand Canyon, protecting lands important to a dozen Native American tribes and prohibiting new uranium mining claims in the region",
-          "link": "https://www.scientificamerican.com/article/grand-canyon-gains-new-million-acre-monument/",
-          "publishedOn": "2023-08-08T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Grand Canyon Gains New Million-Acre Monument",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "6D5D45E2-2462-4BEF-83E19432AD83F4C6",
-          "author": "Christine Abdalla Mikhaeil, The Conversation US",
-          "description": "Here's how social media can help conspiracy theories spread and even spark violence",
-          "link": "https://www.scientificamerican.com/article/conspiracy-theories-how-social-media-can-help-them-spread-and-even-spark-violence/",
-          "publishedOn": "2023-08-08T14:00:00.000Z",
-          "wordCount": null,
-          "title": "The 4 Stages of Conspiracy Theory Escalation on Social Media",
           "itunes": {},
           "imageUrl": null
         }
@@ -18887,16 +18895,6 @@
           "wordCount": 2062,
           "title": "trở về từ thành phố hồ chí minh",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/08/zan_8483-e1690303989938.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53674",
-          "author": "xi'an",
-          "description": "“at each iteration, DP-fast MH first samples a minibatch size and checks if it uses a minibatch of data or full-batch data. Then it checks whether to require additional Gaussian noise. If so, it will instantiate the Gaussian mechanism which adds Gaussian noise to the energy difference function. Finally, it chooses accept or reject θ′ […]",
-          "link": "https://xianblog.wordpress.com/2023/08/09/exact-yet-private-mcmc/",
-          "publishedOn": "2023-08-08T22:23:46.000Z",
-          "wordCount": 2208,
-          "title": "exact yet private MCMC",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/okangan1-e1691077997124.jpg"
         }
       ]
     },
@@ -18928,6 +18926,36 @@
       "feedUrl": "https://feeds.feedburner.com/RBloggers",
       "siteUrl": "https://www.r-bloggers.com",
       "articles": [
+        {
+          "id": "https://wordpress.appsilon.com/?p=20667",
+          "author": "Appsilon",
+          "description": "Rhino 1.5 Release We are pleased to announce that Rhino 1.5 is now available on CRAN! This update brings a range of new features and enhancements that aim to make your R development workflow even more efficient. With Rhino’s new addins, you can seamlessly integrate essential tasks into your work and ...\n\n\nContinue reading: Rhino 1.5.0 Update on CRAN: Streamlining Your R Development Workflow with New Addins",
+          "link": "https://www.r-bloggers.com/2023/09/rhino-1-5-0-update-on-cran-streamlining-your-r-development-workflow-with-new-addins/",
+          "publishedOn": "2023-09-07T09:00:28.000Z",
+          "wordCount": 3313,
+          "title": "Rhino 1.5.0 Update on CRAN: Streamlining Your R Development Workflow with New Addins",
+          "enclosure": {
+            "url": "",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://wordpress.appsilon.com/wp-content/uploads/2023/01/Rhino-R-Package-Tutorial.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9331",
+          "author": "tomaztsql",
+          "description": "Coming from the simple sine function (remember of Fourier series), German mathematician Karl Weierstrass became the first to publish an example of a continuous, nowheredifferentiable function. Weierstrass function (originally defined as a Fourier series) was the first instance in which…Read more ›\n\n\nContinue reading: Little useless-useful R functions – Continuous, nowhere differentiable Weierstrass function",
+          "link": "https://www.r-bloggers.com/2023/09/little-useless-useful-r-functions-continuous-nowhere-differentiable-weierstrass-function/",
+          "publishedOn": "2023-09-06T19:21:09.000Z",
+          "wordCount": 2537,
+          "title": "Little useless-useful R functions – Continuous, nowhere differentiable Weierstrass function",
+          "enclosure": {
+            "url": "https://2.gravatar.com/avatar/84af3d4db7552aa6f0fc3db37b65871290b5174af7d5b84c3f185ca92ccfb237?s=96&d=identicon&r=G",
+            "length": "0",
+            "type": ""
+          },
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/09/image-2.png?w=770"
+        },
         {
           "id": "https://wordpress.appsilon.com/?p=20713",
           "author": "Ismael Rodriguez",
@@ -20277,51 +20305,6 @@
             "type": ""
           },
           "imageUrl": "https://www.r-bloggers.com/wp-content/uploads/2016/04/R_02_2016-05-01.png"
-        },
-        {
-          "id": "https://forecasting.svetunkov.ru/?p=3142",
-          "author": "Ivan Svetunkov",
-          "description": "Authors: Ivan Svetunkov, Nikos Kourentzes, Rebecca Killick Journal: Computational Statistics Abstract: Many modern statistical models are used for both insight and prediction when applied to data. When models are used for prediction one should optimise parameters through a prediction error loss function. Estimation methods based on multiple steps ahead forecast ...\n\n\nContinue reading: Multi-step Estimators and Shrinkage Effect in Time Series Models",
-          "link": "https://www.r-bloggers.com/2023/08/multi-step-estimators-and-shrinkage-effect-in-time-series-models/",
-          "publishedOn": "2023-08-09T10:14:59.000Z",
-          "wordCount": 6362,
-          "title": "Multi-step Estimators and Shrinkage Effect in Time Series Models",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://forecasting.svetunkov.ru/wp-content/webpc-passthru.php?src=https://forecasting.svetunkov.ru/wp-content/uploads/2023/07/ADAMBJSalesLosses.png&nocache=1"
-        },
-        {
-          "id": "https://www.spsanderson.com/steveondata/posts/2023-08-09/index.html",
-          "author": "Steven P. Sanderson II, MPH",
-          "description": "Introduction\n\n\n\nContinue reading: Mastering Data Visualization: A Guide to Harnessing the Power of R’s par() Function",
-          "link": "https://www.r-bloggers.com/2023/08/mastering-data-visualization-a-guide-to-harnessing-the-power-of-rs-par-function/",
-          "publishedOn": "2023-08-09T04:00:00.000Z",
-          "wordCount": 2914,
-          "title": "Mastering Data Visualization: A Guide to Harnessing the Power of R’s par() Function",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://www.spsanderson.com/steveondata/posts/2023-08-09/index_files/figure-html/unnamed-chunk-1-1.png"
-        },
-        {
-          "id": "http://www.r-bloggers.com/?guid=edd804217011a7225ad8b9348ffce602",
-          "author": "Jerry Tuttle",
-          "description": "Continue reading: Black hole word numbers in multiple languages",
-          "link": "https://www.r-bloggers.com/2023/08/black-hole-word-numbers-in-multiple-languages/",
-          "publishedOn": "2023-08-08T15:22:00.000Z",
-          "wordCount": 3893,
-          "title": "Black hole word numbers in multiple languages",
-          "enclosure": {
-            "url": "",
-            "length": "0",
-            "type": ""
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BfjMF-NaanklFmHWIN_cbgVm0hPtW7GRnrj24Xe6ULxk6TZdc54BZjFB8utbsSDlYwhj1-AZ2rUiZXpxDRV_TkSaGhwWLmdOO7rqsr9Bmj9B4CKM-bUpgyXxl3H3fyOBuwVDcGjNPUdJ7TpiV11d5CUBZwZWFPyHt5ud__ryPFXWGq2b24_NxOSInZc/s320/cloud.JPG"
         }
       ]
     },
@@ -20613,6 +20596,26 @@
       "feedUrl": "https://writingcooperative.com/feed",
       "siteUrl": "https://writingcooperative.com?source=rss----6e9c0c9fd682---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ab6ef0cd7836",
+          "author": "Anthony Aycock",
+          "description": "Author of Killers of the Flower Moon discusses his method, his materials, and being an “opessimist”\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/an-interview-with-david-grann-ab6ef0cd7836?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-09-07T21:02:31.000Z",
+          "wordCount": 2353,
+          "title": "An interview with David Grann",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:899/0*0GrieRLaJBFJJU0W.jpg"
+        },
+        {
+          "id": "https://medium.com/p/5d23cc6d70c4",
+          "author": "Gene Wilburn",
+          "description": "Vet before you edit\nContinue reading on The Writing Cooperative »",
+          "link": "https://writingcooperative.com/write-one-to-throw-away-5d23cc6d70c4?source=rss----6e9c0c9fd682---4",
+          "publishedOn": "2023-09-07T13:02:39.000Z",
+          "wordCount": 2561,
+          "title": "Write One to Throw Away",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FrJgzx-mgRcWSjeKTde2Mg.jpeg"
+        },
         {
           "id": "https://medium.com/p/9be6a7cd691d",
           "author": "Vickey Maverick",
@@ -21362,26 +21365,6 @@
           "wordCount": 2444,
           "title": "How to Find Balance Between Writing and Researching?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*MTwPhkT8GvBxGOLgTZn9YQ.png"
-        },
-        {
-          "id": "https://medium.com/p/d51141c20fd4",
-          "author": "Matt Giaro",
-          "description": "Transform your knowledge into a content machine\nContinue reading on The Writing Cooperative »",
-          "link": "https://writingcooperative.com/whats-the-best-note-taking-system-to-create-content-d51141c20fd4?source=rss----6e9c0c9fd682---4",
-          "publishedOn": "2023-08-08T21:01:48.000Z",
-          "wordCount": 2279,
-          "title": "What’s the Best Note-Taking System to Create Content?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KSS_UNZggqzZWQ57vWMr0g.png"
-        },
-        {
-          "id": "https://medium.com/p/419d9584659c",
-          "author": "Malky McEwan",
-          "description": "Give yourself a break and you’ll make more money in the long term\nContinue reading on The Writing Cooperative »",
-          "link": "https://writingcooperative.com/one-reason-why-im-not-buying-your-self-published-book-419d9584659c?source=rss----6e9c0c9fd682---4",
-          "publishedOn": "2023-08-08T13:01:55.000Z",
-          "wordCount": 2314,
-          "title": "One Reason Why I’m Not Buying Your Self-Published Book",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*RIiysieolR1aHc1s"
         }
       ]
     },
@@ -21609,6 +21592,16 @@
       "feedUrl": "https://xianblog.wordpress.com/feed/",
       "siteUrl": "https://xianblog.wordpress.com",
       "articles": [
+        {
+          "id": "http://xianblog.wordpress.com/?p=54001",
+          "author": "xi'an",
+          "description": "“[the UK rejoining Horizon Europe programme is] fantastic news not just for the UK but for scientists across the EU and for all the people of Europe”. Sir Adrian Smith, president of the Royal Society The EU and the UK Government have come to an agreement on the UK rejoining the Horizon Europe funding programme […]",
+          "link": "https://xianblog.wordpress.com/2023/09/08/back-to-horizon/",
+          "publishedOn": "2023-09-07T22:23:22.000Z",
+          "wordCount": 1959,
+          "title": "back to horizon",
+          "imageUrl": "https://efmc.eu/contentefmc2014/uploads/2021/03/Picture-1-Clusters-min.jpg"
+        },
         {
           "id": "http://xianblog.wordpress.com/?p=53505",
           "author": "xi'an",
@@ -21898,16 +21891,6 @@
           "wordCount": 2062,
           "title": "trở về từ thành phố hồ chí minh",
           "imageUrl": "https://xianblog.files.wordpress.com/2023/08/zan_8483-e1690303989938.jpg"
-        },
-        {
-          "id": "http://xianblog.wordpress.com/?p=53674",
-          "author": "xi'an",
-          "description": "“at each iteration, DP-fast MH first samples a minibatch size and checks if it uses a minibatch of data or full-batch data. Then it checks whether to require additional Gaussian noise. If so, it will instantiate the Gaussian mechanism which adds Gaussian noise to the energy difference function. Finally, it chooses accept or reject θ′ […]",
-          "link": "https://xianblog.wordpress.com/2023/08/09/exact-yet-private-mcmc/",
-          "publishedOn": "2023-08-08T22:23:46.000Z",
-          "wordCount": 2208,
-          "title": "exact yet private MCMC",
-          "imageUrl": "https://xianblog.files.wordpress.com/2023/08/okangan1-e1691077997124.jpg"
         }
       ]
     },
@@ -23212,26 +23195,6 @@
           "wordCount": 3434,
           "title": "Comment on July 2023 version:  content now complete, including index by Oliver Gray",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://math216.wordpress.com/?p=2069#comment-422384",
-          "author": "ravivakil",
-          "description": "In reply to <a href=\"https://math216.wordpress.com/2023/07/31/july-2023-version-content-now-complete-including-index/#comment-422080\">Mark</a>.\n\nThis one is an artifact of latex --- the large table on the next page causes it.  So I'm not worrying about it at this stage (although I might make it a floating table, so text can flow around it).",
-          "link": "https://math216.wordpress.com/2023/07/31/july-2023-version-content-now-complete-including-index/#comment-422384",
-          "publishedOn": "2023-08-09T03:44:46.000Z",
-          "wordCount": 3288,
-          "title": "Comment on July 2023 version:  content now complete, including index by ravivakil",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://math216.wordpress.com/?p=2069#comment-422383",
-          "author": "ravivakil",
-          "description": "In reply to <a href=\"https://math216.wordpress.com/2023/07/31/july-2023-version-content-now-complete-including-index/#comment-422059\">Mark</a>.\n\nThanks, fixed!",
-          "link": "https://math216.wordpress.com/2023/07/31/july-2023-version-content-now-complete-including-index/#comment-422383",
-          "publishedOn": "2023-08-09T03:43:49.000Z",
-          "wordCount": 3293,
-          "title": "Comment on July 2023 version:  content now complete, including index by ravivakil",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -23258,6 +23221,66 @@
       "feedUrl": "https://www.minnpost.com/feed/",
       "siteUrl": "https://www.minnpost.com",
       "articles": [
+        {
+          "id": "https://www.minnpost.com/?p=2125494",
+          "author": "MinnPost staff",
+          "description": "Plus: DFL Second Vice Chairwoman Shivanthi Sathanandan injured in carjacking; whistleblower questions safety culture at Burlington Northern Santa Fe; St. Paul Regional Water Services requests watering restrictions; and more.",
+          "link": "https://www.minnpost.com/glean/2023/09/u-s-district-court-judge-dismisses-twin-metals-minnesota-lawsuit/",
+          "publishedOn": "2023-09-07T18:23:26.000Z",
+          "wordCount": 2158,
+          "title": "U.S. District Court Judge dismisses Twin Metals Minnesota lawsuit",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2021/10/TwinMetalsOperationalHQ640.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2125457",
+          "author": "Mohamed Ibrahim",
+          "description": "“I think there's no point in a mission statement if it's just falsities and symbolic language. It says right here in the vision statement that ‘We hold ourselves accountable’ and we know that's not the truth.”",
+          "link": "https://www.minnpost.com/public-safety/2023/09/minneapolis-residents-skeptical-about-sincerity-of-police-reforms/",
+          "publishedOn": "2023-09-07T16:04:48.000Z",
+          "wordCount": 3655,
+          "title": "Minneapolis residents skeptical about sincerity of police reforms",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/09/BrianOHara090723_740.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2125445",
+          "author": "Kyle Stokes",
+          "description": "Seattle’s experience with a ban on public pot use could offer lessons to Minnesota cities now grappling with whether to limit pot use in public places, and a possible preview to how enforcing those bans could turn out here.",
+          "link": "https://www.minnpost.com/metro/2023/09/how-might-st-paul-enforce-a-ban-on-public-marijuana-use-look-to-seattle-for-a-preview/",
+          "publishedOn": "2023-09-07T15:49:23.000Z",
+          "wordCount": 7933,
+          "title": "How might St. Paul enforce a ban on public marijuana use? Look to Seattle for a preview",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/09/AlisonHolcombDispensary740.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2125406",
+          "author": "Sheila Regan",
+          "description": "Plus: \"The Cartographer\" + Nathan Stocker of Hippo Campus; Selby Ave Jazz Fest, and Douglas Ewart and \"Young, Gifted, and Black\" at MCAD.",
+          "link": "https://www.minnpost.com/artscape/2023/09/weekend-picks-zorn-70-in-minneapolis-chinese-lady-with-katie-bradley-and-new-art-exhibits-in-the-three-rivers-district/",
+          "publishedOn": "2023-09-07T14:41:38.000Z",
+          "wordCount": 3927,
+          "title": "Weekend picks: ‘Zorn @ 70’ in Minneapolis; ‘Chinese Lady’ with Katie Bradley, and new art exhibits in the Three Rivers District",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/09/JohnZorn740.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2125374",
+          "author": "By His Excellency Philip Jada Natana and Charles Adams Cogan",
+          "description": "Getting enough books to the youngest nation in Africa involves a lot of cooperation between regional groups in Minnesota and Wisconsin and groups in South Sudan with a little help from the U.S. Department of Defense.",
+          "link": "https://www.minnpost.com/community-voices/2023/09/with-the-help-of-many-partners-south-sudan-is-growing-literacy-and-its-next-generation-of-leaders/",
+          "publishedOn": "2023-09-07T13:28:44.000Z",
+          "wordCount": 4128,
+          "title": "With the help of many partners, South Sudan is growing literacy and its next generation of leaders",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/01/OldBookShelf740.png"
+        },
+        {
+          "id": "https://www.minnpost.com/?p=2125422",
+          "author": "Jazzmine Jackson",
+          "description": "Plus: Minneapolis has to abandon 2040 plan; Skyway Taco John's owes $100,000 in unpaid rent according to lawsuit; Mankato business promotion backfires; and more.",
+          "link": "https://www.minnpost.com/glean/2023/09/secretary-of-state-discusses-whether-trump-could-be-left-off-2024-ballot/",
+          "publishedOn": "2023-09-07T11:11:00.000Z",
+          "wordCount": 3134,
+          "title": "Secretary of State discusses whether Trump could be left off 2024 ballot",
+          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/04/Trump040423Speech740.jpg"
+        },
         {
           "id": "https://www.minnpost.com/?p=2125404",
           "author": "MinnPost staff",
@@ -24957,76 +24980,6 @@
           "wordCount": null,
           "title": "Have at least 230 people been killed in encounters with law enforcement in Minnesota since 2000?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121562",
-          "author": "Greta Kaul",
-          "description": "Plus: Walz to meet with Ricky Cobb's family; KMOJ \"possible target for demolition\" in Blue Line extension route; a cash infusion for downtown St. Paul's Pedro Park?; how making a habit of returns hurt small businesses; and more.",
-          "link": "https://www.minnpost.com/glean/2023/08/incumbent-mayor-larson-former-legislator-reinert-will-face-off-in-duluth-mayoral-general-election/",
-          "publishedOn": "2023-08-09T11:41:40.000Z",
-          "wordCount": null,
-          "title": "Incumbent mayor Larson, former legislator Reinert will face off in Duluth mayoral general election",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121553",
-          "author": "MinnPost staff",
-          "description": "Plus: Terry Brown gets nearly 37 years for St. Paul mass shooting; Ukrainian refugees moving to North Dakota oil fields; auto thefts and carjackings down in St. Paul; why director James Cameron was in Duluth; and more.",
-          "link": "https://www.minnpost.com/glean/2023/08/blue-cross-of-minnesota-settles-lawsuit-over-gs-labs-alleged-profiteering/",
-          "publishedOn": "2023-08-08T19:00:45.000Z",
-          "wordCount": 1829,
-          "title": "Blue Cross of Minnesota settles lawsuit over GS Labs’ alleged ‘profiteering’",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2020/07/DriveThruCovidTesting640.jpg"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121527",
-          "author": "Kyle Stokes",
-          "description": "It’s the question of the Ward 8 race, with Soren Stevenson challenging the incumbent from her left. But in a wide-ranging interview with MinnPost, Jenkins said she also thinks it’s a loaded question.",
-          "link": "https://www.minnpost.com/metro/2023/08/is-andrea-jenkins-progressive-enough-to-keep-her-minneapolis-city-council-seat/",
-          "publishedOn": "2023-08-08T15:58:42.000Z",
-          "wordCount": 12084,
-          "title": "Is Andrea Jenkins ‘progressive enough’ to keep her Minneapolis City Council seat?",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/08/AndreaJenkins38thGrand740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121448",
-          "author": "By Delaney Dryfoos, The Lens",
-          "description": "The size is smaller than predicted at the beginning of the summer, but is larger than the target goal set by the Mississippi River/Gulf of Mexico Hypoxia Task Force.",
-          "link": "https://www.minnpost.com/other-nonprofit-media/2023/08/mississippis-low-water-flow-likely-reason-for-smaller-gulf-of-mexico-dead-zone-this-year-but-its-still-huge/",
-          "publishedOn": "2023-08-08T14:36:42.000Z",
-          "wordCount": 4768,
-          "title": "Mississippi’s low water flow likely reason for smaller Gulf of Mexico ‘dead zone’ this year, but it’s still huge",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/08/HypoxicZone740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121516",
-          "author": "By Mark Keierleber, The 74",
-          "description": "The Education Department will launch a coordinating council to provide formal collaboration between government officials and district leaders to help schools strengthen their cybersecurity capabilities in the face of attacks.",
-          "link": "https://www.minnpost.com/other-nonprofit-media/2023/08/white-house-rolls-out-cybersecurity-initiative-as-schools-face-devastating-hacks/",
-          "publishedOn": "2023-08-08T14:30:28.000Z",
-          "wordCount": 3188,
-          "title": "White House rolls out cybersecurity initiative as schools face devastating hacks",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/08/JillBidenSpeech740.jpg"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121475",
-          "author": "Sheila Regan",
-          "description": "For the opening, a DJ spun tunes, and couches and comfy chairs were assembled in different lounge areas, and quirky installations, including a vintage camper, made for photo-ready experiences.",
-          "link": "https://www.minnpost.com/artscape/2023/08/at-new-expansion-in-minneapolis-prospect-park-modus-locus-spreads-its-wings/",
-          "publishedOn": "2023-08-08T13:08:50.000Z",
-          "wordCount": 4538,
-          "title": "At new expansion in Minneapolis’ Prospect Park, Modus Locus spreads its wings",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2023/08/MLXInterior740.png"
-        },
-        {
-          "id": "https://www.minnpost.com/?p=2121477",
-          "author": "By Quentin R. Wittrock",
-          "description": "Leave your leaders, party members. “Just listen to me,” the lyrics advise.",
-          "link": "https://www.minnpost.com/community-voices/2023/08/50-ways-to-leave-your-leader/",
-          "publishedOn": "2023-08-08T13:00:50.000Z",
-          "wordCount": 3287,
-          "title": "50 ways to leave your leader",
-          "imageUrl": "https://www.minnpost.com/wp-content/uploads/2020/10/TrumpBiden102220Debate640.jpg"
         }
       ]
     },
@@ -25942,16 +25895,6 @@
           "wordCount": 180,
           "title": "Perseids Pronunciation",
           "imageUrl": "https://imgs.xkcd.com/comics/perseids_pronunciation_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2813/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/what_to_do.png\" title=\"FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.\" alt=\"FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.\" />",
-          "link": "https://xkcd.com/2813/",
-          "publishedOn": "2023-08-09T00:00:00.000Z",
-          "wordCount": 182,
-          "title": "What to Do",
-          "imageUrl": "https://imgs.xkcd.com/comics/what_to_do_2x.png"
         }
       ]
     },
@@ -25960,6 +25903,36 @@
       "feedUrl": "http://feeds.feedburner.com/seriouseatsfeaturesvideos",
       "siteUrl": "https://www.seriouseats.com",
       "articles": [
+        {
+          "id": "https://www.seriouseats.com/stew-recipes-7565948",
+          "author": "Lindsay Anderson, The Serious Eats Team",
+          "description": "A variety of flavor-packed stew recipes from France, America, Nigeria, and beyond to cozy up to come autumn.",
+          "link": "https://www.seriouseats.com/stew-recipes-7565948",
+          "publishedOn": "2023-09-07T20:55:22.000Z",
+          "wordCount": 4648,
+          "title": "15 Stews to Amp Up the Cozy",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://www.seriouseats.com/thmb/R_8pK9HAORR40kSI0Af_2SRiUlQ=/1500x1125/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__01__20160116-american-beef-stew-recipe-34-0e0c1839fb274d6980dec8aca4fa72c8.jpg"
+          },
+          "imageUrl": "https://www.seriouseats.com/thmb/R_8pK9HAORR40kSI0Af_2SRiUlQ=/1500x1125/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__01__20160116-american-beef-stew-recipe-34-0e0c1839fb274d6980dec8aca4fa72c8.jpg"
+        },
+        {
+          "id": "https://www.seriouseats.com/aerogarden-harvest-elite-sale-7966036",
+          "author": "Jesse Raub",
+          "description": "This indoor herb garden won our review with its programmable grow light, digital display, and easy-to-clean tray.",
+          "link": "https://www.seriouseats.com/aerogarden-harvest-elite-sale-7966036",
+          "publishedOn": "2023-09-07T13:58:58.000Z",
+          "wordCount": 3585,
+          "title": "Our Favorite Indoor Herb Garden Will Keep You Flush With Aromatics—and Now It’s 40% Off",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://www.seriouseats.com/thmb/gxUL2dpwnrt80qTg4FFAA8TD9Uk=/3000x2000/sea-product-aerogarden-harvest-indoor-herb-garden-irvin-lin-05-52921613a2b145aeba2273b1aa30db96.jpeg"
+          },
+          "imageUrl": "https://www.seriouseats.com/thmb/gxUL2dpwnrt80qTg4FFAA8TD9Uk=/3000x2000/sea-product-aerogarden-harvest-indoor-herb-garden-irvin-lin-05-52921613a2b145aeba2273b1aa30db96.jpeg"
+        },
         {
           "id": "https://www.seriouseats.com/lentil-recipes-7565962",
           "author": "The Serious Eats Team",
@@ -26619,21 +26592,6 @@
             "url": "https://www.seriouseats.com/thmb/JNUn2LvL1mq9x-g116F8wk8NWqI=/1500x1000/Sauciers_Pastry_Cream_03-3446fffa5d32494c81c8a3d240635038.jpg"
           },
           "imageUrl": "https://www.seriouseats.com/thmb/JNUn2LvL1mq9x-g116F8wk8NWqI=/1500x1000/Sauciers_Pastry_Cream_03-3446fffa5d32494c81c8a3d240635038.jpg"
-        },
-        {
-          "id": "https://www.seriouseats.com/best-proofing-baskets-7557742",
-          "author": "Jesse Raub",
-          "description": "We made two types of sourdough bread to see which proofing baskets shaped dough the best, absorbed the most moisture, fit easily in your fridge, and were easy to clean.",
-          "link": "https://www.seriouseats.com/best-proofing-baskets-7557742",
-          "publishedOn": "2023-08-08T17:21:25.000Z",
-          "wordCount": 8762,
-          "title": "We Tested 10 Proofing Baskets by Baking Dozens of Loaves—Almost All of Them Were Great",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://www.seriouseats.com/thmb/JKg0w62P0ZoAvijtHISChcpcBZo=/4000x2998/ProofingBasketLeadImage-de54d53194d34cfba1d964ee4fe0a007.jpg"
-          },
-          "imageUrl": "https://www.seriouseats.com/thmb/JKg0w62P0ZoAvijtHISChcpcBZo=/4000x2998/ProofingBasketLeadImage-de54d53194d34cfba1d964ee4fe0a007.jpg"
         }
       ]
     },
@@ -26675,6 +26633,16 @@
       "feedUrl": "https://undark.org/feed/",
       "siteUrl": "https://undark.org/",
       "articles": [
+        {
+          "id": "https://undark.org/?p=80238",
+          "author": "Dan Falk",
+          "description": "Ocean scientist Christopher Reddy, who has spent decades researching the impact of oil spills and working with the media in the aftermath of environmental crises, offers some guidance to help scientists better navigate their interactions with journalists to avoid misinformation.",
+          "link": "https://undark.org/2023/09/07/how-scientists-can-help-reporters-cover-disasters/",
+          "publishedOn": "2023-09-07T07:55:42.000Z",
+          "wordCount": 4293,
+          "title": "How Scientists Can Help Reporters Cover Disasters",
+          "imageUrl": "https://undark.org/wp-content/uploads/2023/09/GettyImages-98606630_crop.jpg"
+        },
         {
           "id": "https://undark.org/?p=79308",
           "author": "Carina Storrs",
@@ -26874,26 +26842,6 @@
           "wordCount": 3597,
           "title": "AI Alone Won’t Solve the Problem of Antibiotic Resistance",
           "imageUrl": "https://undark.org/wp-content/uploads/2023/08/mrsa_nih.jpg"
-        },
-        {
-          "id": "https://undark.org/?p=79106",
-          "author": "Esther Landhuis",
-          "description": "SLIT drops, an under-the-tongue alternative to allergy shots, are a mainstay in Europe, Canada, and Latin America. In the United States, although some medical providers offer the drops off-label, prescribing the treatment remains limited, in part due to regulatory purview and clinic revenue.",
-          "link": "https://undark.org/2023/08/09/virtual-allergy-clinics-embrace-drops-over-shots/",
-          "publishedOn": "2023-08-09T07:28:47.000Z",
-          "wordCount": 6698,
-          "title": "Virtual Clinics Embrace Allergy Drops as an Alternative to Shots",
-          "imageUrl": "https://undark.org/wp-content/uploads/2023/07/GettyImages-112704906_crop.jpg"
-        },
-        {
-          "id": "https://undark.org/?p=79106",
-          "author": "Esther Landhuis",
-          "description": "SLIT drops, an under-the-tongue alternative to allergy shots, are a mainstay in Europe, Canada, and Latin America. In the United States, although some medical providers offer the drops off-label, prescribing the treatment remains limited, in part due to regulatory purview and clinic revenue.",
-          "link": "https://undark.org/2023/08/09/virtual-clinics-move-in-on-allergy-drops/",
-          "publishedOn": "2023-08-09T07:28:47.000Z",
-          "wordCount": 6706,
-          "title": "Virtual Clinics Move In on Allergy Drops",
-          "imageUrl": "https://undark.org/wp-content/uploads/2023/07/GettyImages-112704906_crop.jpg"
         }
       ]
     },
@@ -27726,6 +27674,56 @@
       "feedUrl": "https://feeds.feedblitz.com/marginalrevolution&amp;x=1",
       "siteUrl": "https://marginalrevolution.com/",
       "articles": [
+        {
+          "id": "https://marginalrevolution.com/?p=86662",
+          "author": "Tyler Cowen",
+          "description": "In the Journal of Public Economics, by Gopi Shah Goda and Evan J. Soltas: We show that Covid-19 illnesses and related work absences persistently reduce labor supply. Using an event study, we estimate that workers with week-long Covid-19 absences are 7 percentage points less likely to be in the labor force one year later compared to […]\n\r\nThe post The impacts of Covid-19 absences on workers appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Hazel Meade.   That's an important question. I also ... by Pipsterate\nIn reply to ThatsNotAll.   Covid protocols are the biggest self ... by MikeP\nIf people stopped testing for Covid they would stop being sick ... by ThatsNotAll\nIn reply to EdR.   The hatred of Trump is mad, frothing ... by Rich Berger\nIn reply to L.   “..may have killed an old person..” Got ... by Rich Berger\nPlus 10 more...\n\nRelated Stories\n\nLabor Day\nThe Dominican Republic is underrated\nWho Runs the AEA?",
+          "link": "https://feeds.feedblitz.com/~/792688451/0/marginalrevolution~The-impacts-of-Covid-absences-on-workers.html",
+          "publishedOn": "2023-09-07T18:28:20.000Z",
+          "wordCount": 1934,
+          "title": "The impacts of Covid-19 absences on workers",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86686",
+          "author": "Tyler Cowen",
+          "description": "Using census data, we study false birth-date registrations in Italy, a phenomenon well known to demographers, in a setting that allows us to separate honesty from the benefits of cheating and deterrence. By comparing migrants leaving a locality with those who remain in it, we illustrate the tendency of Italians to sort themselves across geographic […]\n\r\nThe post Claims about Italy, Tiebout edition appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to dearieme.   The Vikings ruled Sicily for a time. by Np\nIn reply to dearieme.   And if you ask them about Britons, ... by Anon\nI'm guessing northern Italians wrote this paper? by Dan\nDefine “honesty” by Turing Test\nIn reply to dearieme.   The Moors invaded Sicily and soldiers ... by EdR\nPlus 7 more...\n\nRelated Stories\n\nWhy do immigrants oppose immigration?\nMisandry\nProudhon: To be Governed",
+          "link": "https://feeds.feedblitz.com/~/792673607/0/marginalrevolution~Claims-about-Italy-Tiebout-edition.html",
+          "publishedOn": "2023-09-07T15:42:40.000Z",
+          "wordCount": 1935,
+          "title": "Claims about Italy, Tiebout edition",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86693",
+          "author": "Tyler Cowen",
+          "description": "I am a big fan of her latest book Yellowface, which I read straight through (and it’s much more double-edged and subversive than you might be expecting).  Here is a partial bio: Rebecca F. Kuang is the award-winning, #1 New York Times bestselling author of the Poppy War trilogy and Babel: An Arcane History, as well as the […]\n\r\nThe post What should I ask Rebecca F. Kuang? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Kevin Postlewaite.   Oh her body count is more than ... by Ben Wyatt\nIn reply to Doveish.   Look, a disgusting Chinaman.   Why don't ... by Ben Wyatt\nIn reply to Rahul.   Who needs great culture when you can get ... by Ben Wyatt\nIn reply to Mark.   Because professors place greater value upon ... by Ben Wyatt\nIn reply to Sashoir.   Why are you so obsessed with “young ... by Ben Wyatt\nPlus 10 more...\n\nRelated Stories\n\nMy Conversation with the excellent Jerusalem Demsas\nThat was then, this is now, Budapest edition\nWhat should I ask Jacob Mikanowski?",
+          "link": "https://feeds.feedblitz.com/~/792663341/0/marginalrevolution~What-should-I-ask-Rebecca-F-Kuang.html",
+          "publishedOn": "2023-09-07T13:33:48.000Z",
+          "wordCount": 1930,
+          "title": "What should I ask Rebecca F. Kuang?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86663",
+          "author": "Tyler Cowen",
+          "description": "The subtitle is The Incarceration Gap Between Immigrants and the U.S.-Born, 1850–2020, and the authors are Ran Abramitzky, Leah Boustan, Elisa Jácome, Santiago Pérez, and Juan David Torres.  Here is the to-the-point abstract: Combining full-count Census data with Census/ACS samples, the researchers provide the first nationally representative long-run series (1870–2020) of incarceration rates for immigrants […]\n\r\nThe post Law-Abiding Immigrants appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to California.   So Trump was correct? by EdR\nIn reply to M.   Dem Mayor Eric Adams just said that illegal ... by Bill\nIn reply to Zach.   Jaywalking and disorderly conduct are not ... by Antony T.\nIn reply to M.   Sure, maybe it'll have terrible consequences. ... by Zach\nIn reply to Antony T.   That explains why prisons would be ... by Zach\nPlus 10 more...\n\nRelated Stories\n\nWhy do immigrants oppose immigration?\nLabor Day\nProudhon: To be Governed",
+          "link": "https://feeds.feedblitz.com/~/792636665/0/marginalrevolution~LawAbiding-Immigrants.html",
+          "publishedOn": "2023-09-07T07:27:43.000Z",
+          "wordCount": 1931,
+          "title": "Law-Abiding Immigrants",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/?p=86669",
+          "author": "Tyler Cowen",
+          "description": "This question does not receive enough discussion, but there is a new paper of note, by Aflatun Kaeser and Massimiliano Tani: …successful immigrants in the United States (i.e., those who are in the top quintile of the socioeconomic classification), who may benefit the most from being perceived as unrelated to unskilled undocumented immigrants, have negative […]\n\r\nThe post Why do immigrants oppose immigration? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Dino the Isaurian.   Fuck you for being so ignorant ... by prioritize their own well being\nBecause they were first- no one should be like them. We're ... by Antony T.\nIn reply to Zach.   Maybe because the Constitution says so? ... by Antony T.\nA few things people haven't yet mentioned (and sticking with ... by gjk\nIn reply to Otto.   I’ll add that I’ve met plenty of ... by Otto\nPlus 10 more...\n\nRelated Stories\n\nProudhon: To be Governed\nItaly fact of the day\nMisandry",
+          "link": "https://feeds.feedblitz.com/~/792621236/0/marginalrevolution~Why-do-immigrants-oppose-immigration.html",
+          "publishedOn": "2023-09-07T04:21:20.000Z",
+          "wordCount": 1966,
+          "title": "Why do immigrants oppose immigration?",
+          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
+        },
         {
           "id": "https://marginalrevolution.com/?p=86685",
           "author": "Tyler Cowen",
@@ -29095,46 +29093,6 @@
           "wordCount": 1299,
           "title": "Wednesday assorted links",
           "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86488",
-          "author": "Tyler Cowen",
-          "description": "Singapore is a wonderful instance of the advantage of the unrestricted enterprise of free trade: so late as the year 1822 there was scarcely a native hut, certainly not one European habitation on the island; in eight years it had not only grown into the most important settlement in the whole of the Malay Archipelago, […]\n\r\nThe post Happy Birthday Singapore! appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to rayward.   Are you the dude with the girlfriend ... by scj\nIn reply to rsm.   Dutch Porn is the best porn. by scj\nIn reply to JWatts.   This from the Master of Bait and Switch by Master Bait\nIn reply to Bill.   I had a student who was from Hong Kong, but ... by mkt42\nIn reply to JWatts.   Opium was pretty toxic, wasn’t it? by Toxic\nPlus 10 more...\n\nRelated Stories\n\nBehavioral Economics and ChatGPT: From William Shakespeare to Elena Ferrante\nMarkets in everything, hockey romance edition\nHealth Alert: Your Survival Odds May Increase When Surgeons Take a Break!",
-          "link": "https://feeds.feedblitz.com/~/770165654/0/marginalrevolution~Happy-Birthday-Singapore.html",
-          "publishedOn": "2023-08-09T06:25:24.000Z",
-          "wordCount": 1398,
-          "title": "Happy Birthday Singapore!",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86482",
-          "author": "Tyler Cowen",
-          "description": "That is the topic of my latest Bloomberg column, and here is one excerpt: How worried should we be? There is a common and popular tradition that suggests an economic recovery is a harbinger of bad times. Perhaps a recovery has a kind of expiration date, just like the milk in your refrigerator. After some […]\n\r\nThe post Should we now expect a recession? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to rayward.   Musk, intentionally or not, helped stem ... by rayward\nIn reply to Hank.   Quiet quitting perhaps? by Maybe there is a name for this style?\nIn reply to Vulcidian.   Don't worry about lowering inflation. ... by Dan Hanson\nIn reply to Todd K.   And what should he say about something ... by Dan Hanson\nIn reply to TMC.   Instapundit tolerated me as a commenter for ... by Cancelled for wongthink\nPlus 10 more...\n\nRelated Stories\n\nThe Gender Death Gap\nUnintended Geoengineering\nGrowth models and new goods",
-          "link": "https://feeds.feedblitz.com/~/770043455/0/marginalrevolution~Should-we-now-expect-a-recession.html",
-          "publishedOn": "2023-08-09T04:52:27.000Z",
-          "wordCount": 1515,
-          "title": "Should we now expect a recession?",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86469",
-          "author": "Tyler Cowen",
-          "description": "I will be doing a Conversation with him, here is Wikipedia: Brian William Koppelman (born April 27, 1966) is an American showrunner. Koppelman is the co-writer of Ocean’s Thirteen and Rounders, the producer for films including The Illusionist and The Lucky Ones, the director for films including Solitary Man and the documentary This Is What They Want for ESPN as part of their 30 for 30 series, and the co-creator, […]\n\r\nThe post What should I ask Brian Koppelman? appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to rayward.   Rogue planets colliding with Earth. ... by Pedro\nBillions vs Industry–please comment.   Maybe one direction ... by Marc\nIn reply to rayward.   Jesus Christ, rayward is an idiot. ... by Pedro\nWhy did Megan Rapinoe miss the net by so much?   (Answer: She ... by Pedro\nWho should own ESPN? Disney, a Big Tech company, the pro sports ... by celestus\nPlus 10 more...\n\nRelated Stories\n\nHow to assign property rights in actor AI likenesses\nWhy aren’t Barbie tickets more expensive?\nOn-line, Chinese production of *The Three-Body Problem*",
-          "link": "https://feeds.feedblitz.com/~/769415558/0/marginalrevolution~What-should-I-ask-Brian-Koppelman.html",
-          "publishedOn": "2023-08-08T18:11:52.000Z",
-          "wordCount": 1304,
-          "title": "What should I ask Brian Koppelman?",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
-        },
-        {
-          "id": "https://marginalrevolution.com/?p=86473",
-          "author": "Tyler Cowen",
-          "description": "1. Why are Celtic governments more progressive than Celtic voters? 2. Why are so many Tamils so good with numbers? 3. Is it time for a new atomic altruism? 4. “Analysis of 50 major Europe- and North America-based global non-profit organizations…showed that environmental and climate groups were the most likely to include Taiwan as part […]\n\r\nThe post Tuesday assorted links appeared first on Marginal REVOLUTION.\n\r\n       \r\n\nComments\n\nIn reply to Formerly K.   India sleeps soundly at night knowing ... by jayson\n#1). Nice theory, pity there is no data used to back up the ... by Undertones\nIn reply to rsm.   You may “identify “ as one, but ... by Oldcurmudgeon\nIn reply to MathBath.   Can you give the link ? PISA comparison ... by Anon\n#1: Very selective reading of Irish politics, no mention that ... by James\nPlus 10 more...",
-          "link": "https://feeds.feedblitz.com/~/769358285/0/marginalrevolution~Tuesday-assorted-links.html",
-          "publishedOn": "2023-08-08T15:59:02.000Z",
-          "wordCount": 1298,
-          "title": "Tuesday assorted links",
-          "imageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png"
         }
       ]
     },
@@ -29160,6 +29118,36 @@
       "feedUrl": "https://golem.ph.utexas.edu/~distler/planet/atom.xml",
       "siteUrl": "https://golem.ph.utexas.edu/~distler/planet/",
       "articles": [
+        {
+          "id": "http://nanoscale.blogspot.com/2023/09/things-i-learned-at-packard-foundation.html",
+          "author": null,
+          "description": "Early in my career, I was incredibly fortunate to be awarded a  fellowship, and this week I attended the meeting in honor of the 35th anniversary of the fellowship program.  Packard fellowships are amazing, with awardees spanning the sciences (including math) and engineering, providing resources for a sustained period (5 years) with enormous flexibility.  The meetings have been some of the most fun ones I've ever attended, with talks by incoming and outgoing fellows that are short (20 min) and specifically designed to be accessible by scientifically literate non-experts.  My highlights from the meeting ten years ago (the last one I attended) are .  Highlights from meetings back when I was a fellow are , , , .David and Lucille Packard Foundationhereherehereherehere\nHere are some cool things…",
+          "link": "http://nanoscale.blogspot.com/2023/09/things-i-learned-at-packard-foundation.html",
+          "publishedOn": "2023-09-07T17:42:00.000Z",
+          "wordCount": 3275,
+          "title": "Things I learned at the Packard Foundation meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://golem.ph.utexas.edu/category/2023/09/linear_actegories.html",
+          "author": null,
+          "description": "Concurrency is the process of running different processes in non-sequential order while not affecting the desired output.",
+          "link": "https://golem.ph.utexas.edu/category/2023/09/linear_actegories.html",
+          "publishedOn": "2023-09-07T15:46:37.000Z",
+          "wordCount": 2995,
+          "title": "Linear Actegories",
+          "imageUrl": null
+        },
+        {
+          "id": "http://hoggresearch.blogspot.com/2023/09/is-periodic-signal-in-time-series.html",
+          "author": null,
+          "description": "I had conversations with Nora Eisner (Flatiron) and Abby Shaum (CUNY) today about how we report the significance of a signal we find in a time series. In particular a periodic signal. It's an old, unsolved problem, with a lot of literature. And various hacks that are popular in the exoplanet community (and binary-star community!). My position is very simple: Since all methods for determining significance are flawed, and since when you fit a signal you have to estimate also an uncertainty on that signal's parameters, the simplest and most basic test of significance is the significance with which you measure the  of the proposed signal. That is, if the amplitude is well measured, the signal is real. Of course there are adversarial data sets I can make where this isn't true! But that's just a restatement of the point that this is an unsolved problem. For deep reasons!amplitude",
+          "link": "http://hoggresearch.blogspot.com/2023/09/is-periodic-signal-in-time-series.html",
+          "publishedOn": "2023-09-07T03:59:00.000Z",
+          "wordCount": 4184,
+          "title": "is a periodic signal in a time series statistically significant?",
+          "imageUrl": null
+        },
         {
           "id": "https://golem.ph.utexas.edu/category/2023/09/an_introduction_to_linearly_di.html",
           "author": null,
@@ -29689,46 +29677,6 @@
           "wordCount": 3674,
           "title": "Caltech’s Ginsburg Center",
           "imageUrl": "https://quantumfrontiers.files.wordpress.com/2023/08/ginsburg-facade-v3.png"
-        },
-        {
-          "id": "http://hoggresearch.blogspot.com/2023/08/other-kinds-of-machine-learning.html",
-          "author": null,
-          "description": "Astronomy is very focused on machine learning in the sense of regression and classification, but machine learning can do many other things. In addition, machine learning is a sub-field of machine intelligence, which is broader. I started today working on a proposal for the NSF (to be written with Mike Blanton, NYU) in which we propose using other kinds of machine learning and machine intelligence, and apply them earlier in the scientific process (like at operations and calibration) instead of at the end (like at source classification and labeling).",
-          "link": "http://hoggresearch.blogspot.com/2023/08/other-kinds-of-machine-learning.html",
-          "publishedOn": "2023-08-09T09:53:00.000Z",
-          "wordCount": 4088,
-          "title": "other kinds of machine learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/",
-          "author": null,
-          "description": "<div type=\"xhtml\" xml:lang=\"en\"><div xmlns=\"http://www.w3.org/1999/xhtml\">Editor’s note: Since 2015, the Simons Foundation has supported the “It from Qubit” collaboration, a group of scientists drawing on ideas from quantum information theory to address deep issues in fundamental physics. The collaboration held its “Last Hurrah” event at … <a href=\"https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/\">Continue reading <span class=\"meta-nav\">→</span></a></div></div>",
-          "link": "https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/",
-          "publishedOn": "2023-08-09T00:56:21.000Z",
-          "wordCount": 6184,
-          "title": "It from Qubit: The Last Hurrah",
-          "imageUrl": "https://quantumfrontiers.files.wordpress.com/2023/08/ifq-2023-group-photo.png?w=1200"
-        },
-        {
-          "id": "http://hoggresearch.blogspot.com/2023/08/spherical-harmonics-for-tensor-fields.html",
-          "author": null,
-          "description": "I have been kicking around the generalization of spherical harmonics to vector spherical harmonics, and how that might generate the tensor spherical harmonics to all orders of tensor and all parities. I think I got it today! For every spherical harmonic (ell and em), there are three vector spherical harmonics obtained by multiplying by the radial vector, taking the transverse gradient, and taking the transverse gradient and crossing it into the radial direction. I think these can be generalized (using, say, the Ricci calculus) to make the 2-tensors and so on. If I am right, this is a new way to represent tensor fields on the sphere. Use cases: Cosmic backgrounds, and ocean dynamics.",
-          "link": "http://hoggresearch.blogspot.com/2023/08/spherical-harmonics-for-tensor-fields.html",
-          "publishedOn": "2023-08-08T21:59:00.000Z",
-          "wordCount": 4110,
-          "title": "spherical harmonics for tensor fields",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science20.com/tommaso_dorigo/automatic_differentiation_derivgrind-256735",
-          "author": null,
-          "description": "<div type=\"xhtml\"><div xmlns=\"http://www.w3.org/1999/xhtml\">Wait a minute - why is an article about automatic differentiation labeled under the \"Physics\" category? Well, I will explain that in a minute. First of all, let me explain what automatic differentiation is. Computing derivatives of functions is a rather error-prone job. Maybe it is me, but if you give me a complex function where the dependence on a variable is distributed in several sub-functions, I am very likely to find N different results if I do it N times. Yes, I am 57 years old, and I should be handling other things and leave these calculations to younger lads, I agree. <br/><br/><p><a href=\"https://www.science20.com/tommaso_dorigo/automatic_differentiation_derivgrind-256735\" target=\"_blank\">read more</a></p></div></div>",
-          "link": "https://www.science20.com/tommaso_dorigo/automatic_differentiation_derivgrind-256735",
-          "publishedOn": "2023-08-08T12:56:55.000Z",
-          "wordCount": 1632,
-          "title": "Automatic Differentiation: DerivGrind",
-          "imageUrl": null
         }
       ]
     },
@@ -29749,6 +29697,16 @@
       "feedUrl": "https://pointers.dailywebthing.com/feed/",
       "siteUrl": "https://iwebthings.joejenett.com/",
       "articles": [
+        {
+          "id": "https://iwebthings.joejenett.com/mixt-links-09-07-23/",
+          "author": null,
+          "description": "LazyVim (github) 📌\n“💤 A modern plugin manager for Neovim”\nMilkdown (github)📌\n“🍼 A plugin driven framework to build WYSIWYG Markdown editor.”\nOptical Toys 📌\n“Optical illusions & brain bending toys”\nTiddlyPWA 📌\n“TiddlyPWA turns TiddlyWiki5 into an offline-first Progressive Web App with encrypted local persistent storage and efficient synchronization with a server that can easily be hosted for free.”\nNobody cares about your blog. 📌\n“I just don’t care what you think, here’s my post and you can do nothing about it :)”",
+          "link": "https://iwebthings.joejenett.com/mixt-links-09-07-23/",
+          "publishedOn": "2023-09-07T11:29:21.000Z",
+          "wordCount": 455,
+          "title": "mixt.links 09-07-23",
+          "imageUrl": "https://iwebthings.joejenett.com/images/iwtlogo.png"
+        },
         {
           "id": "https://iwebthings.joejenett.com/latest-data-and-insights/",
           "author": null,
@@ -33769,6 +33727,16 @@
       "siteUrl": "https://languagelog.ldc.upenn.edu/nll",
       "articles": [
         {
+          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60516",
+          "author": "Victor Mair",
+          "description": "There seem to be a lot of people complaining about it these days, so maybe there's something to worry about here.  Francois Lang, who called this current wave of criticism to my attention asks whether academia is isolated from such horrors. FWIW, here's what it's like in business: \"A look at the most annoying workplace […]",
+          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60516&utm_source=rss&utm_medium=rss&utm_campaign=on-the-job-jargon",
+          "publishedOn": "2023-09-07T12:11:31.000Z",
+          "wordCount": 3941,
+          "title": "On-the-job jargon",
+          "imageUrl": null
+        },
+        {
           "id": "https://languagelog.ldc.upenn.edu/nll/?p=60508",
           "author": "Victor Mair",
           "description": "9月1日，杭州高架禁止特斯拉通行。车主吐槽“这有点搞笑了呀”交警回复“是有点搞笑但是你要服从” pic.twitter.com/z7Tm7cN1Yi — 李老师不是你老师 (@whyyoutouzhele) September 1, 2023 The text says: 9 yuè 1 rì, Hángzhōu gāojià jìnzhǐ Tèsīlā tōngxíng.Chēzhǔ tǔcáo “Zhè yǒudiǎn gǎoxiàole ya”. Jiāojǐng huífù “Shì yǒudiǎn gǎoxiào dànshì nǐ yào fúcóng. 9月1日，杭州高架禁止特斯拉通行。车主吐槽“这有点搞笑了呀”交警回复“是有点搞笑但是你要服从” On September 1, a Tesla was banned from passing through the Hangzhou Elevated Highway.The car owner complained, \"This is a bit […]",
@@ -34306,51 +34274,6 @@
           "publishedOn": "2023-08-09T20:36:53.000Z",
           "wordCount": 2067,
           "title": "\"Multi-hyphenate spaces\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60068",
-          "author": "Victor Mair",
-          "description": "The following photo is from Guanghzhou and was taken recently by David Lobina's partner who’s there now.  The Chinese says: rúyǒu gùzhàng ， búyào mángmù zìjiù 如有故障，不要盲目自救 \"If there is a malfunction, do not blindly rescue / save yourself\" Though the second clause may initially strike one as being in error, it is actually a […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60068&utm_source=rss&utm_medium=rss&utm_campaign=dont-blindly-save-yourself",
-          "publishedOn": "2023-08-09T05:03:33.000Z",
-          "wordCount": 2776,
-          "title": "\"Don't blindly save yourself\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60050",
-          "author": "Victor Mair",
-          "description": "From a photo sharing group on Facebook: The Chinese says: fēnshǒu 分手 \"separate; (bid) farewell; part(ing); part company; break up (with); split up; end a relationship\" Cf. fēnshǒu xìn 分手信 (\"break up letter; Dear John letter\"). Selected readings \"Luv u\" (4/29/17) \"'Waiving goodbye'\" (9/21/20) \"Goodbye to Hello\" (10/3/22) \"'Just ghost'\" (7/6/20) \"Have a good / […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60050&utm_source=rss&utm_medium=rss&utm_campaign=its-so-hard-to-say-goodbye-in-chinese",
-          "publishedOn": "2023-08-09T05:00:17.000Z",
-          "wordCount": 2232,
-          "title": "It's so hard to say \"goodbye\" in Chinese",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60081",
-          "author": "Mark Liberman",
-          "description": "…though they often do a credible job of faking it.  An interesting (preprint) paper by Konstantine Arkoudas, \"GPT-4 Can't Reason\", brings the receipts. The abstract: GPT-4 was released in March 2023 to wide acclaim, marking a very substantial improvement across the board over GPT-3.5 (OpenAI’s previously best model, which had powered the initial release of […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60081&utm_source=rss&utm_medium=rss&utm_campaign=llms-cant-reason",
-          "publishedOn": "2023-08-08T18:27:54.000Z",
-          "wordCount": 3247,
-          "title": "LLMs can't reason?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://languagelog.ldc.upenn.edu/nll/?p=60072",
-          "author": "Victor Mair",
-          "description": "No, I'm not talking about the eye parasite called Loa loa (a filarial nematode), which is also called eyeworm.  I'm talking about an image that gets stuck in your brain the same way an earworm (also called brainworm, sticky music, or stuck song syndrome) gets stuck in your head.  We've talked about earworms a lot […]",
-          "link": "https://languagelog.ldc.upenn.edu/nll/?p=60072&utm_source=rss&utm_medium=rss&utm_campaign=eyeworm",
-          "publishedOn": "2023-08-08T18:05:52.000Z",
-          "wordCount": 3334,
-          "title": "Eyeworm",
-          "enclosure": {
-            "url": "https://www.holy-bhagavad-gita.org/public/audio/011_032.mp3",
-            "length": "445405",
-            "type": "audio/mpeg"
-          },
           "imageUrl": null
         }
       ]
