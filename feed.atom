@@ -2,10 +2,347 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://midfield.github.io/fraidyfeed/index.html</id>
     <title>fraidymid</title>
-    <updated>2023-09-23T00:43:01.765Z</updated>
+    <updated>2023-09-24T00:47:31.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://midfield.github.io/fraidyfeed/index.html"/>
     <link rel="self" href="https://midfield.github.io/fraidyfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advobots and X-risk]]></title>
+        <id>http://machinethoughts.wordpress.com/?p=3386</id>
+        <link href="https://machinethoughts.wordpress.com/2023/09/23/advobots-and-x-risk/"/>
+        <updated>2023-09-23T23:18:29.000Z</updated>
+        <summary type="html"><![CDATA[In a 2014 post I argued for the “servant mission” as a solution to AI safety. The basic idea is that there are many AI agents each one of which has the mission of serving a particular person. I gave … Continue reading →]]></summary>
+        <author>
+            <name>McAllester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian diﬀerential privacy for free?]]></title>
+        <id>http://xianblog.wordpress.com/?p=53957</id>
+        <link href="https://xianblog.wordpress.com/2023/09/24/bayesian-di%ef%ac%80erential-privacy-for-free/"/>
+        <updated>2023-09-23T22:23:06.000Z</updated>
+        <summary type="html"><![CDATA[“We are interested in the question of how we can build diﬀerentially-private algorithms within the Bayesian framework. More precisely, we examine when the choice of prior is suﬃcient to guarantee diﬀerential privacy for decisions that are derived from the posterior distribution (…) we show that the Bayesian statistician’s choice of prior distribution ensures a base […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian diﬀerential privacy for free?]]></title>
+        <id>http://xianblog.wordpress.com/?p=53957</id>
+        <link href="https://xianblog.wordpress.com/2023/09/24/bayesian-di%ef%ac%80erential-privacy-for-free/"/>
+        <updated>2023-09-23T22:23:06.000Z</updated>
+        <summary type="html"><![CDATA[“We are interested in the question of how we can build diﬀerentially-private algorithms within the Bayesian framework. More precisely, we examine when the choice of prior is suﬃcient to guarantee diﬀerential privacy for decisions that are derived from the posterior distribution (…) we show that the Bayesian statistician’s choice of prior distribution ensures a base […]]]></summary>
+        <author>
+            <name>xi'an</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Published 12 Books In 3 Years: Here’s How]]></title>
+        <id>https://medium.com/p/eaa4b003936e</id>
+        <link href="https://writingcooperative.com/i-published-12-books-in-3-years-heres-how-eaa4b003936e?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-09-23T21:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Write more, grow your audience and earn more
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Deja Elise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American PII: Lapses in Securing Confidential Data]]></title>
+        <id>https://gojiberries.io/?p=8043</id>
+        <link href="http://gojiberries.io/2023/09/23/american-pii-lapses-in-securing-confidential-data/"/>
+        <updated>2023-09-23T20:32:44.000Z</updated>
+        <summary type="html"><![CDATA[At least 83% of Americans have had their confidential data shared with a company breached (see here and here). The list of most frequently implicated companies in the loss of confidential data makes for sobering reading. Reputable companies like Linkedin (Microsoft), Adobe, Dropbox, ... Read More »]]></summary>
+        <author>
+            <name>editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Hurting the feelings of the Chinese people", part 3]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60657</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60657&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hurting-the-feelings-of-the-chinese-people-part-3"/>
+        <updated>2023-09-23T19:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Shared by John Rohsenow and David Cahill / Isham Cook: From Arthur Meursault (@emptymeursault) This is a trope with which we're intimately familiar. According to the Chinese government, of all peoples on earth, the Chinese people are unique in this regard, except that now, more and more, they are starting to hurt their own feelings, […]]]></summary>
+        <author>
+            <name>Victor Mair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annals of AI bias]]></title>
+        <id>https://languagelog.ldc.upenn.edu/nll/?p=60695</id>
+        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60695&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=annals-of-ai-bias"/>
+        <updated>2023-09-23T18:23:18.000Z</updated>
+        <summary type="html"><![CDATA[The Large Language Model DistilBert is "a distilled version of BERT: smaller, faster, cheaper and lighter". A trained DistilBert model is available from Hugging Face, and recommended applications include "text classification", with the featured application being "sentiment analysis": And as with many similar applications, it's been noted that this version of "sentiment analysis" has picked […]]]></summary>
+        <author>
+            <name>Mark Liberman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mass, Weight, and Fields]]></title>
+        <id>https://profmattstrassler.com/2023/09/23/mass-weight-and-fields/</id>
+        <link href="https://profmattstrassler.com/2023/09/23/mass-weight-and-fields/"/>
+        <updated>2023-09-23T17:57:39.000Z</updated>
+        <summary type="html"><![CDATA[<div type="xhtml" xml:lang="en-US"><div xmlns="http://www.w3.org/1999/xhtml">Today a reader asked me “Out of the quantum fields which have mass, do any of them also have weight?” I thought other readers would be interested in my answer, so I’m putting it here. (Some of what is discussed below is covered in greater detail in my upcoming book.) Before we start, we need ... <a class="read-more" href="https://profmattstrassler.com/2023/09/23/mass-weight-and-fields/" title="Mass, Weight, and Fields">Read more</a></div></div>]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday assorted links]]></title>
+        <id>https://marginalrevolution.com/?p=86783</id>
+        <link href="https://feeds.feedblitz.com/~/794614391/0/marginalrevolution~Saturday-assorted-links.html"/>
+        <updated>2023-09-23T17:41:23.000Z</updated>
+        <summary type="html"><![CDATA[1. The Dean Karlan plan for fixing USAID. 2. David Salle tutors an AI in how to make art (NYT). 3. Jellyfish evidence that “thinking/learning” goes on at the cellular level (NYT). 4. If the federal government shuts down, members of Congress still get paid though regular federal employees do not. 5. Rust Belt fact […]
+
+The post Saturday assorted links appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to asdf.   Those tend to be illegal (in the US) ... by Oldcurmudgeon
+In reply to JMK.   Fwiw, US law also pushes everyone into that ... by Oldcurmudgeon
+#5 Interesting and worthwhile, but, methodologically, is ... by Thomas Hutcheson
+In reply to asdf.   American unions are closed shops so a lot ... by Bobster
+In reply to DF.   I can't help but think that Marx-inspired ... by JMK
+Plus 10 more...]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 20 Best Thriller Movies Of The 1970s]]></title>
+        <id>http://www.tasteofcinema.com/?p=67193</id>
+        <link href="http://www.tasteofcinema.com/2023/the-20-best-thriller-movies-of-the-1970s/"/>
+        <updated>2023-09-23T15:32:33.000Z</updated>
+        <summary type="html"><![CDATA[There’s a reason why the 1970s continues to be regarded as one of the greatest eras for cinema. This transformative decade witnessed a seismic shift in the Hollywood ecosystem, marked by the rise of auteur-driven independent cinema and the dawn of multi-billion-dollar blockbuster franchises that still permeate our pop-culture 50 years on. In compiling this […]]]></summary>
+        <author>
+            <name>Guillermo de Querol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Voyage of the Beagle, by Charles Darwin]]></title>
+        <id>https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle</id>
+        <link href="https://standardebooks.org/ebooks/charles-darwin/the-voyage-of-the-beagle"/>
+        <updated>2023-09-23T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Darwin’s personal account of his 1831 voyage around the world investigating the geology, botany, and zoology of various lands.]]></summary>
+        <author>
+            <name>Standard Ebooks - Newest Ebooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Moduli Space of Acute Triangles]]></title>
+        <id>http://johncarlosbaez.wordpress.com/?p=35605</id>
+        <link href="https://johncarlosbaez.wordpress.com/2023/09/23/the-moduli-space-of-acute-triangles/"/>
+        <updated>2023-09-23T15:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Recently Quanta magazine came out with an article explaining modular forms: • Jordana Cepelewicz, Behold modular forms, the ‘fifth fundamental operation’ of math, Quanta, 23 September 2023. It does a heroically good job. One big thing it doesn’t do is explain these funny looking ‘fundamental domains’ in the upper half-plane: That is: where does this […]]]></summary>
+        <author>
+            <name>John Baez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Moduli Space of Acute Triangles]]></title>
+        <id>https://johncarlosbaez.wordpress.com/2023/09/23/the-moduli-space-of-acute-triangles/</id>
+        <link href="https://johncarlosbaez.wordpress.com/2023/09/23/the-moduli-space-of-acute-triangles/"/>
+        <updated>2023-09-23T15:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Recently Quanta magazine came out with an article explaining modular forms: • Jordana Cepelewicz, Behold modular forms, the ‘fifth fundamental operation’ of math, Quanta, 23 September 2023. It does a heroically good job. One big thing it doesn’t do is explain these funny looking ‘fundamental domains’ in the upper half-plane: That is: where does this […]]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poem: 'Message to My Beloved Sibling']]></title>
+        <id>38B4653B-2EED-4BF3-BC79157FAE0CA3DE</id>
+        <link href="https://www.scientificamerican.com/article/poem-message-to-my-beloved-sibling/"/>
+        <updated>2023-09-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Science in meter and verse]]></summary>
+        <author>
+            <name>Jonathan Katz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Moduli Space of Acute Triangles]]></title>
+        <id>https://golem.ph.utexas.edu/category/2023/09/the_moduli_space_of_acute_tria.html</id>
+        <link href="https://golem.ph.utexas.edu/category/2023/09/the_moduli_space_of_acute_tria.html"/>
+        <updated>2023-09-23T14:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Check out my short article on the moduli space of acute triangles and the moduli space of elliptic curves!]]></summary>
+        <author>
+            <name>The n-Category Café</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Moduli Space of Acute Triangles]]></title>
+        <id>https://golem.ph.utexas.edu/category/2023/09/the_moduli_space_of_acute_tria.html</id>
+        <link href="https://golem.ph.utexas.edu/category/2023/09/the_moduli_space_of_acute_tria.html"/>
+        <updated>2023-09-23T14:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Check out my short article on the moduli space of acute triangles and the moduli space of elliptic curves!]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More People Die from Venomous Snakebites Each Year Than Have Ever Died from Ebola]]></title>
+        <id>7D80CD33-767B-46D8-B628C6F48784F9E3</id>
+        <link href="https://www.scientificamerican.com/article/more-people-die-from-venomous-snakebites-each-year-than-have-ever-died-from-ebola/"/>
+        <updated>2023-09-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In low- and middle-income nations, snakebite envenoming is more deadly than almost any other neglected tropical disease]]></summary>
+        <author>
+            <name>Cassandra Willyard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(again) why I don’t like to talk so much about “p-hacking.”  But sometimes the term is appropriate!]]></title>
+        <id>https://statmodeling.stat.columbia.edu/?p=49051</id>
+        <link href="https://statmodeling.stat.columbia.edu/2023/09/23/again-why-i-dont-like-to-talk-so-much-about-p-hacking/"/>
+        <updated>2023-09-23T13:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Part 1 Jonathan Falk points us to this parody article that has suggestions on how to p-hack. I replied that I continue to be bothered by the term “p-hacking.” Sometimes it applies very clearly (as in the work of Brian … Continue reading →]]></summary>
+        <author>
+            <name>Andrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tit for tat?]]></title>
+        <id>https://justthesocialfacts.blogspot.com/2023/09/tit-for-tat.html</id>
+        <link href="https://justthesocialfacts.blogspot.com/2023/09/tit-for-tat.html"/>
+        <updated>2023-09-23T13:21:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a follow-up to my post arguing that American political institutions, which were traditionally held to reduce polarization (and probably did), promote it given the conditions that prevail today (viz., parties that are  distinguished by ideology).  A new book by Steven Levitsky and Daniel Ziblatt that makes the same general argument has been getting attention, so I thought I should say how my view differs from theirs.  Levitsky and Ziblatt say that the main problem is institutions that work against majority rule, like the Senate, the Electoral College, and gerrymandered congressional districts.  As Michelle Goldberg summarizes it "The Constitution’s countermajoritarian provisions, combined with profound geographic polarization, have locked us into a crisis of minority rule."  However…]]></summary>
+        <author>
+            <name>Just the social facts, ma'am</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Ideas Alive the Right Way]]></title>
+        <id>https://medium.com/p/8cdacda0d843</id>
+        <link href="https://writingcooperative.com/keep-ideas-alive-the-right-way-8cdacda0d843?source=rss----6e9c0c9fd682---4"/>
+        <updated>2023-09-23T13:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Manage your “eureka" moments with ease
+Continue reading on The Writing Cooperative »]]></summary>
+        <author>
+            <name>Asher "Zach" Neuman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valley Fever Is a Growing Fungal Threat to Outdoor Workers]]></title>
+        <id>F1303369-5389-4B1E-BC8D6AA5D6463F4B</id>
+        <link href="https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/"/>
+        <updated>2023-09-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The disease hits farmworkers and outdoor laborers disproportionately hard]]></summary>
+        <author>
+            <name>Ashli Blow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Ads Can Infect Your Device with Spyware]]></title>
+        <id>BD0DBD0E-46BE-4744-B95722F081E2106D</id>
+        <link href="https://www.scientificamerican.com/article/online-ads-can-infect-your-device-with-spyware/"/>
+        <updated>2023-09-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An investigative report reveals that new spyware can slip in unseen through online ads—and there is currently no defense against it]]></summary>
+        <author>
+            <name>Claire Seungeun Lee, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zero Sum Idea Trap]]></title>
+        <id>https://marginalrevolution.com/?p=86785</id>
+        <link href="https://feeds.feedblitz.com/~/794525105/0/marginalrevolution~The-Zero-Sum-Idea-Trap.html"/>
+        <updated>2023-09-23T11:10:06.000Z</updated>
+        <summary type="html"><![CDATA[In an excellent column, John Burn-Murdoch in the FT draws out some of the implications of zero-sum thinking,  based on the new NBER paper Zero-Sum Thinking and the Roots of U.S. Political Divides. Among the most striking Harvard findings was the discovery that there is a strong relationship between the extent to which someone is […]
+
+The post The Zero Sum Idea Trap appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+In reply to KarlK.   GDP growth was never 4%, thats a ... by Restless carrot
+In reply to OldCurmudgeon.   Wealth can grow so there's enough ... by Neurotic
+In reply to Dino the Isaurian.   Go fuck your wife asshole by Anonymous
+In reply to KarlK.    A 6 point drop on a 100 point scale over ... by Rusty Robot
+Were taxes not extremely high in the post war period when ... by Wormbridge
+Plus 10 more...
+
+Related Stories
+
+Regulation is the Friend of the Incumbent!
+EU May Ban Payments for Milk, Sperm and Blood
+IFOs]]></summary>
+        <author>
+            <name>Alex Tabarrok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend reads: Who should pay for sleuthing?; the Gino retraction requests; university ‘halts projects over fraud investigation’]]></title>
+        <id>https://retractionwatch.com/?p=127900</id>
+        <link href="https://retractionwatch.com/2023/09/23/weekend-reads-who-should-pay-for-sleuthing-the-gino-retraction-requests-university-halts-projects-over-fraud-investigation/"/>
+        <updated>2023-09-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: Our list of retracted or withdrawn COVID-19 papers is up to well over 350. There are now nearly 43,000 retractions in The Retraction Watch Database — which is now part of Crossref. The Retraction Watch Hijacked Journal Checker now contains 200 titles. … Continue reading Weekend reads: Who should pay for sleuthing?; the Gino retraction requests; university ‘halts projects over fraud investigation’]]></summary>
+        <author>
+            <name>Ivan Oransky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NLUUG Award]]></title>
+        <id>https://berthub.eu/articles/posts/nluug-award/</id>
+        <link href="https://berthub.eu/articles/posts/nluug-award/"/>
+        <updated>2023-09-23T08:13:15.000Z</updated>
+        <summary type="html"><![CDATA[I won an award! Earlier this year I was lured to the NLUUG spring conference, and after my presentation (on machine learning from scratch), the two large presentation rooms were joined for some additional announcements. Turns out this was to give me an NLUUG Lifetime Achievement Award!
+Previous awardees include Piet Beertema, Guido van Rossum, Wietse Venema, Bram Moolenaar, Andy Tanenbaum, Wytze van der Raay, Teus Hagen, Michiel Leenaars, Olaf Kolkman and these are all awesome people who made massive contributions to the world and the Internet.]]></summary>
+        <author>
+            <name>Bert Hubert's writings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I’ve been reading, new books sent my way]]></title>
+        <id>https://marginalrevolution.com/?p=86660</id>
+        <link href="https://feeds.feedblitz.com/~/794493203/0/marginalrevolution~What-Ive-been-reading-new-books-sent-my-way.html"/>
+        <updated>2023-09-23T06:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Cara Fitzpatrick, The Death of Public School: How Conservatives Won the War Over Education in America, is quite a good and also objective book. Florian Illies, Love in a Time of Hate: Art and Passion in the Shadow of War.  Take the top Continental artists and thinkers of the 1920s, and write a book about […]
+
+The post What I’ve been reading, new books sent my way appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+Regarding Leonhardt, there have been declinist books published ... by y81
+In reply to Czech O Slovak.   “Book reviewing tends to be a ... by EdR
+In reply to Horhe.   “Harping on some abstract US right wing ... by EdR
+In reply to EdR.   Correction: only one corporation in the top ... by EdR
+In reply to dan1111.   😂 It is laughable!   The education ... by EdR
+Plus 10 more...]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[States with high (low) rates of reported mental illness]]></title>
+        <id>https://marginalrevolution.com/?p=86788</id>
+        <link href="https://feeds.feedblitz.com/~/794478698/0/marginalrevolution~States-with-high-low-rates-of-reported-mental-illness.html"/>
+        <updated>2023-09-23T05:00:16.000Z</updated>
+        <summary type="html"><![CDATA[For youth below the age of eighteen: High: District of Columbia Alaska Arkansas Idaho Maine Montana New Hampshire (the highest) Low: Florida (least) Alabama Mississippi South Carolina New Jersey That is from Liu, Zhou, Cheng, and Vengeepuram, discussed earlier here.  Extra hat tip goes to Sean Geraghty.
+
+The post States with high (low) rates of reported mental illness appeared first on Marginal REVOLUTION.
+
+       
+
+Comments
+
+Worst mental health: empty   Best mental health: sunny by Anthrogeographical determinism?
+I'm also curious about what constitutes mental illness for the ... by Mark Bahner
+In reply to Dinwar.   An estimated 34.5% (95% confidence ... by aaron
+In reply to H.   The prevalence of symptoms varied across ... by Mr. Sunshine
+In reply to Peter D.   I live in one of those states and my ... by Homeostatic Bro
+Plus 10 more...
+
+Related Stories
+
+Patience and educational achievement
+The Rise of and Demand for Identity-Oriented Media Coverage
+Pharmaceutical Externalities]]></summary>
+        <author>
+            <name>Tyler Cowen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minnesota’s cannabis director withdraws over sale of disallowed THC products]]></title>
         <id>https://www.minnpost.com/?p=2126781</id>
@@ -358,6 +695,16 @@ The Mewseum takes donations at the door. All proceeds go towards local cat rescu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cause and Effect and Stories]]></title>
+        <id>https://4gravitons.com/2023/09/22/cause-and-effect-and-stories/</id>
+        <link href="https://4gravitons.com/2023/09/22/cause-and-effect-and-stories/"/>
+        <updated>2023-09-22T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[You can think of cause and effect as the ultimate story. The world is filled with one damn thing happening after another, but to make sense of it we organize it into a narrative: this happened first, and it caused that, which caused that. We tie this to “what if” stories, stories about things that […]]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Despite the legal chum, increasing density in Minneapolis remains very good for the environment]]></title>
         <id>https://www.minnpost.com/?p=2126721</id>
         <link href="https://www.minnpost.com/cityscape/2023/09/despite-the-legal-chum-increasing-density-in-minneapolis-remains-very-good-for-the-environment/"/>
@@ -633,6 +980,16 @@ Plus 10 more...]]></summary>
         <summary type="html"><![CDATA[The non-negative reals can be defined as equivalence classes of nearly multiplicative sequences of natural numbers.]]></summary>
         <author>
             <name>The n-Category Café</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constructing the Real Numbers as Nearly Multiplicative Sequences]]></title>
+        <id>https://golem.ph.utexas.edu/category/2023/09/constructing_the_real_numbers.html</id>
+        <link href="https://golem.ph.utexas.edu/category/2023/09/constructing_the_real_numbers.html"/>
+        <updated>2023-09-22T08:37:52.000Z</updated>
+        <summary type="html"><![CDATA[The non-negative reals can be defined as equivalence classes of nearly multiplicative sequences of natural numbers.]]></summary>
+        <author>
+            <name>Planet Musings</name>
         </author>
     </entry>
     <entry>
@@ -1301,6 +1658,16 @@ Continue reading on The Writing Cooperative »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Tell that the Earth Spins]]></title>
+        <id>https://profmattstrassler.com/2023/09/21/how-to-tell-that-the-earth-spins/</id>
+        <link href="https://profmattstrassler.com/2023/09/21/how-to-tell-that-the-earth-spins/"/>
+        <updated>2023-09-21T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[<div type="xhtml" xml:lang="en-US"><div xmlns="http://www.w3.org/1999/xhtml">Continuing with the supplementary material for the book, from its Chapter 2. This is in reference to Galileo’s principle of relativity, a central pillar of modern science. This principle states that perfectly steady motion in a straight line is indistinguishable from no motion at all, and thus cannot be felt. This is why we don’t ... <a class="read-more" href="https://profmattstrassler.com/2023/09/21/how-to-tell-that-the-earth-spins/" title="How to Tell that the Earth Spins">Read more</a></div></div>]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Podcast: The Fear Lab]]></title>
         <id>https://www.atlasobscura.com/articles/podcast-the-fear-lab</id>
         <link href="https://www.atlasobscura.com/articles/podcast-the-fear-lab"/>
@@ -1942,6 +2309,16 @@ Whether you’re a culture enthusiast or someone seeking an immersive urban adve
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[uncertainty estimation for regression outputs]]></title>
+        <id>http://hoggresearch.blogspot.com/2023/09/uncertainty-estimation-for-regression.html</id>
+        <link href="http://hoggresearch.blogspot.com/2023/09/uncertainty-estimation-for-regression.html"/>
+        <updated>2023-09-20T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Most methods for performing regressions don't provide natural uncertainties. Some do, of course! But few deliver uncertainties you will believe. I discussed these issues with Contardo (SISSA) today, in the context of our project to (confidently) find infrared excesses around boring old main-sequence stars. One option is to look at the performance on held-out data. But then you have to decide how to aggregate this information in a way that is relevant for each object in your sample: They probably don't all have the same uncertainty! Another option is to look at the variation of prediction across training sets. That's good! But it requires that you have lots of training data. In this case, we do, so that's where we are at right now.]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How USDA’s ‘climate-smart’ agriculture programs are spending federal dollars, raising questions]]></title>
         <id>https://www.minnpost.com/?p=2126416</id>
         <link href="https://www.minnpost.com/other-nonprofit-media/2023/09/how-usdas-climate-smart-agriculture-programs-are-spending-federal-dollars-raising-questions/"/>
@@ -2450,6 +2827,16 @@ Similar rights of way across the canal can be found upriver, with the Thelwall F
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[regressions for point clouds]]></title>
+        <id>http://hoggresearch.blogspot.com/2023/09/regressions-for-point-clouds.html</id>
+        <link href="http://hoggresearch.blogspot.com/2023/09/regressions-for-point-clouds.html"/>
+        <updated>2023-09-19T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[I spent my research time today writing in a document that proposes (and demonstrates) some methods for performing machine-learning-style regressions, but where the input objects (features) are variable-size point clouds. Contributions also from Villar (JHU) and Gebhard (MPI-IS). I spent way too long working out the terminology and notation, and I am still wrong.]]></summary>
+        <author>
+            <name>Planet Musings</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Continental Movement: LatinR Event is Face-to-Face in Montevideo, Uruguay This Year]]></title>
         <id>https://www.r-consortium.org/?p=5505</id>
         <link href="https://www.r-bloggers.com/2023/09/a-continental-movement-latinr-event-is-face-to-face-in-montevideo-uruguay-this-year/"/>
@@ -2578,6 +2965,18 @@ The 2012 date is also appropriate as it represented 50 years since diplomatic re
         <summary type="html"><![CDATA[Tomorrow at 1:30pm US Central time, I’ll be doing an online Q&A with Collective[i] Forecast about quantum computing (probably there will also be questions about AI safety). It’s ope…]]></summary>
         <author>
             <name>Scott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum miscellany]]></title>
+        <id>https://scottaaronson.blog/?p=7516</id>
+        <link href="https://scottaaronson.blog/?p=7516"/>
+        <updated>2023-09-19T15:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Tomorrow at 1:30pm US Central time, I’ll be doing an online Q&A with  about quantum computing (probably there will also be questions about AI safety).  It’s open to all.  Hope to see some of you there!Collective[i] Forecast
+
+Toby Cubitt of University College London is visiting UT Austin.  We’ve been discussing the question: can you produce a  witness state using a closed timelike curve?  Since QMA⊆PSPACE, and since Fortnow, Watrous, and I  closed timelike curves (or anyway, Deutsch’s model of them) let you solve PSPACE problems, clearly a closed timelike curve lets you solve QMA  problems, but that’s different from producing the actual witness state as the fixed-point of a polynomial-time superoperator.  Toby has a , which has as a corollary that you can produce the ground state of a local…]]></summary>
+        <author>
+            <name>Planet Musings</name>
         </author>
     </entry>
     <entry>
@@ -2809,6 +3208,16 @@ The Spitfire was among the ships lost as Arnold and his men retreated—but it w
 Continue reading: Season 10 is now included in {alone} v0.3]]></summary>
         <author>
             <name>Daniel Oehm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Book (and What the Greeks Knew About the Earth)]]></title>
+        <id>https://profmattstrassler.com/2023/09/19/beyond-the-book-and-what-the-greeks-knew-about-the-earth/</id>
+        <link href="https://profmattstrassler.com/2023/09/19/beyond-the-book-and-what-the-greeks-knew-about-the-earth/"/>
+        <updated>2023-09-19T12:08:03.000Z</updated>
+        <summary type="html"><![CDATA[<div type="xhtml" xml:lang="en-US"><div xmlns="http://www.w3.org/1999/xhtml">Since the upcoming book is basically done, it’s time for me to launch the next phase of the project — the supplementary material, which will be placed here, on this website. Any science book has to leave out many details of the subjects it covers, and omit many important topics. While my book has endnotes ... <a class="read-more" href="https://profmattstrassler.com/2023/09/19/beyond-the-book-and-what-the-greeks-knew-about-the-earth/" title="Beyond the Book (and What the Greeks Knew About the Earth)">Read more</a></div></div>]]></summary>
+        <author>
+            <name>Planet Musings</name>
         </author>
     </entry>
     <entry>
@@ -17490,26 +17899,6 @@ Employing stone, resourcefulness, and manual craftsmanship of anonymous skilled 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debate words]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60351</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60351&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=debate-words-3"/>
-        <updated>2023-08-25T12:41:38.000Z</updated>
-        <summary type="html"><![CDATA[The Transcript Library at rev.com is a great resource — within 24 hours, they had transcripts of Wednesday's Fox News Republican presidential debate, and also of Tucker Carlson's debate night interview with Donald Trump on X. So this morning I downloaded the transcripts, and ran the code that I've used several times over the years […]]]></summary>
-        <author>
-            <name>Mark Liberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Wealthy UFO Fans Helped Fuel Fringe Beliefs]]></title>
-        <id>C688B041-96B7-4118-A1D7DA16CEDC0A6A</id>
-        <link href="https://www.scientificamerican.com/article/how-wealthy-ufo-fans-helped-fuel-fringe-beliefs/"/>
-        <updated>2023-08-25T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a long U.S. legacy of plutocrat-funded pseudoscience. Congress just embraced it]]></summary>
-        <author>
-            <name>Keith Kloor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Losing the plot while stacking up the bars]]></title>
         <id>https://junkcharts.typepad.com/junk_charts/2023/08/losing-the-plot-while-stacking-up-the-bars.html</id>
         <link href="https://junkcharts.typepad.com/junk_charts/2023/08/losing-the-plot-while-stacking-up-the-bars.html"/>
@@ -17517,839 +17906,6 @@ Employing stone, resourcefulness, and manual craftsmanship of anonymous skilled 
         <summary type="html"><![CDATA[Kaiser looks at an infographic about dirty American cities.]]></summary>
         <author>
             <name>Junk Charts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Intelligence Is Helping Us 'See' Some of the Billions of Birds Migrating at Night]]></title>
-        <id>8EC8D6E1-3352-494A-BE05E0A48F3AEBBF</id>
-        <link href="https://www.scientificamerican.com/podcast/episode/artificial-intelligence-is-helping-us-see-some-of-the-billions-of-birds-migrating-at-night/"/>
-        <updated>2023-08-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Science is turning to machines to unlock the secrets of the vast, mysterious pulse-of-the-planet phenomenon that is nocturnal migration.]]></summary>
-        <author>
-            <name>Jacob Job</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[little misc list 08-25-23]]></title>
-        <id>https://iwebthings.joejenett.com/little-misc-list-08-25-23/</id>
-        <link href="https://iwebthings.joejenett.com/little-misc-list-08-25-23/"/>
-        <updated>2023-08-25T11:33:15.000Z</updated>
-        <summary type="html"><![CDATA[The Climate Dashboard Dashboard (github) 📌
-“Dashboard of dashboards”
-Exactly! 😎
-Fedistar 📌
-“Multi-column Fediverse client application for desktop”
-Alt Text Generator 📌
-“Generate alt text for your images and help make the internet more accessible!” (generates short descriptive text)
-A novel keyboard for music 📌
-“The keyboard is designed to sound good even when you don't know what you're doing.”
-SVG filters 📌
-“This guide shows you how to build SVG image processing filters to create interesting visual effects...”]]></summary>
-        <author>
-            <name>i.webthings.hub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Are No U.S. 'Climate Havens' from Heat and Disaster Risk]]></title>
-        <id>82E159B9-361C-499C-9CB101468757A1F7</id>
-        <link href="https://www.scientificamerican.com/article/there-are-no-u-s-climate-havens-from-heat-and-disaster-risk/"/>
-        <updated>2023-08-25T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Even supposed “climate havens” in the U.S. face a riskier future, and infrastructure often isn’t built to handle climate change. But there are steps cities can take to prepare]]></summary>
-        <author>
-            <name>Julie Arbit, Brad Bottoms, Earl Lewis, The Conversation US</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real UFO Story]]></title>
-        <id>https://marginalrevolution.com/?p=86586</id>
-        <link href="https://feeds.feedblitz.com/~/789456623/0/marginalrevolution~The-Real-UFO-Story.html"/>
-        <updated>2023-08-25T11:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Erik Hoel writes that the “the UFO craze was created by government nepotism and incompetent journalism” which makes a lot more sense to me than the other explanation. Here’s a key bit: To sum up the story as far as I understand its convoluted depths: diehard paranormal believers scored 22 million in Defense spending via what […]
-
-The post The Real UFO Story appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to dan1111.   He’s an idiot. It really is that ... by The Original D
-In reply to cthulhu.   Why? What's wrong with the rest? by Frank
-In reply to RAD.   I just Googled 'Battlin Business Units' and ... by Wanda
-In reply to sxb.   I've never met anyone who was analytically ... by Sashoir
-“…the UFO craze was created by government nepotism and ... by egl
-Plus 10 more...
-
-Related Stories
-
-The Mother Church of the Common Law
-Diogo Costa on Brazil
-Don’t Doubt: Saint Thomas in India]]></summary>
-        <author>
-            <name>Alex Tabarrok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missing pilot’s body recovered in Lake Superior]]></title>
-        <id>https://www.minnpost.com/?p=2124504</id>
-        <link href="https://www.minnpost.com/glean/2023/08/missing-pilots-body-recovered-in-lake-superior/"/>
-        <updated>2023-08-25T11:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Lizzo suing backup dancers following lawsuit; Cenovus evacuated for second time due to "heavy oil release"; Vikings rookie to plead guilty to speeding; and more.]]></summary>
-        <author>
-            <name>Jazzmine Jackson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Colors of Stars, Explained]]></title>
-        <id>156B673F-9508-4FCD-9EBAA213FA3A67F8</id>
-        <link href="https://www.scientificamerican.com/article/the-colors-of-stars-explained1/"/>
-        <updated>2023-08-25T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[From dim red to brilliant blue, stellar colors span the spectrum—and reveal how much any star brings the heat]]></summary>
-        <author>
-            <name>Phil Plait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grothendieck--Galois--Brauer Theory (Part 2)]]></title>
-        <id>https://golem.ph.utexas.edu/category/2023/08/grothendieckgaloisbrauer_theor_1.html</id>
-        <link href="https://golem.ph.utexas.edu/category/2023/08/grothendieckgaloisbrauer_theor_1.html"/>
-        <updated>2023-08-25T10:29:16.000Z</updated>
-        <summary type="html"><![CDATA[The fundamental theorem of Grothendieck's Galois theory.]]></summary>
-        <author>
-            <name>The n-Category Café</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grothendieck--Galois--Brauer Theory (Part 2)]]></title>
-        <id>https://golem.ph.utexas.edu/category/2023/08/grothendieckgaloisbrauer_theor_1.html</id>
-        <link href="https://golem.ph.utexas.edu/category/2023/08/grothendieckgaloisbrauer_theor_1.html"/>
-        <updated>2023-08-25T10:29:16.000Z</updated>
-        <summary type="html"><![CDATA[The fundamental theorem of Grothendieck's Galois theory.]]></summary>
-        <author>
-            <name>Planet Musings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-cops tangle with journals over strip clubs and sex crimes]]></title>
-        <id>https://retractionwatch.com/?p=127754</id>
-        <link href="https://retractionwatch.com/2023/08/25/ex-cops-tangle-with-journals-over-strip-clubs-and-sex-crimes/"/>
-        <updated>2023-08-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A study by two economists who found opening strip clubs or escort services caused sex crimes in the neighborhood to drop contains “fatal errors” and should be retracted, argues a group of past and current law enforcement officers, including three academics. “None of us are prudes or even anti-strip club,” Peter Moskos, a professor at … Continue reading Ex-cops tangle with journals over strip clubs and sex crimes]]></summary>
-        <author>
-            <name>Frederik Joelving</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Two Critiques of America’s Ailing Health Care System]]></title>
-        <id>https://undark.org/?p=79870</id>
-        <link href="https://undark.org/2023/08/25/book-review-two-critiques-of-americas-ailing-health-care-system/"/>
-        <updated>2023-08-25T07:55:18.000Z</updated>
-        <summary type="html"><![CDATA[In two new books, “Fragmented” and “We’ve Got You Covered,” a practicing doctor and two economists confront America’s overwhelmed and often chaotic health care system, focusing on the shortcomings of electronic record keeping and the nation’s patchwork approach to providing medical insurance.]]></summary>
-        <author>
-            <name>Lola Butcher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That was then, this is now, concentration of notables edition]]></title>
-        <id>https://marginalrevolution.com/?p=86585</id>
-        <link href="https://feeds.feedblitz.com/~/789368870/0/marginalrevolution~That-was-then-this-is-now-concentration-of-notables-edition.html"/>
-        <updated>2023-08-25T06:42:17.000Z</updated>
-        <summary type="html"><![CDATA[[John] Napier’s continental sojourn had embraced the years 1564 to 1571, the year of the Ridolfi Plot.  During his absence Galileo, Shakespeare, Caravaggio and Kepler had been born, Michelangelo, Calvin, Nostradamus and Stifel had died, Pope Pius V had excommunicated Queen Elizabeth I, Mary, Queen of Scots, had been forced to abdicate and was under […]
-
-The post That was then, this is now, concentration of notables edition appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to y81.   And now Tyler has fixed his typo… by Edinburgh is a weird name for a girl
-In reply to Y81.   Who cares? Not a Nobel, Fields, or Academy ... by Pshrnk
-In reply to Edinburgh is a weird name for a girl.   Aha! Now it ... by y81
-Whether Napier schooled in Geneva or Paris (and assuming him to ... by Edward Burke
-In reply to Edinburgh is a weird name for a girl.   My bad: ... by Edinburgh is a weird name for a girl
-Plus 10 more...
-
-Related Stories
-
-What should I ask Jacob Mikanowski?
-Twenty Years of Marginal Revolution!
-Did the U.S. Really Grow Out of Its World War II Debt?]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did the U.S. Really Grow Out of Its World War II Debt?]]></title>
-        <id>https://marginalrevolution.com/?p=86570</id>
-        <link href="https://feeds.feedblitz.com/~/789325253/0/marginalrevolution~Did-the-US-Really-Grow-Out-of-Its-World-War-II-Debt.html"/>
-        <updated>2023-08-25T05:18:25.000Z</updated>
-        <summary type="html"><![CDATA[The fall in the U.S. public debt/GDP ratio from 106% in 1946 to 23% in 1974 is often attributed to high rates of economic growth. This paper examines the roles of three other factors: primary budget surpluses, surprise inflation, and pegged interest rates before the Fed-Treasury Accord of 1951. Our central result is a simulation […]
-
-The post Did the U.S. Really Grow Out of Its World War II Debt? appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-I’m gonna say something really stupid;   What if we could ... by n
-In reply to Crusader.   It's not a stupid question. Economists ... by Kaleberg
-In reply to blue jay.   Factual economics? Yes, of course, ... by Chuck Kotlarz
-> only a small amount of debt reduction has been achieved ... by Worley
-Let's not overlook that there was quite a lot of “financial ... by Worley
-Plus 10 more...
-
-Related Stories
-
-Twenty Years of Marginal Revolution!
-What should I ask Jacob Mikanowski?
-That was then, this is now, concentration of notables edition]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Plot Multiple Histograms with Base R and ggplot2]]></title>
-        <id>https://www.spsanderson.com/steveondata/posts/2023-08-25/index.html</id>
-        <link href="https://www.r-bloggers.com/2023/08/how-to-plot-multiple-histograms-with-base-r-and-ggplot2/"/>
-        <updated>2023-08-25T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-
-
-
-Continue reading: How to Plot Multiple Histograms with Base R and ggplot2]]></summary>
-        <author>
-            <name>Steven P. Sanderson II, MPH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[classification to save labor]]></title>
-        <id>http://hoggresearch.blogspot.com/2023/08/classification-to-save-labor.html</id>
-        <link href="http://hoggresearch.blogspot.com/2023/08/classification-to-save-labor.html"/>
-        <updated>2023-08-25T03:59:00.000Z</updated>
-        <summary type="html"><![CDATA[I spent part of the day discussing with Valentina Tardugno (NYU) and Nora Eisner (Flatiron) the goals of a machine-learning classification that Tardugno is creating to help the  project. The deal is: Citizen scientists find candidate planets and (currently) a human (Eisner) has to vet them, to remove contamination by various sources of false positives. This turns out to be a hard problem! When problems are hard, it becomes critical to very precisely specify what you are trying to achieve. So we spent time discussing what, exactly, it is that Eisner needs from a classifier. Is it to find good planets? Is it to remove obvious contaminants? Are some contaminants more problematic than others? Is it to save her hours of wall-clock time? PlanetFindersEtc.]]></summary>
-        <author>
-            <name>Planet Musings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calligraphic license]]></title>
-        <id>https://languagelog.ldc.upenn.edu/nll/?p=60331</id>
-        <link href="https://languagelog.ldc.upenn.edu/nll/?p=60331&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=calligraphic-license"/>
-        <updated>2023-08-25T03:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Shaing tai asked whether I recognized these characters: I didn't recognize the two characters, so I asked several Chinese and Japanese friends, and none of them recognized the characters either.  My curiosity piqued, I figured I might as well take a stab on my own to figure out what they were. The calligraphy was displayed […]]]></summary>
-        <author>
-            <name>Victor Mair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Causal Discovery with gCastle through Reticulate in R]]></title>
-        <id>https://www.kenkoonwong.com/blog/gcastle/</id>
-        <link href="https://www.r-bloggers.com/2023/08/exploring-causal-discovery-with-gcastle-through-reticulate-in-r/"/>
-        <updated>2023-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for a thrill ride in causal discovery! We’re diving into gCastle, a Python package, right in R to amp up our skills. Let’s orchestrate our prior knowledge and nail that true DAG. 🔥
-As I delve into Aleksander Molak’s Causa...
-
-
-
-Continue reading: Exploring Causal Discovery with gCastle through Reticulate in R]]></summary>
-        <author>
-            <name>r on Everyday Is A School Day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rOpenSci News Digest, August 2023]]></title>
-        <id>https://ropensci.org/blog/2023/08/25/news-august-2023/</id>
-        <link href="https://www.r-bloggers.com/2023/08/ropensci-news-digest-august-2023/"/>
-        <updated>2023-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear rOpenSci friends, it’s time for our monthly news roundup!
-You can read this post on our blog.
-rOpenSci HQ
-Open Call for rOpenSci Champions Program Applications!
-Continue reading: rOpenSci News Digest, August 2023]]></summary>
-        <author>
-            <name>rOpenSci - open tools for open science</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspiration]]></title>
-        <id>https://xkcd.com/2820/</id>
-        <link href="https://xkcd.com/2820/"/>
-        <updated>2023-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/inspiration.png" title="An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious." alt="An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhode Island–Style Stuffed Quahog Clams ("Stuffies")]]></title>
-        <id>https://www.seriouseats.com/rhode-island-style-stuffed-quahog-clams-7852619</id>
-        <link href="https://www.seriouseats.com/rhode-island-style-stuffed-quahog-clams-7852619"/>
-        <updated>2023-08-24T22:40:23.000Z</updated>
-        <summary type="html"><![CDATA[These large quahog clams are stuffed with a Portuguese-influenced mixture of bread, briny clams, and smoky chouriço.]]></summary>
-        <author>
-            <name>Leah Colins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[making the next meeting more productive]]></title>
-        <id>http://xianblog.wordpress.com/?p=53619</id>
-        <link href="https://xianblog.wordpress.com/2023/08/25/making-the-next-meeting-more-productive/"/>
-        <updated>2023-08-24T22:23:56.000Z</updated>
-        <summary type="html"><![CDATA[One of the students’ requests I almost invariably reject is code debugging (and they are warned about it from the start). Here is an illustration why, with an R code sent by a student working this summer on the standard estimators of a Cauchy location parameter, asking for debugging help in order “to make the […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[making the next meeting more productive]]></title>
-        <id>http://xianblog.wordpress.com/?p=53619</id>
-        <link href="https://www.r-bloggers.com/2023/08/making-the-next-meeting-more-productive/"/>
-        <updated>2023-08-24T22:23:56.000Z</updated>
-        <summary type="html"><![CDATA[One of the students’ requests I almost invariably reject is code debugging (and they are warned about it from the start). Here is an illustration why, with an R code sent by a student working this summer on the standard estimators of a Cauchy location parameter, asking for debugging help ...
-Continue reading: making the next meeting more productive]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[making the next meeting more productive]]></title>
-        <id>http://xianblog.wordpress.com/?p=53619</id>
-        <link href="https://xianblog.wordpress.com/2023/08/25/making-the-next-meeting-more-productive/"/>
-        <updated>2023-08-24T22:23:56.000Z</updated>
-        <summary type="html"><![CDATA[One of the students’ requests I almost invariably reject is code debugging (and they are warned about it from the start). Here is an illustration why, with an R code sent by a student working this summer on the standard estimators of a Cauchy location parameter, asking for debugging help in order “to make the […]]]></summary>
-        <author>
-            <name>xi'an</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spiritus Pizza in Provincetown, Massachusetts]]></title>
-        <id>https://www.atlasobscura.com/places/spiritus-pizza-provincetown</id>
-        <link href="https://www.atlasobscura.com/places/spiritus-pizza-provincetown"/>
-        <updated>2023-08-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When the sun sets on Provincetown, Massachusetts, roving visitors fill the streets, wandering to and from dive bars, live music venues, nightclubs, seaside eateries, drag shows, and beyond. But as the wee hours approach, almost every restaurant shutters. That is, every restaurant except for Spiritus Pizza.
-
-In 1970, this pie-slinging emporium was but a twinkle in young John “Jingles” Yingling's eye. After visiting his sister in Provincetown, John clocked a comprehensive lack of pizza in town. He'd been running a successful pizza truck in Wildwood, New Jersey, but P-town had more permanent plans for his skills. 
-
-The following year, John and his new business partner opened a spot on the now-bustling Commercial Street, where slices served on napkins sold for 25 cents. In 1976, the establishment added an ice cream arm. They coined the slogan “there’s no business like dough business.” John started a family in the 1980s, paving the way for a family business. The shop remains owned and operated by the Yinglings today.
-
-With a local monopoly on the late-night feeding frenzy, Spiritus doesn't need to be delicious to be dominant. And yet, they crank out an undeniably tasty slice. The basic components are simple and satisfying: thin crust with a toasty crunch gives way to oregano-heavy sauce topped in a delicate layer of cheese. Those who prefer an over-the-top chaotic slice can get their fix, too, as there's no limit to the custom pies that Spiritus lets inspired patrons build.
-
-Unlike many a midnight munchies spot, Spiritus isn't simply a weekend privilege—they're open until 2 a.m. every single night of the week. Not a pizza person? Firstly, what? Secondly, fret not. Ice cream is also available in abundance. Lactose intolerant? There's coffee, too!]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World’s Largest Quilting Needle in Paducah, Kentucky]]></title>
-        <id>https://www.atlasobscura.com/places/worlds-largest-quilting-needle</id>
-        <link href="https://www.atlasobscura.com/places/worlds-largest-quilting-needle"/>
-        <updated>2023-08-24T21:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The town of Paducah, Kentucky, is home to the National Quilt Museum as well as the world’s largest quilting needle. This sculpture, apparently stitching Lower Town’s art district to the rest of Paducah, underscores the heartland’s cultural ties to quilting and Paducah’s love for that art form.
-
-The 22-foot stainless steel needle stands at the corner of North 5th Street and Martin Luther King Jr. Drive.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Writing is Always Original]]></title>
-        <id>https://medium.com/p/ebf5600a0352</id>
-        <link href="https://writingcooperative.com/why-your-writing-is-always-original-ebf5600a0352?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-08-24T21:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Trying to be creative in a world where everything has been done before
-Continue reading on The Writing Cooperative »]]></summary>
-        <author>
-            <name>Leah Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Claverings, by Anthony Trollope]]></title>
-        <id>https://standardebooks.org/ebooks/anthony-trollope/the-claverings</id>
-        <link href="https://standardebooks.org/ebooks/anthony-trollope/the-claverings"/>
-        <updated>2023-08-24T20:50:58.000Z</updated>
-        <summary type="html"><![CDATA[An aspirational young man must decide between his wealthy and widowed first love, and his affianced and honest second.]]></summary>
-        <author>
-            <name>Standard Ebooks - Newest Ebooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letters of Two Brides, by Honoré de Balzac]]></title>
-        <id>https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott</id>
-        <link href="https://standardebooks.org/ebooks/honore-de-balzac/letters-of-two-brides/r-s-scott"/>
-        <updated>2023-08-24T20:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Two women write letters to tell each other about their lives and loves.]]></summary>
-        <author>
-            <name>Standard Ebooks - Newest Ebooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drumtroddan Rock Art in Mochrum, Scotland]]></title>
-        <id>https://www.atlasobscura.com/places/drumtroddan-rock-art-scotland</id>
-        <link href="https://www.atlasobscura.com/places/drumtroddan-rock-art-scotland"/>
-        <updated>2023-08-24T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Drumtroddan Rock Art site is made up of three groups of cup and ring-marked stones. Two of the groupings lie in a field, while a third is a small distance away in the coppice beyond a dyke. These carved stones probably date to the Neolithic or early Bronze Age, between 3500 and 1000 B.C.
-
-The carved stones at Drumtroddan are among some of the most visible remains of the ancient inhabitants' culture. Cup and ring marks were carefully executed using hard stone tools.
-
-There are at least 84 cup and ring marks, possibly more, at Drumtroddan. This includes over 64 cup marks, some with rings and some without. Cup marks are small depressions, sometimes accompanied by surrounding rings. How many you are able to find entirely depends on the lighting conditions when you visit and how long you are willing to stare at the rock faces.
-
-They are usually found densely covering large expanses of rock. The variety of the carvings at Drumtroddan is striking, with some ring marks forming complete circles, while others are incomplete. Some show a radial groove running from the center of the circle and consist of as many as six rings.  
-
-It is not known for certain why these markings were made, but one possible explanation is that they were territory markers, this is made plausible by the fact they are frequently found in locations with good views of the surrounding land. Other theories about their possible purposes include prehistoric belief systems, mapping, and metal prospecting.  
-
-It is thought that there may be a link to the Drumtroddan Standing Stones found 400 meters to the northeast.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights From The Comments On Dating Preferences]]></title>
-        <id>https://www.astralcodexten.com/p/highlights-from-the-comments-on-dating</id>
-        <link href="https://www.astralcodexten.com/p/highlights-from-the-comments-on-dating"/>
-        <updated>2023-08-24T19:12:37.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights From The Comments On Dating Preferences]]></title>
-        <id>https://astralcodexten.substack.com/p/highlights-from-the-comments-on-dating</id>
-        <link href="https://astralcodexten.substack.com/p/highlights-from-the-comments-on-dating"/>
-        <updated>2023-08-24T19:12:37.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>Scott Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumpkin Spice Latte (With Real Squash)]]></title>
-        <id>https://www.seriouseats.com/homemade-pumpkin-spice-latte-recipe-7852203</id>
-        <link href="https://www.seriouseats.com/homemade-pumpkin-spice-latte-recipe-7852203"/>
-        <updated>2023-08-24T19:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Rich with butternut squash and fall spices like cinnamon, nutmeg, clove, and ginger, this frothy, creamy drink is like drinking pumpkin pie in your mug.]]></summary>
-        <author>
-            <name>Daniel Gritzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back Alley Arctic in Winnipeg, Manitoba]]></title>
-        <id>https://www.atlasobscura.com/places/back-alley-arctic-winnipeg</id>
-        <link href="https://www.atlasobscura.com/places/back-alley-arctic-winnipeg"/>
-        <updated>2023-08-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The city of Winnipeg in Manitoba, Canada, is known for its prolific street art and building murals. Yet, no art installation is more magical than that found in the quiet residential neighborhood of Wolseley. The artwork comprises a collection of Brobdingnagian animal images that decorate both sides of the rear service lane between Canora and Ethelbert Streets. All the animals depicted are those found in the Arctic, and they adorn garage doors, fences, walls, curbs, and the backs of houses in areas reserved for parked cars and rubbish cans.
-
-The paintings are the work of Canadian artist and Winnipeg resident Kal Barteski. Her interest in drawing polar bears first surfaced in the 1980s when in design school. While mastering wildlife drawing, Barteski spent hours at the Assiniboine Park Zoo …]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain-reading Devices Allow Paralyzed People to Talk Using Their Thoughts]]></title>
-        <id>8A0F1869-93A5-4F86-96026EF929E00586</id>
-        <link href="https://www.scientificamerican.com/article/brain-reading-devices-allow-paralyzed-people-to-talk-using-their-thoughts/"/>
-        <updated>2023-08-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Two studies report considerable improvements in technologies designed to help people with facial paralysis to communicate]]></summary>
-        <author>
-            <name>Miryam Naddaf, Nature magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Various and Sundry]]></title>
-        <id>https://www.math.columbia.edu/~woit/wordpress/?p=13643</id>
-        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=13643"/>
-        <updated>2023-08-24T18:58:30.000Z</updated>
-        <summary type="html"><![CDATA[The math department at Columbia this fall will be hosting three special lecture series, each with some connection to physics (at least in my mind…): Sergiu Klainerman will be lecturing on the proof of nonlinear stability for slowly rotating black … Continue reading →]]></summary>
-        <author>
-            <name>woit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only half of Minnesota public school students are meeting or exceeding standards in reading and math]]></title>
-        <id>https://www.minnpost.com/?p=2124443</id>
-        <link href="https://www.minnpost.com/glean/2023/08/only-half-of-minnesota-public-school-students-are-meeting-or-exceeding-standards-in-reading-and-math/"/>
-        <updated>2023-08-24T18:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Plus: U of M set to pay more than $3 million to settle lawsuit; the nuclear plant in Monticello will continue to operate for at least another decade; El Nino’s potential impacts on our upcoming winter; and more.]]></summary>
-        <author>
-            <name>MinnPost staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Årjängstrollet in Arjang, Sweden]]></title>
-        <id>https://www.atlasobscura.com/places/arjangstrollet</id>
-        <link href="https://www.atlasobscura.com/places/arjangstrollet"/>
-        <updated>2023-08-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the center of Årjäng, Sweden, the presence of "Årjängstrollet" (The Årjäng Troll) beckons travelers to step into a world of folklore and imagination.
-
-Crafted in 1972 by artist Erik Hermansson, this towering 26-foot (8-meters tall) wooden sculpture pays homage to the whimsical tales found in Tore Skogman's Årjängstroll book.
-With an enchanting blend of art and storytelling, "Årjängstrollet" stands not just as a sculpture, but as a living connection to the region's heritage. Having embarked on tours across Sweden, gracing cities like Stockholm and Gothenburg, the troll has become an ambassador of Årjäng's cultural legacy.
-
-Today, it proudly resides at Trolltorget, offering a gathering spot for locals and travelers alike.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists Tried to Re-create an Entire Human Brain in a Computer. What Happened?]]></title>
-        <id>1CB08C0F-4577-47D5-86567BFF4541E733</id>
-        <link href="https://www.scientificamerican.com/article/scientists-tried-to-re-create-an-entire-human-brain-in-a-computer-what-happened/"/>
-        <updated>2023-08-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Human Brain Project wraps up in September after a decade. It had notable achievements and a troubled past]]></summary>
-        <author>
-            <name>Miryam Naddaf, Nature magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to help high schoolers prepare for the rise of artificial intelligence]]></title>
-        <id>https://news.mit.edu/2023/how-to-help-high-schoolers-prepare-rise-of-artificial-intelligence-0824</id>
-        <link href="https://news.mit.edu/2023/how-to-help-high-schoolers-prepare-rise-of-artificial-intelligence-0824"/>
-        <updated>2023-08-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A one-week summer program aims to foster a deeper understanding of machine-learning approaches in health among curious young minds.]]></summary>
-        <author>
-            <name>Abdul Latif Jameel Clinic for Machine Learning in Health</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday assorted links]]></title>
-        <id>https://marginalrevolution.com/?p=86581</id>
-        <link href="https://feeds.feedblitz.com/~/789053165/0/marginalrevolution~Thursday-assorted-links.html"/>
-        <updated>2023-08-24T17:50:33.000Z</updated>
-        <summary type="html"><![CDATA[1. Syllabus for a new class on the economics of ChatGPT. 2. NYC home for retired playground animals. 3. The natural world that is Lower Sayreville: “A fish dropped out of the sky by its bird captor caused a power outage for a section of homes in a New Jersey town, officials say.” 4. Ben Casnocha […]
-
-The post Thursday assorted links appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-In reply to Todd K.   Great chart Todd K! Do you have a source? by JWatts
-In reply to Kaleberg.   “If labor is in plentiful supply, no ... by JWatts
-In reply to Faze.   The baby boom was a surprise to ... by Kaleberg
-In reply to Kaleberg.   Both factories and nursing homes will ... by Todd K
-In reply to Proud owner of a bonus hole.   Sad but true. by Kaleberg
-Plus 10 more...]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting sustainability, digital health, and the future of work]]></title>
-        <id>https://news.mit.edu/2023/supporting-sustainability-digital-health-future-work-0824</id>
-        <link href="https://news.mit.edu/2023/supporting-sustainability-digital-health-future-work-0824"/>
-        <updated>2023-08-24T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The MIT and Accenture Convergence Initiative for Industry and Technology selects three new research projects to support.]]></summary>
-        <author>
-            <name>School of Engineering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Oliver Memorial Sewer Plant in Danbury, Connecticut]]></title>
-        <id>https://www.atlasobscura.com/places/john-oliver-memorial-sewer-plant-danbury-connecticut</id>
-        <link href="https://www.atlasobscura.com/places/john-oliver-memorial-sewer-plant-danbury-connecticut"/>
-        <updated>2023-08-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a 2020 episode of his show Last Week Tonight, comedian John Oliver went on a tangent where he made fun of the town of Danbury, Connecticut. Ended the short rant by saying that anyone from Danbury had "a standing invite to come get a thrashing from John Oliver."
-
-Danbury's mayor Mark Broughton responded with a tongue-in-cheek statement. that they'd name their sewage plant after him because it was "full of [expletive], just like you, John."
-
-Oliver took the mock beef next level and said he'd donate $55,000 to local charities if Danbury genuinely named the plant after him and hung a sign designating the John Oliver Memorial Sewer Plant. Danbury got the last laugh and agreed.
-
-The plant was renamed in October 2020, and John Oliver himself attended the ribbon-cutting ceremony, and shared a video of it in a follow-up segment on Last Week Tonight. "This place takes the worst that humanity can produce, and transforms it into something that we can live with,” Oliver said. “And now more than ever, there’s something inspirational in that, because at the end of this awful, awful year, what could be more important than evidence that, if we want to, we can come together, overcome our differences, and sort our shit out.”]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the Physicist who Spoke Out against the Bomb She Helped Create]]></title>
-        <id>80984207-4FD0-4647-AF5024C975A5129E</id>
-        <link href="https://www.scientificamerican.com/article/meet-the-physicist-who-spoke-out-against-the-bomb-she-helped-create/"/>
-        <updated>2023-08-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After atomic bombs were dropped on Hiroshima and Nagasaki, nuclear physicist Katharine Way persuaded the world’s greatest physicists to contribute essays to a book opposing nuclear weapons]]></summary>
-        <author>
-            <name>Katie Hafner, Erica Huang, The Lost Women of Science Initiative</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At Debate, Republican Presidential Candidates Tout Fossil Fuels, Vow to Undo Biden's Climate Initiatives]]></title>
-        <id>3AFADFD5-4F4C-491E-A0DC6563824BAC8A</id>
-        <link href="https://www.scientificamerican.com/article/at-debate-republican-presidential-candidates-tout-fossil-fuels-vow-to-undo-bidens-climate-initiatives/"/>
-        <updated>2023-08-24T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Though Republican presidential candidates aimed to set themselves apart from Donald Trump at Wednesday’s debate, none are seizing on climate policy or support for renewable energy manufacturing and jobs as a way to stand out]]></summary>
-        <author>
-            <name>Scott Waldman, E&amp;E News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRU video on opportunity cost]]></title>
-        <id>https://marginalrevolution.com/?p=86582</id>
-        <link href="https://feeds.feedblitz.com/~/789027140/0/marginalrevolution~MRU-video-on-opportunity-cost.html"/>
-        <updated>2023-08-24T15:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Please note that this video is part of our free Intro to Economics unit plan.
-
-The post MRU video on opportunity cost appeared first on Marginal REVOLUTION.
-
-       
-
-Comments
-
-I enjoy these types of video. They remind me of old school ... by Steven
-In reply to dan1111.   Naw, forget it, we all know the fate of ... by Time for a signature moment in MR history
-In reply to Moral Panic.   Ignoring difficult to quantify ... by Etalon d’Silomar
-In reply to Moral Panic.   Was it a free lunch, though? by dan1111
-It's often a pleasure when a topic here is coincidentally in ... by Moral Panic
-Plus 8 more...
-
-Related Stories
-
-Twenty Years of Marginal Revolution!
-Return to the Econ
-The Ramaswamy plan for a commodity-backed dollar]]></summary>
-        <author>
-            <name>Tyler Cowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Open Streets is invaluable and must continue in Minneapolis]]></title>
-        <id>https://www.minnpost.com/?p=2124386</id>
-        <link href="https://www.minnpost.com/community-voices/2023/08/why-open-streets-is-invaluable-and-must-continue-in-minneapolis/"/>
-        <updated>2023-08-24T15:36:40.000Z</updated>
-        <summary type="html"><![CDATA[The event was a relief: This was the Minneapolis we moved here for and the community we wanted had finally started to feel possible.]]></summary>
-        <author>
-            <name>By Elaina Boytor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 10 Most Disturbing Movies of All Time]]></title>
-        <id>http://www.tasteofcinema.com/?p=66980</id>
-        <link href="http://www.tasteofcinema.com/2023/the-10-most-disturbing-movies-of-all-time/"/>
-        <updated>2023-08-24T15:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Disturbing films are not just a simple source of adrenaline and fear, they have the ability to delve into the depths of social and psychological themes relevant to our time. They reveal the essence of human nature, allowing us to understand how we react to stressful situations and how our darkest sides can influence our […]]]></summary>
-        <author>
-            <name>Christina Levshits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cureus, its reviewing, and its “Scholarly Impact Quotient”]]></title>
-        <id>https://statmodeling.stat.columbia.edu/?p=49422</id>
-        <link href="https://statmodeling.stat.columbia.edu/2023/08/24/cureus-its-reviewing-and-its-scholarly-impact-quotient/"/>
-        <updated>2023-08-24T15:23:32.000Z</updated>
-        <summary type="html"><![CDATA[I have come across Cureus during my debunking of COVID-19 articles, as a journal (affiliated with Springer Nature Group) with an “interesting” model. So far, my appreciation of it was that the expedite reviewing it offers is its main weakness … Continue reading →]]></summary>
-        <author>
-            <name>Lonni Besançon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnesota missing and murdered Black women gaining more attention]]></title>
-        <id>https://www.minnpost.com/?p=2124329</id>
-        <link href="https://www.minnpost.com/race-health-equity/2023/08/minnesota-missing-and-murdered-black-women-gaining-more-attention/"/>
-        <updated>2023-08-24T15:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Minnesota advocates for missing and murdered Black women say fake kidnapping highlights the need for newly dedicated office.]]></summary>
-        <author>
-            <name>Ava Kian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible Independent Travel Is for All Ages and Abilities]]></title>
-        <id>https://www.atlasobscura.com/articles/accessible-travel-adventure-with-sudha-mahalingam</id>
-        <link href="https://www.atlasobscura.com/articles/accessible-travel-adventure-with-sudha-mahalingam"/>
-        <updated>2023-08-24T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[In Atlas Obscura’s Q&A series Exploration for Everyone, we chat with everyday adventurers and dauntless world travelers about finding wonder without limits.
-
-
-Let’s face it: You don’t get to more than 60 countries across six continents without a lot of planning, perseverance, and creative thinking. From her home in Bengaluru, in southern India, Sudha Mahalingam has explored some of the world’s most remote destinations, from the temples on China’s sacred Mt. Emei to the towering dunes of Namibia, and its most iconic cities, from Chicago to Venice.
-
-The retired professor and economist is something of a travel anti-influencer, eschewing selfies for immersive experiences, such as sailing up the Mekong River on a trip of “leisurely discovery.” Other adventures have been decidedly less leisur…]]></summary>
-        <author>
-            <name>Gemma Tarlach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doctors Pond in Great Dunmow, England]]></title>
-        <id>https://www.atlasobscura.com/places/doctors-pond</id>
-        <link href="https://www.atlasobscura.com/places/doctors-pond"/>
-        <updated>2023-08-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Located in the town of Great Dunmow is Doctor’s Pond, named due to the widespread belief that it was a breeding ground for leeches, a creature highly sought after by doctors. Leeches have been highly valued in medicine for millennia, most of all for their use in bloodletting.
-
-Brick House, also known as Doctor’s House, stands beside the Pond, and it is believed that the doctors practicing here made the most of their proximity to the pond to source a steady supply of the significant bloodsuckers.
-
-In addition to its connection to the town's medical community, Doctor’s Pond has also played a significant role in maritime history. Lionel Lukin, an inventor from Great Dunmow, is credited with creating the world's first "lifeboat," a self-righting and ever-buoyant vessel that “will neither overset in violent gales or sudden bursts of wind, nor sink if by any accident filled with water."
-
-Doctor’s Pond served Lukin as the testing ground for his lifeboat models, which, though unrecognized in his time, went on to revolutionize water rescue operations.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penguin Chicks Are Dying Off as Antarctic Sea Ice Disappears]]></title>
-        <id>246B7858-7CD8-416E-B54CF392DBA23A96</id>
-        <link href="https://www.scientificamerican.com/article/penguin-chicks-are-dying-off-as-antarctic-sea-ice-disappears/"/>
-        <updated>2023-08-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Record-low sea ice caused Emperor Penguin chicks to die across Antarctica last year. This year could be just as bad]]></summary>
-        <author>
-            <name>Meghan Bartels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Smart Kamado Cooker Is the First of Its Kind—and It Works Exceptionally Well]]></title>
-        <id>https://www.seriouseats.com/kamado-joe-konnected-joe-review-7693134</id>
-        <link href="https://www.seriouseats.com/kamado-joe-konnected-joe-review-7693134"/>
-        <updated>2023-08-24T14:58:59.000Z</updated>
-        <summary type="html"><![CDATA[We tested the smart kamado over a period of four months, evaluating its performance and usability.]]></summary>
-        <author>
-            <name>John Somerall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On The Multiverse]]></title>
-        <id>https://www.science20.com/tommaso_dorigo/on_the_multiverse-256752</id>
-        <link href="https://www.science20.com/tommaso_dorigo/on_the_multiverse-256752"/>
-        <updated>2023-08-24T14:45:03.000Z</updated>
-        <summary type="html"><![CDATA[<div type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">I recently read a book by Martin Rees, "On the future". I found it an agile small book packed full with wisdom and interesting considerations on what's in the plate for humanity in the coming decades, centuries, millennia, billions of years. And I agree with much of what he wrote in it, finding also coincidental views on topics I had built my own judgement independently in the past.<br/><p><a href="https://www.science20.com/tommaso_dorigo/on_the_multiverse-256752" target="_blank">read more</a></p></div></div>]]></summary>
-        <author>
-            <name>Planet Musings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Codes Save Money and Lives]]></title>
-        <id>B80443F9-91CD-4FB2-BBF75FC3D5ECB749</id>
-        <link href="https://www.scientificamerican.com/article/building-codes-save-money-and-lives/"/>
-        <updated>2023-08-24T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As climate change increases the number and severity of natural disasters, an investment in updated building codes will save billions in repairs]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In southern Minnesota, maneuvering for broadband cash starts at the county fair]]></title>
-        <id>https://www.minnpost.com/?p=2124314</id>
-        <link href="https://www.minnpost.com/greater-minnesota/2023/08/in-southern-minnesota-maneuvering-for-broadband-cash-starts-at-the-county-fair/"/>
-        <updated>2023-08-24T14:11:24.000Z</updated>
-        <summary type="html"><![CDATA[The fair is one way for Le Sueur County officials to gather intel as they prepare to contest broadband service claims of a controversial telecom company.]]></summary>
-        <author>
-            <name>Walker Orenstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karl og Kerling in Jökulsárgljúfur, Iceland]]></title>
-        <id>https://www.atlasobscura.com/places/karl-og-kerling-trolls-iceland</id>
-        <link href="https://www.atlasobscura.com/places/karl-og-kerling-trolls-iceland"/>
-        <updated>2023-08-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Legend has it that in northern Iceland, two petrified trolls stand guard over an ancient canyon. Created by the river Jökulsá á Fjöllum, which carved out the whole canyon that surrounds the strange stone outcroppings, these two stones are called "Karl og Kerling." The name translates to "husband and wife." The pair of stones stands near the mouth of the biggest cave in the canyon. The canyon is known as Jökulsárgljúfur.
-
-According to Icelandic folklore, the married trolls started to argue as they made their way home one evening. But the pair soon lost track of time and night turned to early dawn. The trolls, still in the heat of the argument, didn't notice the rising sun. When the sun finally crested the nearby hill, the sunlight turned the trolls to stone. Trolls, of course, are nocturnal creatures.
-
-The trolls weren't far from the cave they called home when the sunlight petrified the beasts. Still today, on the opposite side of the river, you can see the entrance of the cave called Trollahellir, the "troll cave," where the pair slept.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Physics Can Explain Earth's Weather]]></title>
-        <id>18BDB11F-C35A-4C90-ABB2A8F5E23A4B71</id>
-        <link href="https://www.scientificamerican.com/article/quantum-physics-can-explain-earths-weather/"/>
-        <updated>2023-08-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By treating Earth as a topological insulator—a state of quantum matter—physicists found a powerful explanation for the twisting movements of the planet’s air and seas]]></summary>
-        <author>
-            <name>Katie McCormick, Quanta Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend picks: ‘Craft and Conceptual Art,’ Bacon Brothers at State Fair, and Brave New Workshop ‘Cheaper than Hamilton’]]></title>
-        <id>https://www.minnpost.com/?p=2124288</id>
-        <link href="https://www.minnpost.com/artscape/2023/08/weekend-picks-craft-and-conceptual-art-bacon-brothers-at-state-fair-and-brave-new-workshop-cheaper-than-hamilton/"/>
-        <updated>2023-08-24T13:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Plus: On the One Music Festival in Bloomington; TV star Teresa Caputo at Mystic Lake, and readings by author Brian Duren.]]></summary>
-        <author>
-            <name>Sheila Regan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How well do engineers understand probability?  (question from an aeronautical engineer)]]></title>
-        <id>https://statmodeling.stat.columbia.edu/?p=48430</id>
-        <link href="https://statmodeling.stat.columbia.edu/2023/08/24/how-well-do-engineers-understand-probability-question-from-an-aeronautical-engineer/"/>
-        <updated>2023-08-24T13:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Zach del Rosario writes: I recently published work investigating longstanding probability errors in aircraft design. I’m actually a bit sad that I had to write this paper, as the error is as simple as f(quantile(X)) ==not necessarily equal to== quantile(f(X)) … Continue reading →]]></summary>
-        <author>
-            <name>Andrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find More Birds Wherever You Are With These Birding Basics]]></title>
-        <id>https://www.atlasobscura.com/articles/find-more-birds-birding-basics-with-heather-wolf</id>
-        <link href="https://www.atlasobscura.com/articles/find-more-birds-birding-basics-with-heather-wolf"/>
-        <updated>2023-08-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Adapted and excerpted with permission from Find More Birds: 111 Surprising Ways to Spot Birds Wherever You Are, by Heather Wolf, published August 2023 by The Experiment. All rights reserved.
-
-
-Whether you’re strolling down a city street, deep in an old-growth forest, or standing on a barren, rocky Antarctic beach, chances are you’re not alone. You just might not notice the flycatcher, woodpecker, or skua that has likely noticed you. Birds are among the most diverse and widely distributed animals—and learning how to find and appreciate them doesn’t require anything more than your powers of observation.
-
-Author and avid birder Heather Wolf, a web developer at the Cornell Lab of Ornithology, shares some of her favorite tips to get started.
-
-Follow Sounds
-
-Sound is the single most importa…]]></summary>
-        <author>
-            <name>Heather Wolf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Win Writing Contests by Passing These 3 Tests]]></title>
-        <id>https://medium.com/p/cc898a486664</id>
-        <link href="https://writingcooperative.com/how-to-win-writing-contests-by-passing-these-3-tests-cc898a486664?source=rss----6e9c0c9fd682---4"/>
-        <updated>2023-08-24T13:01:09.000Z</updated>
-        <summary type="html"><![CDATA[As explained by a seasoned judge]]></summary>
-        <author>
-            <name>Bardsy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Surprising Southern Roots of Sierra Leone’s Krio Homes]]></title>
-        <id>https://www.atlasobscura.com/articles/krio-house-freetown-sierra-leone-bod-os</id>
-        <link href="https://www.atlasobscura.com/articles/krio-house-freetown-sierra-leone-bod-os"/>
-        <updated>2023-08-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When Sierra Leonean Iyamide Thomas was 12 years old, she traveled to the East Coast of the United States with her mother. It was her first visit to the greater Washington D.C. area, and she found the many wooden and clapboard homes dotting residential streets fascinating…and familiar. “I thought, ‘Wow! We have these in Freetown,’” says Thomas, referring to her country’s capital city. “I think I even said to my mother, ‘Look, they also have Krio bod os.’” Thomas, a heritage practitioner, now lives in London, but that moment still resonates with her. It was more than the local architecture that Thomas had seen on that trip, it was her own country’s history.
-
-Sierra Leonean Krios are the descendants of freed African-American, Afro-Caribbean, and liberated African slaves coming from places li…]]></summary>
-        <author>
-            <name>Laura Kiniry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turtle and Shark in Vaitogi, American Samoa]]></title>
-        <id>https://www.atlasobscura.com/places/turtle-and-shark-america-samoa</id>
-        <link href="https://www.atlasobscura.com/places/turtle-and-shark-america-samoa"/>
-        <updated>2023-08-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This small coastline area with dangerous crashing waves is connected to a Samoan legend. The story is about Fonueau, an old blind woman, and her daughter Salofa.
-
-Fonueau and Salofa lived in Western Samoa. One year, there was a great famine, and the pair went many days without food. Eventually, they smelled food cooking in the village, but no one ever brought any to share with the mother and daughter.
-
-Desperate, Fonueau and Salofa left their home and went to the ocean. Together, they jumped off a cliff and into the water, where their bodies were transformed into those of a turtle and a shark. They swam and swam, and eventually arrived at the village of Vaitogi, where they emerged from the water and resumed their human forms. The villagers welcomed Fonueau and Salofa warmly, offering food and clothing. They returned to the ocean but lived just beyond the cliffs, and returned to the village often.
-
-As the story goes, the pair gave the villagers a song that could be used to call them from these rocks.]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ichijo Modoribashi Bridge in Kyoto, Japan]]></title>
-        <id>https://www.atlasobscura.com/places/ichijo-modoribashi-bridge-japan</id>
-        <link href="https://www.atlasobscura.com/places/ichijo-modoribashi-bridge-japan"/>
-        <updated>2023-08-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modoribashi, the “bridge of return,” is built over the narrow Hori River, crossing over to the Seimeichō district—once home to Abe no Seimei, a spiritual advisor to the Emperor who is said to have been the most powerful sorcerer in Japanese history.
-
-The original Modoribashi Bridge was built in 794 when Kyoto became the imperial capital of Japan, and still stands on its site despite countless reconstructions.
-
-The name of the bridge derives from a medieval legend: when Confucian scholar Miyoshi Kiyotsura died in 918, his son Jōzō came to Ichijo in great haste from the mountains of Kumano, where he was training to be a monk, just as the funeral parade was crossing the bridge. Jōzō clung to his father’s coffin and prayed, and with a roar of thunder, Kiyotsura miraculously came back to life…]]></summary>
-        <author>
-            <name>Atlas Obscura - Latest Articles and Places</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT and Other Language AIs Are Nothing without Humans]]></title>
-        <id>38725F80-B2B2-4981-863BABC688DF96B2</id>
-        <link href="https://www.scientificamerican.com/article/chatgpt-and-other-language-ais-are-nothing-without-humans/"/>
-        <updated>2023-08-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Language model AIs seem smart because of how they string words together, but in reality, they can’t do anything without many people guiding them every step of the way]]></summary>
-        <author>
-            <name>John P. Nelson, The Conversation US</name>
         </author>
     </entry>
     <entry>
